@@ -1,0 +1,66 @@
+﻿l_spanish:
+
+### National Focuses ####
+
+
+### Events ###
+dragon.1.t:0 "Equestria exige las tierras baldías"
+dragon.1.d:0 "Una carta llegó hoy por fuego de dragón. Con el sello de Equestria, su contenido es inusual, pero no demasiado extraño considerando que estas son criaturas que no son dragones de las que estamos hablando. Las Badlands no tienen salida al mar y el daño causado por los dragones cuando viajan entre las Badlands y las Islas del Dragón propiamente dicha y el precio que pagan los dragones y Equestria cada año. La carta concluye con una solicitud para que las Badlands se entreguen a lo que ellos llaman De hecho, la 'soberanía ecuestre' les entregó el territorio. Si bien están escasamente poblados de dragones, incluso considerando la pequeña población, esto ha hecho que sea una solicitud relativamente fácil de cumplir para nosotros. Sin embargo, aún significaría regalar un pedazo de el escaso territorio que tenemos. ¿Qué debemos hacer? "
+dragon.1.a:0 "Pueden quedarse con ese terreno baldío"
+dragon.1.b:0 "Es nuestro por derecho y siempre lo será".
+
+dragon.2.t:0 "Equestria exige de nuevo las tierras baldías" # Así se muestra para Equestria en la descripción del enfoque
+dragón.2.d:0 ""
+dragón.2.a:0 ""
+
+### Decisiones ###
+
+DRG_seize_spa:0 "Aprovecha las islas del balneario"
+DRG_seize_spa_desc:0 "Equestria está envuelta en la guerra y distraída, y nuestras posesiones en Badlands se perdieron en el caos. Es justo que tomemos un poco de tierra para compensar nuestra pérdida. Las Islas Spa, con sus muchos géiseres, serán un buen hogar para los dragones ".
+
+### Destilados nacionales ###
+tribal_society2:0 "Sociedad tribal"
+tribal_society3:0 "Sociedad tribal"
+tribal_society4:0 "Sociedad tribal"
+
+### Banderas de países ###
+DRG_call_of_the_homeland:0 "Una patria dracónica"
+DRG_pony_harmony:0 "Armonía ecuestre"
+DRG_dragon_harmony:0 "Armonía dracónica"
+DRG_forge_our_path:0 "Nuestro propio camino"
+
+### Fiestas ###
+DRG_neutrality_party:0 "Dinastía de la antorcha"
+DRG_neutrality_party_long:0 "La dinastía de la antorcha"
+DRG_communism_party:0 "DCP"
+DRG_communism_party_long:0 "Partido Comunista Dracónico"
+DRG_democrat_party:0 "Dinastía de la antorcha"
+DRG_democrat_party_long:0 "La dinastía de la antorcha"
+DRG_fascism_party:0 "Regla imperial"
+DRG_fascism_party_long:0 "Liga Imperial Dracónica"
+
+### Información sobre herramientas personalizada ###
+DRG_draconic_harmony:0 "Un camino armonioso adecuado para dragones"
+DRG_equestrian_harmonies:0 "El camino de la armonía creado hace muchos años por las princesas"
+DRG_neutral_path:0 "El camino de la tradición y los parias"
+DRG_tribal_reform:0 "¡Elimina gradualmente la §YTribal Society§! Spirito Nacional"
+
+## Advisors
+DRG_smolder:0 "Smolder"
+DRG_gark:0 "Gark"
+DRG_scales:0 "Scales"
+DRG_cynder:0 "Cynder"
+DRG_firekin:0 "Firekin"
+DRG_tiagin:0 "Tiagin"
+DRG_nascale:0 "Nascale"
+DRG_kasitor:0 "Kasitor"
+DRG_grima_n:0 "Grima"
+DRG_kuzz:0 "Kuzz"
+DRG_kahamit:0 "Kahamit"
+DRG_grima:0 "Grima"
+DRG_kalagar:0 "Kalagar"
+DRG_naga:0 "Naga"
+DRG_nightburn:0 "Nightburn"
+DRG_ludmilla:0 "Ludmilla"
+DRG_kukulkan:0 "Kukulkan"
+DRG_tamm:0 "Tamm"

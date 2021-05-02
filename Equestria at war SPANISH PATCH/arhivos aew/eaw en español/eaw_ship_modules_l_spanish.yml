@@ -1,0 +1,15 @@
+﻿l_spanish:
+ ### EQUIPMENT MODULE CATEGORIES ###
+ EQ_MOD_CAT_ship_cruiser_heavy_armor_TITLE:0 "Esquema de armadura de crucero grande"
+ ### EQUIPMENT MODULE SLOTS ###
+ ### EQUIPMENT MODULES ###
+ship_armor_cb_1:0 "Cinturón de 150 mm / Cubierta de 25 mm"
+  ship_armor_cb_1_short:0 "Armadura de crucero grande I"
+  ship_armor_cb_1_desc:0 "Diseñado para proteger la nave contra cañones más pequeños, este esquema de blindaje pesa mucho menos para permitir una mayor velocidad".
+  ship_armor_cb_2:0 "Cinturón de 305 mm / Cubierta de 100 mm"
+  ship_armor_cb_2_short:0 "Large Cruiser Armor II"
+  ship_armor_cb_2_desc:0 "Un compromiso entre velocidad y protección, este esquema de blindaje está diseñado para defender un barco contra los cañones de cruceros y destructores".
+  ship_armor_cb_3:0 "Cinturón de 330 mm / Cubierta de 130 mm"
+  ship_armor_cb_3_short:0 "Armadura de crucero grande III"
+  ship_armor_cb_3_desc:0 "Diseñado teniendo en cuenta las limitaciones de peso, este esquema de blindaje intenta maximizar la protección de las partes vitales de un barco dejando otras áreas expuestas. Se supone que este esquema no resistirá el armamento de grado acorazado por mucho tiempo".
+  ### Módulos específicos de cada país

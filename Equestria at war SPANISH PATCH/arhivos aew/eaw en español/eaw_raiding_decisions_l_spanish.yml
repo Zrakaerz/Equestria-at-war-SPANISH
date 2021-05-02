@@ -1,0 +1,79 @@
+﻿ l_spanish:
+### Eventos ###
+ raiding.100.t:0 "¡Incoming Raid!"
+ raiding.100.d:0 "¡Han llegado noticias urgentes de [?defender_state_vs_@FROM.GetName], uno de nuestros estados fronterizos. Un ejército merodeador de [From.GetName] ha cruzado las fronteras entre nuestras dos naciones y se ha involucrado en saqueos. , saqueando y quemando asentamientos locales. ¿Deberíamos desviar algunas de las tropas de la línea del frente para manejar esta incursión? "
+ raiding.100.a:0 "¡Protege a los civiles, protege nuestras ciudades!"
+ raiding.100.b:0 "Desafortunadamente, no podemos perdonar a ningún soldado ..."
+
+ raiding.1.t:0 "¡Incursión exitosa!"
+ raiding.1.d:0 "Nuestra presa no era rival para nuestros feroces guerreros, y se han dispersado después de un asalto rápido y decisivo. ¡Nuestras partidas de asalto regresan a casa, con abundante botín!"
+ raiding.1.a:0 "¡Esta noche, festejamos y bebemos!"
+
+ raiding.2.t:0 "Incursión cancelada"
+ raiding.2.d:0 "A pesar de nuestros pensamientos y expectativas iniciales, el enemigo ha peleado bastante bien, tanto, de hecho, que nuestros comandantes han decidido retirarse y cancelar toda la incursión".
+ raiding.2.a:0 "Simplemente no estábamos preparados ..."
+ 
+ raiding.3.t:0 "Incursión fallida"
+ raiding.3.d:0 "A pesar de nuestros mejores esfuerzos, no pudimos atravesar las posiciones enemigas. Muchos de nuestros guerreros murieron, pero no ganamos nada".
+ raiding.3.a:0 "No te preocupes, los conseguiremos la próxima vez".
+ 
+ raiding.5.t:0 "Defensa exitosa"
+ raiding.5.d:0 "Los asaltantes enemigos se encontraron con toda su fuerza y, después de algunas escaramuzas, se retiraron detrás de sus propias fronteras. ¿No esperaban que lucháramos, o qué?"
+ raiding.5.a:0 "¡Cobardes!"
+ 
+ raiding.6.t:0 "Defensa exitosa"
+ raiding.6.d:0 "El grupo de asalto enemigo ha sido golpeado con fuerza y ​​empujado fuera de nuestras fronteras. Sin duda, es poco probable que lo intenten de nuevo".
+ raiding.6.a:0 "¡Mira a los bastardos correr!"
+
+ raiding.7.t:0 "Caravanas saqueadas"
+ raiding.7.d:0 "El enemigo ha logrado atravesar y emboscar a una caravana amiga, llevándose consigo todas las riquezas y masacrando a los comerciantes que lo acompañan".
+ raiding.7.a:0 "¡Maldiciones!"
+ 
+ raiding.8.t:0 "Guarnición masacrada"
+ raiding.8.d:0 "De alguna manera, los asaltantes enemigos han logrado romper nuestras defensas. Peor aún, han logrado eliminar una guarnición completa de tropas. ¡Esto es una vergüenza para nuestras fuerzas armadas!"
+ raiding.8.a:0 "¿¡Cómo pudo pasar esto !?"
+ 
+ raiding.9.t:0 "Fábrica destruida"
+ raiding.9.d:0 "Las fuerzas enemigas han logrado escapar de nuestras defensas y asaltaron una de nuestras fábricas. Después de una revisión rápida, los trabajadores informaron que muchas de sus herramientas fueron robadas y gran parte de la maquinaria estaba rota".
+ raiding.9.a:0 "¡Mataremos a los bastardos por esto!"
+ 
+ raiding.10.t:0 "Armería saqueada"
+ raiding.10.d:0 "El enemigo ha atravesado y saqueado una de nuestras armerías detrás de la línea del frente. ¡Se han llevado tantas armas como pudieron!"
+ raiding.10.a:0 "¡Malditos vagabundos!"
+ 
+ raiding.11.t:0 "Aldeas masacradas"
+ raiding.11.d:0 "¡Horribles noticias! Según los informes, asaltantes hostiles han atravesado varias brechas en nuestras defensas y han penetrado en pueblos y aldeas cercanas. Durante el pánico que siguió, estos soldados incendiaron casas y derribaron a aldeanos inocentes antes de finalmente retirarse del crimen escena."
+ raiding.11.a:0 "¿Qué tipo de animales podrían hacer esto ...?"
+ ### Decisions ###
+ raiding_category:0 "Raiding"
+ raiding_category_desc:0 "The people of the §Y[Root.GetName]§! Hace mucho que abrazaron el bandidaje, el saqueo y las incursiones como una forma de vida, como tal, podemos organizar §Rraids§! into the territory of our neighbours to acquire £loot_text §YLoot§!.\n\nWe currently have §G[?loot|0]§! piles of £loot_text §YLoot§!.\n"
+ prepare_raid:0 "Prepare a Raid on §Y[From.GetName]§!\n"
+ prepare_raid_desc:0 "§WThe raid will be organised in §Y30 days§! at which point it can be launched from the§! §Cdecision§! §Wmenu§!\n"
+ initiate_raid:0 "Initiate a Raid on §Y[From.GetName]§!\n"
+ initiate_raid_desc:0 "Launch a raid against §Y[From.GetName]§!.Una vez completada la incursión, se necesitarán §Y4 months§!antes de que podamos embarcarnos en otra incursión.\n"
+fresh_blood:0 "Sangre fresca"
+  divide_loot:0 "Dividir el Loot"
+  tostadoras:0 "Invertir nuestro botín"
+  gun_factory:0 "Almacenar en las armerías"
+ 
+ ### Country Flags ###
+raid_failed:0 "Incursión fallida"
+  raid_succeeded:0 "Incursión exitosa"
+  raid_in_progress:0 "Incursión en curso"
+ 
+ ### Custom Effect Tooltip ###
+ loot_tp:0 "Gain §G[?temp_loot|0]§! piles of £loot_text §YLoot§!.\n"
+ more_than_1_loot_tp:0 "Has at least §Y2§! piles of £loot_text §YLoot§!.\n"
+ more_than_4_loot_tp:0 "Has at least §Y5§! piles of £loot_text §YLoot§!.\n"
+ 
+ BAN_TT_1_loot:0 "Gain §G1§! pile of £loot_text  §YLoot§!.\n"
+ BAN_TT_2_loot:0 "Gain §G2§! piles of £loot_text §YLoot§!.\n"
+ BAN_TT_4_loot:0 "Gain §G4§! piles of £loot_text §YLoot§!.\n"
+ BAN_TT_6_loot:0 "Gain §G6§! piles of £loot_text §YLoot§!.\n"
+
+ BAN_TT_lost_2_loot:0 "Remove §R2§! piles of £loot_text §YLoot§!.\n"
+ BAN_TT_lost_4_loot:0 "Remove §R4§! piles of £loot_text §YLoot§!.\n"
+
+ ### Variables ###
+ temp_loot:0 "GLoot§!\n\n"
+ loot:0 "GLoot§!\n\n"

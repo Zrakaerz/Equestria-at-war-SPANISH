@@ -1,0 +1,115 @@
+l_spanish:
+CRY_SOL_use_heretics_as_test_subjects:0 "Usar herejes como sujetos de prueba"
+CRY_SOL_use_heretics_as_test_subjects_desc:0 "El Gran Inquisidor se ha dado cuenta de lo derrochador que es matar herejes. En cambio, sería mucho más beneficioso entregárselos a nuestros científicos, para que los pecadores puedan redimirse por sus pecados ayudándonos a probar y experimentar. "
+ CRY_SOL_military_of_the_inquisition_tt:0 "Spawns an elite §YOrder Militant Division§! with full Ponypower and 30% equipment\n"
+ CRY_SOL_magic_tech_share_name:0 "Inquisitorial R&D"
+ 
+#Leader desc
+  evil_Twilight_desc:0 "Liberada de sus antiguos engaños, Sunrise Sparkle es ahora la subordinada más obediente y competente de la Emperatriz. Todo lo que se le ocurra se hace en nombre de su Emperatriz. Desde la creación de una matriz de hechizos mejorada hasta la limpieza, Sunrise Sparkle es la voluntad de la Emperatriz manifestada. Ella obedece, no cuestiona ".
+ # Árbol de enfoque
+ CRY_SOL_new_management:0 "Bajo nueva administración"
+ CRY_SOL_new_management_desc:0 "Nuestra nación ha renacido. El potencial de los Ponis de Cristal no se desperdiciará más bajo Cadance. Ahora somos parte de algo más grande, orgulloso y feliz de obedecer a nuestra nueva Emperatriz".
+ CRY_SOL_show_them_the_light:0 "Muéstrales la luz"
+ CRY_SOL_show_them_the_light_desc:0 "A nuestros ponis se les debe mostrar la gloria y el espíritu del nuevo orden. ¡Todo lo que esté a nuestro alcance vendrá a alabar la luz y obedecer a la Emperatriz, como debe ser!"
+ CRY_SOL_figurehead_cadence:0 "[This.GetFigureheadCadenceFocusName]"
+ CRY_SOL_figurehead_cadence_desc:0 "[This.GetFigureheadCadenceFocusDesc]"
+ CRY_SOL_figurehead_cadence_flurry:0 "Usa Flurry como mascarón"
+ CRY_SOL_figurehead_cadence_cadence:0 "Usa Cadance como mascarón"
+ CRY_SOL_figurehead_cadence_cadence_desc:0 "La antigua princesa, actualmente bajo arresto domiciliario, todavía actúa como una fuerte figura unificadora para nuestros ponis. Aunque no es ideal, el Gran Inquisidor cree que nos ayudará en gran medida a estabilizar nuestra provincia, al menos hasta que se encuentre una solución más adecuada. . "
+ CRY_SOL_figurehead_cadence_flurry_desc:0 "La hija de la antigua princesa puede usarse fácilmente como una figura unificadora para nuestros ponis. Aunque no es ideal, el Gran Inquisidor cree que nos ayudará en gran medida a estabilizar nuestra provincia, al menos hasta que se encuentre una solución más adecuada".
+ CRY_SOL_quick_transition:0 "Transición rápida y fluida"
+ CRY_SOL_quick_transition_desc:0 "Nuestra transición de lo antiguo a lo nuevo se ha desarrollado hasta ahora sin problemas y seguirá haciéndolo. Sin que se produzcan problemas importantes, nuestros ponis no verían ninguna razón para protestar contra un nuevo régimen y orden. El Inquisidor está muy satisfecho . "
+ CRY_SOL_loyal_military:0 "Un ejército leal"
+ CRY_SOL_loyal_military_desc:0 "Para defendernos y servir a nuestra Emperatriz debidamente, debemos asegurar la lealtad absoluta de las Fuerzas Armadas. Cada soldado, oficial y general debe saber a quién sirven y por qué están luchando:¡Por la Luz y la Armonía!"
+ CRY_SOL_its_still_harmony:0 "Sigue siendo armonía"
+ CRY_SOL_its_still_harmony_desc:0 "El gobierno de la Emperatriz nos ha traído hasta ahora mucha fuerza, confianza y estabilidad. Como resultado, más y más ponis comienzan a ver esto como verdaderamente la nueva y moderna versión de Harmony. Una Armonía que protege, una Armonía que no se desmorone ".
+ CRY_SOL_inquisitor_commisars:0 "Inquisidor-Comisarios"
+ CRY_SOL_inquisitor_commisars_desc:0 "Para cimentar aún más la lealtad y el máximo espíritu de lucha entre nuestras unidades militares, la Gran Inquisidora planea implementar sus propios Inquisidores-Comisarios para mantener a los soldados bajo control. La deserción y los pensamientos traicioneros, explica, no se puede permitir que persistan".
+ CRY_SOL_solar_advisors:0 "Consejeros imperiales"
+ CRY_SOL_solar_advisors_desc:0 "Los fuertes lazos del Gran Inquisidor con la Emperatriz están dando sus frutos una vez más, ya que la Emperatriz ha aprobado enviarnos una fila de consejeros imperiales. Estos seguramente reforzarán nuestro potencial en general. ¡La Emperatriz una vez más nos muestra su sabiduría! ! "
+ CRY_SOL_a_cause_to_fight_for:0 "Una causa por la que luchar"
+ CRY_SOL_a_cause_to_fight_for_desc:0 "Más y más ponis acuden en masa a la Emperatriz y su reconfortante abrazo. Nuestros nuevos ideales de Armonía son verdaderamente un factor unificador para nuestra nación, ya que cada vez más de nosotros hacemos sacrificios para contribuir a nuestro gran proyecto de Armonía".
+ CRY_SOL_all_will_work_for_the_light:0 "Todos trabajarán para la luz"
+ CRY_SOL_all_will_work_for_the_light_desc:0 "La nueva Armonía ha atraído a muchos, comprensiblemente, y la Emperatriz da la bienvenida a todos los seguidores. Sin embargo, aquellos que deseen vivir en Armonía deben trabajar para construirla y mantenerla. Cada pony debe hacer sacrificios, tanto pequeños como grandes, por lo que que todos podemos vivir a la luz de la paz y la armonía ".
+ CRY_SOL_meticulous_planning:0 "Planificación meticulosa"
+ CRY_SOL_meticulous_planning_desc:0 "La Gran Inquisidora nunca fue amiga de las decisiones espontáneas. Como tal, encuentra que es de suma importancia tener un plan adecuado y desarrollado para cualquier problema o situación que podamos enfrentar. De esa manera, ella argumenta, nunca estaremos desprevenidos, pase lo que pase ".
+ CRY_SOL_burn_them_all:0 "Quema a los pecadores"
+ CRY_SOL_burn_them_all_desc:0 "¡Ha llegado una nueva era! ¡Una era de luz y gloria! ¡El Gran Inquisidor Sunrise Sparkle ha llegado para librarnos de la herejía y acercarnos a la gloria de la Emperatriz, más cerca del Sol!"
+ CRY_SOL_accept_the_converts:0 "Aceptar a los convertidos"
+ CRY_SOL_accept_the_converts_desc:0 "Hay muchos ponis que rápidamente aceptaron nuestra nueva Orden. El Gran Inquisidor está muy complacido con esto, ya que refuerza el gobierno de la Emperatriz".
+ CRY_SOL_help_from_the_empire:0 "Ayuda del Imperio"
+ CRY_SOL_help_from_the_empire_desc:0 "Expertos y asesores del Imperio han llegado para ayudarnos en nuestro progreso y asegurar la Provincia. ¡Solo tenemos que agradecer la sabiduría de la Emperatriz por este acto de bondad!"
+ CRY_SOL_round_up_the_subversives:0 "Redondea a los subversivos"
+ CRY_SOL_round_up_the_subversives_desc:0"Estos son tiempos difíciles, dice el Gran Inquisidor. Los traidores están entre nosotros, caminan por las mismas calles que nosotros, viven en las mismas casas que nosotros. No hay tiempo que perder; ¡los herejes deben ser destruidos!"
+ CRY_SOL_public_executions:0 "Haz un ejemplo"
+ CRY_SOL_public_executions_desc:0 "La Inquisición tiene un gran éxito en arrestar a traidores y herejes, sin embargo, no podemos dar ejemplo a todos los demás ponis. No podemos permitir el reclutamiento adicional de estos infieles en el futuro. Es hora de hacer público el castigo de estos criminales , para que todos puedan ver lo que les sucede a los ponis como ellos ".
+ CRY_SOL_mandatory_enlightenment:0 "Iluminación obligatoria"
+ CRY_SOL_mandatory_enlightenment_desc:0 "La Emperatriz nos trae Luz. La Luz nos trae alegría y la alegría trae consigo Armonía. Esto es lo que debemos enseñar a la gente, esto es lo que deben memorizar todos los ciudadanos. Los que rechazan esta verdad son indiscutiblemente traidores y herejes, y seremos tratados en consecuencia ".
+ CRY_SOL_solar_cult:0 "Culto Solar Cristal"
+ CRY_SOL_solar_cult_desc:0 "Seguiremos el ejemplo de nuestros hermanos y hermanas del sur en la fe y abriremos nuestro propio Culto Solar. Los ponis acudirán en masa a nuestros templos desde todas partes para escuchar las grandes hazañas de la Emperatriz y escuchar la verdad sobre Armonía, les guste o no ".
+ CRY_SOL_our_task_given_by_the_sun:0 "Nuestra tarea dada por el sol"
+ CRY_SOL_our_task_given_by_the_sun_desc:0 "Estamos listos para obedecer el mandato de la Emperatriz. Prometemos nuestras vidas a nuestra fe, a nuestra Diosa, ella que es la reencarnación del Sol. Lucharemos, pase lo que pase. No importa el sacrificio, el Sol sonríe sobre todos nosotros; sus fieles ponis ".
+ CRY_SOL_take_over_the_administration:0 "Asumir la administración"
+ CRY_SOL_take_over_the_administration_desc:0 "El antiguo sistema administrativo claramente ha superado su uso y se ha convertido en un obstáculo para nosotros. La Gran Inquisidora y sus Inquisidores se encargarán de que toda la Provincia de Cristal sea gobernada y administrada correctamente, tal como lo habría hecho la Emperatriz. Está hecho."
+ CRY_SOL_inquisitors:0 "Inquisidores en el gobierno"
+ CRY_SOL_inquisitors_desc:0 "Con la toma de posesión de la administración por parte de la Inquisición, nuestros ponis se han vuelto mucho más fieles y productivos. Esto, en todo caso, es sólo un incentivo para continuar con esta tendencia aumentando la presencia inquisitorial en nuestro gobierno".
+ CRY_SOL_light_in_schools:0 "Luz en las escuelas"
+ CRY_SOL_light_in_schools_desc:0 "¿A quién se le debe hablar de las maravillas y la grandeza de la Emperatriz si no a nuestros jóvenes? Todas las escuelas recibirán su plan de estudios directamente de una oficina inquisitorial, y el Gran Inquisidor Sparkle se asegurará de que nuestra generación joven sea fiel".
+ CRY_SOL_unrestricted_progress:0 "Progreso sin restricciones"
+ CRY_SOL_unrestricted_progress_desc:0 "¡Al eliminar cualquier obstáculo en nuestro camino hacia la iluminación, nuestros avances científicos no conocerán fronteras, con nuevas armas y tecnologías desarrolladas para la gloria del Sol!"
+ CRY_SOL_militar_de_la_inquisición:0 "Militar inquisitorial"
+ CRY_SOL_military_of_the_inquisition_desc:0 "Los traidores y herejes de la Emperatriz se pueden encontrar en cualquier lugar, pero especialmente en el ejército. El Gran Inquisidor ha decidido fusionar el ejército con la Inquisición, con el fin de mantener alto el espíritu de lucha, al mismo tiempo que persigue a posibles desertores o no creyentes ".
+ CRY_SOL_zeal:0 "Zeal"
+ CRY_SOL_zeal_desc:0 "Nos hemos convertido en más que simples soldados. Nuestra fe en la Emperatriz nos ha mostrado lo que es la verdadera Armonía, y que cada uno de nosotros debe poner su granito de arena para ayudar en la existencia continua de Armonía. Pase lo que pase, lo haremos ¡Nunca te rindas, nunca te inclines! ¡Gloria al sol! "
+ CRY_SOL_sacrifice:0 "Sacrificio"
+ CRY_SOL_sacrifice_desc:0 "Como súbditos orgullosos, obedientes y fieles de nuestra Emperatriz, nuestro servicio está limitado solo por la muerte. Nuestro propósito es la servidumbre, nuestra recompensa es la Armonía en la vida y en la muerte. Deja que las balas vuelen y los cuerpos caigan, la gloria del sol ¡vivir!"
+ CRY_SOL_a_model_province:0 "Una provincia modelo"
+ CRY_SOL_a_model_province_desc:0 "A través de la reforma y el trabajo duro, hemos logrado complacer no solo a nuestra Gran Inquisidora, sino también a su Majestad Imperial. En verdad, hemos logrado la Armonía, y ahora somos realmente parte de algo más grande que nosotros".
+
+ CRY_SOL_cadence_idea:0 "Princesa Mi Amore Cadenza"
+ CRY_SOL_cadence_idea_desc:0 "La Princesa de antaño sigue siendo un gran factor unificador para los Ponis de Cristal. Cadance sigue siendo útil, por ahora."
+ CRY_SOL_flurry_idea:0 "Princesa Flurry Heart"
+ CRY_SOL_flurry_idea_desc:0 "La hija de la difunta Princesa de Cristal es amada por los Ponis de Cristal, y asegura a la población que las cosas podrían permanecer como estaban, hasta cierto punto".
+ CRY_SOL_loyal_military_idea:0 "Militar leal"
+ CRY_SOL_loyal_military_idea_desc:0 "La Inquisición asegura la lealtad de los militares a la Emperatriz".
+ CRY_SOL_solar_harmony_idea:0 "Armonía solar"
+ CRY_SOL_solar_harmony_idea_desc:0 "Muchos ponis están empezando ave el gobierno de la Emperatriz como el comienzo de una nueva forma de Armonía ".
+ CRY_SOL_solar_harmony_idea1:0 "Armonía solar"
+ CRY_SOL_solar_harmony_idea1_desc:0 "Los Ponis de Cristal han aceptado su lugar bajo el Sol, prometiendo su apoyo al nuevo orden".
+ CRY_SOL_solar_harmony_idea2:0 "Armonía solar"
+ CRY_SOL_solar_harmony_idea2_desc:0 "La Provincia de Cristal está totalmente detrás de la Emperatriz y el Gran Inquisidor, dedicada al nuevo ideal de Armonía en el Orden".
+ CRY_SOL_inquisitor_commisars_idea:0 "Comisarios inquisitoriales"
+ CRY_SOL_inquisitor_commisars_idea_desc:0 "Los oficiales políticos especiales de la Inquisición garantizan un alto espíritu de lucha y la integridad de los militares".
+ CRY_SOL_solar_advisors_idea:0 "Asesores solares"
+ CRY_SOL_solar_advisors_idea_desc:0 "Los científicos y asesores del Imperio están ayudando enormemente a la investigación y al establecimiento político".
+ CRY_SOL_round_up_the_subversives_idea:0 "Redadas en las calles"
+ CRY_SOL_round_up_the_subversives_idea_desc:0 "Los incrédulos y los traidores son fusilados públicamente por miembros de la Inquisición".
+ CRY_SOL_public_executions_idea:0 "Hacer un ejemplo"
+ CRY_SOL_public_executions_idea_desc:0 "La Inquisición está llevando a cabo ejecuciones públicas obligatorias regulares por llama. Esto ha dejado una gran impresión en el resto de la población".
+ CRY_SOL_mandatory_enlightenment_idea:0 "Iluminación forzada"
+ CRY_SOL_mandatory_enlightenment_idea_desc:0 "La Inquisición está imponiendo las ideas de una nueva Armonía. Nuestro Sol brillará por siempre".
+ CRY_SOL_solar_cult_idea:0 "Culto solar"
+ CRY_SOL_solar_cult_idea_desc:0 "La Emperatriz está siendo alabada y adorada como una diosa todopoderosa y omnisciente. Lux perpetua luceat eis."
+ CRY_SOL_inquisitors_idea:0 "Administración inquisitorial"
+ CRY_SOL_inquisitors_idea_desc:0 "La Inquisición ha despedido a los administradores antiguos y los ha reemplazado por los suyos, mejorando enormemente la eficiencia".
+ CRY_SOL_light_in_schools_idea:0 "Luz en las escuelas"
+ CRY_SOL_light_in_schools_idea_desc:0 "Las escuelas están adoctrinando a los niños para que sean sujetos leales y fieles".
+ CRY_SOL_unrestricted_progress_idea:0 "Progreso sin restricciones"
+ CRY_SOL_unrestricted_progress_idea_desc:0 "Los infieles deben pagar para hacer posible el progreso ilimitado y sin restricciones".
+ CRY_SOL_military_of_the_inquisition_idea:0 "Militar inquisitorial"
+ CRY_SOL_military_of_the_inquisition_idea_desc:0 "La Inquisición se ha fusionado con el ejército, aumentando en gran medida el espíritu de lucha y la integridad de nuestras unidades".
+ CRY_SOL_military_of_the_inquisition_idea1:0 "Militar inquisitorial"
+ CRY_SOL_military_of_the_inquisition_idea1_desc:0 "Nuestros soldados se sienten atados a la Emperatriz y tienen la necesidad de servir, pase lo que pase".
+ CRY_SOL_military_of_the_inquisition_idea2:0 "Militar inquisitorial"
+ CRY_SOL_military_of_the_inquisition_idea2_desc:0 "Nuestros soldados son fanáticos y fieles hasta el final".
+ CRY_SOL_solar_overlord:0 "Solar Overlord"
+ CRY_SOL_solar_overlord_desc:0 "La Emperatriz gobierna el otrora Crystal Empire, compartiendo con ellos sus conocimientos y aumentando el espíritu de lucha."
+ CRY_SOL_solar_overlord_eqs:0 "Solar Overlord TO CRY"
+ CRY_SOL_solar_overlord_eqs_desc:0 ""
+
+ CRY_SOL_order_militant_decision:0 "Levanta un militante de la orden"
+
+ solarempiresparkles.43.t:0 "Una provincia modelo"
+ solarempiresparkles.43.d:0 "Gracias al casco guía y los ojos vigilantes de Sunrise Sparkle, la Provincia de Cristal es ahora lo que muchos describirían como 'Una Provincia Modelo'. El Gran Inquisidor ha instado a la Emperatriz a que la Provincia mantenga su pariente autonomía de nuestro Imperio, para que el territorio pueda mejorarse y desarrollarse aún más bajo su liderazgo. Es hora de decidir el destino de los Ponis de Cristal ".
+ solarempiresparkles.43.a:0 "Confiamos en el Gran Inquisidor".
+ solarempiresparkles.43.b:0 "¡Tonterías, la regla de la Emperatriz es absoluta!"

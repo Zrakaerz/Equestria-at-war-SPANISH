@@ -1,0 +1,558 @@
+﻿l_spanish:
+
+### Eventos ###
+greifwald.1.t:0 "Nuestros amigos los Greifwaldianos"
+greifwald.1.d:0 "[AET.GetLeader] de Greifwald, quien recientemente envió una misión diplomática a [Root.Capital.GetName], ha considerado apropiado proponer que ayudemos a promover los lazos económicos abriendo el comercio entre el Imperio y su pequeña nación. Citando cuánto frenaría la influencia de Aquileia en la región. ¿Qué haremos?
+greifwald.1.a:0 "Bueno ... molestaría a Aquileia. Aceptamos".
+greifwald.1.b:0 "Eso sería una pérdida de dinero".
+
+greifwald.2.t:0 "El Imperio acepta"
+greifwald.2.d:0 "[GRI.GetLeader] ha decidido aceptar nuestra oferta y ahora estamos negociando abiertamente con el Imperio".
+greifwald.2.a:0 "¡Genial!"
+
+greifwald.3.t:0 "El imperio decae"
+greifwald.3.d:0 "A pesar de nuestros mejores esfuerzos, [GRI.GetLeader] ha decidido rechazar nuestra oferta".
+greifwald.3.a:0 "Es una pena".
+
+greifwald.4.t:0 "Nuestros amigos los Greifwaldianos"
+greifwald.4.d:0 "[AET.GetLeader] de Greifwald, quien recientemente envió una misión diplomática a [Root.Capital.GetName], ha considerado apropiado proponer que ayudemos a promover los lazos económicos abriendo el comercio entre Aquileia y su pequeña nación. Citando cuánto frenaría la influencia del Imperio en la región. ¿Qué haremos?
+greifwald.4.a:0 "Bueno ... molestaría al Imperio. Aceptamos".
+greifwald.4.b:0 "Eso sería una pérdida de dinero".
+
+greifwald.5.t:0 "Aquileia acepta"
+greifwald.5.d:0 "[JER.GetLeader] ha decidido aceptar nuestra oferta y ahora estamos negociando abiertamente con Aquileia".
+greifwald.5.a:0 "¡Genial!"
+
+greifwald.6.t:0 "Aquileia declina"
+greifwald.6.d:0 "A pesar de nuestros mejores esfuerzos, [JER.GetLeader] ha decidido rechazar nuestra oferta".
+greifwald.6.a:0 "¡Maldiciones!"
+
+greifwald.7.t:0 "Ayuda económica"
+greifwald.7.d:0 "Nuestros acuerdos comerciales abiertos con nuestros vecinos han dado frutos constantemente, ya que hemos utilizado las ganancias de estos acuerdos para salvar gradualmente a nuestro pueblo de la garra opresiva de la pobreza".
+greifwald.7.a:0 "Aún nos queda un largo camino por recorrer ..."
+
+greifwald.8.t:0 "El renacimiento de la economía"
+greifwald.8.d:0 "Después de mucho esfuerzo por parte de toda la nación greifwaldiana, la pobreza dentro de nuestro reino se ha convertido en una cosa del pasado, ¡y el futuro parece brillante!"
+greifwald.8.a:0 "Finalmente".
+
+greifwald.9.t:0 "Ayuda económica imperial"
+greifwald.9.d:0 "Nuestros estrechos lazos económicos con el Imperio han llevado a que nuestra economía se recupere lentamente. Sin embargo, muchos greifwaldianos creen que esta cooperación con el Imperio podría impugnar su independencia".
+greifwald.9.a:0 "Siempre que el dinero sea bueno ..."
+
+greifwald.10.t:0 "El renacimiento de la economía"
+greifwald.10.d:0 "Después de mucho esfuerzo por parte de toda la nación greifwaldiana y nuestros compatriotas imperiales, la pobreza dentro de nuestro reino se ha convertido en una cosa del pasado, ¡y el futuro parece brillante!"
+greifwald.10.a:0 "Finalmente".
+
+greifwald.11.t:0 "Ayuda económica aquilea"
+greifwald.11.d:0 "Nuestros estrechos lazos económicos con Aquileia han llevado a que nuestra economía se recupere lentamente. Sin embargo, muchos greifwaldianos creen que esta cooperación con Aquileia podría impugnar su independencia".
+greifwald.11.a:0 "Siempre que el dinero sea bueno ..."
+
+greifwald.12.t:0 "El renacimiento de la economía"
+greifwald.12.d:0 "Después de mucho esfuerzo por parte de toda la nación greifwaldiana y nuestros compatriotas aquileianos, la pobreza dentro de nuestro reino se ha convertido en una cosa del pasado, ¡y el futuro parece brillante!"
+greifwald.12.a:0 "¡Por fin!"
+
+greifwald.13.t:0 "El Acuerdo Greifwaldiano"
+greifwald.13.d:0 "Un enviado del gobierno de Greifwald llegó recientemente. Nos piden una garantía formal de independencia, a cambio de un posible apoyo futuro. Si bien puede parecer que no obtendremos mucho de este acuerdo , unir a los greifwaldianos más cerca de nosotros podría ayudarnos a hacerlos parte de nuestra esfera de influencia en el futuro ".
+greifwald.13.a:0 "¡Aseguraremos la neutralidad greifwaldiana!"
+greifwald.13.b:0 "Debes estar bromeando ..."
+
+greifwald.14.t:0 "Los aquileianos están de acuerdo"
+greifwald.14.d:0 "Después de reunirse con nuestro enviado, el representante de Aquileia declaró que el Reino de Aquileia estaría encantado de proteger a Greifwald de cualquier amenaza extranjera".
+greifwald.14.a:0 "¡Maravilloso!"
+
+greifwald.15.t:0 "El declive aquileiano"
+greifwald.15.d:0 "Después de reunirse con nuestro enviado, el representante de Aquilea afirmó que" una garantía de independencia no sería lo mejor para Aquileia en este momento ", y que" esperan que esto no cause que nuestras relaciones empeorar"."
+greifwald.15.a:0 "No puedes ganarlos todos tristemente ..."
+
+greifwald.16.t:0 "El Acuerdo Greifwaldiano"
+greifwald.16.d:0 "Un enviado del gobierno de Greifwald llegó recientemente. Nos piden una garantía formal de independencia, a cambio de un posible apoyo futuro. Si bien puede parecer que no obtendremos mucho de este acuerdo , unir a los greifwaldianos más cerca de nosotros podría ayudarnos a hacerlos parte de nuestra esfera de influencia en el futuro ".
+greifwald.16.a:0 "¡Aseguraremos la neutralidad greifwaldiana!"
+greifwald.16.b:0 "Debes estar bromeando ..."
+
+greifwald.17.t:0 "Los imperiales están de acuerdo"
+greifwald.17.d:0 "Después de reunirse con nuestro envoy, el representante imperial declaró que el Imperio de Griffonia estaría encantado de proteger a Greifwald de cualquier amenaza extranjera ".
+greifwald.17.a:0 "¡Maravilloso!"
+
+greifwald.18.t:0 "La decadencia de los imperiales"
+greifwald.18.d:0 "Después de reunirse con nuestro enviado, el representante imperial declaró que" una garantía de independencia no sería lo mejor para el Imperio en este momento ", y que" esperan que esto no cause que nuestras relaciones empeorando"."
+greifwald.18.a:0 "No puedes ganarlos todos tristemente ..."
+
+greifwald.19.t:0 "Compartir la riqueza"
+greifwald.19.d:0 "¡Gracias a nuestros recientes programas de bienestar y las mejoras de la economía en general, hemos logrado reducir significativamente la pobreza de nuestra gente!"
+greifwald.19.a:0 "Cosas maravillosas".
+
+greifwald.20.t:0 "Libertad de la pobreza"
+greifwald.20.d:0 "¡Nuestra economía e industria continúan mejorando y, a este ritmo, pronto eliminaremos por completo la pobreza en Greifwald! ¡Viva el Territorio Libre!"
+greifwald.20.a:0 "¡Hemos probado que el anarquismo funciona!"
+
+greifwald.21.t:0 "Austeridad piadosa"
+greifwald.21.d:0 "La pobreza en Greifwald sigue cayendo y el desempleo está en su punto más bajo. Aunque todavía hay trabajo por hacer, podemos estar muy satisfechos con nuestros esfuerzos hasta ahora".
+greifwald.21.a:0 "Nos arrastraremos fuera de la cuneta todavía ..."
+
+greifwald.22.t:0 "El renacimiento de la economía"
+greifwald.22.d:0 "Después de años de lucha, podemos decir honestamente que nuestra economía se ha recuperado por completo. Estamos en camino de convertirnos en una de las naciones más prósperas de Griffonia, y mostraremos al mundo entero nuestra grandeza ! "
+greifwald.22.a:0 "¡Por fin!"
+
+greifwald.23.t:0 "El hijo descarriado"
+greifwald.23.d:0 "¡Después de décadas de separación, Greifwald se convertirá finalmente en parte del Imperio Griffonian nuevamente! Todo gracias al leal servidor del Imperio, [AET.GetLeader]. Esta es una ocasión magnífica, de hecho. "
+greifwald.23.a:0 "¡Bienvenido de nuevo!"
+
+greifwald.24.t:0 "Maar llama"
+greifwald.24.d:0 "Ha llegado el momento de que Maar reclame el lugar que le corresponde en este mundo. Los antiguos territorios de Greifwald permanecen unidos bajo él, y también lo hará el resto del mundo".
+greifwald.24.a:0 "Serviremos ..."
+
+
+### Enfoques nacionales ###
+AET_anarchy:0 "Anarquía en Greifwald"
+AET_anarchy_desc:0 "Los grifos de Greifwald han carecido durante mucho tiempo de opiniones sólidas sobre asuntos de una forma u otra, pero ¿cómo pueden continuar así cuando todavía hay un estado que podría tomar una posición sobre los acontecimientos? ¡La única solución es la revolución! Nestor Bernier , un notorio guerrillero, ya está elaborando planes para derrocar el gobierno del Conde ".
+AET_attack_falcon:0 "Incursión Falcontown"
+AET_attack_falcon_desc:0 "Los valientes luchadores por la libertad de Griefwald deben asaltar la capital en busca de suministros. Al dar un golpe valientemente a los opresores feudales en Falcontown y liberar a los reclutas de sus prisiones, expondremos la debilidad del gobierno y aumentaremos nuestra popularidad".
+AET_purge:0 "La guerra en el campo"
+AET_purge_desc:0 "La lucha ha estallado en todo el país y los reaccionarios tontos resisten la benevolencia de la Madre Anarquía y la llegada de la verdadera libertad a Greifwald. ¡Debemos luchar y aplastar a aquellos que desean oprimirnos!"
+AET_camps_in_the_woods:0 "Campamentos rebeldes"
+AET_camps_in_the_woods_desc:0 "Estableceremos bases secretas en todo el país, en los bosques más oscuros donde ningún capitalista se atreve a ir. En ellos, entrenaremos a nuestros soldados y reuniremos armas para la revolución que se avecina".
+AET_partisans_expanded:0 "Afianzar el movimiento"
+AET_partisans_expanded_desc:0 "A medida que se corre la voz de nuestras promesas a la gente, más y más grifos acuden en masa para unirse a nuestras filas. Entre ellos se encuentran artesanos y armeros que ahora trabajarán con entusiasmo por nuestra causa y ayudarán a sus camaradas fabricando armas y balas".
+AET_free_territory_established:0 "Proclamar el territorio libre"
+AET_free_territory_established_desc:0 "¡El gobierno está muerto! Ahora que la anarquía ha prevalecido, Nestor Bernier, el líder de los combatientes revolucionarios, está haciendo preparativos para declarar a Griefwald un territorio libre. Que todo el mundo sepa que aquellos que buscan gobernar sólo encontrarán la muerte aquí. . "
+AET_worker_control:0 "¡Fábricas para los trabajadores!"
+AET_worker_control_desc:0 "¡Sin jerarquías, o de lo contrario! Ese es el lema de la GFT, y para lograr ese objetivo debemos derribar la odiada opresión del 'jefe'. Una vez que los dueños de la fábrica estén a dos metros por debajo, los trabajadores formarán cooperativas y serán libres de administrar la fábrica como mejor les parezca ".
+AET_anarch_infta:0 "Programa de infraestructura de voluntarios"
+AET_anarch_infta_desc:0 "Nuestros opresores ahora muertos nunca se molestaron en construir carreteras, puentes y ferrocarriles adecuados en el campo. Ahora debemos hacer lo que nunca hicieron y ponernos manos a la obra. Debemos hacer esto juntos, por el bien de todos, pero nadie tiene que ayudar si no lo desea ".
+AET_peasant_land:0 "¡Tierra para los campesinos!"
+AET_peasant_land_desc:0 "El fin está cerca para los 'dueños' de las granjas. ¡Ahora es el campesinado quien controlará la tierra que trabaja, nadie más! Anarchlas comunas istas reemplazarán a las antiguas propiedades de la escoria aristócrata ".
+AET_anarch_teachers:0 "Un sistema escolar autónomo"
+AET_anarch_teachers_desc:0 "Se abolirá cualquier forma de educación obligatoria y tanto las escuelas del templo como las escuelas públicas serán cosa del pasado. En su lugar se fundarán nuevos centros educativos democráticos, dirigidos por profesores voluntarios apasionados por su trabajo".
+AET_liberate_HEL:0 "Liberate Adelart"
+AET_liberate_HEL_desc:0 "Mientras exista una única jerarquía en cualquier lugar donde la anarquía esté amenazada. Es por eso que debemos liberar a nuestros vecinos de sus gobiernos, comenzando por Adelart. No hay 'o más'. Solo hay guerra ".
+AET_liberate_AVI:0 "Liberen a los trabajadores de Avian"
+AET_liberate_AVI_desc:0 "Hace mucho que los grifos aviares han sufrido bajo la terrible tiranía de nobles y burócratas, pero no mucho más. El Ejército Negro marcha hacia el este, ¡y con ella viene la verdadera libertad para todos!"
+AET_liberate_AVI_tt:0 "Gana derechos sobre los núcleos de Avian".
+AET_expand_AVI:0 "Integrar las Comunas Aviarias"
+AET_expand_AVI_desc:0 "Ahora que nadie tiene el control de Avian, invitaremos a las comunas locales que han surgido en nuestra federación. Juntos, seremos más fuertes".
+AET_redistribute_wealth:0 "¡Riqueza para la gente!"
+AET_redistribute_wealth_desc:0 "Ahora que hemos aniquilado a tres gobiernos, la riqueza de sus tiranos asesinados yace sin vigilancia. Deberíamos tomarlo todo y luego distribuirlo a la gente, porque en última instancia les pertenece".
+AET_spread_anarchy:0 "Madre anarquía y sus hijos"
+AET_spread_anarchy_desc:0 "La Madre Anarquía es la grifonización de nuestro movimiento. Es hora de que comencemos a usarla en nuestros estandartes y banderas como símbolo de la revolución. ¡Dejemos que nos inspire a grandes hazañas, para que finalmente todos los grifos puedan ser liberados!"
+AET_develop_arms:0 "Arma a los trabajadores"
+AET_develop_arms_desc:0 "Los trabajadores del mundo deben recibir armas, para que puedan proteger su preciosa libertad. Así nos apoderaremos de las armerías de la escoria autoritaria que hemos golpeado y distribuiremos armas para todos".
+AET_expand_school_system:0 "Expandir el sistema educativo"
+AET_expand_school_system_desc:0 "Ha quedado claro que el estado apátrida necesita más maestros para instruir a los niños sobre cómo no deben escuchar a sus padres. Por lo tanto, el sistema educativo se expandirá para permitir más investigación por parte de nuestros ingeniosos científicos a tiempo parcial".
+AET_liberate_POM:0 "Liberen al pueblo de Pomovarra"
+AET_liberate_POM_desc:0 "Los pomovarranos no han probado la libertad en tanto tiempo que deben haber olvidado cómo es. Pronto volverán a descubrir su maravilla cuando llegue el Ejército Negro, aplastando a sus opresores y rompiendo sus cadenas".
+AET_liberate_POM_tt:0 "Obtiene reclamos sobre los núcleos de Pomovarra".
+AET_expand_POM:0 "Integrar los Consejos de Pomovarran"
+AET_expand_POM_desc:0 "Los pomovarranos han creado consejos de trabajadores durante la ocupación. Invitaremos a estas unidades democráticas al redil anárquico, para que podamos cooperar y compartir nuestra riqueza".
+AET_liberate_FLO:0 "Lucha por la libertad de Flowena"
+AET_liberate_FLO_desc:0 "La ciudad de Flowena ha sufrido durante décadas bajo el gobierno tiránico de un consejo decadente de comerciantes y capitalistas que desean dejar a sus trabajadores secos. ¡Esto termina ahora! ¡La libertad está llegando a la Ciudad de los Jardines!"
+AET_liberate_FLO_tt:0 "Obtiene reclamos sobre los núcleos de Flowena".
+AET_expand_FLO:0 "Integrar la comuna de Flowena"
+AET_expand_FLO_desc:0 "Ahora que el ayuntamiento de Flowena está en llamas, podemos dar la bienvenida a los trabajadores de Flowenan a nuestro colectivo. La inmensa riqueza acumulada por los antiguos gobernantes ahora nos pertenece a todos".
+AET_black_army_formation:0 "Formar el RIAG"
+AET_black_army_formation_desc:0 "El nuevo Ejército Revolucionario Insurreccional de Greifwald, también conocido como RIAG o simplemente como el Ejército Negro, será la columna vertebral de la revolución. Néstor Bernier será su figura decorativa y los trabajadores y campesinos se unirán voluntariamente a sus filas. Libertad o muerte ! "
+
+
+AET_realpolitik:0 "Entre gigantes"
+AET_realpolitik_desc:0 "Greifwald se encuentra entre dos de las potencias más grandes del continente: el Reino de Aquileia y el antiguo Imperio Griffonian. Es de suma importancia que mantengamos buenas relaciones con ambos. No podemos dejar que Greifwald caiga en las garras de los extremistas , ya que es probable que tal cambio nos ponga en el camino de la guerra con una o más potencias en el continente Griffonian ".
+AET_complete_neutrality:0 "Una política de neutralidad"
+AET_complete_neutrality_desc:0 "Debemos mantener total y absoluta neutralidad en nuestro trato tanto con los aquileianos como con los imperiales. Con este fin, instruiremos a todos los niveles de poder en Greifwald que la máxima prioridad del Estado es la preservación del status quo. Greifwald será un faro de estabilidad en un mundo lleno de extremistas ".
+AET_appease_both:0 "Trabajar con ambos"
+AET_appease_both_desc:0 "Tanto el Reino de Aquileia como el antiguo Imperio Griffonian tienen mucho que ofrecernos, si jugamos bien nuestras cartas. Deberíamos lanzar una nueva iniciativa diplomática, con el objetivo de fortalecer osus vínculos con ambos poderes. "
+AET_welfare_program:0 "Esfuerzo de ayuda económica"
+AET_welfare_program_desc:0 "Nuestra economía está en ruinas y hay una pobreza generalizada entre la gente. Ahora que hemos invitado a industriales extranjeros a Greifwald, estamos en condiciones de hacer algo al respecto".
+AET_align_imperial:0 "Trabajar con los imperiales"
+AET_align_imperial_desc:0 "El Imperio ha sido el mayor poder en Griffonia durante siglos. Aunque su poder ha disminuido bajo Grover V, es muy probable que el Imperio Griffonian siga siendo un actor importante en el escenario mundial. Por lo tanto, debemos alinearnos más de cerca con la Esfera de Influencia Imperial ".
+AET_imperial_politics:0 "Alinear con el Imperio"
+AET_imperial_politics_desc:0 "Debemos alinear nuestras políticas para que coincidan estrechamente con las del Imperio Griffonian. Esto dejará en claro a nuestra gente que estamos con los imperiales y que los poderes que han dado forma a este continente durante siglos están aquí para quedarse".
+AET_imperial_arms:0 "Importar armamento imperial"
+AET_imperial_arms_desc:0 "Nuestra base industrial es muy pequeña en comparación con la del Imperio. La compra de algunas de las Armas de los Arsenales Imperiales nos permitirá armar más grifos para cualquier conflicto potencial".
+AET_imperial_adivosrs:0 "Misión militar imperial"
+AET_imperial_adivosrs_desc:0 "El ejército imperial está muy bien estructurado y utiliza tácticas y doctrinas avanzadas. Al enviar a algunos de nuestros oficiales a estudiar la estrategia militar imperial, deberíamos poder implementar muchas tácticas y doctrinas nuevas en nuestras fuerzas armadas".
+AET_imperial_industry:0 "Invitar a industriales imperiales"
+AET_imperial_industry_desc:0 "Nuestra economía es pobre y subdesarrollada, y la mayoría de los inversores extranjeros tienen poco interés en Greifwald. Debido a nuestros lazos diplomáticos con el Imperio, es posible que podamos persuadir a algunos industriales imperiales prominentes de que no solo inviertan en Greifwald, sino que incluso servir como asesores de nuestro gobierno. Esto no resolverá todos nuestros problemas económicos, pero debería permitir que nuestra economía se recupere hasta cierto punto ".
+AET_imperial_economic_help:0 "Solicitar ayuda económica imperial"
+AET_imperial_economic_help_desc:0 "Aunque la economía greifwaldiana ha mejorado gracias a nuestros amigos imperiales, todavía hay mucho margen de mejora. El Imperio puede estar dispuesto a brindarnos un alivio económico significativo si aumentamos nuestros esfuerzos diplomáticos y nos comprometemos a apoyar al Imperio. en el futuro."
+AET_develop_imperial:0 "Desarrollo imperial"
+AET_develop_imperial_desc:0 "El Imperio Griffonian acordó lanzar un plan de desarrollo industrial para Greifwald, que incluye inversiones significativas en nuestra industria y base científica. Esto no solo mejorará la industria ligera y pesada de la nación, sino que también debería permitirnos hacer progreso significativo en muchos campos científicos ".
+AET_imperial_guarantee:0 "Amigos en el Palacio"
+AET_imperial_guarantee_desc:0 "El Imperio Griffonian ha hecho mucho por nuestra economía, y hemos declarado abiertamente nuestro apoyo político. Hasta ahora, sin embargo, el Imperio no ha hecho ninguna proclamación oficial de apoyo a Greifwald. Puede que sea hora de pedir a los Imperiales que cambien esto, con el Imperio garantizando oficialmente nuestra independencia ".
+AET_imperial_forts:0 "El enemigo del sur"
+AET_imperial_forts_desc:0 "Con nuestros estrechos vínculos con el Imperio Griffonian, es muy posible que nos veamos arrastrados a un conflicto con el Reino de Aquileia y sus aliados. Fortificar nuestra frontera sur con búnkeres, muros y trincheras podría resultar un problema. inversión en la continua soberanía de Greifwald ".
+AET_align_aquileia:0 "Trabajar con los aquileños"
+AET_align_aquileia_desc:0 "El Imperio Griffonian puede haber sido el poder más fuerte en el continente una vez, pero esos días han quedado atrás. Es muy probable que el Reino de Aquileia se convierta en el poder dominante en Griffonia, por lo que deberíamos buscar la cooperación con el Aquileianos ".
+AET_aquileian_arms:0 "Importar armamento aquileiano"
+AET_aquileian_arms_desc:0 "Como la base industrial de Greifwaldian es bastante pequeña, puede ser de nuestro mejor interés comprar algunas armas de los aquileianos. Esto nos permitirá armar más grifos para cualquier conflicto potencial. Importar una gran cantidad de armas pequeñas y un pocas piezas de artillería parece ser el curso más sensato en este momento ".
+AET_aquileian_adivosrs:0 "Misión Militar Aquilea"
+AET_aquileian_adivosrs_desc:0 "El ejército de Aquileian es uno de los más avanzados del mundo. Puede ser posible organizar una misión militar conjunta con el alto mando de Aquileian. Podríamos aprender muchas tácticas y doctrinas nuevas para nuestro propio ejército. . "
+AET_aquileian_politics:0 "Alinearse con los aquileianos"
+AET_aquileian_politics_desc:0 "Alinearnos más estrechamente con la esfera de influencia de Aquileian es nuestra mejor esperanza para el futuro. Está claro que son la nueva gran potencia en el continente de Griffonian, y fortalecer nuestros lazos con ellos seguramente será beneficioso".
+AET_aquileian_industry:0 "Invite Industriales Aquileños "
+AET_aquileian_industry_desc:0 "Si bien podría ser difícil convencer a los aquileños de que inviertan en Greifwald, no solo mejoraría nuestra economía, sino que también nos uniría estrechamente a Aquileia. Esto ayudaría a nuestra posición diplomática y política en el escenario mundial".
+AET_aquileian_economic_help:0 "Solicitar un préstamo a Aquileia"
+AET_aquileian_economic_help_desc:0 "La economía de Aquilea es mucho más grande que la de Greifwald. Debido a nuestras recientes inclinaciones hacia la esfera de influencia de Aquilea, podemos convencerlos de que nos presten una gran cantidad de dinero a una tasa de interés simbólica. Permítanos mejorar nuestra economía e industria, y reducir la pobreza entre nuestra población ".
+AET_develop_aquileian:0 "Ayuda al desarrollo de Aquileian"
+AET_develop_aquileian_desc:0 "Nuestra industria pesada sigue siendo deficiente, a pesar de todos nuestros esfuerzos. Pero ahora que tenemos lazos estrechos con la economía aquilea, estamos en condiciones de cambiar esto. Deberíamos solicitar una inversión considerable de Aquilea en nuestra industria pesada, ya que lo más probable es que esto mejore nuestras dos economías ".
+AET_aquileian_guarantee:0 "Una amistad con las águilas del oeste"
+AET_aquileian_guarantee_desc:0 "El Reino de Aquileia y sus aliados son más capaces de proteger la soberanía de Greifwald de cualquier poder extranjero. Los aquileianos pueden estar dispuestos a firmar un decreto formal que garantice la independencia de Greifwald de cualquier invasor potencial".
+AET_aquileian_forts:0 "El enemigo del norte"
+AET_aquileian_forts_desc:0 "Ahora estamos formalmente en la esfera de influencia de Aquileian, y como tal, la posibilidad de un conflicto con el Imperio Griffonian se cierne sobre nuestras cabezas. Fortificar nuestra frontera norte nos permitirá detener cualquier incursión imperial en Greifwald incluso antes de que comience. . "
+AET_coqnuer_HEL:0 "Reclamar Adelart"
+AET_coqnuer_HEL_desc:0 "Los territorios de Lissay y Eagleton, que ahora componen la nación de Adelart, han sido una parte integral de Greifwald durante siglos, antes de que nos fueran arrebatados hace menos de 20 años. Muchos grifones que viven allí todavía son leales al Greifwaldiano nación, pero el gobierno de Adelart no aceptará la unificación en nuestros términos. Si debemos tomar lo que es nuestro por la fuerza, que así sea ".
+AET_core_HEL:0 "Reintegrar Adelart"
+AET_core_HEL_desc:0 "Ahora que hemos asegurado todos los antiguos territorios de Adelart, deberíamos comenzar a reintegrar a la población allí en Greifwald. La región ha sido terriblemente mal administrada bajo el liderazgo de Adelartian, y cuanto antes arreglemos esto, mejor . "
+AET_develop_country:0 "Reconstruir la nación"
+AET_develop_country_desc:0 "Todo Greifwald está unido ahora, al menos en el papel. Pero, lamentablemente, las antiguas tierras adelartianas de Lissay y Eagleton están rezagadas en la mayoría de los campos. Con una inversión significativa, debería ser posible reconstruir la industria de nuestra nación para es la gloria anterior, antes de que nos separáramos ".
+AET_new_country:0 "Primavera para Greifwald"
+AET_new_country_desc:0 "La unificación de Greifwald ha tenido un efecto tremendo en nuestra nación: por primera vez en décadas, los grifos de Greifwald pueden estar orgullosos de su nación, y el apoyo a nuestro gobierno está en su punto más alto. Debemos capitalice esto y lleve al pueblo greifwaldiano hacia una nueva era de felicidad y prosperidad ".
+AET_new_army:0 "Formar el Ejército Nacional Greifwaldiano"
+AET_new_army_desc:0 "Desde la exitosa guerra de unificación, el apoyo a las fuerzas armadas está en su punto más alto y muchos grifos se unen a las fuerzas armadas todos los días. Ahora que existe una verdadera nación greifwaldiana, podemos lanzar una expansión significativa de nuestras fuerzas armadas. . Greifwald nunca más se dividirá ".
+AET_new_science:0 "Ofrecer ciudadanía a científicos extranjeros"
+AET_new_science_desc:0 "El mundo se ha vuelto muy peligroso en las últimas décadas y muchos científicos extranjeros están buscando una nación estable en la que puedan establecerse. Al extender las ofertas de ciudadanía a los científicos que viven en naciones inestables y devastadas por la guerra, puede mejorar significativamente nuestra base científica ".
+AET_invite_scientists:0 "Un paraíso para el sonido de la mente"
+AET_invite_scientists_desc:0 "Muchos científicos han aceptado nuestra oferta de ciudadanía, pero aún podemos mejorar este número. Al otorgar subsidios significativos a los científicos y brindarles más protección legal, podemos hacer que Greifwald sea aún más atractivo para las personas inteligentes que buscan un refugio seguro."
+AET_land_reform:0 "Reformas agrícolas masivas"
+AET_land_reform_desc:0 "Nuestra industria pesada ha mejorado significativamente, pero nuestra agricultura todavía está rezagada en muchos campos. Debemos arreglar esto lo antes posible y comenzar una reforma masiva de nuestra agricultura. Esta" Revolución Agrícola "convertirá a nuestra industria agrícola en una de las más avanzadas del continente ".
+AET_further_development:0 "Un corazón industrial"
+AET_further_development_desc:0 "El estado de Twöchanerwald tiene la industria más débil de todo Greifwald, pero esto se puede cambiar. El espeso bosque nos permitirá establecer una granindustria maderera allí, que a su vez debería atraer a más inversores ".
+AET_immigration_act:0 "Aflojar las leyes de inmigración"
+AET_immigration_act_desc:0 "Mucha gente, grifos y otros, buscan emigrar a su tierra natal en busca de un mejor lugar para vivir. Tenemos la industria y la agricultura para sustentar a una población muy numerosa, y así podríamos aprovecharnos de miles de inmigrantes. Pero primero, es necesario flexibilizar nuestras leyes de inmigración ".
+AET_expand_armouries:0 "Armería financiada por el estado"
+AET_expand_armouries_desc:0 "La reciente campaña de reclutamiento ha creado, lamentablemente, un nuevo problema: nuestro ejército, en constante crecimiento, necesita más armas y equipo de lo que somos capaces de producir en este momento. Deberíamos establecer grandes armerías y expandir nuestra industria pesada para fabricar seguro que nuestros soldados tienen todo el equipo que necesitan ".
+
+
+AET_archonate_help:0 "Solicite la ayuda del Prelado"
+AET_archonate_help_desc:0 "En tiempos de problemas como este, los grifos recurren a su fe en busca de fuerza. Nuestro gobierno no tiene opinión al respecto, pero el prelado local, Ludwig Ebonwing, ciertamente sí. Parece estar proponiendo muchas propuestas económicas interesantes. e ideas políticas. Quizás deberíamos aprovechar esto ".
+AET_knighly_order:0 "Invita a los Caballeros de Arcturius"
+AET_knighly_order_desc:0 "Los Caballeros de Arcturius han sido vistos durante mucho tiempo como una fuerza honorable para el bien sin una pizca de corrupción entre sus varios capítulos. De hecho, la sola idea de tales grifos comprometiéndose con el mal es alucinante. Quizás es hora de que Traiga a estos excelentes compañeros para que enseñen a la gente una o dos cosas ".
+AET_paramilitaries:0 "Organizar milicias"
+AET_paramilitaries_desc:0 "Ahora que los grifos nobles de primera línea de carácter incuestionable y sin una pizca de herejía respaldan al gobierno, es hora de que los plebeyos se unan al nuevo ejército. Se formará una milicia de poderosos grifos de valor, y entre ellos ni un se encontrará un solo cultista. Este nuevo ejército divino seguramente nos ayudará ".
+AET_church_help:0 "Asistencia económica de los dioses"
+AET_church_help_desc:0 "Es un hecho bien conocido que los mortales son unos pantalones cuando se trata de finanzas. Si no fuera así, ¿se habría derrumbado el Imperio en el momento en que se perdió el Ídolo de Boreas? Por lo tanto, es lógico buscar la divinidad. inspiración en asuntos de dinero, especialmente cuando se trata de oraciones específicas ".
+AET_church_jobs:0 "Plan de desarrollo boreal"
+AET_church_jobs_desc:0 "Boreas es el dios de las finanzas, a pesar de la evidencia en contrario. Por lo tanto, tiene sentido modelar nuestra nueva economía a su imagen, y no a la imagen de otra figura".
+AET_church_coup:0 "La toma de posesión del prelado"
+AET_church_coup_desc:0 "Esto fue un error, un error horrible. Nos equivocamos con el Prelado, no es nuestro amigo, es un enemigo de toda la vida, es§g - STATIC - §! Por el bien de la nación el Prelado ha tomado el control del gobierno. No se alarme, porque todo está bien ahora ".
+AET_church_industry:0 "El plan industrial del prelado"
+AET_church_industry_desc:0 "El nuevo plan de desarrollo económico de Prelate Ebonwing es el más grande posible para la nación, por lo que debe implementarse sin cuestionar".
+AET_church_arms:0 "Armería del templo"
+AET_church_arms_desc:0 "El prelado Ala de Ébano ha declarado que los templos deben dejar de ser medios meramente de paz y deben dedicarse plenamente a la tarea de la defensa nacional. Cualquier desobediencia de los herejes que busquen una solución no violenta será tratada con dureza".
+AET_language:0 "Hacer cumplir el dialecto imperial"
+AET_language_desc:0 "El dialecto imperial de nuestro idioma es el dialecto más glorioso de nuestro idioma que jamás se haya hablado, y cualquier palabra que diga lo contrario es una herejía. Los informes de clases de prueba de sangrado de los oídos al hablar al revés o en anagramas también son herejía."
+AET_church_research:0 "Investigadores piadosos"
+AET_church_research_desc:0 "Es hora de que nuestros científicos se enfrenten a hechos de que nunca serán tan buenos como los divinos, por lo que deben someterse a su investigación en templos reutilizados o de lo contrario. En el lado positivo de ellos, esto les otorgará más espacio para más experimentos y, de hecho, esto ya está sucediendo. Las mutaciones son un efecto secundario normal de la ciencia, no se equivoquen ".
+AET_paramilitaries_2:0 "Expandir el sistema de milicias"
+AET_paramilitaries_2_desc:0 "Es hora de expandir el sistema de milicias implementado anteriormente, incluso si tenemos que raspar el fondo del barril para hacerlo. Esos bandidos y convictos seguramente se convertirán en grifos honrados, y no se equivoquen al respecto, ellos no se utilizan para ningún motivo oculto ".
+AET_destroy_HEL:0 "Destruye Adelart"
+AET_destroy_HEL_desc:0 "¡Esos aturdidos Adelartianos con sus estúpidos sombreros y sus estúpidas sonrisas engreídas han ido demasiado lejos esta vez! ¡Debemos destruirlos y anexar su pequeño condado también!"
+AET_fatherland_calls:0 "Responde al llamado de la patria"
+AET_fatherland_calls_desc:0 "Es hora de regresar al Imperio, integrando nuestro condado y su gobierno en un todo más amplio. Este es el final de la línea para nuestra independencia, pero es para elmejor. Después de todo, imagínense hasta dónde puede llegar un servidor leal del Imperio a los pasillos del poder ... "
+AET_madness_calls:0 "[Root.GetMadnessCallsFocusName]"
+AET_madness_calls_desc:0 "[Root.GetMadnessCallsFocusDesc]"
+AET_madness_calls_real:0 "Susurros en la oscuridad ..."
+AET_madness_calls_real_desc:0 "Los pasillos se retuercen en formas demasiado naturales para ser hechas por grifos, las paredes sangran sangre púrpura, el tiempo parece fluir hacia atrás en palabras sin sentido, el que se llama Maar se revela a sí mismo, y solo el Prelado Ala de Ébano puede escuchar esto. ¿Es una locura? , o el signo de algo de otro mundo? Funcionalmente, ¿hace alguna diferencia? "
+AET_madness_calls_fake:0 "Lucha por la independencia"
+AET_madness_calls_fake_desc:0 "¡Durante demasiado tiempo hemos sufrido bajo los desleales de Griffenheim! ¡Haremos de [Root.GetName] una nación libre y piadosa bajo el prelado, sin importar el costo!"
+
+
+AET_kill_knights:0 "Deshazte de los caballeros arturianos"
+AET_kill_knights_desc:0 "Muchos de los capítulos se han acercado al modo de pensar del Prelado, pero todavía hay algunos entre los Caballeros Arturianos que se resisten al verdadero camino. Deben ser eliminados".
+AET_sacrafices:0 "Una demostración de fe"
+AET_sacrafices_desc:0 "Maar exige sacrificios, dice el Prelado. Y con el sacrificio viene el poder. Es por el bien mayor. Ven y recuerda, los caídos serán recordados para siempre como fieles de Maar ..."
+AET_idol_of_maar:0 "Una bendición de los dioses"
+AET_idol_of_maar_desc:0 "El prelado ha regresado de un viaje reciente sosteniendo en alto un ídolo de madera malvado. Este es el ídolo de Maar, y todos los que lo vean deben inclinarse o ser destruidos".
+AET_invade_AVI:0 "Destruye a los herejes aviarios"
+AET_invade_AVI_desc:0 "La tonta y pequeña Casa de Avian cree que pueden salirse con la suya con el crimen de existir fuera de nuestras fronteras, pero se equivocan. Se convertirán en parte de nuestro país, por la fuerza".
+AET_take_AVI:0 "Quema a los falsos ídolos"
+AET_take_AVI_desc:0 "En su arrogancia, los tontos aviarios pensaron que podrían salirse con la suya adorando a cualquier otra persona que no fuera Maar, y durante ese tiempo quemaremos sus ídolos junto con sus casas".
+AET_invade_POM:0 "Derribe a los pomovarranos"
+AET_invade_POM_desc:0 "Esos cobardes pomovarranos están buscando destruirnos. ¡Es verdad! Ebonwing lo ha visto en una visión. Debemos atacar primero".
+AET_take_POM:0 "Derriba a los herejes"
+AET_take_POM_desc:0 "Ahora que hemos asegurado la tierra, debemos evitar que los pomovarranos se levanten contra nosotros. La ortodoxia es herejía, la muerte es vida, el mal es el bien. Deben aprender a aceptar estas verdades".
+AET_annex_FLO:0 "Grabar Flowena"
+AET_annex_FLO_desc:0 "La ciudad-estado de Flowena ha sido elogiada durante mucho tiempo por su belleza. Con este cumplido insultan nuestros altares y dagas de sacrificio, por lo que deben ser reprimidos. Convertiremos la ciudad entera en un altar y los convertiremos a todos pasar por el fuego ".
+AET_take_FLO:0 "Coaccionar a los paganos"
+AET_take_FLO_desc:0 "Para asegurarnos de que los sobrevivientes conozcan su lugar, implementaremos palizas y ejecuciones obligatorias. La única ropa que se les permitirá será de barro, y las lágrimas serán los únicos baños que recibirán. El único indulto de esto será unirse al ejército, y luego obtendrán toda la bebida y la carne que puedan soportar ".
+AET_imperium_of_maar:0 "§R¡El regreso del viejo§!"
+AET_imperium_of_maar_desc:0 "Nuestra devoción ha sido recompensada ... La presencia del Oscuro es más concentrada, más clara ... ¡Y nuestro Prelado es Su voz, difundiendo Su gloria y verdad sobre los incrédulos! ¡Que todos sepan que el regreso de Maar es ¡inminente!"
+AET_enslave:0 "Explotar a los herejes"
+AET_enslave_desc:0 "Si bien se prefieren los sacrificios, esa no siempre es la forma más productiva de promover la lucha. Establecer campos de trabajo nos permitirá matarlos y sacar algo de ellos antes del final. También legalizaremos cualquier otro tipo de la esclavitud para asegurarse de que siempre haya una clase baja a la que explotar para Maar ".
+AET_will_of_maar:0 "Difundir la voluntad de Maar"
+AET_will_of_maar_desc:0 "Debemos continuar atacando a todos aquellos que se oponen a nosotros, y todos se oponen a nosotros. Por lo tanto, nuestros ataques nunca deben detenerse, deben estar sucediendo. A través de los cantos fúnebres de la guerra, difundimos la gloria de Maar".
+AET_warriors_of_maar:0 "Que suelten a los guerreros de Maar"
+AET_warriors_of_maar_desc:0 "Al eliminar a nuestros militares de cualquier restricción legal o moral, podemos permitirles que se aprovechen al máximo de su brutalidad natural. La única ley que les queda será la de tener una devoción incondicional por el Arconte que habla en nombre de Maar. Aparte de que puedan divertirse ".
+AET_possessed_tanks:0 "Motores de fuego infernal"
+AET_possessed_tanks_desc:0 "Como Maar ordene, cabalgaremos en nuestros corceles por todo el continente, deseando la muerte y la sangre. Nuestros motores rugen y son alimentados por la devoción de sus seguidores más fieles".
+AET_dark_mechanicus:0 "El Mechanicus oscuro"
+AET_dark_mechanicus_desc:0 "Los poderes oscuros de Maar nos llevan a una fortuna y un avance cada vez mayores. Nuestra tecnología será cada vez mayor y mejorada ... Con su respaldoy favor de nuestro lado, gobernaremos, y los débiles se derrumbarán ".
+AET_visions_of_madness:0 "Visiones de la locura"
+AET_visions_of_madness_desc:0 "Somos los favorecidos de Maar, el que conquista toda luz y esperanza y trae oscuridad sobre todos. Los que se atrevan a atacarnos sufrirán. Sus mentes débiles y corruptas se desmoronarán lentamente, al igual que su pequeña nación. .. "
+AET_corrupt_the_weak:0 "Corromper a los débiles"
+AET_corrupt_the_weak_desc:0 "El alcance de Maar es infinito, y es especialmente estrecho para los débiles de mente. Ellos rápidamente verán la razón y abrazarán el camino de la oscuridad que Maar debe extender por la tierra. Todos servirán".
+AET_daemons_of_maar:0 "Los demonios de Maar"
+AET_daemons_of_maar_desc:0 "El Señor de la Muerte pide un mayor sacrificio. ¡Como él ordene, pagaremos el precio necesario para complacerlo! Y con Su respaldo, los sirvientes de Maar unirán nuestras fuerzas, y esparcirán el caos y el sufrimiento a través del ¡Tierra! ¡Nadie nos detendrá! "
+AET_aether_travel:0 "Aether Travel"
+AET_aether_travel_desc:0 "El sacrificio aún no ha sido suficiente. Hay que recoger más almas y llevarlas ante Él, para que los mortales podamos entrar en su capa de Éter. Si podemos sobrevivir a este viaje, nada podrá detenernos".
+AET_hellfire_forge:0 "La Forja del Fuego Infernal"
+AET_hellfire_forge_desc:0 "Maar llama, pide un mayor sacrificio para extender su dominio en nuestro mundo mortal. ¡Que así sea! Con armas forjadas en los pozos más profundos del Éter, nuestros guerreros conquistarán a los débiles, ¡y sus almas se convertirán en las de Maar! ¡Adelante, a la gloria! "
+AET_raise_dead:0 "Incluso en la muerte servimos"
+AET_raise_dead_desc:0 "A medida que la voluntad de Maar se extiende por toda la tierra, llama a los cadáveres que yacen en los vastos campos de batalla. Sin alma y marionetas del mismo Maar, los no muertos se levantarán y marcharán sobre los paganos. Algunos se resisten al pensarlo , ¡pero son débiles! Maar asegura que estos títeres no nos harán daño ".
+AET_pave_the_path:0 "Pave the Path"
+AET_pave_the_path_desc:0 "La necesidad de sacrificio crece cada vez más. Es hora de aprovechar nuestras" reservas ". Maar recibirá su sangre mortal y las almas débiles de nuestra sociedad pagarán el precio. La fe es más pura cuando no se cuestiona . "
+AET_portal_to_the_aether:0 "Una puerta al éter"
+AET_portal_to_the_aether_desc:0 "Las Profundidades del Éter asustarían a muchos ... pero no a nosotros. Hemos hecho un pacto con la Muerte y la Oscuridad, lo hemos abrazado plenamente. Nos hemos convertido en los hijos de Maar, sus predilectos. E incluso ahora, nuestra Cruzada consumir el mundo con la Oscuridad y librarlo de la vida no está completo ".
+
+
+AET_industrial_1:0 "Iniciar planes de desarrollo industrial"
+AET_industrial_1_desc:0 "La industria greifwaldiana es extremadamente deficiente en este momento y la pobreza está muy extendida. Para solucionar los muchos problemas que enfrenta la nación, debemos comenzar a redactar planes para el crecimiento de nuestra economía".
+AET_infra_development:0 "Caminos forestales"
+AET_infra_development_desc:0 "Gran parte del campo de la nación consiste en bosques, que son difíciles de atravesar. Con la construcción de nuevas carreteras básicas que atraviesen los bosques, deberíamos poder transportar bienes y materiales con mayor facilidad. Esto aumentará nuestro crecimiento industrial y económico en el largo plazo."
+AET_oil:0 "Nacionalizar los campos petrolíferos de Adelart"
+AET_oil_desc:0 "Nuestras tierras recién adquiridas en Adelart son ricas en petróleo, pero el sector privado no está explotando esto a su máxima capacidad. Poner estos campos petroleros bajo control estatal nos permitirá maximizar la cantidad de petróleo que se está extrayendo".
+AET_oil_refineries:0 "Experimente con aceite sintético"
+AET_oil_refineries_desc:0 "Los nuevos avances en la ciencia pueden permitirnos producir alternativas sintéticas al petróleo. No hace falta decir que esto beneficiaría nuestro atractivo comercial y mejoraría drásticamente nuestra industria".
+AET_oil_p:0 "Oro negro"
+AET_oil_p_desc:0 "Nuestros esfuerzos para aumentar la extracción de aceite han dado sus frutos: nuestra industria petrolera está en auge y no muestra signos de detenerse. Se cree que con una mayor financiación, se puede producir más aceite sintético. También podremos para expandir aún más los campos petrolíferos de Adelart y aprovechar cualquier fuente que quede sin explotar. Es probable que el "oro negro", como lo han llamado muchos grifos, continúe fluyendo durante muchas décadas más ".
+AET_industrial_2:0 "Métodos industriales modernos"
+AET_industrial_2_desc:0 "Con el advenimiento de la maquinaria pesada en las últimas décadas, científicos e industriales están ideando nuevos métodos industriales. Debemos aprovechar esto e implementar nuevos métodos de producción revolucionarios. Esto sin duda beneficiaría a nuestra industria en su conjunto. "
+AET_steel_and_tungsten:0 "Expandir las minas de Cloudguard"
+AET_steel_and_tungsten_desc:0 "Las colinas de Cloudguard siempre han sido ricas en todo tipo de metales, pero esto aún no se ha explotado al máximo. Debemos solucionar este problema lo antes posible y ampliar significativamente la escala de nuestras operaciones mineras en Cloudguard. . "
+AET_steel_road:0 "Más caminos en los bosques"
+AET_steel_road_desc:0 "Siguiendo el sDespués de nuestras nuevas operaciones mineras en Cloudguard, se están transportando más materiales por todo el país. Ahora debemos expandir nuestra red de caminos forestales nuevamente, a fin de aliviar la tensión en nuestra infraestructura ".
+AET_more_steel:0 "Excavar en busca de hierro"
+AET_more_steel_desc:0 "Mientras hacíamos trabajos de construcción en Twöchanerwald para nuestra reciente expansión de infraestructura, algunos ingenieros encontraron una pequeña veta de hierro en el bosque. Si podemos encontrar la veta principal, deberíamos poder construir minas allí. Esto nos permitiría aumentar nuestro excedente de hierro y, por lo tanto, nuestra producción de acero ".
+AET_radio_f:0 "Investigación electrónica"
+AET_radio_f_desc:0 "La electrónica es un campo de la ciencia relativamente nuevo, pero recientemente se han logrado grandes avances. Hay muchas aplicaciones potenciales para esta tecnología, tanto civiles como militares".
+AET_mechainsed_agriculture:0 "Mecanizar la agricultura"
+AET_mechainsed_agriculture_desc:0 "La maquinaria pesada no se puede usar solo para la guerra. El uso de tractores y otras máquinas en nuestra agricultura aumentará nuestro excedente de alimentos, lo que a su vez puede estimular nuestra economía".
+AET_factory_buildup:0 "Acumulación industrial"
+AET_factory_buildup_desc:0 "Con nuestros recientes avances industriales, nuestra economía se ve mejor que nunca. Deberíamos capitalizar esto mediante la construcción de varias fábricas nuevas y de vanguardia. Esto debería permitirnos aumentar aún más nuestras capacidades industriales. "
+AET_arms_building:0 "Desarrollar la industria nacional de armas"
+AET_arms_building_desc:0 "En las últimas décadas, el mundo se ha vuelto muy peligroso. Para asegurar nuestra soberanía, es necesario un refuerzo militar. Invertir en la industria pesada debería permitirnos producir todo el equipo que necesitamos para armar a nuestros soldados".
+AET_modern_soc:0 "Modernizar el sector industrial"
+AET_modern_soc_desc:0 "A pesar de nuestro reciente crecimiento industrial, todavía estamos rezagados en algunas áreas. Deberíamos proporcionar fondos adicionales a los científicos para crear un sector industrial verdaderamente moderno".
+AET_army_1:0 "Empezar a reformar el ejército"
+AET_army_1_desc:0 "Después de la tercera o cuarta vez que alguien intentó matar a nuestro amado gobernante desde tan lejos que eran sólo una mancha en el horizonte, nos dimos cuenta de que nuestro ejército estaba atrasado. Lo arreglaremos".
+AET_army_2:0 "Equipo de soporte moderno"
+AET_army_2_desc:0 "El equipo de apoyo moderno es más que un catre y una fogata, son vendas, radios, palas, binoculares, camiones, kits de reparación y el entrenamiento para usar todo eso. Tenemos binoculares, pero podríamos tener mucho más. "
+AET_army_3:0 "Rifles modernos"
+AET_army_3_desc:0 "La pólvora sin humo es asombrosa. No solo hace exactamente lo que parece, produce el empuje de una bala sin generar mucho humo, sino que también produce suficiente potencia para lanzar disparos a rangos sin precedentes. ¿Cómo saltamos? esta innovación durante tanto tiempo? "
+AET_army_4:0 "Cañones del extranjero"
+AET_army_4_desc:0 "A veces, firmar un cheque por algo es más fácil que diseñarlo usted mismo. Ese es el caso de la artillería de Griefwald. Contratar a un actor extranjero para que nos ayude a mejorar nuestra posición".
+AET_army_5:0 "Recicla las armas viejas"
+AET_army_5_desc:0 "Por muy tentador que sea tirar todas nuestras armas viejas por las nuevas y relucientes, debemos tener en cuenta las preocupaciones sobre los costos. Si podemos adaptar un rifle de pólvora viejo para cartuchos sin humo por la mitad del costo de construir un rifle nuevo de scratch, ¿por qué no tomarlo? Si nada más, debería reducir el tiempo de entrenamiento ".
+AET_army_6:0 "Guns of the West"
+AET_army_6_desc:0 "Artillería, columna vertebral de la guerra moderna. Tenemos nuevas y mejores variantes de estas formidables armas. De eso no cabe duda".
+AET_army_7:0 "Un rifle en cada garra"
+AET_army_7_desc:0 "Desde el ayuntamiento de Amein, un científico proclamó a la multitud:" ¡Consigan un arma! ¡Y obtienes un arma! ¡Y consigues un arma! ¡Todos tienen un arma! ""
+AET_army_8:0 "Científicos exentos del servicio militar"
+AET_army_8_desc:0 "El éxito continuo de nuestras fuerzas armadas depende de una tecnología más nueva y mejor. Nunca más debemos quedarnos atrás de la curva. Con ese fin, debemos permitir que nuestros científicos se ocupen de sus asuntos sin temor a que lleguen borradores de cartas por correo".
+AET_army_9:0 "Desarrollar una doctrina"
+AET_army_9_desc:0 "Tenemos muchas armas estupendas, pero eso es sólo la mitad de la ecuación. La información es munición, después de todo. Es hora de que aprendamos a utilizar las armas correctamente".
+AET_army_10:0 "Experimentos de Luna Nova"
+AET_army_10_desc:0 "Un grupo de nuestros mejores magos científicos viajó recientemente a la Academia Luna Nova en Equestria. Allí participaron en un experimento para crear cristales encantados para alimentar un dispositivo de Amplificación de Luz por Emisión Simulada de Radiación. Desde entonces han regresado a nuestras tierras y trajeron consigo el conocimiento de lo que aprendieron. Aparentemente, creer en nosotros mismos es nuestra magia. ¡Genial! "
+AET_army_13:0 "¡Encantador!"
+AET_army_13_desc:0 "¡Tenían razón! Creer en nosotros mismos era nuestra magia, y es hora de que redescubramos exactamente lo que eso significa. Forjaremos un carro brillante para¡Rompe los cielos con nuestra magia! ... Metafóricamente, por supuesto ".
+AET_army_11:0 "Un ejército sobre ruedas"
+AET_army_11_desc:0 "Si bien los carros tirados por grifos son excelentes para operaciones aéreas, dejan algo que desear cuando cada miembro de un equipo de artillería necesita un quiropráctico dedicado. Las unidades motorizadas prometen resolver esos problemas. Todo lo que tenemos que hacer es conseguir que los grifos acepten moviéndose en el suelo ".
+AET_army_12:0 "Tractores y tanques blindados"
+AET_army_12_desc:0 "La próxima evolución del combate vehicular es poner armadura a bordo para resistir el fuego de armas pequeñas. Por supuesto, el contraataque obvio es dispararles con armas grandes, como artillería. Por lo tanto, debemos contrarrestar preventivamente este contraataque con mejores motores e incluso más armaduras ".
+AET_army_14:0 "Establecer las FMA"
+AET_army_14_desc:0 "La Academia Militar de Falcontown se ha propuesto como la solución a las crecientes necesidades de innovación de nuestro ejército. Quizás es hora de que hagamos esto. Después de todo, saber es la mitad de la batalla".
+AET_state_air:0 "Reclamar el cielo"
+AET_state_air_desc:0 "Durante siglos, los grifos han gobernado los cielos, pero ahora nuestra gente es gorda y perezosa, y el cielo está dominado por fantásticas máquinas voladoras. Debemos reclamar el lugar que nos corresponde en el aire, comenzando por la construcción de aeropuertos expandidos para acomodar los arreglos actuales -aviones de alas ".
+AET_air_1:0 "Contratar nuevos pilotos"
+AET_air_1_desc:0 "Contrariamente a las expectativas, no podemos simplemente arrojar a nuestros sujetos con sobrepeso a un avión y decirles que es su nuevo scooter de movilidad. De hecho, tendremos que contratar grifos con entrenamiento especializado para volar estas cosas. Lección aprendida allí".
+AET_air_6:0 "Formar regimientos de paracaidistas"
+AET_air_6_desc:0 "A medida que la tecnología avanza y las líneas de batalla se vuelven cada vez más claras, algunos de nuestros miembros comienzan a ver el valor de la infantería especializada entrenada para usar aviones de transporte para insertarse detrás de esas líneas. Estos 'paracaidistas' deberían resultar excepcionalmente útiles para sembrar confusión en el enemigo. líneas."
+AET_air_7:0 "Experimentos de jet"
+AET_air_7_desc:0 "Un artículo publicado en una revista científica hace años propuso la idea de utilizar aire comprimido que se canaliza en una explosión constante como medio de propulsión. Quizás sería prudente invertir en una mejor traducción y experimentos para probar la validez de la teoría después ".
+AET_air_2:0 "Un nuevo par de alas"
+AET_air_2_desc:0 "Los aviones más ligeros son los aviones con capacidad de combate más básicos que en realidad están destinados a participar en el combate, y es hora de que invirtamos en investigación para eso".
+AET_air_5:0 "Alas de acero"
+AET_air_5_desc:0 "¡Cazas pesados! ¿Hay algo que no puedan hacer? Bombardeo estratégico y esquiva. No importa eso, ¡piensa en la versatilidad!"
+AET_air_3:0 "Un nuevo par de garras"
+AET_air_3_desc:0 "Es hora de que los griffs terrestres reciban apoyo desde el aire. ¿Qué tipo de apoyo? Solo el más cercano".
+AET_air_4:0 "Garras de acero"
+AET_air_4_desc:0 "Ha llegado el momento de recordarles a nuestros enemigos lo que se siente al ver sus ciudades reducidas a cenizas. Por supuesto, en este continente todos estamos bastante acostumbrados a eso ahora, pero no poder disparar es un ¡nueva experiencia!"
+AET_navy_1:0 "Casarse con el mar"
+AET_navy_1_desc:0 "Con nuestro nuevo acceso al mar, una cosa está clara: debemos hacer algo más que coquetear con el poder naval. Debemos llevarlo a cenar, tratarlo bien y comprarle un bonito anillo de compromiso. Es hora de que nos establezcamos hasta un compromiso de por vida con el océano ".
+AET_navy_10:0 "Expandir los astilleros"
+AET_navy_10_desc:0 "Es hora de que apliquemos toda la nueva experiencia que obtuvimos diseñando barcos para expandir los astilleros y hacer que nuestra armada sea aún más grande".
+AET_navy_2:0 "Una pequeña flota"
+AET_navy_2_desc:0 "Nos encanta el océano, ¿no está claro? Sin embargo, sería más ventajoso tomar las cosas con calma. Primero compremos un apartamento y luego cambiemos a algo más grandioso".
+AET_navy_3:0 "Fortalezas flotantes"
+AET_navy_3_desc:0 "Ve a lo grande o vete a casa. Nos encanta el océano, ¿verdad? Bueno, es hora de que lo demostremos construyendo la flota más grandiosa que el mundo haya conocido. ¿Por qué comprar una mansión cuando puedes comprar un palacio, eh?"
+AET_navy_4:0 "Deep Under the Sea"
+AET_navy_4_desc:0 "En la orilla trabajan todo el día. De hecho, en el sol se esclavizan, y todo mientras nos dedicamos a flotar bajo el mar a tiempo completo. ¿No es grandiosa la vida submarina?"
+AET_navy_5:0 "Una flota de superficie"
+AET_navy_5_desc:0 "Los submarinos son geniales en muchas cosas, pero rastrear a otros submarinos no es una de ellas. Para contrarrestar el submarino enemigo tendremos que construir una flota de destructores".
+AET_navy_7:0 "Acumulación de escolta"
+AET_navy_7_desc:0 "Las naves de movimiento rápido con capacidad para torpedos cumplen fácilmente una amplia variedad de funciones y, por lo tanto, forman la gran mayoría de cualquier flota. Es hora de que nos unamos a la diversión".
+AET_navy_8:0 "Experimentos de cruceros pesados"
+AET_navy_8_desc:0 "Los cruceros pesados ​​y los cruceros de batalla forman un nicho distintivo de embarcaciones con cañones de gran calibre que pueden moverse a un ritmo justo. Deberíamos conseguir al menos un nuevo modelo de estas embarcaciones".
+AET_navy_9:0 "Una tormenta de acero"
+AET_navy_9_desc:0 "Nuestras conchas taparán el cielo y seránentregado por grandes nuevos acorazados. Nadie dudará de nuestra convicción de asegurar los mares ".
+AET_wave_one:0 "Amigos del otro lado del mar"
+AET_wave_one_desc:0 "Después de la reciente derrota de las principales Colmenas de Cambiantes en el continente ecuestre, hemos recibido una oferta intrigante de varios antiguos miembros del alto mando de Cambiantes. Si les concediéramos refugio en Greifwald, estarían dispuestos a proporcionar nuestras fuerzas armadas con un conocimiento invaluable, además de servirnos activamente en cualquier conflicto potencial ".
+AET_changeling_fighters:0 "Errores en el cielo"
+AET_changeling_fighters_desc:0 "Es bien sabido que la fuerza aérea de Changeling era una de las mejores del mundo, antes de su derrota. Hay una propuesta para invitar a algunos de los ex miembros de las fuerzas aeronáuticas de Changeling a Greifwald. No solo lo harían aportan conocimientos valiosos, pero también es posible que adquieran algunos aviones de alta calidad producidos por errores ".
+AET_strange_shipment:0 "Envíos misteriosos"
+AET_strange_shipment_desc:0 "Desde hace un tiempo, enormes cajas de equipo han llegado por vía aérea a una de nuestras bases militares. Esto ha generado mucha confusión, ya que nadie ordenó nada por el estilo. Hace unos momentos, se reveló que estos envíos contienen algunos antiguos tanques Changeling, ¡todavía de buena calidad! Al parecer, fueron ordenados por un exiliado Changeling de alto rango. Esta es una gran oportunidad para que mejoremos nuestro ejército ".
+AET_escape:0 "Un ojo ciego"
+AET_escape_desc:0 "Muchos Cambiantes todavía están huyendo y tienen que huir de su tierra natal debido a simples diferencias ideológicas. Y, de hecho, muchos de estos errores podrían ser muy útiles para la nación greifwaldiana. Deberíamos buscar formas de hacerlo más fácil. para que los Cambiantes "oprimidos" busquen asilo en Greifwald. ¡Esto seguramente beneficiará a nuestra nación! Después de todo, ¿qué podría salir mal? "
+AET_army_leader:0 "Viejos amigos"
+AET_army_leader_desc:0 "Después de nuestro gran acomodo del alto mando Changeling, aún más ex generales y soldados se han dirigido a Greifwald en busca de refugio. Nuestro cuadro de oficiales ahora está compuesto por algunas de las mentes militares más grandes que el mundo tiene para ofrecer y sin duda nos beneficiaremos inmensamente ".
+AET_changeling_science:0 "Invite a los científicos"
+AET_changeling_science_desc:0 "Muchos investigadores brillantes de Changeling se vieron obligados a abandonar su hogar, simplemente por sus opiniones políticas. Ya nos hemos establecido como un refugio para todos y cada uno de los librepensadores, siempre que tengan talento. Al invitar a más científicos de insectos a Greifwald, deberíamos poder mejorar significativamente nuestra base científica ".
+AET_definetly_legal_science:0 "Ciencia con errores"
+AET_definetly_legal_science_desc:0 "Hacia el final de la guerra, los cambiantes han logrado avances científicos significativos en algunos campos que podrían considerarse ... poco ortodoxos. Podríamos capitalizar esto y quizás descubrir un gran potencial para nosotros mismos, pero requerirá algunos. ... doblar las leyes de Greifwald. Por supuesto, a la larga definitivamente valdrá la pena ".
+AET_changeling_industrialists:0 "Invite a los emprendedores"
+AET_changeling_industrialists_desc:0 "Muchos empresarios Changeling importantes se vieron obligados a huir de sus hogares, pero muchos lograron liquidar sus activos, lo que les permitió retener la mayor parte de su riqueza. Estos insectos ahora están buscando nuevos países no solo para establecerse, sino también para invertir. Esta podría ser una oportunidad de oro para mejorar nuestra industria ".
+AET_weird_lord:0 "Un cambio de ritmo"
+AET_weird_lord_desc:0 "" Mis compañeros Grifos de Greifwald, yo, el Conde Cloudet, les estoy hablando hoy para asegurarles a todos que los rumores de cambios repentinos en mi comportamiento son completamente infundados. Simplemente he estado muy ocupado últimamente y parece que el estrés me está afectando. Pero no temas, gracias a nuestros aliados Cambiantes y su ayuda, todavía puedo administrar completamente nuestra gran nación. No se preocupen, ciudadanos, porque todo estará bien "".
+
+### ideas ###
+AET_revanchism:0 "Adelart Revanchism"
+AET_revanchism_desc:0 "La pérdida de Adelart ha hecho que la población esté más inclinada hacia la guerra".
+AET_realism:0 "Realismo político"
+AET_realism_desc:0 "Somos una pequeña nación entre dos gigantes, por lo que para garantizar nuestra seguridad debemos estar abiertos a toda la diplomacia".
+AET_true_neutrality:0 "Diplomacia neutral"
+AET_true_neutrality_desc:0 "Es mejor no tomar partido y dejar que el Imperio y Aquileia luchen".
+AET_military_advisors_JER:0 "Asesores militares de Aquilea"
+AET_military_advisors_GRI:0 "Consejeros militares imperiales"
+AET_new_county_politics:0 "Una nación greifwaldiana"
+AET_new_county_politics_desc:0 "No somos imperiales ni aquileianos, somos greifwaldianos y lucharemos por nuestra nación hasta el último aliento".
+AET_agriculture_reform:0 "Reformas agrícolas"
+AET_agriculture_reform_desc:0 "Las reformas agrícolas llevarán a nuestra nación hacia el futuro".
+AET_greifwaldian_army:0 "El ejército greifwaldiano"
+AET_greifwaldian_army_desc:0 "Un ejército fuerte protegerá al pueblo greifwaldiano".
+AET_anarchistas:0 "Los Berniers"
+AET_anarchists_desc:0 "Los GAP o más comúnmente conocidos como los Bernier finalmente han decidido atacar y están librando una guerra contra el gobierno greifwaldiano".
+AET_anarchists_2:0 "El territorio libre"
+AET_anarchists_2_desc:0 "¡Sin dioses, sin reyes, solo grifos!"
+AET_black_army:0 "El ejército negro"
+AET_black_army_desc:0 "El Ejército Revolucionario Insurreccional de Greifwald, también conocido como el Ejército Negro, es un ejército anarquista formado principalmente por campesinos y trabajadores greifwaldianos, cuya tarea es proteger al pueblo de Greifwald".
+AET_land_given_away:0 "Tierra para el campesinado"
+AET_land_given_away_desc:0 "Los campesinos a partir de este día serán propietarios de la tierra que trabajen".
+AET_factory_control:0 "Control de fábrica del trabajador"
+AET_factory_control_desc:0 "Los trabajadores deben controlar los medios de producción, incluso si tenemos que matar a todos los cerdos burgueses para asegurarnos de que suceda".
+AET_teacher_control:0 "Sistema escolar autónomo"
+AET_teacher_control_desc:0 "¿Quién mejor para controlar el sistema escolar que los que enseñan en las escuelas?"
+AET_mother_anarchy:0 "¡La madre anarquía ama a sus hijos!"
+AET_mother_anarchy_desc:0 "¡Sin dioses, sin amos, el anarquismo se extenderá por toda Griffonia! ¡Libertad de las jerarquías!"
+AET_militias:0 "Archonate Militias"
+AET_militias_desc:0 "Grupos de milicias compuestos por creyentes en los dioses grifos y liderados por el clero para proteger sus hogares y aldeas".
+AET_militias_2:0 "Organización paramilitar"
+AET_militias_2_desc:0 "El sistema de milicias se ha expandido y convertido en un sistema de paramilitares leales al prelado de Ebonwing".
+AET_one_language:0 "El dialecto imperial"
+AET_one_language_desc:0 "Sin galimatías de Aquilea, sin basura de Greifwaldian, la única forma de hablar Griffish es con un acento imperial adecuado y un pico superior rígido."
+AET_the_idol:0 "El ídolo de Maar"
+AET_the_idol_desc:0 "El único dios verdadero de los grifos nos ha regalado su ídolo, que los herejes se estremezcan ante nosotros".
+AET_militias_3:0 "Guerreros de Maar"
+AET_militias_3_desc:0 "¡El mundo temblará ante el poder de Maar!"
+AET_slavery:0 "Trabajo esclavo"
+AET_slavery_desc:0 "¡Se hará que los incrédulos peajeen en nombre de Maar!"
+AET_one_will:0 "La voluntad de Maar"
+AET_one_will_desc:0 "¡El mundo se arrodillará ante la gloria de Maar!"
+AET_mechanise_agriculture:0 "Agricultura mecanizada"
+AET_mechanise_agriculture_desc:0 "De hecho, los tractores no te comerán el alma si los usas".
+AET_oil_production:0 "El país negro"
+AET_oil_production_desc:0 "Eagleton y Lissay se han convertido en las capitales petroleras no solo de Greifwald, sino de toda Griffonia".
+AET_recylce_muskets:0 "Modernización del rifle"
+AET_exclude_scientists:0 "Científicos exentos del servicio militar"
+AET_heaven:0 "Refugio intelectual"
+AET_heaven_desc:0 "La guerra constante que ha plagado a Griffonia durante años ha atraído a muchos intelectuales a nuestro pequeño país debido a nuestra relativa estabilidad, y sus contribuciones han aumentado significativamente nuestra base científica. Sin embargo, un desafortunado efecto secundario de su residencia es su casi constante quejumbroso."
+AET_immigration:0 "Leyes de inmigración flexibles"
+AET_immigration_desc:0 "¿Wingbardianos, Aquileianos, Imperiales? No señor, esos grifos son Greifwaldianos".
+AET_changeling_scientists:0 "Científicos cambiantes"
+AET_changeling_scientists_desc:0 "Estamos bastante seguros de que no cometieron ningún crimen durante la guerra".
+AET_ratlines:0 "Túneles de insectos"
+AET_ratlines_desc:0 "Un sello falso aquí, un bigote pegado aquí, un pasaporte falso allá, y de repente un polimorfo se encuentra en Greifwald".
+AET_officer_core:0 "Núcleo de oficial cambiante"
+AET_officer_core_desc:0 "No hay nada que ver aquí, muévete con tus compañeros grifos".
+AET_aether_travel_idea:0 "Viajes con éter"
+AET_aether_travel_idea_desc:0 "El padre Maar nos ha concedido un paso seguro a través de su parte del éter, usemos este regalo para difundir su gloria".
+AET_hellfire_forge_idea:0 "La Forja del Fuego Infernal"
+AET_hellfire_forge_idea_desc:0 "Un pináculo del genio del Dark Mechanicus, Hellfire Forge es prácticamente una fábrica automatizada capaz de producir casi cualquier cosa a un ritmo rápido, siempre que, por supuesto, reciba suficientes sacrificios".
+AET_raise_dead_idea:0 "Los muertos servirán"
+AET_raise_dead_idea_desc:0 "¡El hecho de que tu carne sea débil no significa que tu servicio al Padre Maar pueda terminar!"
+AET_madness_and_despair:0 "Visiones de la locura"
+AET_madness_and_despair_desc:0 "Visiones de locura, muerte y destrucción plagan los momentos de vigilia y sueño de nuestros soldados haciendo la guerra mucho más difícil".
+AET_the_weak:0 "Elimina a los débiles"
+AET_the_weak_desc:0 "No todos son aptos para servir al Padre Maar al menos en este ámbito. Por lo tanto, tendremos que encontrar un mejor uso para ellos en el próximo".
+AET_blessing_of_war_god:0 "Bendición de la guerra"
+AET_blessing_of_war_god_desc:0 "" Padre Maar, bendito sea tu nombre, \ nconcédenos fuerza y ​​coraje, \ npara que podamos vencer a nuestro enemigo, \ npara dar gloria a tu templo ".
+AET_blessing_of_production_god:0 "Bendición de la diligencia"
+AET_blessing_of_production_god_desc:0 "" Todas las alabanzas sean para Maar, \ nEl que hcomo se nos han dado almas, \ nte expresamos nuestra devoción, \ nque Él acepte nuestros dones de trabajo "."
+
+### Modificadores de opiniones ###
+AET_diplomacy:0 "Diplomacia greifwaldiana"
+AET_industry_pos:0 "Vínculos económicos"
+AET_industry_neg:0 "Industriales despreciados"
+AET_helped_us_out:0 "Nos ayudó"
+jurados_enemigos:0 "Enemigos jurados"
+
+### Etiquetas cosméticas ###
+AET_makhno_communism:0 "Territorio libre de Griffonian"
+AET_makhno_communism_DEF:0 "El Territorio Libre Griffonian"
+AET_makhno_communism_ADJ:0 "Griffonian"
+AET_imperium_fascism:0 "Imperio de Maar"
+AET_imperium_fascism_DEF:0 "El Imperio de Maar"
+AET_imperium_fascism_ADJ:0 "Imperial"
+
+### Información sobre herramientas de efectos personalizados ###
+AET_poverty_removal:0 "Elimina gradualmente el §YPoverty§! National Spirit"
+AET_knights_tooltip:0 "¡Genera §YDos Divisiones de Caballeros Greifwaldianos§!"
+AET_game_over:0 "Tomar este enfoque resultará en un juego terminado"
+AET_susurros:0 "¡El Prelado empieza a oír §Rsusurros§! ..."
+AET_possessed_tanks_tp:0 "¡Genera §YThree Hellfire Engine§! Divisiones"
+AET_daemons_tp:0 "¡Genera §YTres Demonios Maar§! Divisiones"
+AET_attacking_nations_tp:0 "Cualquier nación atacante recibirá el §YVisions of Madness§! Espíritu nacional"
+AET_father_maar:0 "Tomar este enfoque permitirá que §YMaar§! Se manifieste"
+
+### Banderas de países ###
+AET_maar_listens:0 "Maar está escuchando"
+AET_changeling_friends:0 "Un cambio de ritmo"
+AET_maar_sacrifice:0 "Sacrificio reciente de Maarite"
+
+###Rasgos###
+archon_maar:0 "Arconte de Maar"
+archon_maar_desc:0 "El Dios grifo del asesinato, la crueldad y el mal habla a través de este individuo".
+
+### Decisiones ###
+AET_maarite_sacrifice_category:0 "Favor de Maarite"
+AET_maarite_sacrifice_category_desc:0 "Con la frontera entre el reino espiritual y el material siendo desgarrada por la influencia de Maar, podemos pedir al Padre que nos dé varios dones, si le proporcionamos los sacrificios apropiados".
+ #AET_raise_dead:0 "Levanta a los muertos" # Duplicado diferente de Eaw
+AET_hellfire_forge_guns:0 "Armas de Maarite"
+AET_maarite_blessing:0 "Sacrificio masivo"
+AET_maarite_blessing_of_war:0 "Bendición de la guerra"
+AET_maarite_blessing_of_production:0 "Bendición de la producción"
+changeling_friends_category:0 "Nuevos amigos"
+changeling_friends_category_desc:0 "Con la derrota de Changeling Queendom, muchos de sus más grandes pensadores, líderes militares e industriales prominentes se han encontrado en el exilio ... pero donde otros ven criminales y vagabundos ... vemos una oportunidad, y todo lo que necesitamos para aprovecharlo es hacer la vista gorda ".
+changeling_friends:0 "Haz la vista gorda"
+
+### Asesores ###
+AET_advisor_1:0 "Saskia Skarmoy"
+AET_advisor_2:0 "Reinhold Grinfeather"
+AET_advisor_3:0 "Albert Garra Verde"
+AET_advisor_4:0 "Thibault Rosewing"
+AET_advisor_5:0 "Elva Smalltail"
+AET_advisor_6:0 "Quentin Taranbeako"
+AET_advisor_7:0 "Hademar Stormbreath"
+AET_advisor_8:0 "Pluma solar de Gunther"
+AET_advisor_9:0 "Landrich Goldplume"
+AET_advisor_10:0 "Alwina Foresttalon"
+AET_advisor_11:0 "Annie Boulle"
+AET_advisor_12:0 "Heinrich Moonfeather"
+AET_advisor_13:0 "Fernand Auguste"
+AET_advisor_14:0 "Lydia Bluecrest"
+AET_advisor_15:0 "Sylvaine Lagarde"
+AET_advisor_16:0 "Jannik Petalbeak"
+AET_advisor_17:0 "Henry Brazier"
+AET_advisor_18:0 "Wingberta Moonwing"
+AET_advisor_19:0 "Jasmin Bonnet"
+AET_advisor_20:0 "Harald Pluma de niebla"
+AET_advisor_21:0 "Kaspar Hellwing"
+AET_advisor_22:0 "Edouard Lussier"
+AET_advisor_23:0 "Walfried Lightail"
+AET_advisor_24:0 "Hans Garra alta"

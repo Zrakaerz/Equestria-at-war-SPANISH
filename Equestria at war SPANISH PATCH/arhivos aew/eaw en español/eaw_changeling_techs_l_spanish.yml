@@ -1,0 +1,122 @@
+﻿l_spanish:
+ 
+ #### General stuff
+changeling_folder:0 "Tecnologías de cambio"
+  changeling_folder_desc:0 "Tecnologías mágicas, industriales y militares específicas de la raza cambiante".
+  TITLE_CHANGELING_JAGER_SUBTITLE:0 "INFANTERÍA LIGERA"
+  TITLE_CHANGELING_DEVELOPMENT_SUBTITLE:0 "I + D DE GUERRA"
+ ME_INFILTRATOR_TOOLTIP:0 "\n£unit_infiltrator_company_icon_small Infiltrator Company will require §YMagical Infantry Equipment§! instead of §YInfantry Equipment§!"
+ 
+#### Título de la carrera de Changeling
+ changeling_race:0 "Raza cambiante"
+ 
+ #### Drones
+ tech_changeling_a:0 "Drones de fábrica especializados"
+ tech_changeling_a_desc:0 "Nuestros drones necesitan ser entrenados para tareas especializadas, deberíamos investigar cómo mejorar a nuestros trabajadores. Capacitar a una casta de drones de trabajadores específicamente para trabajar en fábricas, con la estructura física y las técnicas adecuadas para usar en el lugar de trabajo".
+ 
+ tech_changeling_a2:0 "Drones mineros especializados"
+ tech_changeling_a2_desc:0 "Nuestros drones deben estar capacitados para tareas especializadas, debemos capacitar más a nuestros trabajadores. Debemos capacitar a una casta de drones mineros con el objetivo de aumentar la producción de recursos crudos en las minas. Los trabajadores capacitados tendrán caparazones más duros de una dieta especial y una mayor resistencia para turnos subterráneos más largos ".
+ 
+ tech_changeling_a3:0 "Drones de ingenieros especializados"
+ tech_changeling_a3_desc:0 "Nuestros drones necesitan ser entrenados para tareas especializadas, deberíamos comenzar a entrenar a nuestras tropas para tareas de ingeniería especializadas. Necesitamos ingenieros de combate dedicados para construir fortificaciones temporales para los soldados en las líneas del frente. Un régimen de entrenamiento más duro y estricto debería dar estos ingenieros tienen la fuerza que necesitan para levantar defensas más rápido de lo habitual ".
+
+ #### Árbol de amor
+ tech_changeling_b:0 "Extracción de amor"
+ tech_changeling_b_desc:0 "Extraer amor de otra criatura viviente, normalmente un pony, es un proceso natural para un cambiante. Para satisfacer las crecientes demandas de una nación en crecimiento, la magia natural involucrada en el proceso se puede mejorar mediante la investigación".
+ 
+ tech_changeling_b2:0 "Refinación del amor"
+ tech_changeling_b2_desc:0 "La guerra no genera mucho amor entre las razas del mundo. Para sobrevivir y luchar en guerras prolongadas, debemos encontrar la manera de aprovechar al máximo todo el amor que podamos cosechar".
+ 
+ tech_changeling_b3:0 "Técnicas avanzadas de reproducción"
+ tech_changeling_b3_desc:0 "Un exceso de amor significa más cambiantes. Podemos buscar métodos para hacer más cambiantes; estos métodos pueden enseñarse a la población en general. Pero primero, nuestras hipótesis deben ser 'probadas' en algunos miembros dispuestos de nuestra ciencia. división."
+ 
+ #### Militar
+ tech_changeling_c:0 "Warwarms"
+ tech_changeling_c_desc:0 "Un Warwarm es un grupo de cambiantes que han formado una unidad para hacer un agujero en el frente de los enemigos. Son una unidad versátil de cambiantes con la capacidad de causar estragos en el campo de batalla."
+ 
+ tech_changeling_c2:0 "Aditivos mágicos para combustible"
+ tech_changeling_c2_desc:0 "Las mejoras en la tecnología del combustible y las innovaciones mágicas han llevado al desarrollo de combustible mejorado mágicamente para nuestros vehículos. Nuestros vehículos terrestres han experimentado un aumento general en su velocidad, mientras que nuestro departamento de aviación ha visto mejores tasas de giro y una mayor aceleración de sus aviones ".
+ 
+ tech_changeling_c3:0 "Municiones mágicas"
+ tech_changeling_c3_desc:0 "Las municiones mejoradas mágicamente son el siguiente paso natural que debemos dar. Se puede empaquetar más poder explosivo en los proyectiles de artillería, lo que hace que nuestras operaciones de bombardeo sean más eficientes. Las municiones mágicas también mejoran el potencial letal y de penetración de los cañones la fuerza aérea utilizar en sus aviones ".
+ 
+ #### Título de infiltrado
+ infiltrator_company:0 "Empresa infiltrada"
+ #### Infiltrado
+ tech_infiltrators:0 "Compañía de infiltrados"
+ tech_infiltrators_desc:0 "The Infiltrator Company es un pequeño grupo de cambiantes entrenados específicamente para infiltrarse tanto en las líneas enemigas como detrás de las líneas enemigas. Esto es tanto para proporcionar inteligencia sobre los movimientos enemigos como para interrumpir sus capacidades".
+ 
+ ## Ruta estratégica: modificadores de país
+ tech_infiltrators_di:0 "Infiltración estratégica"
+ tech_infiltrators_di_desc:0 "Al favorecer la infiltración a gran escala, la doctrina de la infiltración estratégica permitirá a las empresas de infiltración reprimir de forma encubierta a grupos rebeldes de individuos. También detalla la forma correcta de explorar al enemigo".
+ 
+ tech_infiltrators_di2:0 "Capa de camaleón"
+ tech_infiltrators_di2_desc:0 "El desarrollo de capas mágicamente encantadas que pueden ayudar a ocultar la identidad de un infiltrado cambiante disfrazado u oculto. Estas capas también permiten a los soldados mezclarse con el terreno, no lo suficientemente bueno para engañar a un pony en el suelo pero lo suficientemente bueno como para esconderse en su mayoría ellos del apoyo aéreo enemigo ".
+ 
+ tech_infiltrators_di3:0 "Redes de espías"
+ tech_infiltrators_di3_desc:0 "El establecimiento de redes de espionaje en naciones de todo el mundo permitirá una mejor recopilación de inteligencia sobre los planes de las naciones locales o rivales. Una red de espías más local suprimiría cualquier grupo de partisanos que intenten organizarse en el territorio que ocupamos".
+ 
+ tech_infiltrators_di4:0 "Suplantación de identidad masiva"
+ tech_infiltrators_di4_desc:0 "La suplantación masiva de individuos en las naciones nos permitirá realizar actividades subversivas a un costo reducido. Con más cambiantes disfrazados para llevar a cabo planes, más fácil se vuelve organizar tramas de subterfugio en otros países".
+ 
+tech_infiltrators_di_lar:0 "Infiltración estratégica"
+tech_infiltrators_di_lar_desc:0 "Al favorecer la infiltración a gran escala, la doctrina de la infiltración estratégica permitirá a las empresas de infiltración reprimir de forma encubierta a los grupos rebeldes de individuos. También detalla la forma correcta de explorar al enemigo".
+
+tech_infiltrators_di2_lar:0 "Capa de camaleón"
+tech_infiltrators_di2_lar_desc:0 "El desarrollo de capas mágicamente encantadas que pueden ayudar a ocultar la identidad de un infiltrado cambiante disfrazado u oculto. Estas capas también permiten a los soldados mezclarse con el terreno, no lo suficientemente bueno para engañar a algún pony en el suelo pero lo suficientemente bueno como para esconderse en su mayoría ellos del apoyo aéreo enemigo ".
+
+tech_infiltrators_di3_lar:0 "Redes de espías"
+tech_infiltrators_di3_lar_desc:0 "El establecimiento de redes de espionaje en naciones de todo el mundo permitirá una mejor recopilación de inteligencia sobre los planes de las naciones locales o rivales. Una red de espías más local suprimiría cualquier grupo de partisanos que intenten organizarse en el territorio que ocupamos".
+
+tech_infiltrators_di4_lar:0 "Suplantación de identidad masiva"
+tech_infiltrators_di4_lar_desc:0 "La suplantación masiva de individuos en las naciones nos permitirá realizar actividades subversivas a un costo reducido. Con más cambiantes disfrazados para llevar a cabo planes, más fácil se vuelve organizar tramas de subterfugio en otros países".
+
+## Ruta táctica: mejoras para los infiltrados
+ tech_infiltrators_si:0 "Infiltración táctica"
+ tech_infiltrators_si_desc:0 "Al favorecer las decisiones rápidas y los efectos inmediatos, la doctrina de la infiltración estratégica permitirá a las empresas de infiltración actuar de forma más eficiente en el campo de batalla".
+ 
+ tech_infiltrators_si2:0 "Inserción dirigida"
+ tech_infiltrators_si2_desc:0 "Las empresas de infiltrados necesitarán alcanzar sus objetivos de manera rápida y eficiente. Deben ser expertos en la planificación de incursiones en territorio enemigo y, por lo tanto, más rápido para completarlos, listos para ser utilizados".
+ 
+ tech_infiltrators_si3:0 "Caos, confusión, ocultación"
+ tech_infiltrators_si3_desc:0 "Las compañías de infiltrados cambiantes deben estar capacitadas para sembrar el caos en las líneas del frente y en el campo de batalla. Además, debemos buscar formas de resistir mejor a los posibles conquistadores".
+ 
+ tech_infiltrators_si4:0 "Formación en ingeniería social"
+ tech_infiltrators_si4_desc:0 "Para estar a la altura de sus nombres, los escuadrones de infiltrados cambiantes también deben saber cómo actuar como un pony durante las excursiones de reconocimiento. Este entrenamiento los ayudará en la circunstancia de verse obligados a disfrazarse para medir adecuadamente al enemigo antes de una pelea. y ayudarlos con decisiones futuras ".
+ 
+tech_infiltrators_si_lar:0 "Infiltración táctica"
+tech_infiltrators_si_lar_desc:0 "Al favorecer las decisiones rápidas y los efectos inmediatos, la doctrina de la infiltración estratégica permitirá a las empresas de infiltración actuar de forma más eficiente en el campo de batalla".
+
+tech_infiltrators_si2_lar:0 "Inserción dirigida"
+tech_infiltrators_si2_lar_desc:0 "Las empresas de infiltrados necesitarán alcanzar sus objetivos de manera rápida y eficiente. Deben ser expertos en la planificación de incursiones en territorio enemigo y, por lo tanto, más rápido para completarlos, listos para ser utilizados".
+
+tech_infiltrators_si3_lar:0 "Caos, confusión, ocultación"
+tech_infiltrators_si3_lar_desc:0 "Las compañías de infiltrados cambiantes deben estar capacitadas para sembrar el caos en las líneas del frente y el campo de batalla. Además, debemos buscar formas de resistir mejor a los posibles conquistadores".
+
+tech_infiltrators_si4_lar:0 "Formación en ingeniería social"
+tech_infiltrators_si4_lar_desc:0 "Para estar a la altura de sus nombres, los escuadrones de infiltrados cambiantes también deben saber cómo actuar como un pony durante las excursiones de reconocimiento. Este entrenamiento los ayudará en la circunstancia de verse obligados a disfrazarse para medir correctamente al enemigo antes de una pelea. y ayudarlos con decisiones futuras ".
+
+ #### Título de infiltración
+ infiltrator_tech:0 "Tecnología de infiltración"
+ 
+ #### Título de Jager
+ jager_tech:0 "Tecnología Jager"
+ 
+ #### Jager
+ tech_jager:0 "Jagers I"
+ tech_jager_desc:0 "Los jagers son infantería ligera que están entrenados para luchar en combate cuerpo a cuerpo detrás de las líneas enemigas."
+ 
+ tech_jager2:0 "Jagers II"
+ tech_jager2_desc:0 "A los jagers se les proporcionará equipo especializado para la guerra de guerrillas detrás de las líneas enemigas y se les entrenará en la guerra de guerrillas para aumentar su organización en el campo".
+ 
+ tech_jager3:0 "Jagers III"
+ tech_jager3_desc:0 "La estandarización del equipo Jager reducirá las posibilidades de confusión en el campo y facilitará el mantenimiento del equipo".
+ 
+ tech_jager_a:0 "Jagers IV"
+ tech_jager_a_desc:0 "Las unidades de Jager reciben líderes más estrictos, que están entrenados exclusivamente para los escuadrones de Jager. Sabrán cómo manejar el mando de estos escuadrones en el campo de batalla".
+ 
+ tech_jager_b:0 "Jagers V"
+ tech_jager_b_desc:0 "Los jagers pasan por un entrenamiento de escenarios hipotéticos y situacionales. Cada escenario está diseñado a partir de la experiencia en el campo de otros jagers y de la inteligencia obtenida de otras naciones".
+ 
+ tech_jager_c:0 "Jagers VI"
+ tech_jager_c_desc:0 "Los jagers pasan por un entrenamiento muy riguroso para asegurarse de que actúan como una unidad cohesiva y funcional en el campo de batalla o detrás de las líneas enemigas".

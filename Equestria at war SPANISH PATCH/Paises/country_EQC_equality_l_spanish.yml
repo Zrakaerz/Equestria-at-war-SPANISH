@@ -1,0 +1,91 @@
+﻿l_spanish:
+### ENFOCAR ###
+ EQC_memories_of_our_town:0 "Recuerdos de nuestra ciudad"
+ EQC_memories_of_our_town_desc:0 "Blueberry Frost era una fiel seguidora de Starlight Glimmer. Incluso después de que Starlight Glimmer fuera denunciada como un fraude, ella todavía creía en la verdadera igualdad. Con el verdadero significado de Our Town en nuestros corazones y mentes, marchemos hacia adelante como uno solo. y traer igualdad a todos ".
+ 
+ EQC_end_private_ownership:0 "Finalizar la propiedad privada"
+ EQC_end_private_ownership_desc:0 "La propiedad privada es nada menos que una artimaña para dividirnos, destruir estas barreras les daría a todos una posición igual. Un comienzo perfecto para entablar conversación entre nosotros".
+ 
+ EQC_empower_the_farmers:0 "Equalize the Farmers"
+ EQC_empower_the_farmers_desc:0 "Los granjeros y propietarios de estaciones del Outback son conocidos desde hace mucho tiempo por su codicia, ya que trabajan a muerte a muchos neozelandeses por poco dinero. Es hora de mostrarles el error de sus caminos y guiarlos en el camino hacia igualdad."
+ 
+ EQC_abolish_the_bit:0 "Abolir el bit"
+ EQC_abolish_the_bit_desc:0 "Hemos atado nuestras vidas a pedazos de metales y determinamos el valor de una criatura con el sonido de su bolsa. La eliminación de este concepto frívolo liberaría la carga de las criaturas. No tendremos presa a nadie".
+ 
+ EQC_equal_road_distribution:0 "Distribución equitativa de carreteras"
+ EQC_equal_road_distribution_desc:0 "Durante demasiado tiempo, las carreteras y puentes de New Mareland han servido a quienes viven en las ciudades. Es hora de que arreglemos esto construyendo carreteras a todos los pueblos y aldeas de todo el país. Por cada centímetro de asfalto de la ciudad, un pulgada debe ser vertida para todos los demás ".
+ 
+ EQC_equal_work:0 "Trabajos iguales"
+ EQC_equal_work_desc:0 "Todos merecen una oportunidad igual y no dejaremos de lado a las criaturas cuya experiencia no está en las especificaciones del trabajo. Trabajamos por las mismas razones y nadie será menospreciado por el uniforme que usan".
+ 
+ EQC_equality_within_reason:0 "Igualdad dentro de la razón"
+ EQC_equality_within_reason_desc:0 "Reemplazar las cutie marks de todos fue un error. Hay más en la igualdad que la marca en tu flanco".
+ 
+ EQC_equal_healthcare:0 "Equal Healthcare"
+ EQC_equal_healthcare_desc:0 "No podemos poner precio a la vida de una criatura, negarle la ayuda que se merece sería un flaco favor a nuestra causa".
+ 
+ EQC_equal_schools:0 "Escuelas iguales"
+ EQC_equal_schools_desc:0 "Todos los seres, jóvenes y viejos, merecen la mejor educación que puedan recibir. Nos aseguraremos de que todos reciban el apoyo que necesitan para lograr la máxima igualdad de calificaciones".
+ 
+ EQC_equal_workers_rights:0 "Igualdad de derechos laborales"
+ EQC_equal_workers_rights_desc:0 "No existe tal cosa como empleador y empleado. Todos somos iguales. No habrá jefes ya que todos trabajamos juntos en armonía".
+ 
+ EQC_equal_culture:0 "Cultura igualitaria"
+ EQC_equal_culture_desc:0 "El arte, la música, la actuación, estos siempre causan pequeñas disputas sobre cuál es mejor. La única forma de resolver esto es reducirlos a una versión única e igual que todos disfruten por igual".
+ 
+ EQC_equal_luxury:0 "Igualdad de lujos"
+ EQC_equal_luxury_desc:0 "Todo el mundo tendrá el mismo coche, la misma radio, la misma casa, la misma ropa, la misma sonrisa. Nadie se quedará fuera".
+ 
+ EQC_equal_defense_training:0 "Entrenamiento de defensa equitativa"
+ EQC_equal_defense_training_desc:0 "Hay quienes no creen en las alegrías de la igualdad. Todos debemos estar igualmente preparados para proteger nuestra forma de igualdad en caso de que quieran quitárnosla".
+ 
+ EQC_equal_for_all:0 "Igualdad para todos"
+ EQC_equal_for_all_desc:0 "Los grifones de New Mareland se han segregado durante mucho tiempo de nuestra sociedad y viven en jerarquías sociales desiguales y bárbaras. No se puede permitir que este acto de desigualdad se mantenga. Reasentaremos a estos grifos en nuestras ciudades y les mostraremos el amor que es la igualdad. . "
+ 
+ EQC_total_equality:0 "Igualdad total"
+ EQC_total_equality_desc:0 "En Our Nation, todos somos iguales. No nos separa nada más que el nombre. Nuestras cutie marks son una carga, solo causan conflictos. Por lo tanto, recórtelas para tener una vida mejor".
+ 
+ EQC_equality_camps:0 "Campamentos de igualdad"
+ EQC_equality_camps_desc:0 "Recientemente nos hemos encontrado con ponis que creen en las tonterías como individualidad. Estos reaccionarios merecen que se les enseñe que nuestras ideas no se convertirán en una burla".
+ 
+ EQC_equal_population_redistribution:0 "Redistribución equitativa de la población"
+ EQC_equal_population_redistribution_desc:0 "La población de New Mareland se distribuye de forma desigual. Muchos se ven obligados a vivir en apartamentos urbanos reducidos mientras que otros disfrutan de las grandes y abiertas tierras del interior. Resolveremos este problema asegurándonos de que todos los ponis tengan la misma cantidad de tierra llamar a casa ".
+ 
+ EQC_equal_talents:0 "Talento igual"
+ EQC_equal_talents_desc:0 "Cuando alguien es mejor en algo, es desigual y genera celos y descontento. Debemos acabar con cosas como la superación personal. Todos los talentos deben tener la misma habilidad".
+ 
+ EQC_equal_science:0 "Ciencia equitativa"
+ EQC_equal_science_desc:0 "Todos los campos de la ciencia deben recibir la misma atención. No podemos permitir la investigaciónh en un campo para marchar adelante mientras otro campo se queda atrás ".
+ 
+ EQC_equal_conscription:0 "Conscripción igual"
+ EQC_equal_conscription_desc:0 "Por mucho que lo intentemos, hay quienes rechazan la igualdad. Como tal, es deber de todos tomar las armas en defensa de nuestra igualdad. Nadie es demasiado joven o demasiado viejo para marchar en igualdad de condiciones. ejército. Lucharemos codo a codo por un futuro igualitario que todos mantenemos en nuestro corazón ".
+ 
+ EQC_equal_minds_equal_voice:0 "Mentes iguales; Voz igual"
+ EQC_equal_minds_equal_voice_desc:0 "Somos uno. Hablamos como uno. Somos los iguales".
+ 
+ EQC_smile_smile_smile:0 "Sonríe, sonríe, sonríe"
+ EQC_smile_smile_smile_desc:0 "Vivimos en una utopía igual. La tristeza y la miseria son reliquias del pasado. La felicidad y la alegría es todo lo que conocemos ahora, y aquellos que no comparten esta alegría son desiguales y serán alineados. "
+ 
+ EQC_spread_equality:0 "Spread Equality"
+ EQC_spread_equality_desc:0 "Para que el Igualdad se esfuerce, debemos difundirlo por todo el mundo. No existen fronteras en un mundo igual".
+
+ ### IDEAS ###
+ EQC_memories_of_our_town_idea:0 "Recuerdos de nuestra ciudad"
+ EQC_equal_conscription_idea:0 "Conscripción igual"
+ EQC_equal_for_all_idea:0 "Igualdad para todos"
+ EQC_empower_the_farmers_idea:0 "Empoderar a los agricultores"
+ EQC_equal_healthcare_idea:0 "Equal Helthcare"
+ EQC_equal_workers_rights_idea:0 "Igualdad de derechos de los trabajadores"
+ EQC_equal_luxury_idea:0 "Igualdad de lujos"
+ EQC_equal_defense_training_idea:0 "Entrenamiento de defensa equitativa"
+ EQC_equality_camps_idea:0 "Campamentos de igualdad"
+ EQC_equal_population_redistribution_idea:0 "Redistribución equitativa de la población"
+ EQC_equal_talents_idea:0 "Asignaciones de trabajo sin talento"
+ EQC_equal_minds_equal_voice_idea:0 "Propoganda Igualitaria"
+ EQC_spread_equality_idea:0 "Difundir la igualdad"
+ 
+ ### EVENTOS ###
+ 
+ ### DECISIONES ###
+ EQC_spread_equality_decisions:0 "Difundir la igualdad"
+ EQC_spread_equality_to_neighbour:0 "Difundir la igualdad a [From.GetNameDef]"

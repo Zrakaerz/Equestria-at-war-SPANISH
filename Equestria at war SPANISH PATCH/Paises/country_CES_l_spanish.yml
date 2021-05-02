@@ -1,0 +1,198 @@
+﻿l_spanish:
+########## focus localisation ######
+CES_fleet_spawn:0 "¡Genera un §YDestroyer§! En Stableside."
+CES_wartime_farms_idea:0 "Granjas en tiempo de guerra"
+CES_planes_tlp:0 "¡Genera un §YFighter Squadron§! En [86.GetName]"
+CES_tank_army_tlp:0 "¡Genera un §Y Regimiento de tractores blindados§! En Stableside."
+CES_defenses_stableside:0 "Defensa de Stableside"
+CES_defenses_stableside_desc:0 "Incluso mientras hablamos, Stableside yace indefenso contra las hordas de cultistas. Hay más de un millón de personas viviendo en esa ciudad. Debemos erigir defensas, sin importar cuán descuidadas sean, para mantenerlas a salvo".
+CES_mobilized_trade_fleet:0 "Movilización de la flota comercial"
+CES_mobilized_trade_fleet_desc:0 "Desde que Stableside se convirtió en un importante centro comercial, muchas embarcaciones oceánicas han atracado allí. Con la guerra en el sur en pleno apogeo y nuestras fuerzas aisladas en la costa, deberíamos atraer a la flota comercial de Stableside a unirse a la guerra por la libertad. El Monitor CSS formará la columna vertebral de nuestra nueva marina ".
+CES_lookout:0 "Mirador"
+CES_lookout_desc:0 "Estamos esparcidos y desplazados por la tierra. La llama de la armonía arde, pero arde en pedazos. Para mantener estas brasas a salvo, cientos de aventureros atrevidos y un capítulo de caballeros han dado un paso adelante. Deberán vigilar las fronteras en busca de la enemigo, y mantendrá a salvo la armonía ".
+CES_lookout_tlp:0 "¡Genera §YSis divisiones de infantería§!.\n"
+CES_our_little_dockyard:0 "Nuestro pequeño astillero"
+CES_our_little_dockyard_desc:0 "Si bien la movilización de la flota comercial ayuda un poco, todavía tenemos que reponer las pérdidas sufridas por nuestra armada en combate. Van Drake solo puede salvar algo después de una batalla, por lo que debemos construir un nuevo dique seco para construir barcos nuevos ".
+CES_naval_production:0 "Para nuestra pequeña marina"
+CES_naval_production_desc:0 "Stableside tiene una historia única en el diseño de barcos. Mientras tengamos el control de nuestros propios asuntos, es mejor que usemos las innovaciones locales en lugar de depender de los descartes de otras naciones. la amnesia en nuestra armada seguramente disminuirá ".
+CES_resources_overseas:0 "Recursos del extranjero"
+CES_resources_overseas_desc:0 "¡Por fin! Nos las arreglamos para ponernos en contacto con una flota de transporte civil de Equestria, y también es grande. Se ofrecen a llevar suministros para nosotros a cambio de un puerto seguro. Tomará un tiempo para una flota de ese tamaño para colarse en Stableside, por lo que deberíamos comenzar de inmediato ".
+CES_buy_weapons:0 "Comercio de armas"
+CES_buy_weapons_desc:0 "Necesitamos armas, y otras naciones las tienen. Sin embargo, no somos bárbaros, y Daring Do y su grupo de arqueólogos aventureros han presentado piezas de sus colecciones personales para financiar la compra de armas. Enviaremos las mejores yeguas con estos artefactos en todo el mundo para asegurar armas para la causa ".
+CES_hire_mercenaries:0 "Mercenarios"
+CES_hire_mercenaries_desc:0 "Caballeron hizo un uso extensivo de los mercenarios durante su ascenso al poder, pero el ascenso de ciertas compañías compuestas por los más bajos de los más bajos ha dejado a otras en el polvo. Alrededor de Saltmane, muchos mercenarios, bandidos y contrabandistas "Al ofrecerles contratos y una causa noble, podemos obtener nuevos reclutas y evitar cualquier problema potencial de su presencia".
+CES_air_fields:0 "Aeródromo de Stableside"
+CES_air_fields_desc:0 "Nuestros aviones necesitan un lugar para despegar y aterrizar. Gracias al uso extensivo de métodos de tala de bosques en Rainylowlands, loon podremos construir un aeródromo para permitir el uso de aviones de ala fija. Ahora, ¿alguien aquí sabe cómo? volar un avión sin que se estrelle? "
+CES_our_aircrafts:0 "Voluntarios de Cropduster"
+CES_our_aircrafts_desc:0 "En el duro terreno del sur, el polvo de cultivos, o la aplicación aérea, como se conoce técnicamente, es el medio principal por el cual los agricultores aislados pueden obtener los pesticidas y fertilizantes necesarios para alimentar a sus familias. Contra los piratas del cielo y los horrores naturales, estos temerarios asaltantes han demostrado su valía. Ahora debemos recurrir a estos héroes de los cielos para que nos mantengan a salvo y despejen los cielos una vez más ".
+CES_defend_saltmane:0 "Defensas de Saltmane"
+CES_defend_saltmane_desc:0 "Saltmane está aislado, pero sigue siendo un frente vital. Con las lecciones aprendidas reuniendo las defensas alrededor de Stableside, Lauriel Craft cree que puede erigir defensas aún más fuertes en Saltmane para defender ese frente".
+CES_push_the_darkness:0 "Empuja la oscuridad"
+CES_push_the_darkness_desc:0 "¡Nosotros somos los buenos, ellos son los malos! Durante tanto tiempo los que conforman el Estado Celestial sin esa certeza moral, pero ese ya no es el caso. Debemos abrazar nuestros roles como héroes y ascender a un nivel más alto, porque estamos luchando por la luz ".
+CES_military_government:0 "Gobierno militar"
+CES_military_government_desc:0 "Ya no somos un partido de arqueólogos aventureros, ya no somos una resistencia desorganizada, ya no somos los más débiles, somos un ejército de la luz íntegro y disciplinado. Es hora de que empecemos a gobernar así".
+CES_illegitimate_state_BAL:0 "Baltimare ilegítimo"
+CES_illegitimate_state_BAL_desc:0 "Baltimare es una guarida repugnante desocialistas inmundos, comunistas inmundos y sindicalistas inmundos. Son una afrenta a todo lo ecuestre, y hay que depurarlos. Sin embargo, es probable que no se metan en las tinas voluntariamente, así que primero tendremos que conquistar la tierra ".
+CES_approach_baltimare:0 "Aproximación a Baltimare"
+CES_approach_baltimare_desc:0 "Baltimare es una ciudad limpia y bien arreglada llena de gente razonable. Es aceptable que formemos una alianza con ellos contra los enemigos que nos amenazan a ambos".
+CES_night_guards:0 "Guardias nocturnos"
+CES_night_guards_desc:0 "Los regimientos de la Guardia Nocturna de la Guardia Real Ecuestre han sido destripados y difamados por la rebelión de Nightmare Moon, pero podemos traerlos de regreso para ayudarnos en este conflicto. Negar a los ponis murciélagos oa cualquier otra persona el derecho a luchar por la causa de la rectitud basada en su tribu o afiliaciones pasadas sería inconcebible, y además, necesitamos las armas que nos vigilen las espaldas ".
+CES_our_cause:0 "Nuestra causa"
+CES_our_cause_desc:0 "Nuestra causa es justa, y nuestra causa es justa, pero si no sabemos por qué, seguramente caeremos en la misma oscuridad que ha acosado al resto del mundo. Henry Diamonds se ha ofrecido a realizar una gira de conferencias en refuerce la causa, y si tiene éxito, todos seremos mejores para ella ".
+CES_heroic_history:0 "Historia heroica"
+CES_heroic_history_desc:0 "" Fue el amanecer de la tercera edad de los ponykind, el año en que la Gran Guerra nos sobrevino a todos. No éramos más que seis arqueólogos y un actuario varados en las selvas del sur cuando una terrible guerra civil se apoderó de la tierra, pero fue sobre nuestros hombros que el destino de millones vendría a descansar. No creo que ninguno de nosotros supiera en lo que nos estábamos metiendo, que era una situación con la que todos estábamos muy familiarizados "".
+CES_prepare_the_offense:0 "Preparar la ofensa"
+CES_prepare_the_offense_desc:0 "Ahora que los Disciples of Nightmare Moon han sido neutralizados, es hora de que nos unamos a Equestria para luchar contra su amante oscura".
+CES_tractor_army:0 "Tractor-Tanques"
+CES_tractor_army_desc:0 "Es un hecho de la guerra moderna que el tanque es uno de los activos más valiosos en el campo de batalla, pero el Estado Celestial no tiene nada de lo que hablar. Un tipo local llamado Sempleton afirma que convirtió los tractores de los granjeros en vehículos de batalla blindados usando los planos impresos en una postal de Equestria. Vale la pena intentarlo, ¿verdad?
+CES_doctrine_research:0 "Doctrine Research"
+CES_doctrine_research_desc:0 "Hemos aprendido mucho sobre la guerra en los últimos meses, y es hora de que lo apliquemos para mejorar nuestra doctrina de guerra terrestre. Nuestro fiel amigo Quibble Pants teoriza que puede obtener al menos dos innovaciones de los datos disponibles".
+CES_swamp_production:0 "Swamp Productions"
+CES_swamp_production_desc:0 "Con la Selva Central liberada de la ocupación enemiga, podemos contratar las fábricas de pantanos para que nos produzcan armas. Solo necesitaríamos construir la infraestructura necesaria para realizar nuestras compras".
+CES_weapon_modernization:0 "Modernización de armas"
+CES_weapon_modernization_desc:0 "Mientras nos quedamos varados en la jungla, la tecnología de armas pequeñas ha avanzado. Es hora de que empecemos a ponernos al día para que no nos dejen atrás las armas de nuestro enemigo".
+CES_military_factory:0 "Ponis para el frente"
+CES_military_factory_desc:0 "Las yeguas y los sementales del sur deben unirse para apoyar a los soldados y especialistas en el frente, o eso dice el cartel de reclutamiento en la pared de la fábrica. ¡Vamos, todos! ¡Podemos hacerlo!"
+CES_military_potential:0 "Potencial militar"
+CES_military_potential_desc:0 "Una buena fábrica requiere un buen sistema de trabajo. Después de sondear las profundidades de una ruina local, Daring Do ha aparecido con un documento detallado que, según Quibble Pants, es la base para una forma completamente nueva de producir cosas en masa. Nosotros debe implementar estas ideas de inmediato! "
+CES_military_industry:0 "Armas para los combatientes"
+CES_military_industry_desc:0 "Gracias a una pequeña influencia de DiCaprio, deberíamos poder poner en funcionamiento otra fábrica para fabricar equipos para nuestros combatientes en el campo".
+CES_approach_dragons:0 "Ayuda de dragones"
+CES_approach_dragons_desc:0 "Los Dragones perdieron territorio cuando estalló la guerra civil y las fuerzas de la Pesadilla quedaron perdidas. Quizás les gustaría una pequeña venganza, a cambio de ayudarnos".
+CES_open_goods_factory:0 "Fábrica de productos"
+CES_open_goods_factory_desc:0 "Dian Diamonds ha estado abogando por la apertura de una nueva fábrica de bienes civiles recientemente, diciendo que los medios de vida de los ponis no pertenecen a un museo. Bueno, con un llamamiento como ese, ¿cómo podemos negarnos?"
+CES_wartime_farms:0 "Granjas en tiempos de guerra"
+CES_wartime_farms_desc:0 "Con la guerra en pleno auge, nuestras granjas han caído en asaltos más veces de las que nos gustaría admitir. Al darles a los agricultores armas y guardias podemos evitar problemas con el cultivo y, por lo tanto, liberar a las agencias de adquisición y recolección de recursos para que se concentren en otras tareas. Veamos que esos bandidos se escapan como bandidos cuando constantemente están reparando agujeros de bala ".
+CES_infiltration_of_JUN:0 "Infiltración de las selvas"
+CES_infiltration_of_JUN_desc:0 "Los nativos son nuestros amigos, y Caballeron los ha estado explotando para su propio beneficio. Es hora de que nos colamos y pongamos fin a su locura".
+CES_civilian_factory:0 "Fábrica de hormigón WWW"
+CES_civilian_factory_desc:0 "Con nuestra nueva imprenta en línea podemos crear tantos permisos de construcción como queramos, comenzando con WWW Concrete Company y su deseo de abrir una nueva fábrica para asuntos civiles".
+CES_printing_press:0 "¡Extra! ¡Extra! ¡Lea todo sobre esto!"
+CES_printing_press_desc:0 "¡Los Discípulos están muertos! Debemos hacer correr la voz por todas partes que las pesadillas se han ido y que sus malvados compatriotas pronto seguirán. Una nueva imprenta ayudará en ese esfuerzo, porque si la pluma es más poderosa que la espada, que la imprenta puede derribar ejércitos ".
+CES_stableside_roads:0 "Stableside Roads"
+CES_stableside_roads_desc:0 "Todo Equestria carece de infraestructura, esto se sabe. Sin embargo, la situación es especialmente mala en el sur. Ahora que nuestro enemigo de pesadilla ha sido vencido, deberíamos empezar a corregir ese problema".
+CES_future:0 "El futuro"
+CES_future_desc:0 "Misión completada. Hemos cumplido con nuestro deber y salvamos el día. Ahora lo único que queda por hacer es decidir a dónde ir. ¿Continúa el Estado Celestial como gobierno regional o se integra completamente ¿De regreso a Equestria? Creo que es hora de que te preguntes:¿en qué crees? "
+CES_acclimatization:0 "Aclimatación"
+CES_acclimatization_desc:0 "Después de meses y meses interminables de lucha en la jungla, nuestra resistencia finalmente ha recibido las duras lecciones de la guerra en la jungla en todos los niveles. Es hora de que pasemos esas lecciones para que nunca más suframos para que nuestros sucesores no sufran tanto. tenemos."
+CES_prepare_the_offense_2:0 "¡Daybreaker es nuestra emperatriz!"
+CES_prepare_the_offense_2_desc:0 "Comenzamos esta guerra peleando por Celestia la yegua. No importa cómo se llame ahora, es a ella a quien somos leales".
+CES_not_prepare_the_offense_2:0 "¡La verdadera armonía!"
+CES_not_prepare_the_offense_2_desc:0 "Comenzamos esta guerra luchando por Harmony, ¡la idea! No importa quién era antes, la Emperatriz Daybreaker se ha convertido en una tirano, y debemos oponernos a ella. Podríamos morir enfrentándose a ella, pero si lo hacemos entonces morimos libres! "
+CES_protect_the_jungle:0 "Proteger el Sur"
+CES_protect_the_jungle_desc:0 "Nuestra influencia detendrá a Daybreaker, pero antes de eso, mantendremos la línea. Debemos proteger al Sur del Imperio Solar, porque si fallamos, seguramente millones morirán. El día del destino está aquí".
+##### IDEAS ####
+CES_disorganized:0 "Resistencia desorganizada"
+CES_fight_for_light:0 "Luchando por la luz"
+CES_fight_for_light2:0 "Luchando por la luz"
+CES_night_gurads:0 "Guardias nocturnos"
+CES_acclimatization_idea:0 "Aclimatación"
+ #CES_wartime_farms_idea:0 "Granjas en tiempo de guerra" # Duplicado idéntico de Eaw
+CES_military_potential_idea:0 "¡Todos por el frente!"
+ #CES_printing_press:0 "Agencia de noticias Stableside" # Duplicado diferente de Eaw
+Quibblepants:0 "Quibble Pants"
+dicaprio:0 "DiCapriyo"
+BAL_CES_cooperation:0 "Acuerdo Stableside-Baltimare"
+infilatration_of_jun_ces:0 "¡Genera §YSix unidades de infantería pequeña§! en las selvas"
+stableside_navy_tlp:0 "La empresa naval de Stableside estará disponible"
+night_guard_reigments_spawn_tlp:0 "¡Genera §YTres Divisiones Pegasi de Guardia Nocturna§!"
+CES_whooves:0 "Señor Whooves"
+CES_celery:0 "Apio"
+CES_airchief_henry:0 "Henry"
+CES_tiger_eyes:0 "Ojos de tigre"
+CES_swift_justice:0 "Justicia rápida"
+CES_lesa_flare:0 "Lesa Flare"
+CES_itzcoatl:0 "Itzcoatl"
+CES_permittivity:0 "Permitividad"
+ #CES_stableside_roads:0 "Stableside Roads" # Duplicado idéntico de Eaw
+stableside_naval_company:0 "Stableside Tradition Co"
+CES_old_factory:0 "Fábrica militar obsoleta"
+CES_old_factory_desc:0 "La fábrica de armas en Stableside ha estado en uso durante 20 años, pero el equipo no se ha actualizado en la última década".
+CES_disorganized_2:0 "Nación dividida"
+CES_disorganized_2_desc:0 "Los partidarios de la verdadera armonía han organizado varios clubes y organizaciones de resistencia. Quién sabe, podrían convertirse en una amenaza para el sistema actual".
+CES_disorganized_3:0 "Nación dividida"
+CES_disorganized_3_desc:0 "Los partidarios del Solar Empire han organizado varios clubes y organizaciones para oponerse a la política de neutralidad de Daring Do. No son tan numerosos, pero podrían convertirse en una amenaza en el futuro".
+sturdy_stable_factory:0 "Industrias robustas y estables"
+astimare_concern:0 "ASTIMARE"
+sierra_caballo_mining_company:0 "Compañía Minera Sierra Caballo"
+tenochtitlan_university:0 "Universidad de Tenochtitlan"
+shooting_horn_labs:0 "" Shooting Horn "Lab"
+baltimare_united:0 "Servicios profesionales, científicos y técnicos" Baltimare United ""
+blue_mare_motors:0 "Blue Mare Motors"
+saltlickingham_ground:0 "Laboratorios del sitio de prueba de pezuña blanca"
+heavy_wings:0 "Alas pesadas"
+vanilla_wings:0 "Nubes de vainilla"
+phantom_factory:0 "" Phantom "Machinery Works"
+CES_uphold_harmony:0 "Defender la armonía"
+CES_uphold_harmony2:0 "Mantener la armonía"
+### eventos #####
+daring.1.t:0 "¡Mercenarios!"
+atrevido.1.d:0"En la frontera con Jungle Nation, pudimos contactar con algunos de los grupos de bandidos independientes de las selvas. No parecía gustarles su nuevo entorno y querían restaurar la pacífica Equestria de antes de la guerra nuevamente. Con una promesa de amnistía y una paga humilde, acordaron unir fuerzas con nosotros en la lucha contra Nightmare Moon y Caballeron Junta ".
+atrevido.1.a:0 "¡De nada!"
+CES_bandits_arrive_in_saltmane:0 "Los regimientos de bandidos llegan a Saltmane"
+daring.2.t:0 "Solicitud de ayuda material"
+daring.2.d:0 "Estamos listos para enviar varios enviados al extranjero y solicitar a nuestros aliados potenciales que nos proporcionen el equipo necesario".
+atrevido.2.a:0 "Hagámoslo".
+daring.3.t:0 "Ayuda material para el estado celestial"
+daring.3.d:0 "Hemos recibido una nota de [CES.GetNameDef], piden apoyo en su lucha contra las fuerzas oscuras en la jungla".
+daring.3.a:0 "Envíeles una buena porción de equipo".
+daring.3.e:0 "Envíeles algún equipo de infantería".
+daring.3.b:0 "No podemos escatimar nada".
+daring.3.c:0 "La carta llegó demasiado tarde".
+daring.4.t:0 "Material de apoyo"
+daring.4.d:0 "Recibió una carta de [From.GetNameDef], ¡están dispuestos a apoyarnos en nuestra causa!"
+atrevido.4.a:0 "¡Genial!"
+daring.5.t:0 "¡El enemigo ha sido sacudido!"
+daring.5.d:0 "Múltiples informes de soldados enemigos cruzando la frontera han llegado al centro de mando. ¡Daremos la bienvenida a nuestros nuevos hermanos y hermanas con los cascos abiertos, los calentaremos con la luz del sol y les daremos cobijo!"
+daring.5.a:0 "¡Eso es lo que hacen los ponis de armonía!"
+daring.6.t_generic:0 "Enemigo entre nosotros".
+daring.6.t_losing:0 "Soldaduras del desierto".
+daring.6.t_losing_badly:0 "Moral destrozada".
+daring.6.t_losing_no_hope:0 "Muerte o deshonra".
+daring.6.d_generic:0 "De vez en cuando, diferentes regimientos informan de ponis que huyen al otro lado del frente para unirse a los partidarios de Nightmare Moon y luchar contra sus antiguos camaradas".
+daring.6.d_losing:0 "A medida que el enemigo nos empuja de regreso al Stableside, más soldados desertan a la jungla y se unen al enemigo. Algunos ponis informan que vieron a sus amigos disparándoles desde las trincheras y escondites de la jungla".
+daring.6.d_losing_badly:0 "El enemigo se adentra más en nuestro territorio y estamos empezando a perder el control sobre nuestros ejércitos. Cada vez más soldados se unen a [NMS.GetNameDef] para luchar contra nosotros".
+daring.6.d_losing_no_hope:0 "El enemigo está a las puertas de Stableside, más ponis sienten que han elegido el bando equivocado en esta guerra. Sin embargo, no nos desanimaremos. La mayoría de nosotros todavía lucharemos por Armonía y nuestro ¡princesa!"
+atrevido.6.a:0 "Horrible".
+daring.7.t:0 "Alianzas"
+daring.7.d:0 "Al otro lado de las selvas, los combatientes de Baltimare se enfrentan a la oscuridad de Nightmare Moon y sus seguidores. La colaboración para ellos es la clave para terminar esta guerra mucho más rápido".
+atrevido.7.a:0 "Necesitamos esto".
+atrevido.8.t:0 "El futuro del estado celestial"
+daring.8.d:0 "La Guerra Civil ya terminó, decidiremos qué camino vamos a seguir con esto".
+atrevido.8.a:0 "Equestria necesita sus territorios".
+daring.8.b:0 "Quédate como un estado autónomo dentro de Equestria".
+atrevido.9.t:0 "Baltimare rechaza nuestra oferta"
+daring.9.d:0 "Hemos recibido una respuesta de [BAL.GetLeader], se dice que [BAL.GetNameDef] no ve a [CES.GetNameDef] como un aliado potencial. Continuaremos nuestra lucha por separado".
+atrevido.9.b:0 "Bien".
+daring.10.t:0 "El liderazgo dividido"
+daring.10.d:0 "Como nos hemos unido a la mayor parte de la Guerra Civil Ecuestre del lado de [SOL.GetNameDef], Daring Do expresó su descontento con la situación. No desea continuar la guerra inútil y beneficiar a la nueva emperatriz despótica. Ella desea volver a la jungla y prepararse para lo peor, "Como si Nightmare Moon no fuera suficiente. Tenemos que defender nuestra última pieza de armonía en Equestria ", - dijo. Quibble Pants, sin embargo, dice que debemos seguir el camino de la Princesa y desterrar a los seguidores de la Noche de este suelo ecuestre".
+atrevido.10.a:0 "Daring Do es razonable".
+atrevido.10.b:0 "Quibble Pants tiene más sentido".
+daring.11.t:0 "¿Guerra civil en guerra civil?"
+atrevido.11.d:0 "Los partidarios de" True Harmony "han obtenido un apoyo considerable de las masas resentidas. Es evidente que están listas para atacar. Sin embargo, podemos evitar esta guerra civil dentro de una guerra civil dejando que Daring Da un paso atrás y detén las peleas ".
+atrevido.11.a:0 "¡De ninguna manera!"
+daring.11.b:0 "¡Daring Do, vuelve!"
+daring.12.t:0 "[CES.GetNameDef] Pregunta"
+daring.12.d:0 "Dado que la guerra civil terminó, toda la tierra ecuestre se unirá bajo una bandera. [CES.GetNameDef] se integrará en [SOL.GetNameDef] de inmediato".
+daring.12.a:0 "Dales un poco de autonomía".
+daring.12.b:0 "Es hora de que vuelvan al redil".
+daring.13.t:0 "[CES.GetNameDef] ahora es parte de [SOL.GetNameDef]"
+daring.13.d:0 "Desde que la guerra civil finalmente terminó, hemos sido reintegrados a [SOL.GetNameDef]. Dejemos que [SOL.GetLeader] nos guíe hacia un futuro más brillante".
+daring.13.a:0 "¡Viva!"
+daring.14.t:0 "El problema de [CES.GetNameDef]! "
+daring.14.d:0 "El gobierno de Daring Do ha optado por rechazar la realidad y busca defender la" Verdadera Armonía ". Qué tontos de ellos. ¿Realmente creen que pueden desafiar el poder del sol? ¡Armonía a través del orden! ¡Empress Daybreaker es la única luz! "
+daring.14.a:0 "Exigir su subordinación!"
+daring.14.b:0 "Solo puede haber una solución para esto."
+daring.15.t:0 "[SOL.GetNameDef] Exige rendición"
+daring.15.d:0 "La propia Daybreaker se ha dirigido a nosotros y nos ha pedido que nos reunamos con Equestria, o más bien, el Imperio Solar. Como la mayor parte de la guerra civil ha terminado, ahora solo podemos someternos a la voluntad de la Emperatriz afirma Quibble Pants. Sin embargo, si se toma esa decisión, Daring Do, la defensora del llamado Camino de la Verdadera Armonía, dejará su puesto como líder de la resistencia ".
+daring.15.a:0 "¡Verdadera armonía!"
+daring.15.b:0 "¡Emperatriz!"
+daring.16.t:0 "La reintegración de [CES.GetNameDef]"
+atrevido.16.d:0 "Quibble Pants tomó una sabia decisión y se sometió a la voluntad de la gloriosa Emperatriz Daybreaker. El Sur se reintegrará al Imperio Solar y limpiaremos las impías marcas de la guerra civil de la cara de Equestria. ! "
+daring.16.a:0 "Somos vasallos de la Emperatriz".
+daring.16.b:0 "Es hora de gobernar directamente desde Canterlot".
+atrevido.17.t:0 "Celestial State rechaza la proposición"
+daring.17.d:0 "Daring Do ha cometido un gran error al negarse a reintegrar el Estado Celestial en el Imperio Solar. Aparentemente, no ha sufrido lo suficiente en la guerra civil. Solo hay una solución para esto. Declararla traidora y ordenar a nuestros ejércitos que avancen hacia las selvas ".
+daring.17.a:0 "¡Un Sol para gobernarlos a todos!"
+
+stableside_navy:0 "Ha completado el enfoque §YFor Our Little Navy§W"

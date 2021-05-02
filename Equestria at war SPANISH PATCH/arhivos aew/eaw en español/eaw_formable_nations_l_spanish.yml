@@ -1,0 +1,34 @@
+﻿l_spanish:
+
+ ### Tooltips ###
+ form_country_aquileia_coring_states_tt:0 "Gana núcleos en todos §YAquileian§! states.\n"
+ form_country_pridea_coring_states_tt:0 "Gana núcleos en todos §YPridean§! states.\n"
+ form_country_rila_coring_states_tt:0 "Gana núcleos en todos §YRilan§! states.\n"
+ form_country_vinovia_coring_states_tt:0 "Gana núcleos en todos §YVinovian§! states.\n"
+ form_country_westkeep_coring_states_tt:0 "Gana núcleos en todos §YWestkeep§! states.\n"
+ form_country_pomovarra_coring_states_tt:0 "Gana núcleos en todos §YPomovarran§! states.\n"
+ form_country_flowena_coring_states_tt:0 "Gana núcleos en todos §YFlowenan§! states.\n"
+ form_country_adelart_coring_states_tt:0 "Gana núcleos en todos §YAdelart§! states.\n"
+ form_country_greifwald_coring_states_tt:0 "Gana núcleos en todos §YGreifwaldian§! states.\n"
+ form_country_fezera_coring_states_tt:0 "Gana núcleos en todos §YFezeran§! states.\n"
+ form_country_prywhen_coring_states_tt:0 "Gana núcleos en todos §YPrywhenian§! states.\n"
+ form_country_lushi_coring_states_tt:0 "Gana núcleos en todos §YLushian§! states.\n"
+ form_country_gryphia_coring_states_tt:0 "Gana núcleos en todos §YGryphian§! states.\n"
+ form_country_gryphus_coring_states_tt:0 "Gana núcleos en todos §YGryphussian§! states.\n"
+ form_country_tarrin_coring_states_tt:0 "Gana núcleos en todos §YTarrinian§! states.\n"
+ form_country_avian_coring_states_tt:0 "Gana núcleos en todosl §YAvian§! states.\n"
+ form_country_erie_coring_states_tt:0 "Gana núcleos en todos §YErie§! states.\n"
+ 
+ ## Banderas
+ EVI_formed:0 "Commonwealth of Evi Formed"
+
+ ### Decisiones ###
+ form_aquileia_category:0 "Una nueva era para Aquileia"
+ form_aquileia_category_desc:0 "Con los Discretos desaparecidos, la República aplastada y el Mariscal Rodier en el exilio, las tierras de Aquileia están en manos de cualquiera que tenga el poder de reclamarlas".
+ form_aquileia:0 "Restaurar Aquileia"
+ 
+ form_evi:0 "Unificación del valle de Evi"
+ form_evi_desc:0 "Emperador Grover I fue el primer grifo en unir las tierras del Valle de Evi bajo una bandera, pero era un extranjero. Con el colapso del Imperio, el valle se dividió una vez más, pero tal vez un gobernante nativo ambicioso pueda cambiar esto. ¡Que una nueva nación se levante ahora de las cenizas de la guerra, y que los pueblos dispares de Evi se unan por fin! "
+ form_evi_decision:0 "Fundó la Commonwealth Of Evi"
+ move_capital_to_kivessin:0 "Mueve la capital a Kivessin"
+ move_capital_to_kivessin_desc:0 "Kivessin está en el centro de la recién nacida Commonwealth, en una posición ideal para gobernar la nación. También tiene cierto prestigio, siendo la antigua capital del Reino de Brodfeld. Trasladar nuestra capital allí es, por tanto, un buen ocurrencia."

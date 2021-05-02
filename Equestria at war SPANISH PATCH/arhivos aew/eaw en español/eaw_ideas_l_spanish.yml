@@ -1,0 +1,283 @@
+﻿l_spanish:
+primitive_economy:0 "Economía primitiva"
+outlaw_economy:0 "Economía criminal"
+disrupted_communications:0 "Comunicaciones interrumpidas"
+royal_family_imprisoned:0 "Familia real encarcelada"
+royal_family_imprisoned_desc:0 "La princesa Cadance y Shining Armor han sido capturadas y encarceladas por el brutal Rey Sombra. Nuestros ponis esperan salir ilesos y anhelan que nuestros líderes aseguren su libertad, de una forma u otra".
+Society_idea:0 ""
+science_idea:0 ""
+pobreza_idea:0 ""
+analfabetismo_idea:0 ""
+illiteracy_level_idea:0 "Analfabetismo"
+pobreza_level_idea:0 "Pobreza"
+EFFECT_CHANGE_LAW_poverty_level_idea:0 "Change Poverty to '$NAME|Y$' which grants ($DESC$)." 
+EFFECT_CHANGE_LAW_illiteracy_level_idea:0 "Change Illiteracy to '$NAME|Y$' which grants ($DESC$)." 
+EFFECT_CHANGE_LAW_race_pointer:0 "Change Race to '$NAME|Y$'." 
+EFFECT_CHANGE_LAW_society_development_idea:0 "Change Society Development to '$NAME|Y$' which grants ($DESC$)."
+EFFECT_CHANGE_LAW_city_idea:0 "Change Scientific Development to '$NAME|Y$' which grants ($DESC$)."
+eaw_city_ideas:0 "Desarrollo"
+society_development_idea:0 "Desarrollo de la sociedad"
+city_idea:0 "Desarrollo científico"
+everfree_resistance:0 "Resistencia Everfree"
+colectivized_society:0 "Sociedad colectivizada"
+big_science_base:0 "Base científica sustancial"
+big_science_base_desc:0 "Hay muchos científicos talentosos en este país, aunque no tantos como en las naciones más avanzadas del mundo. Sin embargo, contribuyen mucho a la ciencia y participan regularmente en la comunidad global de intelectuales".
+better_science_base:0 "Base científica pequeña"
+better_science_base_desc:0 "Algunos filósofos y académicos de este país cuestionan las concepciones tradicionales de la naturaleza y proponen explicaciones innovadoras sobre cómo funciona el mundo. También participan en debates con colegas intelectuales en el extranjero".
+poor_science_base:0 "Base científica deficiente"
+poor_science_base_desc:0 "Este país tiene muy pocos intelectuales y eruditos, que son principalmente ancianos y sacerdotes. Incluso entonces, se centran principalmente en registrar el conocimiento en lugar de refinarlo o crear algo nuevo".
+correct_science_base:0 "Base científica desarrollada"
+correct_science_base_desc:0 "Las universidades famosas de esta nación son conocidas por haber educado a varias personas excepcionales que han continuado y realizado descubrimientos importantes. Su contribución a la ciencia es apreciada en todo el mundo".
+agrarian_reforms:0 "Reforma agraria"
+pre_industrial_society:0 "Sociedad industrializadora"
+pre_industrial_society_desc:0 "Una sociedad en proceso de revolución industrial. Las nuevas máquinas se importan del extranjero y, a veces, incluso se fabrican en el país, lo que permite una producción de bienes mucho más eficiente. Una burocracia más amplia y un principio de meritocracia mejoran la gobernanza, la economía y la atención médica, permitiendo que la población crezca más. Con menos trabajadores necesarios en las granjas, muchos están emigrando a las ciudades en busca de trabajo en las fábricas recién establecidas. Los terratenientes rurales están perdiendo poder mientras que los comerciantes urbanos lo están ganando rápidamente ".
+pre_industrial_society1:0 "Sociedad industrializadora"
+pre_industrial_society1_desc:0 "Una sociedad en proceso de revolución industrial. Se importan nuevas máquinas del extranjero y, a veces, incluso se fabrican en el país, lo que permite una producción de bienes mucho más eficiente. Una burocracia más amplia y un principio de meritocracia mejoran la gobernanza, la economía y la atención médica permitiendo que la población crezca más. Con menos trabajadores necesarios en las granjas, muchos están emigrando a las ciudades en busca de trabajo en las fábricas recién establecidas. Los terratenientes rurales están perdiendo poder mientras que los comerciantes urbanos lo están ganando rápidamente ".
+pre_industrial_society2:0 "Sociedad industrializadora"
+pre_industrial_society2_desc:0 "Una sociedad en proceso de revolución industrial. Las nuevas máquinas se importan del extranjero y, a veces, incluso se fabrican en el país, lo que permite una producción de bienes mucho más eficiente. Una burocracia más amplia y un principio de meritocracia mejoran la gobernanza, la economía y la atención médica. permitiendo que la población crezca más. Dado que se necesitan menos trabajadores en las granjas, muchos están migrando a las ciudades en busca de trabajo en las fábricas recién establecidas. Los terratenientes rurales están perdiendo poder mientras que los comerciantes urbanos lo están ganando rápidamente ".
+pre_industrial_society3:0 "Sociedad industrializada"
+pre_industrial_society3_desc:0 "Una sociedad en proceso de revolución industrial. Se importan nuevas máquinas del extranjero y, a veces, incluso se fabrican en el país, lo que permite una producción de bienes mucho más eficiente. Una burocracia más amplia y un principio de meritocracia mejoran la gobernanza, la economía y la atención médica permitiendo que la población crezca más. Dado que se necesitan menos trabajadores en las granjas, muchos están migrando a las ciudades en busca de trabajo en las fábricas recién establecidas. Los terratenientes rurales están perdiendo poder mientras que los comerciantes urbanos lo están ganando rápidamente ". # Duplicado idéntico de Eaw
+pre_industrial_society4:0 "Sociedad industrializada"
+pre_industrial_society4_desc:0 "Una sociedad en proceso de revolución industrial. Se importan nuevas máquinas del extranjero y, a veces, incluso se fabrican en el país, lo que permite una producción de bienes mucho más eficiente. Una burocracia más amplia y un principio de meritocracia mejoran la gobernanza, la economía y la asistencia sanitaria permitiendo que la población crezca más. Dado que se necesitan menos trabajadores en las granjas, muchos están migrando a las ciudades en busca de trabajo en las fábricas recién establecidas. Los terratenientes rurales están perdiendo poder mientras que los comerciantes urbanos lo están ganando rápidamente ". # Duplicado idéntico de Eaw
+agrarian_society:0 "Sociedad Agraria"
+agrarian_society_desc:0 "Una sociedad agraria es donde una parte sustancial de la población, alrededor del 90%, se dedica a la agricultura. El campo está dividido en innumerables pequeñas aldeas y pueblos, con solo unos pocos asentamientos urbanos más grandes. Debido a esto, los propietarios rurales ejercen una influencia considerable. Las jerarquías son estrictas y los títulos a menudo se heredan. La producción es responsabilidad de los artesanos que a menudo forman sociedades fraternales, también conocidas como gremios ".
+agrarian_society2:0 "Sociedad Agraria"
+agrarian_society2_desc:0 "Una sociedad agraria es donde una parte sustancial de la población, alrededor del 90%, se dedica a la agricultura. El campo está dividido en innumerables pequeñas aldeas y pueblos, con solo unos pocos asentamientos urbanos más grandes. Debido a esto, los propietarios rurales ejercen una influencia considerable. Las jerarquías son estrictas y los títulos a menudo se heredan. La producción es responsabilidad de los artesanos que a menudo forman sociedades fraternales, también conocidas como gremios ". # Duplicado idéntico de Eaw
+agrarian_society3:0 "Sociedad Agraria"
+agrarian_society3_desc:0 "Una sociedad agraria es donde una parte sustancial de la población, alrededor del 90%, se dedica a la agricultura. El campo está dividido en innumerables pequeñas aldeas y pueblos, con solo unos pocos asentamientos urbanos más grandes. Debido a esto, los propietarios rurales ejercen una influencia considerable. Las jerarquías son estrictas y los títulos a menudo se heredan. La producción es responsabilidad de los artesanos que a menudo forman sociedades fraternales, también conocidas como gremios ". # Duplicado idéntico de Eaw
+agrarian_society4:0 "Sociedad Agraria"
+agrarian_society4_desc:0 "Una sociedad agraria es donde una parte sustancial de la población, alrededor del 90%, se dedica a la agricultura. El campo está dividido en innumerables pequeñas aldeas y pueblos, con solo unos pocos asentamientos urbanos más grandes. Debido a esto, los propietarios rurales ejercen una influencia considerable. Las jerarquías son estrictas y los títulos a menudo se heredan. La producción es responsabilidad de los artesanos que a menudo forman sociedades fraternales, también conocidas como gremios ". # Duplicado idéntico de Eaw
+agrarian_society5:0 "Sociedad Agraria"
+agrarian_society5_desc:0 "Una sociedad agraria es donde una parte sustancial de la población, alrededor del 90%, se dedica a la agricultura. El campo está dividido en innumerables pequeñas aldeas y pueblos, con solo unos pocos asentamientos urbanos más grandes. Debido a esto, los propietarios rurales ejercen una influencia considerable. Las jerarquías son estrictas y los títulos a menudo se heredan. La producción es responsabilidad de los artesanos que a menudo forman sociedades fraternales, también conocidas como gremios ". # Duplicado idéntico de Eaw
+agrarian_society6:0 "Sociedad Agraria"
+agrarian_society6_desc:0 "Una sociedad agraria es donde una parte sustancial de la población, alrededor del 90%, se dedica a la agricultura. El campo está dividido en innumerables pequeñas aldeas y pueblos, con solo unos pocos asentamientos urbanos más grandes. Debido a esto, los propietarios rurales ejercen una influencia considerable. Las jerarquías son estrictas y los títulos a menudo se heredan. La producción es responsabilidad de los artesanos que a menudo forman sociedades fraternales, también conocidas como gremios ". # Duplicado idéntico de Eaw
+outdated_industry:0 "Sector industrial obsoleto"
+outdated_industry_desc:0 "A pesar de la industrialización, esta nación ha fracasado en gran medida en mantener su sector industrial actualizado con las naciones más modernas. La falta de competitividad está perjudicando a la economía, pero sigue creciendo rápidamente, con un aumento de la producción que permite la adopción generalizada de muchas tecnologías revolucionarias como cables de telégrafo, ferrocarriles y sistemas de alcantarillado. Se están dando los primeros pasos para adoptar el uso de motores de combustión y electricidad ".
+outdated_industry2:0 "Sector industrial obsoleto"
+outdated_industry2_desc:0 "A pesar de la industrialización, esta nación ha fracasado en gran medida en mantener su sector industrial actualizado con las naciones más modernas. La falta de competitividad está dañando la economía, pero aún está creciendo rápidamente, con una mayor producción que permite la adopción generalizada de muchas tecnologías revolucionarias como cables de telégrafo, ferrocarriles y sistemas de alcantarillado. Se están dando los primeros pasos para adoptar el uso de motores de combustión y electricidad ".
+tribal_society:0 "Sociedad tribal"
+tribal_society_desc:0 "Definida libremente, una sociedad tribal es aquella en la que los límites y las jerarquías no están claros. Sus líderes tienen poderes limitados y rara vez son hereditarios. Los lazos familiares son muy importantes, y la mayoría de las personas pertenecen a un clan. Parte de la población depende de agricultura, mientras que la mayoría son pastores o cazadores-recolectores. Los artesanos especializados, pocos en número, son responsables de la producción ".
+communal_society:0 "Sociedad Comunal"
+communal_society_desc:0 "Esta sociedad primitiva es similar a una tribal, pero la propiedad es principalmente comunitaria. Todo se comparte, incluidas las propiedades y los recursos. Las jerarquías son casi inexistentes, los líderes tienen principalmente un papel ceremonial y la mayoría de la población es igual . Tales naciones son algo similares a las sociedades comunistas en las partes desarrolladas del mundo, pero no tienen conexión con su ideología y son sociedades indígenas tradicionales ".
+communal_society1:0 "Sociedad Comunal"
+communal_society1_desc:0 "Esta sociedad primitiva es similar a una tribal, pero la propiedad es principalmente comunitaria. Todo se comparte, incluidas las propiedades y los recursos. Las jerarquías son casi inexistentes, los líderes tienen principalmente un papel ceremonial y la mayoría de la población es igual . Tales naciones son algo similares a las sociedades comunistas en las partes desarrolladas del mundo, pero no tienen conexión con su ideología y son sociedades indígenas tradicionales ".
+modern_society:0 "Sociedad moderna"
+modern_society_desc:0 "Esta nación está a la vanguardia de las capacidades económicas e industriales. El aumento de los salarios de los trabajadores distribuye la riqueza de los capitalistas inmensamente prósperos a las clases bajas, aumentando enormemente el nivel de vida. La automatización aumenta continuamente hasta el punto en que el servicio la industria está creciendo rápidamente. Los ciudadanos son saludables y prósperos en su mayor parte, con mucho tiempo libre para dedicar al entretenimiento como el cine y los deportes ".
+modern_society_upgrade_tooltip:0 "¡Cambie el nivel de desarrollo de la sociedad a '§HModern Society§!' que elimina todas las sanciones.\n"
+lack_of_scientists:0 "Analfabetismo masivo"
+lack_of_scientists_desc:0 "Debido a la pandemia de analfabetismo y un sistema educativo deficiente, las capacidades científicas de esta nación están gravemente afectadas, por lo que no puede esperar lograr avances científicos significativos en el futuro cercano".
+lack_of_scientists1:0 "Amplio analfabetismo"
+lack_of_scientists1_desc:0 "Más de las tres cuartas partes de la población de esta nación no saben leer y muchas más no saben escribir. La cantidad de expertos y trabajadores calificados es relativamente baja".
+lack_of_scientists2:0 "Analfabetismo modesto"
+lack_of_scientists2_desc:0 "A pesar de los continuos esfuerzos, la mitad de la población de este país sigue siendo analfabeta, y muchos no pueden obtener una educación superior".
+lack_of_scientists3:0 "Analfabetismo limitado"
+lack_of_scientists3_desc:0 "Menos de una cuarta parte de la población no sabe leer, pero la educación cada vez más barata o incluso gratuita garantiza que la mayoría de los ciudadanos alcancen las habilidades básicas de lectura".
+no_lack_of_scientists:0 "Analfabetismo insignificante"
+no_lack_of_scientists_desc:0 "La tasa de alfabetización en este país está por encima del 90%, principalmente gracias a la escolarización universal. Por lo tanto, la lucha contra el analfabetismo aquí se considera concluida".
+feudalism:0 "Feudalismo ilustrado"
+feudalism_desc:0 "La población rural de este país todavía son en gran parte campesinos con poco o ningún derecho ni voz en la política".
+poverty:0 "pobreza extrema"
+poverty_desc:0 "Este país ha sufrido un colapso económico casi total que ha llevado a niveles tremendos de pobreza en todos los ámbitos. El dinero local se ha vuelto completamente inútil. Los señores del crimen dominan la tierra ya que el gobierno no puede permitirse mantener la ley y el orden. Hay una éxodo masivo de civiles fuera del país ".
+poverty1:0 "Pobreza severa"
+poverty1_desc:0 "Este país está azotado por una pobreza generalizada que afecta especialmente a las clases bajas. El hambre asola a los pobres que deambulan por la tierra, pidiendo comida. Las ciudades, que antes estaban llenas de actividad, se han convertido en tranquilos pueblos fantasmas. desesperado."
+poverty2:0 "Pobreza alta"
+poverty2_desc:0 "Este país tiene serios problemas económicos, con masas de civiles indigentes mendigando en las calles. La inflación se está disparando y los disturbios son comunes. Las ciudades se están vaciando a medida que los ciudadanos migran al extranjero o buscan trabajo en el campo. Las tasas de criminalidad aumentan constantemente. "
+poverty3:0 "Pobreza moderada"
+poverty3_desc:0 "Este país tiene una economía tartamudeante, con muchos desempleados y luchando por sobrevivir. La moneda local está sufriendo por la inflación. En las ciudades, las colas para el pan son cada vez más largas y muchas empresas están cerradas".
+poverty4:0 "Pobreza baja"
+poverty4_desc:0 "Este país tiene problemas para mantener una economía competitiva y, como resultado, las tasas de pobreza han aumentado. El desempleo está creciendo y muchos ciudadanos dependen de la generosidad de los demás".
+poverty5:0 "Pobreza leve"
+poverty5_desc:0 "La economía de este país es principalmente funcional, pero hay cierto grado de pobreza. Muchos están desempleados por ahora, pero deberían poder encontrar trabajo en un futuro cercano".
+ no_poverty:0 "Pobreza insignificante"
+ no_poverty_desc:0 "Este país tiene una economía funcional con una tasa de pobreza mínima. Hay trabajo disponible y fácil de encontrar".
+
+civil_war_recovery:0 "Recuperación de una guerra civil"
+civil_war_recovery_desc:0 "Este país ha experimentado recientemente una guerra civil y necesita tiempo para recuperarse antes de volver a ser un jugador en el escenario mundial".
+
+no_crystals_reactor_prevent:0 "No hay cristales disponibles para reactores nucleares"
+
+generic_race_idea:0 "Raza no especificada"
+pony_race:0 "Carrera de ponis"
+race_pointer:0 "Carrera"
+
+### Super secreto ###
+ GEU_united_STG:0 "Una nación unida"
+ GEU_united_STG_desc:0 "Las recientes dificultades que enfrenta nuestra nación nos han unido bajo una misma bandera".
+ GEU_red_dawn:0 "El amanecer rojo"
+ GEU_red_dawn_desc:0 "El tablero está listo, los jugadores en el campo y los peones en su lugar. ¿Quién ganará?"
+ GEU_seized_means:0 "Bienes ecuestres incautados"
+ GEU_army_plan:0 "Plan de guerra rojo"
+ GEU_dark_wing_conscription:0 "Leyes de reclutamiento de Dark Wing"
+ GEU_oligarchs:0 "Oligarcas rojos"
+ GEU_state_control:0 "Economía controlada por el estado"
+ GEU_personality:0 "El culto a la personalidad de Dark Wing"
+ GEU_secret_police:0 "Ministerio de Seguridad Ecuestre Mayor"
+ GEU_private_armies:0 "Ejércitos privados"
+ GEU_gathering:0 "Apoyo a nuestros agricultores"
+ GEU_equipment_production:0 "Fabricación masiva de equipos"
+ GEU_skilled_workers:0 "Mano de obra calificada"
+ GEU_arms_trade:0 "Comercio internacional de armas"
+ GEU_fast_tanks:0 "Fabricación de tanques baratos"
+ GEU_training:0 "Población movilizada"
+ GEU_resistance:0 "Resistencia ecuestre"
+ GEU_communism_banned:0 "SCP prohibido"
+ GEU_personality_2:0 "El culto a la personalidad de Dark Wing"
+ GEU_army_plan_2:0 "Plan de ejército negro"
+ GEU_bunker_building:0 "Preparándose para lo inevitable"
+ GEU_nuclear_reactors:0 "Plantas Mágico-Nucleares"
+ GEU_reconstruction:0 "Gran Servicio de Reconstrucción Ecuestre"
+ ### Baltimare ###
+
+
+
+
+ ## Yakyakistan ideas ##
+
+## Ideas de SCS (Confederación) ##
+colt_arms:0 "Colt Arms"
+colt_arms_desc:0 ""
+
+neighchester_arms:0 "Neighchester Arms"
+neighchester_arms_desc:0 ""
+
+rearington_arms:0 "Rearington"
+rearington_arms_desc:0 ""
+
+SCS_southern_way:0 "Southern Ways"
+SCS_southern_way_desc:0 ""
+
+SCS_milita_start:0 "Milita desorganizada"
+SCS_milita_start_desc:0 ""
+
+SCS_buffalo_reservations_idea:0 "Reservas de Buffalo"
+SCS_buffalo_reservations_idea_desc:0 ""
+
+SCS_milita_regulated:0 "Milita bien regulada"
+SCS_milita_regulated_desc:0 ""
+
+SCS_southern_spirit:0 "Espíritu del sur"
+SCS_southern_spirit_desc:0 ""
+
+SCS_heat_resistance_idea:0 "Resistencia al calor"
+SCS_heat_resistance_idea_desc:0 ""
+
+SCS_regulated_economy_idea:0 "Economía regulada"
+SCS_regulated_economy_idea_desc:0 ""
+
+SCS_free_economy_idea:0 "Economía libre"
+SCS_free_economy_idea_desc:0 ""
+
+SCS_war_bonds_idea:0 "Bonos de guerra"
+SCS_war_bonds_idea_desc:0 ""
+
+SCS_rapid_buildup_idea:0 "Acumulación rápida"
+SCS_rapid_buildup_idea_desc:0 ""
+
+SCS_dwi_idea:0 "Departamento de industria en tiempos de guerra"
+SCS_dwi_idea_desc:0 ""
+
+SCS_public_education_idea:0 "Educación pública"
+SCS_public_education_idea_desc:0 ""
+
+SCS_private_education_idea:0 "Educación privada"
+SCS_private_education_idea_desc:0 ""
+
+SCS_gather_resources_idea:0 "Unidad de recopilación de recursos"
+SCS_gather_resources_idea_desc:0 ""
+
+SCS_agriculture_subsidies_idea:0 "Subsidios agrícolas"
+SCS_agriculture_subsidies_idea_desc:0 ""
+
+SCS_new_deal_idea:0 "Nuevo trato"
+SCS_new_deal_idea_desc:0 ""
+
+#SCS_dwi_idea:0 "Department of Wartime Industry"# Identical duplicate from Eaw
+ #SCS_dwi_idea_desc:0 ""# Identical duplicate from Eaw
+
+SCS_Crossiant_corporation_idea:0 "Corporación Crossiant"
+SCS_Crossiant_corporation_idea_desc:0 ""
+
+SCS_cpb_idea:0 "Oficina de Protección Confederada"
+SCS_cpb_idea_desc:0 ""
+
+SCS_for_the_confederacy_idea:0 "¡Por la Confederación!"
+SCS_for_the_confederacy_idea_desc:0 ""
+
+SCS_preemptive_strike_idea:0 "Doctrina de ataque preventivo"
+SCS_preemptive_strike_idea_desc:0 ""
+
+SCS_supreme_court_idea:0 "Tribunal Supremo Confederado"
+SCS_supreme_court_idea_desc:0 ""
+
+SCS_farmers_country_idea:0 "Es un país de agricultores"
+SCS_farmers_country_idea_desc:0 ""
+
+SCS_modern_state_idea:0 "Estado moderno"
+SCS_modern_state_idea_idea_desc:0 ""
+
+SCS_species_rights_idea:0 "Derechos de todas las especies"
+SCS_species_rights_idea_desc:0 ""
+
+SCS_beacon_of_hope_idea:0 "Faro de esperanza"
+SCS_beacon_of_hope_idea_desc:0 ""
+
+SCS_guerilla_warfare_idea:0 "Guerra de guerrillas"
+SCS_guerilla_warfare_idea_desc:0 ""
+
+scs_hoofington_academy_idea:0 "Academia Militar Hoofington"
+scs_hoofington_academy_idea_desc:0 ""
+
+SCS_southern_daring_idea:0 "Southern Daring"
+SCS_southern_daring_idea_desc:0 ""
+
+SCS_guns_idea:0 "Arma en cada hogar"
+SCS_guns_idea_desc:0 ""
+
+cherry_jubilee:0 "Cherry Jubilee"
+venture_capital:0 "Capital de riesgo"
+fetter_keys:0 "Llaves de grillete"
+fetter_keys_ac:0 "Llaves de grillete"
+yuma_spurs:0 "Yuma Spurs"
+caramelo:0 "Caramelo"
+apple_fritter:0 "Buñuelo de manzana"
+problem_shoes:0 "Zapatos problemáticos"
+cheese_sandwich:0 "Cheese Sandwich"
+maudpie_scs:0 "Maud Pie"
+
+detached_country:0 "País independiente"
+detached_country_desc:0 "Esta nación apenas tiene conexiones con el mundo exterior, ha cerrado por completo sus fronteras y las patrulla constantemente en busca de intrusos. Como tal, no entran nuevas ideas extranjeras en el país y la sociedad permanece estancada en el pasado, incapaz de avanzar y siguiendo de cerca las viejas tradiciones ".
+  #holy_order:0 "Holy Order" # Duplicado idéntico de Eaw #magehold:0 "Magehold"# Identical duplicate from Eaw
+
+
+Council_of_keepers:0 "Consejo de Guardianes"
+hereward_northern_1:0 "Silry Thunder"
+WAT_holy_srings:0 "Holy Springs"
+eathelin_sister:0 "Haylay"
+malcom_corchstone:0 "Malcom Corchstone"
+aldus_warrior:0 "Guerrero Aldus"
+annalee_the_swift:0 "Annalee la rápida"
+aylmer_pony:0 "Aylmer"
+stal_flugel:0 "Stal Flugel"
+kendrick_flugel:0 "Kendrick Flugel"
+watertown_boatman:0 "Watertown Boatman"
+hereward_northern:0 "Hereward Northern"
+watertowns_strongheart:0 "Corazón fuerte"
+gandalf_the_grey:0 "Gandalf el Gris"
+ #hereward_northern:0 "Hereward Northern" # Duplicado idéntico de Eaw
+meriida_strangelight:0 "Meriida Strangelight"
+northern_tank:0 "Tanque del norte"
+enchanted_armour_concern:0 "Preocupación por la armadura encantada"
+slingshots_of_watertown:0 "Tirachinas de Watertown"
+kenelm_smithery:0 "Kenelm Smithery"
+Imported_factory_WAT:0 "Fábrica importada"
+stal_wing_berau:0 "Stal Wingn Berau"
+farbrook_shipbuilding:0 "Barcos de Farbrook"
+
+
+
+idol_of_boreas_lost:0 "Ídolo de Boreas perdido"
+kingdom_with_no_king:0 "Reino sin rey"
+home_of_the_griffons:0 "Hogar de los Grifones"
+
+elia_storm:0 "Elia Storm"
+CHN_rapid_demobilization:0 "Desmovilización rápida"

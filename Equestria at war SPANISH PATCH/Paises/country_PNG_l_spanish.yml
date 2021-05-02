@@ -1,0 +1,318 @@
+﻿l_spanish:
+### Country Name
+ #PNG_neutrality:0 "Kingdom of Pingland"# moved to replace folder
+ #PNG_fascism:0 "Black and White Storm"# moved to replace folder
+ #PNG_communism:0 "Democratic Republic of Pingland"# moved to replace folder
+ #PNG_democratic:0 "Pinguin Republic"# moved to replace folder
+ #PNG_neutrality_DEF:0 "Kingdom of Pingland"# moved to replace folder
+ #PNG_fascism_DEF:0 "Black and White Storm"# moved to replace folder
+ #PNG_communism_DEF:0 "Democratic Republic of Pingland"# moved to replace folder
+ #PNG_democratic_DEF:0 "Pinguin Republic"# moved to replace folder
+ #PNG_fascism_ADJ:0 "Pinglands"# moved to replace folder
+ #PNG_democratic_ADJ:0 "Pinglands"# moved to replace folder
+ #PNG_neutrality_ADJ:0 "Pinglands"# moved to replace folder
+ #PNG_communism_ADJ:0 "Pinglands"# moved to replace folder
+
+PNG_EMP_fascism:0 "Imperio Ártico"
+PNG_EMP_fascism_def:0 "El Imperio Ártico"
+
+
+
+### Miscelánea
+PNG_anti_griff_law:0 "Leyes contra los grifos"
+PNG_aberg:0 "Aberg Chosen"
+PNG_njordin:0 "Njordin Chosen"
+PNG_commie:0 "comunista"
+
+PNG_empire1:0 "¡La Tormenta Blanca y Negra se convertirá en el §YArctic Empire§!\n"
+
+### ideas
+PNG_military_support:0 "Apoyo militar"
+PNG_military_support_desc:0 "El Rey ha reunido apoyo dentro de las filas de los militares, y con ello ha afirmado un régimen más autoritario sobre la nación".
+PNG_communism_outlawed:0 "Comunismo proscrito"
+PNG_communism_outlawed_desc:0 "El comunismo ha sido prohibido en la nación, no se permiten partidos comunistas o socialistas dentro de la nación, y los políticos comunistas están encarcelados".
+PNG_anti_griffon:0 "Leyes contra los grifos"
+PNG_anti_griffon_desc:0 "Los grifos han sido despojados de sus derechos y ahora se consideran ciudadanos de segunda clase".
+PNG_penguin_storm:0 "Tormenta en blanco y negro"
+PNG_penguin_storm_desc:0 "Un nuevo partido político supremacista, la tormenta Blanco y Negro tiene miembros en todas las capas del gobierno. El gobernante actual es el jefe del partido".
+PNG_reeducation:0 "Programa de reeducación"
+PNG_reeducation_desc:0 "Para unir aún más al país, se ha puesto en marcha un programa de reeducación para que todos sigan los verdaderos ideales comunistas".
+PNG_workers_council:0 "Consejo de trabajadores"
+PNG_workers_council_desc:0 "Se han establecido consejos de trabajadores en todo el país, dando a la gente más poder sobre sí misma".
+PNG_penguin_army:0 "Ejército Negro y Rojo"
+PNG_penguin_army_desc:0 "Una nación debe defenderse, y con el ejército negro y rojo, podemos defender nuestra nación por completo".
+PNG_empowered_king:0 "Rey empoderado"
+PNG_empowered_king_desc:0 "Con nuevos decretos, el rey se ha dado más poder".
+PNG_griffon_rights:0 "Derechos de Griffon"
+PNG_griffon_rights_desc:0 "Los grifos han sido durante mucho tiempo ciudadanos de segunda clase, pero con esta ley, los grifos dentro de nuestro país disfrutan de los mismos derechos que todos los pingüinos".
+PNG_equestrian_advisors:0 "Asesores ecuestres"
+PNG_equestrian_advisors_desc:0 "Se invitó a asesores ecuestres a nuestra cancha, y con ellos traen nuevas ideas y formas de administrar el país".
+PNG_recruitment_campaign:0 "Campaña de reclutamiento militar"
+PNG_recruitment_campaign_desc:0 "Para asegurar el futuro de la tormenta Blanco y Negro, debemos tener un ejército fuerte y poderoso para enfrentar a los imperialistas grifos".
+
+PNG_penguin_republic:0 "La República de los Pingüinos"
+PNG_penguin_republic_desc:0 ""
+PNG_limited_monarchy:0 "Monarquía restringida"
+PNG_limited_monarchy_desc:0 ""
+PNG_idea_penguin_harmony:0 "Juntos en armonía"
+PNG_idea_penguin_harmony_desc:0 ""
+
+PNG_winter_warriors:0 "Guerreros árticos"
+PNG_winter_warriors_desc:0 "Los pingüinos se adaptan bien a la lucha en entornos de frío extremo. Donde sea que esté congelado y cubierto de hielo, los pingüinos sobresaldrán allí".
+
+### Eventos
+penguin.1.t:0 "La cumbre de Dachaigh"
+penguin.1.d:0 "Después de casi 4 años en el poder, el Rey Lolo se acerca al final de su vida. La raza particular de pingüino a la que pertenece es de corta duración y débil, pero a pesar de esto, Lolo ha demostrado ser un Un líder asombroso y capaz. Lamentablemente, su tiempo se acerca rápidamente, y antes de partir para unirse a nuestros antepasados ​​en el más allá, primero debe tomar una decisión. ¿Quién gobernará después de su muerte? El rey Lolo no ha tenido herederos, por lo que y su consejo debe decidir quién heredará el trono después de su partida ".
+penguin.1.a:0 "Muéstrame la lista de candidatos".
+
+penguin.2.t:0 "Los candidatos"
+penguin.2.d:0 "La gran lista de candidatos ha sido extraída y mostrada al consejo, y juntos han decidido los dos mejores candidatos que pudieron encontrar. El primer candidato es Hindrik Aberg, un pingüino relativamente joven proveniente de la provincia de Nithean. El segundo candidato es Orvar Njordin, un radical del centro de la ciudad de Dachaigh ".
+penguin.2.a:0 "Muéstrame más sobre Hindrik Aberg".
+penguin.2.b:0 "Muéstrame más sobre Orvar Njordin".
+
+penguin.3.t:0 "Hindrik Aberg"
+penguin.3.d:0 "Hindrek Aberg nació en la provincia de Nithean en una pequeña familia noble, recibió la mejor educación posible, incluso fue enviado a una escuela en el Imperio de Cristal para obtener su educación. Los miembros de su consejo les informo que es un pingüino bastante optimista e ingenuo, que cree en el ideal de paz y armonía de los jinetes ".
+penguin.3.a:0 "Será el nuevo Rey".
+penguin.3.b:0 "Tráeme la lista de nuevo".
+
+penguin.4.t:0 "Orvar Njordin"
+penguin.4.d:0 "Orvar Njordin es una elección bastante peculiar del consejo. Es un estadista excelente y ha traído prosperidad a la ciudad de Dachaigh muchas veces mediante la introducción de nuevas reformas y tal, en el lado negativo, es quizás uno de los los pingüinos más radicales del reino. Se le ha visto asistiendo a grupos supremacistas, algo reciente en Dachaigh, e incluso se le ha oído decir comentarios bastante racistas sobre los osos polares e incluso los grifos ".
+penguin.4.a:0 "Será el nuevo Rey".
+penguin.4.b:0 "Tráeme la lista de nuevo. "
+
+penguin.5.t:0 "Solicitud de Pingland"
+penguin.5.d:0 "Los compañeros comunistas del norte nos han pedido una garantía para protegerse de la amenaza de Nova Griffonian".
+penguin.5.a:0 "Otorgue su solicitud".
+penguin.5.b:0 "Rechazar".
+
+penguin.6.t:0 "Stalliongrad Accepted"
+penguin.6.d:0 "Stalliongrad ha aceptado nuestra solicitud y ahora nos garantiza. ¡Ahora estamos a salvo de cualquier amenaza no comunista!"
+penguin.6.a:0 "Maravilloso".
+
+penguin.7.t:0 "Stalliongrad rechazado"
+penguin.7.d:0 "Stalliongrad ha rechazado tristemente nuestra solicitud y nos quedamos desprotegidos contra la amenaza Griffon. Nuestro futuro ahora es incierto".
+penguin.7.a:0 "Maldita sea".
+
+penguin.8.t:0 "Invitación al Pacto del Norte"
+penguin.8.d:0 "Los pingüinos del norte nos han pedido que nos unamos a su facción recién creada, el Pacto del Norte. ¿Deberíamos unirnos?"
+penguin.8.a:0 "Unirse".
+penguin.8.b:0 "Rechazar".
+
+penguin.9.t:0 "Yaks se unen al pacto"
+penguin.9.d:0 "Los Yaks han acordado unirse al Pacto del Norte".
+penguin.9.a:0 "¡Genial!"
+
+penguin.10.t:0 "Yaks Decline"
+penguin.10.d:0 "Los Yaks han declinado cortésmente unirse al Pacto del Norte".
+penguin.10.a:0 "Maldita sea".
+
+penguin.11.t:0 "Invitación al Pacto del Norte"
+penguin.11.d:0 "Los pingüinos del norte nos han pedido que nos unamos a su facción recién creada, el Pacto del Norte. ¿Deberíamos unirnos?"
+penguin.11.a:0 "Unirse".
+penguin.11.b:0 "Rechazar".
+
+penguin.12.t:0 "Los osos polares se unen al pacto"
+penguin.12.d:0 "¡Los osos polares han acordado unirse al Pacto del Norte!"
+penguin.12.a:0 "¡Genial!"
+
+penguin.13.t:0 "Rechazo de los osos polares"
+penguin.13.d:0 "Los osos polares se han negado cortésmente a unirse al Pacto del Norte".
+penguin.13.a:0 "Maldita sea".
+
+penguin.14.t:0 "Invitación al Pacto del Norte"
+penguin.14.d:0 "Los pingüinos del norte nos han pedido que nos unamos a su facción recién creada, el Pacto del Norte. ¿Deberíamos unirnos?"
+penguin.14.a:0 "Unirse".
+penguin.14.b:0 "Rechazar".
+
+penguin.15.t:0 "Nova Griffonia se une al pacto"
+penguin.15.d:0 "¡Nova Griffonia ha aceptado unirse al Pacto del Norte!"
+penguin.15.a:0 "¡Genial!"
+
+penguin.16.t:0 "Nova Griffonia Declines"
+penguin.16.d:0 "Nova Griffonia ha declinado cortésmente unirse al Pacto".
+penguin.16.a:0 "Maldita sea".
+
+penguin.17.t:0 "Solicitud de Pingland"
+penguin.17.d:0 "Los pingüinos del norte nos han pedido una garantía, alegando que no pueden defenderse adecuadamente de las muchas amenazas del norte. Garantizarlos protegería uno de los pocos bastiones de la Armonía en el norte helado ".
+penguin.17.a:0 "Conceder su solicitud".
+penguin.17.b:0 "Rechazar".
+
+penguin.18.t:0 "[From.GetName] ¡Nos lo garantiza!"
+penguin.18.d:0 "Hoy es un gran día, porque el gobierno [From.GetAdjective] nos ha concedido nuestra solicitud y nos ha garantizado".
+penguin.18.a:0 "Ya me siento más seguro".
+
+penguin.19.t:0 "[From.GetName] Rechaza"
+penguin.19.d:0 "Lamentablemente, por razones desconocidas, el gobierno [From.GetAdjective] ha rechazado nuestra solicitud".
+penguin.19.a:0 "¡Oh, no!"
+
+penguin.21.t:0 "¡Un levantamiento comunista!"
+penguin.21.d:0 "¡Han estado apareciendo informes de revueltas por toda la ciudad de Dachaigh, los rebeldes pidiendo una revolución! ¿Qué debemos hacer?"
+penguin.21.a:0 "Aplastarlos".
+penguin.21.b:0 "Ignóralos, no son importantes".
+
+### Enfoques
+## Enfoques industriales
+PNG_infrastructure:0 "Infraestructura"
+PNG_infrastructure_desc:0 "Antes de que podamos comenzar cualquiera de nuestros grandes planes para mejorar la nación, primero debemos establecer alguna infraestructura inicial".
+PNG_oil:0 "Northern Oil"
+PNG_oil_desc:0 "La costa helada del norte está llena de grandes depósitos de petróleo, ya es hora de que comencemos a usarlo para algo".
+PNG_steel:0 "Acero de montaña"
+PNG_steel_desc:0 "En lo profundo de la montaña hay grandes depósitos de minerales que aún tenemos que explotar, la construcción de algunas minas en el área debería proporcionarnos más recursos de los que sabemos qué hacer".
+PNG_crystals:0 "Cristales de montaña"
+PNG_crystals_desc:0 "Aunque todavía no tenemos ningún uso para Crystal, muchas otras naciones necesitan mucho. Venderlo con fines de lucro es lo mejor que podemos hacer con él ahora".
+PNG_transform:0 "¡Carreteras!"
+PNG_transform_desc:0 "Las carreteras son algo importante para cualquier nación que quiera hacer las cosas rápidamente y funcionar de manera eficaz. Ya hemos comenzado a establecer una infraestructura muy básica, y la construcción de carreteras solo la mejorará aún más".
+PNG_science1:0 "Laboratorios de investigación"
+PNG_science1_desc:0 "Debería construirse uno de los primeros laboratorios de investigación adecuados en la capital, no podemos seguir adelante sin él".
+PNG_civ_factory:0 "Expandir la industria civil"
+PNG_civ_factory_desc:0 "Nithean Talamh Ard se está convirtiendo rápidamente en uno de los estados más industriosos, expandir la industria civil le permitirá prosperar aún más".
+PNG_mil_factory:0 "Expandir la industria militar"
+PNG_mil_factory_desc:0 "Nova Griffonia se ha convertido en una amenaza aún mayor en los últimos tiempos, y con otra fábrica dedicada a producir equipo militar, podemos protegernos mejor de las amenazas".
+PNG_infrastructure2:0 "Ciudades mineras"
+PNG_infrastructure2_desc:0 "Han comenzado a surgir grandes ciudades alrededor de las instalaciones mineras, debemos ayudar en su construcción".
+PNG_science2:0 "Universidad de Dachaigh"
+PNG_science2_desc:0 "Dachaigh se ha convertido en el centro de ciencia más grande de nuestra nación, una expansión de los laboratorios actuales que tenemos allí la convertirá en una de las ciudades más grandes del norte".
+PNG_civ_factory2:0 "Expandir ciudades mineras"
+PNG_civ_factory2_desc:0 "¡Convertir las ciudades mineras que han surgido en prósperos centros industriales debería duplicar la capacidad de producción de la nación!"
+PNG_mil_factory2:0 "Fábricas de armas"
+PNG_mil_factory2_desc:0 "Una fábrica adecuada dedicada a producir únicamente armamento debería permitirnos equipar nuestro ejército aún más".
+PNG_transform2:0 "Atraer inversores extranjeros"
+PNG_transform2_desc:0 "Con más recursos aún sin explotar y una economía en crecimiento, atraer a algunos empresarios extranjeros a nuestra nación debería darnos el impulso que necesitamos para convertirnos en una nación aún más grande".
+PNG_complete_industrialization:0 "Industrialización completa"
+PNG_complete_industrialization_desc:0 "Hoy, ya no somos una nación atrasada. Ya no somos una fuerza con la que se pueda lidiar fácilmente".
+
+## Enfoques políticos
+PNG_summit_at_dachaigh:0 "Cumbre en Dachaigh"
+PNG_summit_at_dachaigh_desc:0 "El tiempo de nuestro Rey se acerca rápidamente, antes de que parta para unirse a nuestros antepasados en el gran más allá, primero debe tomar una decisión. ¿Quién gobernará después de su muerte? El rey no ha tenido herederos, así que él y su consejo debe decidir quién heredará el trono después de su partida ".
+
+
+PNG_king_aberg:0 "Nombrar a Hindrek Aberg como sucesor"
+PNG_king_aberg_desc:0 "Después de muchos días de debates y discusiones interminables, nuestro venerable Rey, y su sabio consejo, ha decidido nombrar a Hindrek Aberg como su sucesor, confiando en que ese líder joven e idealista conducirá a nuestro estado hacia un futuro próspero, después de nuestro actual rey. pasará. "
+PNG_peacetime_policies:0 "Políticas en tiempo de paz"
+PNG_peacetime_policies_desc:0 "Nuestro estado desde la antigüedad ha sido un lugar donde el rey y el consejo decidían todo, hoy esto cambiará. A medida que implementaremos nuevas leyes que descentralizarán la administración y convertirán el consejo en un cuerpo legislativo democrático".
+PNG_dissolve_kings_court:0 "Disolver la Corte del Rey"
+PNG_dissolve_kings_court_desc:0 "La corte del rey es un grupo corrupto de pingüinos que celebran todas las reuniones importantes sobre el futuro de nuestra nación. Debemos disolver esta farsa de corte de inmediato, estos pingüinos corruptos no deben permitir que sigan conspirando".
+PNG_remove_kings_power:0 "Elimina el poder del rey"
+PNG_remove_kings_power_desc:0 "La era de los reyes ha terminado para [PNG.GetName], es hora de eliminar finalmente cualquier poder que tenga el monarca reinante. Nuevas oportunidades nos esperan si tomamos este curso de acción".
+PNG_forge_our_own_path:0 "Forjar nuestro propio camino"
+PNG_forge_our_own_path_desc:0 "Podemos elegir establecer nuestro propio camino, separado de los puntos de vista monárquicos y armonistas. Somos un pueblo libre, ¡y no permitiremos que nuestras libertades sean aplastadas por un solo individuo nuevamente!"
+PNG_lessen_kings_power:0 "Disminuir el poder del rey"
+PNG_lessen_kings_power_desc:0 "No deseamos acabar con nuestras viejas tradiciones, el poder político del rey sobre la nación se verá reducido. Seguirá desempeñando un papel en nuestra política, ya que es una figura importante".
+PNG_penguin_harmony:0 "Penguin Harmony"
+PNG_penguin_harmony_desc:0 "Somos criaturas de la armonía, ¿no? Es hora de dejar a un lado nuestras diferencias y trabajar con otras especies, es la única forma de salir adelante si buscamos la amistad con nuestros vecinos".
+PNG_closer_to_equestria:0 "Más cerca de Equestria"
+PNG_closer_to_equestria_desc:0 "Mirando hacia el sur, vemos una oportunidad para abrir el discurso diplomático con [EQS.GetName]. Nuestras naciones se acercarán más con el establecimiento de estos lazos políticos".
+PNG_equestrian_guarantee:0 "Una garantía ecuestre"
+PNG_equestrian_guarantee_desc:0 "Debemos mirar hacia el sur una vez más, somos incapaces de defender nuestros valores de armonía de las otras naciones del norte. Debemos pedir una garantía a [EQS.GetName], seguramente [EQS.GetLeader] lo entenderá. nuestra difícil situación ".
+PNG_pact_against_griffonia:0 "Pacto contra Griffonia"
+PNG_pact_against_griffonia_desc:0 "[GRF.GetName] siempre ha puesto sus ojos en nuestra pequeña nación, para ellos no somos más que un objetivo de conquista. Es hora de cambiar el status quo y hacer un pacto con nuestros vecinos".
+PNG_invite_the_yaks:0 "Invita a los Yaks"
+PNG_invite_the_yaks_desc:0 "Los yaks del suroeste no están de acuerdo con muchas de las grandes naciones del sur. Quizás una invitación a una unión política del norte influiría en sus intereses, un pacto para defender al pueblo y los intereses del norte".
+PNG_invite_the_bears:0 "Invita a los osos polares"
+PNG_invite_the_bears_desc:0 "Los osos de la frontera oeste [CHN.GetName], una nación grande y poderosa que amenaza su independencia. Deberíamos invitarlos a nuestro pacto, para que podamos unirnos contra aquellos que nos vean subyugados".
+PNG_friendship_with_griffonia:0 "Amistad con Griffonia"
+PNG_friendship_with_griffonia_desc:0 "Podemos invitar a [GRF.GetName] a nuestra alianza, mucho más se puede ganar si nuestras naciones trabajan juntas en asuntos relacionados con el futuro".
+
+
+PNG_northern_pact:0 "Establecer el Pacto del Norte"
+PNG_northern_pact_desc:0 "Al establecer una nueva alianza armoniosa, podemos garantizar un futuro seguro para nosotros y para cualquiera de nuestros aliados actuales aquí en el norte".
+
+ #PNG_invite_the_yaks:0 "Invite Yakyakistan To Northern Pact"# Different duplicate from Eaw
+ #PNG_invite_the_yaks_desc:0 "We can invite our yak-friends in Yakistan to join our pact."# Different duplicate from Eaw
+ #PNG_invite_the_bears:0 "Invite Polar Bears To Northern Pact"# Different duplicate from Eaw
+ #PNG_invite_the_bears_desc:0 "We can invite our bear friends from Polar Communities to join our pact."# Different duplicate from Eaw
+
+PNG_friendship_with_nova_griffonia:0 "Amistad con Nova Griffonia"
+PNG_friendship_with_nova_griffonia_desc:0 "Desde que establecimos los derechos de los grifos, encontramos amigos bastante improbables en el gobierno de Nova Griffonia, al invitarlos a nuestro pacto, juntos podríamos enfrentar cualquier amenaza discordante".
+PNG_king_njordin:0 "Nombrar a Orvar Njordin como nuevo sucesor"
+PNG_king_njordin_desc:0 "Después de muchos días de debates y discusiones interminables, el apoyo del rey y el consejo parece estar detrás de Orvar Njordin, pero muchos miembros del consejo todavía están en su contra. Pero no menos, con una diferencia de pocos votos y el voto de rey mismo, Orvar ha sido designado como sucesor. Pero parece que su gobierno comenzará bastante frágil ".
+PNG_secure_military_support:0 "Lealtad segura del ejército"
+PNG_secure_military_support_desc:0 "Al ver cómo incluso ahora muchos miembros del consejo y estadistas de todo el país están socavando el apoyo de nuestro nuevo rey, sabiamente ha decidido asegurarse la lealtad de nuestro ejército".
+PNG_anti_griffon_laws:0 "Aprobar leyes contra los grifos"
+PNG_anti_griffon_laws_desc:0 "Los grifos habían disfrutado de los recursos de nuestra tierra y el respeto de nuestro estado sin dar nada a cambio durante demasiado tiempo, al aprobar una nueva serie de leyes destinadas a deportarlos a Nova Griffonia y asegurarse de que la pequeña minoría de ellos que realmente necesitamos, no podremos socavar nuestro estado, finalmente podemos resolver este problema ".
+PNG_replace_council_members:0 "Reemplazar a los miembros del consejo"
+
+####----
+PNG_replace_council_members_desc: "El Viejo Consejo del Rey Lolo es un lío de disputas, que pasan la mayor parte de su tiempo discutiendo con un rey o discutiendo entre ellos, si desechamos a todos los disidentes y lo llenamos con oficiales del ejército capaces y leales, y otros realmente hábiles. sí, pingüino, podríamos hacer que nuestro país pareciera más fuerte y salvar a nuestro nuevo rey de muchos dolores de cabeza."
+####----
+PNG_power_to_the_king:0 "Poder para el rey"
+PNG_power_to_the_king_desc:0 "Ahora que el consejo está completamente bajo el mando de nuestro Rey, finalmente podemos darle el poder que se merece, y hacer que el Consejo adopte un papel meramente cosmético, mientras que todo el poder real se le dará al Rey".
+PNG_outlaw_communism:0 "Prohibir el comunismo"
+PNG_outlaw_communism_desc:0 "Incluso ahora, con el apoyo del ejército detrás, nuestro nuevo rey está preocupado por los comunistas, no son demasiado populares a partir de ahora, pero ahora con sus nuevas leyes radicales en el poder, fácilmente podrían influir en nuestros menos patrióticos. ciudadanos, y convertirlos en su causa, no podemos permitir que eso suceda, y debemos prohibir cualquier partido y organización comunista que opere en nuestra tierra, y asegurarnos de atrapar a todos sus miembros actuales también ".
+PNG_mountain_work_camps:0 "Campamentos de trabajo de montaña"
+PNG_mountain_work_camps_desc:0 "Los partidos comunistas en nuestro Reino eran más grandes de lo que pensamos originalmente, y aunque nuestras prisiones actuales podrían albergar a todos los nuevos prisioneros, sería un movimiento arriesgado ver cómo podrían intentar convencer a otros prisioneros para que se unieran a su causa. El frío macizo de Talamh Árd alberga pocos depósitos ricos en hierro. Lamentablemente, no sería demasiado inteligente enviar a nuestros ciudadanos normales allí, ya que parece que existe un alto riesgo de que ocurra un accidente minero allí, por lo que podríamos usar a nuestros nuevos prisioneros para Trabaja ahí."
+PNG_emperor_of_the_ice:0 "Emperador del hielo"
+PNG_emperor_of_the_ice_desc:0 "Finalmente, con el consejo en disputa, los comunistas y los grifos desaparecidos, nuestro reino puede disfrutar de la prosperidad que siempre ha merecido, ya que bajo el gobierno de nuestro gran rey, esta tierra ha cambiado de un reino atrasado y humilde a un imperio floreciente. "
+PNG_black_and_white_storm:0 "Tormenta en blanco y negro"
+PNG_black_and_white_storm_desc:0 "Nuestro gran emperador debería iniciar una campaña de propaganda en nuestra nación para mostrar a todos nuestros ciudadanos cuánto le deben a su gran y sabio liderazgo, y recordarles todo lo que nos fue quitado".
+PNG_remove_polar_bears:0 "Recuperar el Imperio Occidental"
+PNG_remove_polar_bears_desc:0 "Hace mucho tiempo, en nuestro pasado, controlamos casi toda la parte norte del continente ecuestre, pero desde entonces, los osos polares se han apoderado de la mayor parte de la parte occidental de nuestro imperio. Y ahora, vamos a recuperar lo que es nuestro. "
+PNG_decolonize_the_east:0 "Recuperar el Imperio de Oriente"
+PNG_decolonize_the_east_desc:0 "Muchos años después de que nuestro imperio perdiera su parte occidental, los colonos grifos llegaron y tomaron aún más de nuestra tierra que los osos polares, como una vez que nuestro imperio tenía incluso su capital actual de Weter en sus fronteras. Ahora, cuando podemos enfrentarnos ellos, es el momento de recuperar nuestra tierra ".
+PNG_armed_revolt:0 "Lucha contra el gobierno"
+PNG_armed_revolt_desc:0 "Después de la reciente represión del gobierno, no nos damos cuenta, o lucharemos contra los supremacistas o moriremos. Pero, si logramos mostrarle a la población que es posible luchar contra la tiranía del rey, podríamos convencer muchos de los pingüinos y grifos que actualmente tienen demasiado miedo de luchar, de unirse a nuestra causa ".
+PNG_remove_the_monarchy:0 "Lanzar Golpe en Dachaigh"
+PNG_remove_the_monarchy_desc:0 "Habíamos asaltado y combatido escaramuzas el tiempo suficiente, tenemos armas y recientemente hemos logrado ganar el apoyo de los disidentes en la misma capital, solo necesitamos preparar algunas de nuestras unidades, y finalmente podemos romper el cadenas de nuestro pueblo, y liberarlos de la tiranía del rey actual y de cualquier futuro rey ".
+PNG_reeducation_programs:0 "Programa de reeducación"
+PNG_reeducation_programs_desc:0 "Lo que King nos ha estado haciendo, o cualquier otro disidente fue pura crueldad, es por eso que no cometeremos el mismo error, sino que haremos que todos los ciudadanos de nuestro país crean verdaderamente en nuestros ideales, por mucho tiempo que sea, y por mucho que sea necesario "
+PNG_workers_councils:0 "Establecer consejos de trabajadores"
+PNG_workers_councils_desc:0 "Los medios de producción bastante largos en nuestro país estaban controlados por unos pocos corruptos, ahora los daremos a los consejos de trabajadores, lo que nos hará más populares y mejorará nuestra industria".
+PNG_black_and_red_army:0 "Establecer ejército negro y rojo"
+PNG_black_and_red_army_desc:0 "Desde el final de nuestra lucha contra la tiranía del rey, nuestro país se quedó sin un ejército adecuado, nuestras milicias obreras-campesinas estaban cumpliendo ese papel, pero no es el sistema más efectivo, por lo que deberíamos establecer un ejército, al tiempo que usamos nuestras milicias actuales como núcleo ".
+PNG_on_our_own:0 "Somos independientes"
+PNG_on_our_own_desc:0 "Seamos realistas, nuestro país está lejos de cualquier otro estado revolucionario, e incluso si bien sería bueno tener aliados en algún lugar de Equestria, Stalliongrad está lejos de nuestras fronteras, como tal, en lugar de un diplomático inútil tratando de encontrar algunos aliados, debemos centrarnos en mejorar la vida de nuestra gente ".
+PNG_alliance_with_stalliongrad:0 "Alianza con Stalliongrad"
+PNG_alliance_with_stalliongrad_desc:0 "Stalliongrad es un estado revolucionario recientemente establecido, no tan diferente al nuestro, al establecer una relación diplomática, y luego una alianza concon ellos, deberíamos ganar valiosos camaradas, y nos haría más seguros de las ambiciones territoriales de cualquier burguesía o estado supremacista ".
+
+## Enfoques militares
+PNG_penguin_warfare:0 "Guerra de pingüinos"
+PNG_penguin_warfare_desc:0 "Los pingüinos no han sido muy agresivos en mucho tiempo, pero con el mundo cambiando como está, tal vez retomar el entrenamiento sería una buena idea".
+PNG_arctic_warriors:0 "Guerreros árticos"
+PNG_arctic_warriors_desc:0 "Los pingüinos son increíblemente adecuados para entornos duros y fríos, ¿por qué no aprovechar esto?"
+PNG_arctic_equipment:0 "Equipo ártico"
+PNG_arctic_equipment_desc:0 "Los nuevos equipos deben diseñarse y construirse para resistir mejor las heladas temperaturas del norte".
+PNG_artillery:0 "Diseños de artillería"
+PNG_artillery_desc:0 "La artillería es algo de lo que nunca se ha oído hablar antes, así que cuando se introdujo no hace muchos años, muchos pingüinos han estado absolutamente enamorados de la idea desde entonces. Investigar cómo crear nuestra propia artillería haría felices a muchos pingüinos y darnos más potencia de fuego ".
+PNG_doctrine:0 "Nuevas doctrinas"
+PNG_doctrine_desc:0 "Todavía estamos operando con doctrinas antiguas que no se han cambiado para lidiar con nuevos equipos y la guerra moderna, cambiar eso es una prioridad máxima".
+PNG_doctrine2:0 "Nuevos asesores militares"
+PNG_doctrine2_desc:0 "Algunos de nuestros asesores militares han estado estancados en el pasado durante demasiado tiempo, es hora de poner algunas mentes frescas en el trabajo".
+
+PNG_dockyards:0 "Dachaigh Dockyards"
+PNG_dockyards_desc:0 "Aunque la construcción naval no ha sido nuestro punto fuerte, es importante tener algunos barcos que podamos utilizar".
+PNG_flexible_navy:0 "Azul marino flexible"
+PNG_flexible_navy_desc:0 "Crear una nueva doctrina naval para dar cuenta de los avances en la tecnología submarina nos permitirá atacar de manera eficiente a los convoyes enemigos".
+PNG_large_navy:0 "Azul marino grande"
+PNG_large_navy_desc:0 "Adaptar nuestras doctrinas navales para acomodar mejor los barcos grandes y garantizar la seguridad de nuestros convoyes comerciales nos enseñará mucho sobre qué tipo de barcos necesitamos".
+PNG_destroyer_effort:0 "Esfuerzo del destructor"
+PNG_destroyer_effort_desc:0 "Ser capaz de contrarrestar submarinos es importante. Los destructores podrán contrarrestarlos perfectamente".
+PNG_cruiser_effort:0 "Esfuerzo de crucero"
+PNG_cruiser_effort_desc:0 "Necesitamos mejores cruceros antes de que podamos empezar a trabajar en algo más avanzado".
+PNG_more_dockyards:0 "Expandir los astilleros"
+PNG_more_dockyards_desc:0 "Para construir barcos mejores y más grandes, es necesario actualizar los astilleros actuales".
+PNG_underwater_boats:0 "Barcos submarinos"
+PNG_underwater_boats_desc:0 "A muchos pingüinos les ha fascinado la idea de que un barco pueda navegar bajo el agua, algunas investigaciones sobre este tema podrían incluso ayudarnos en cualquier posible guerra".
+PNG_flightless_no_more:0 "No más voladores"
+PNG_flightless_no_more_desc:0 "Nada es más importante que controlar los cielos en estos nuevos y modernos tiempos".
+PNG_fighters:0 "Esfuerzo de combate"
+PNG_fighters_desc:0 "El desarrollo de algunos aviones de combate nos dará una gran ventaja en cualquier compromiso futuro".
+PNG_bombers:0 "Esfuerzo de bombardero"
+PNG_bombers_desc:0 "En las profecías de antaño, se habla de fuego y azufre que caen del cielo. Bueno, hoy, simplemente se han hecho realidad".
+PNG_air_doctrine:0 "Doctrina del aire"
+PNG_air_doctrine_desc:0 "Más avances en nuestra fuerza aérea nos obligan a crear doctrinas completamente nuevas para luchar eficazmente".
+PNG_air_doctrine2:0 "Doctrina aérea avanzada"
+PNG_air_doctrine2_desc:0 "Enseñar a nuestros pilotos y entrenarlos en las nuevas doctrinas es increíblemente importante".
+### Advisors ###
+PNG_odert_bergstrom:0 "Odert Bergstrom"
+PNG_olov_hagg:0 "Olov Hagg"
+PNG_ville_fredholm:0 "Ville Fredholm"
+PNG_viggo_ekbland:0 "Viggo Ekbland"
+PNG_karl_nordin:0 "Karl Nordin"
+PNG_liam_wallenberg:0 "Liam Wallenberg"
+PNG_vilgot_augustson:0 "Vilgot Augustson"
+PNG_hampus_cederstrom:0 "Hampus Cederstrom"
+PNG_spjalle_lindqvist:0 "Spjalle Lindqvist"
+PNG_sverker_ekdal:0 "Sverker Ekdal"
+PNG_hannes_liljestrom:0 "Hannes Liljestrom"
+PNG_allan_bollander:0 "Allan Bollander"
+PNG_sture_persson:0 "Strute Persson"

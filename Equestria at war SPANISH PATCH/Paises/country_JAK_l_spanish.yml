@@ -1,0 +1,346 @@
+﻿l_spanish:
+
+### Eventos ###
+jakistan.1.t:0 "El día de la unidad"
+jakistan.1.d:0 "Millones de Yaks y Jaks se han reunido en las ciudades de Jakistan, provenientes de todos los rincones del reino para celebrar su establecimiento, la supervivencia continua de las tradiciones Yak y Jak y, por supuesto, el estilo de vida Yak. . Si bien el Reino en sí no fue declarado en este día, se afirma que la celebración se establece en la fecha en que cesaron los conflictos entre los Jaks y los Yaks, ya que ambos grupos comenzaron a verse como aliados y amigos, en lugar de enemigos.\n\nDurante el día, los habitantes del Reino pasan su tiempo rompiendo varios objetos y comiendo juntos para mostrar y celebrar la unidad entre todos en el reino. Este día de festividades terminó con todos reunidos en los pozos de fuego masivos, donde iluminados por grandes llamas, los mayores Yaks y Jaks contaron historias a las generaciones más jóvenes ".
+jakistan.1.a:0 "¡JAK Y YAK UNIDAD FUERTE!"
+
+jakistan.2.t:0 "Desalojo de no yaks"
+jakistan.2.d:0 "Mientras que el nuevo monarca de los Yaks y Jaks estaba fuertemente en contra de cualquiera que no fuera un yak que viviera dentro del reino y pareciera querer aislar su reino del resto del mundo, nadie pensó realmente que esto realmente conduciría a cualquier cosa. Pero como descubrieron hoy, Bradford estaba listo para actuar de acuerdo con estas ideas.\n\nEn todo el Reino de Jakistan, las casas y otros edificios pertenecientes a no yaks fueron asaltados por soldados Jak. Los habitantes fueron capturados y todos sus artículos fueron recolectados. Si bien muchos de ellos lograron evitar la captura huyendo a las diversas embajadas que aún están presentes dentro de la nación, miles aún fueron capturados por los guerreros leales al rey. Sus lugares de residencia También se buscó a fondo tanto para cualquier persona que pudiera estar escondida como para encontrar cualquier objeto que sea de origen extraño. Todos estos objetos simplemente fueron destrozados, mientras que sus dueños anteriores simplemente fueron transportados a los límites del reino, y con el típico Jak lac k de tacto, simplemente pateado más allá de las fronteras ".
+jakistan.2.a:0 "¡LOS NO YAKS NOS HICIERON DÉBILES! ¡SE LO MERECEN!"
+
+jakistan.3.t:0 "El discurso de Bradford"
+jakistan.3.d:0 "Bradford se paró frente a sus súbditos Yak y Jak que se habían reunido para escuchar su comentario sobre la posición actual del Reino de Jakistan y su futuro. El monarca miró a través de los miles, si no decenas de miles de sus súbditos que se han reunido para escucharlo. Se aclaró la garganta para poder hablar lo suficientemente alto como para que todos pudieran escuchar sus palabras.\n\n "¡Bradford orgulloso! ¡Reino de Jaks y Yaks fuerte, más fuerte que el Reino de solo Jaks o Yaks! ¡Jaks y Yaks hacen el bien, preservan el estilo de vida Yak y la tradición Yak! ¡Echa a los que no son yaks débiles para preservar el reino! ¡Ahora el reino de Jak y Yak puede volver a ser perfecto! ¡Ahora Jak y el reino de Yak pueden prosperar!\n\nBradford está muy orgulloso de que Yaks entendiera que conocían mal el Camino de la Vida Yak y quieren entenderlo bien. Bradford se enorgullece de que Jaks haya ayudado a los Yaks a comprender y perdonarlos por sus malas acciones. Los ancianos dicen que si Yaks y Jaks continúan siendo uno y siendo fuertes, ¡Yak Way of Life sobrevivirá y seguirá siendo fuerte para siempre! ""
+jakistan.3.a:0 "¡LA FORMA DE VIDA JAK SOBREVIVIRÁ PARA SIEMPRE!"
+
+######################################## Enfoques ####### ############################################################################################################################################################################################################################################################################################ ##
+
+JAK_rally_clan:0 "Reagrupa al clan"
+
+JAK_rally_clan_desc:0 "Si los Jaks quieren derrotar a los Yaks, todos los Jaks del Jaki-Clan deben ser como un solo Jak".
+
+JAK_improve_military:0 "Jak Way of War"
+
+JAK_improve_military_desc:0 "Jaks ha aplastado a muchos enemigos antes y los ha estado aplastando durante mucho tiempo. ¡Jaks sabe cómo aplastar enemigos mejor que Yaks! ¡Jaks ha aplastado a Yaks antes! ¡La forma de luchar de Jak es mejor!"
+
+JAK_expand_industry:0 "La industria de Jaki-Clan"
+
+JAK_expand_industry_desc:0 "Los Jaks son mejores que los Yaks. Pero Yakyakistan tiene más fábricas que el clan Jaki. Algunos dicen que debido a esto, los Yaks eventualmente aplastarán a los Jaks. ¡Pero no permitiremos esto!\n\nJaks construirá fábricas mejor que los Yaks ! "
+
+JAK_every_jak_a_rifel:0 "¡Cada Jak a Rifle!"
+
+JAK_every_jak_a_rifel_desc:0 "Yakyakistan tiene más fábricas para fabricar armas que Jaki-clan. Pero Jaks sabe cómo fabricar armas más rápido que Yaks. ¡La forma de Jak de fabricar armas es mejor!"
+
+JAK_mountain_jaks:0 "Mountain Jaks"
+
+JAK_mountain_jaks_desc:0 "Muchos Jaks fuertes y duros viven en los picos de las montañas. ¡Reuniremos a todos estos Jaks para que nos ayuden a aplastar a los Yaks!"
+
+JAK_expand_jaki_military_complex:0 "Fábricas de armas de Saihan Tolgod"
+
+JAK_expand_jaki_military_complex_desc:0 "Hay muchos Jaks armeros calificados en Saihan Tolgod. Estos Jaks tienen muchas fábricas de armas. Los ayudaremos a expandir su producción y ellos ayudarán a Jaki-Clan a fabricar armas".
+
+JAK_war_preparations:0 "Prepárate para aplastar a nuestros enemigos"
+
+JAK_war_preparations_desc:0 "Los Jaks tienen más enemigos que los Jaks. Si los Jaks quieren aplastarlos a todos, debemos crear un plan de guerra único y organizar nuestros ejércitos bajo él. Con nuestra fuerza organizada, los Jaks aplastarán a todos nuestros¡enemigos!"
+
+JAK_minute_jaks:0 "Reúne a los Minutejaks"
+
+JAK_minute_jaks_desc:0 "Yakyakistan tiene más soldados que Jaki-Clan. Algunos Jaks están preocupados de que debido a esto Yaks nos aplastará. ¡Pero el Príncipe Bradford ha encontrado una solución! ¡Haremos que las milicias de minutejak ayuden a nuestro ejército a aplastar a Yaks!"
+
+JAK_attack_yaks:0 "Smash Yaks"
+
+JAK_attack_yaks_desc:0 "¡Después de largos preparativos, finalmente ha llegado el momento! ¡Jaks del Jaki-Clan finalmente mostrará a los Yaks de Yakyakistan el verdadero camino! ¡Bajo el Príncipe Bradford, los Jaks aplastarán a los Yaks!"
+
+JAK_true_king:0 "Verdadero rey de Jaks y Yaks"
+
+JAK_true_king_desc:0 "Bajo el liderazgo del Príncipe Bradford, los Jaks de Jaki-Clan aplastaron a los Yaks de Yakyakistan. ¡Ahora los Yaks se inclinan ante los Jaks!\n\nEl príncipe Bradford ahora es el líder tanto de Jaks como de Yaks. Jaki-Clan es ahora más que un clan, ¡ahora somos un reino! "
+
+JAK_show_why_jaks_are_best:0 "¡Demuestra que Jaks es el mejor!"
+
+JAK_show_why_jaks_are_best_desc:0 "Si bien hemos aplastado a los Yaks, algunos de ellos todavía no creen que nuestra comprensión de la" Forma de vida de los Yak "sea mejor que la de ellos. Es necesario mostrarles a estos Yaks que están equivocados para que puedan abrazar el verdadero camino ".
+
+JAK_unify:0 "Unidad de Jak y Yak"
+
+JAK_unify_desc:0 "Aunque afirmamos ser diferentes, tanto Jaks como Yaks siguen el estilo de vida Yak. Cada Jak y Yak en el Reino Jaki deben aprender de este hecho, para que todos los Jaks y Yaks puedan ser uno".
+
+JAK_remake_education_system:0 "Crear un sistema educativo adecuado"
+
+JAK_remake_education_system_desc:0 "Yaks y Jaks pueden aplastar a todos, pero no saben mucho. E incluso los mayores están de acuerdo, si Yaks y Jaks quieren sobrevivir, todos en el Reino necesitan saber más. Y por eso debemos reformar el sistema educativo para enseñar a Yaks y Jaks sobre el mundo ".
+
+JAK_evict_foreigners:0 "Echar a los extranjeros"
+
+JAK_evict_foreigners_desc:0 "Hay muchos no-yaks y no-jaks en el Reino de Jakistan. ¡Estos extranjeros nos están debilitando! ¡Debemos echarlos de nuestro Reino si queremos mantener el estilo de vida de los yaks!"
+
+JAK_repair_nation:0 "Reparar Jak Nation"
+
+JAK_repair_nation_desc:0 "Si bien la guerra de Jaki-Clan con el Reino de Yakyakistan resultó en una gran victoria, Jaks, ya que logramos aplastar por completo a los Yaks, también llevó a que gran parte del reino fuera destruido. Debemos reparar y reconstruir nuestro Reino si Jaks desea sobrevivir y prosperar ".
+
+JAK_make_new_holiday:0 "Make New Holiday for Jaks"
+
+JAK_make_new_holiday_desc:0 "La creación de un nuevo reino de Jak y Yak es un regreso al verdadero estilo de vida Yak y el comienzo de una nueva era. Para celebrar esta nueva era, un nuevo reino y nuestra forma de vida, crearemos un nuevo vacaciones que ayudarán a Jaks y Yaks a recordar su verdadero camino y el establecimiento del país ".
+
+JAK_smarter_population:0 "Instituciones superiores de aprendizaje"
+
+JAK_smarter_population_desc:0 "¡Simplemente reformar el sistema de educación no es suficiente! Para lograr nuestro objetivo de hacer que Jaks y Yaks sean más inteligentes y conocedores, debemos establecer instituciones superiores de educación en todo nuestro reino".
+
+JAK_new_production_centers:0 "Nuevos centros de producción"
+
+JAK_new_production_centers_desc:0 "Si bien debemos preservar el estilo de vida Yak y nuestras tradiciones, incluso los mayores están de acuerdo en que si Jaks y Yaks desean sobrevivir en esta era, el Reino de Jakistan debe convertirse en una nación industrial. Por lo tanto, debemos construir más centros de producción ".
+
+JAK_new_military_bases:0 "Más fábricas de armas"
+
+JAK_new_military_bases_desc:0 "Si bien ahora el Reino de Jakistan tiene una industria militar sustancial, hay naciones en el continente que tienen mucha más. Si no queremos que estos países nos destruyan por completo, necesitamos expandir la cantidad de fábricas de armas que poseemos. "
+
+JAK_new_schools:0 "Más escuelas"
+
+JAK_new_schools_desc:0 "Simplemente cambiar nuestro sistema educativo y crear lugares de educación superiores no es suficiente. Si queremos tener Jaks y Yaks verdaderamente inteligentes en todo nuestro Reino, necesitamos construir más escuelas para educarlos sobre el mundo y el Yak Forma de vida ".
+
+JAK_new_railroads:0 "Construir nuevas carreteras para Jaks"
+
+JAK_new_railroads_desc:0 "Las tierras de Jaks y Yaks son difíciles de atravesar, este ha sido el caso o desde que cualquier anciano pueda recordar. ¡Sin embargo, ha llegado el momento de cambiar esto! Construiremos nuevas carreteras a través del Reino de Jakistan permitir que Jaks y Yaks viajen libremente por la nación ".
+
+JAK_the_real_way:0 "The Real Way"
+
+JAK_the_real_way_desc:0 "¡Bajo el liderazgo del Príncipe Bradford, a los Jaks y Yaks del Reino de Jakistan se les enseñó el verdadero estilo de vida Yak! ¡Han abrazado la verdad, que Jaks y Yaks son duros y no necesitan ayuda de nadie! Nuestro reino es una fortaleza de tradición que resistirá a cualquiera que intente conquistarnos ".
+
+JAK_defensive_mind:0 "La forma de guerra de Jak"
+
+JAK_defensive_mind_desc:0 "Nuestra fuerza radica en nuestra resistencia, algo que sirve en gran medida para defender nuestras tierras de cualquier posible conquistador. Este es el camino de la guerra Yak, la forma en que protegemos la fortaleza que es nuestro reino. Sin embargo, este fortress, aunque posee defensores incondicionales, carece de murallas y fortificaciones. ¡Jaks y Yaks deben eliminar este problema construyendo búnkeres y otras fortificaciones para proteger nuestra nación! "
+
+JAK_remove_embassies:0 "¡Aplasta embajadas!"
+
+JAK_remove_embassies_desc:0 "¡Jaks y Yaks ya han aplastado a todos los débiles que no son yaks que viven en el Reino de Jakistan! Pero sus embajadas siguen en pie. Si queremos eliminar todo lo que es un peligro para nuestras tradiciones y forma de vida, debemos ¡aplasta a estos "embajadores" también! "
+
+JAK_isolation:0 "Comienza el gran aislamiento"
+
+JAK_isolation_desc:0 "Ha llegado el momento de asegurarnos de que el estilo de vida Yak y nuestras tradiciones sobrevivirán durante generaciones. Hemos eliminado cualquier posible influencia negativa en nuestro país y lo hemos convertido en una fortaleza. Ahora podemos comenzar nuestra era de aislamiento y prosperidad! "
+
+JAK_fortify_crystal:0 "La pared de cristal"
+
+JAK_fortify_crystal_desc:0 "Una vez que los ponis del Imperio de Cristal gobernaron a los Yaks. Si bien ahora se proclaman" Armónicos ", ¡no podemos confiar en tales afirmaciones! No hay garantía de que no se conviertan en un peligro para el estilo de vida Yak. ! Por lo tanto, debemos fortalecer nuestra frontera con ellos, para que la fortaleza que es el Reino de Jakistan nunca caiga en manos de los ponis ".
+
+JAK_fortify_changeling:0 "El muro de los cambiantes"
+
+JAK_fortify_changeling_desc:0 "Los cambiantes de las colmenas cambiantes proclaman abiertamente su intención de dominar a todo Equus. Aunque sus miradas se centran en los ponis del sur por ahora, ¡no deberíamos ignorar esta amenaza potencial a nuestra forma de vida! para que nunca caigamos contra el ataque de los cambiantes, debemos fortalecer nuestra frontera occidental ".
+
+JAK_jaktopia:0 "Jaktopia"
+
+JAK_jaktopia_desc:0 "En verdad, ha llegado una nueva y gran era a Jaks y Yaks. Bajo el liderazgo del Príncipe Bradford, hemos creado una nación que realmente abraza el estilo de vida Yak y las tradiciones Yak y Jak. ¡Esto ha llevado a una prosperidad sin precedentes! .\n\nEn verdad, hemos creado una utopía tanto para Yaks como para Jaks ".
+
+########################################### Asesores ### ##########################################################################################################################################################################################################################################################################################################
+JAK_alastair:0 "Alastair"
+
+JAK_prince_rutherford:0 "Príncipe Rutherford"
+
+JAK_archibald:0 "Archibald"
+
+JAK_not_a_jak:0 "Abram the Propagandagoat"
+
+JAK_buuhtan_motors:0 "Buuthan Motors"
+
+JAK_yakistanks:0 "Yakistanks"
+
+JAK_darksky_aeronautics:0 "Darsksky Aeronautics"
+
+JAK_northwind_design:0 "Diseño de Northwind"
+
+JAK_ryben_industries:0 "Industrias Ryben"
+
+JAK_saihan_river_authority:0 "Autoridad del río Saihan"
+
+JAK_dougal_khan:0 "Doughal Khan"
+
+JAK_chief_dougal_khan:0 "Jefe Doughal Khan"
+
+JAK_irvine:0 "Irvine"
+
+JAK_air_skychief_agnes:0 "Air Skychief Agnes"
+
+JAK_finbar:0 "Finbar"
+
+JAK_bradford:0 "Bradford"
+
+JAK_skychief_agnes:0 "Skychief Agnes"
+
+JAK_boomer:0 "Boomer"
+
+###################################### ideas ######## #####################################
+
+JAK_better_troops:0 "Jak Way of War"
+
+JAK_cheaper_guns:0 "Jak Way of Weaponsmithing"
+
+JAK_war_plan:0 "Plan de guerra de Jaki"
+
+JAK_smarter_pop:0 "Centros de aprendizaje de Jak"
+
+JAK_defence:0 "Libertad de la debilidad extranjera"
+
+JAK_rebuilding:0 "La gran reconstrucción"
+
+JAK_fortress:0 "La nación fortaleza"
+
+JAK_bunkers:0 "Los muros de la fortaleza"
+
+JAK_isolationism:0 "El gran aislamiento"
+
+JAK_yaktopia_idea:0 "Jaktopia"
+
+JAK_angry_jaks:0 "El Yickslurbertfest más grande"
+JAK_angry_jaks_desc:0 "Para demostrar que los jaks somos verdaderos yaks, a diferencia de los apestosos yaks de Yakyakistan, celebraremos el Yickslurbertfest más grandioso que durará mucho tiempo y contendrá una gran cantidad de aplastamientos y pisotones.
+
+
+################################## Decisiones ############# ################
+
+JAK_remove_stalliongrad_propoganda:0 "Aplastar la propaganda comunista"
+
+JAK_stop_commies:0 "¡Aplasta a los comunistas!"
+
+################################## Sugerencias de herramientas personalizadas ############################################################################################################################################################################################################################################################### ###########
+
+JAK_mountain_jaks_tt:0 "Cuatro divisiones de §YMountain Jak§! Se unirán a ti. \ N"
+
+JAK_minute_jaks_tt:0 "¡Ocho divisiones de §YMinutejak§! Se unirán a ti. \ N"
+
+###Equipo
+ JAK_melee_equipment_0:0 "Smashers"
+ JAK_melee_equipment_0_short:0 "Smashers"
+ JAK_melee_equipment_0_desc:0 "¡JAK SMASH!"
+ JAK_melee_equipment_1:0 "Trabuco"
+ JAK_melee_equipment_1_short:0 "Trabuco"
+ JAK_melee_equipment_1_desc:0 "¡NO SÓLO JAK SMASH, JAK HIZO UN ENEMIGO ESTÚPIDO!"
+ JAK_infantry_equipment_0:0 "Boomsticks"
+ JAK_infantry_equipment_0_short:0 "Boomsticks"
+ JAK_infantry_equipment_0_desc:0 "¡AHORA JAK REALMENTE PUEDE GOLPEAR AL ENEMIGO CON MEJOR ARMA!"
+ JAK_infantry_equipment_1:0 "Deathguns"
+ JAK_infantry_equipment_1_short:0 "Deathguns"
+ JAK_infantry_equipment_1_desc:0 "¡ESTA PISTOLA DESTRUYE AL ENEMIGO Y LOS HACE MUERTOS!"
+ JAK_infantry_equipment_2:0 "Sluggers"
+ JAK_infantry_equipment_2_short:0 "Sluggers"
+ JAK_infantry_equipment_2_desc:0 "¡ESTA ARMA ES COMO GRANDES PUNZONES, SE LLAMA SLUGGER!"
+ JAK_infantry_equipment_3:0 "Mejores bates"
+ JAK_infantry_equipment_3_short:0 "Mejores bates"
+ JAK_infantry_equipment_3_desc:0 "¡JAKS HACE LAS MEJORES ARMAS DEL MUNDO!"
+ YAK_infantry_equipment_x_short:0 "Mejores bates"
+ YAK_infantry_equipment_x_desc:0 "¡LA CIENCIA JAK APLASTRA AL ENEMIGO PUNY!"
+ YAK_infantry_equipment_x_2_short:0 "Besterest Sluggers"
+ YAK_infantry_equipment_x_2_desc:0 "¡LAS MEJORES ARMAS DE JAK GUNS!"
+ JAK_magical_equipment_1:0 "Zapper"
+ JAK_magical_equipment_1_desc:0 "¡JAK UTILIZA PIEDRAS BRILLANTES EN EL ARMA, ARMA ZAP ENEMIGO!"
+ JAK_magical_equipment_2:0 "Intermitente"
+ JAK_magical_equipment_2_desc:0 "¡ESTA ARMA DEMASIADO BRILLANTE! PERO BUENO PARA ZAPPING"
+ JAK_magical_equipment_3:0 "Thundergun"
+ JAK_magical_equipment_3_desc:0 "¡JAK TAN FUERTE JAK DISPARA RAYOS!"
+ JAK_magical_equipment_4:0 "Snazzgun"
+ JAK_magical_equipment_4_desc:0 "¡JAK SMASH CON UNA PISTOLA MÁGICA! ¡UNA PISTOLA MÁGICA ESTALLADA! ¡EL ENEMIGO TAMBIÉN ESTALLÓ!"
+ JAK_magical_equipment_5:0 "Magiblaster"
+ JAK_magical_equipment_5_desc:0 "¡JAK HACE MAGIC SMASH!"
+ JAK_artillery_equipment_0:0 "Killcannons"
+ JAK_artillery_equipment_0_short:0 "Killcannons"
+ JAK_artillery_equipment_0_desc:0 "ESTAS ARMAS PESADAS PERO JAKS FUERTES"
+ JAK_artillery_equipment_1:0 "Grandes armas"
+ JAK_artillery_equipment_1_short:0 "Grandes armas"
+ JAK_artillery_equipment_1_desc:0 "BIG GUN HACE GRAN BOOM Y HACER AL ENEMIGO APROPIADO ADECUADAMENTE"
+ JAK_artillery_equipment_2:0 "Armas más grandes"
+ JAK_artillery_equipment_2_short:0 "Armas más grandes"
+ JAK_artillery_equipment_2_desc:0 "MÁS GRANDE ES SIEMPRE MEJOR Y MÁS RÁPIDO"
+ JAK_artillery_equipment_3:0 "Armas muy grandes"
+ JAK_artillery_equipment_3_short:0 "Armas muy grandes"
+ JAK_artillery_equipment_3_desc:0 "JAKS HACE ARMAS MÁS GRANDES, POR LO TANTO JAKS MEJOR"
+ JAK_motorized_equipment_1:0 "Vagón autónomo"
+ JAK_motorized_equipment_1_desc:0 "JAK IR RÁPIDO AHORA"
+ JAK_mechanized_equipment_1:0 "Wartruck"
+ JAK_mechanized_equipment_1_short:0 "Wartruck"
+ JAK_mechanized_equipment_2:0 "Mejor Wartruck"
+ JAK_mechanized_equipment_2_short:0 "Better Wartruck"
+ JAK_mechanized_equipment_3:0 "Camión de guerra impenetrable"
+ JAK_mechanized_equipment_3_short:0 "Impenetrable Wartruck"
+ JAK_anti_tank_equipment_1:0 "Destructor de tanques"
+ JAK_anti_tank_equipment_1_short:0 "Destructor de tanques"
+ JAK_anti_tank_equipment_1_desc:0 "¡LOS TANQUES GRANDES Y ASUSTANOS, PERO JAK NO TIENE MIEDO! ¡JAK SMASH PUNY METAL WAGON!"
+ JAK_anti_tank_equipment_2:0 "Destructor de tanques más grande"
+ JAK_anti_tank_equipment_2_short:0 "Destructor de tanques más grande"
+ JAK_anti_tank_equipment_2_desc:0 "¡LOS TANQUES GRANDES Y ASUSTANOS, PERO JAK NO TIENE MIEDO! ¡JAK SMASH PUNY METAL WAGON!"
+ JAK_anti_tank_equipment_3:0 "El destructor de tanques más grande"
+ JAK_anti_tank_equipment_3_short:0 "El destructor de tanques más grande"
+ JAK_anti_tank_equipment_3_desc:0 "¡LOS TANQUES GRANDES Y ASUSTANOS, PERO JAK NO TIENE MIEDO! ¡JAK SMASH PUNY METAL WAGON!"
+ JAK_anti_air_equipment_1:0 "Plane Smasher"
+ JAK_anti_air_equipment_1_short:0 "Plane Smasher"
+ JAK_anti_air_equipment_1_desc:0 "¿VUELAS? ¡HAH! ¡JAK TODAVÍA TE DAÑUELA!"
+ JAK_anti_air_equipment_2:0 "Mejor aplastador de aviones"
+ JAK_anti_air_equipment_2_short:0 "Mejor aplastador de aviones"
+ JAK_anti_air_equipment_2_desc:0 "¿VUELAS? ¡HAH! ¡JAK AÚN TE DAÑUELA!"
+ JAK_anti_air_equipment_3:0 "Mejor aplastador de aviones"
+ JAK_anti_air_equipment_3_short:0 "Mejor aplastador de aviones"
+ JAK_anti_air_equipment_3_desc:0 "¿VUELAS? ¡HAH! ¡JAK AÚN TE APLASTAMOS!"
+ JAK_gw_tank_equipment:0 "Carro de guerra de metal"
+ JAK_gw_tank_equipment_short:0 "Warwagon"
+ JAK_gw_tank_equipment_desc:0 "¡JAK AHORA PUEDE IR A LA GUERRA EN UN WARWAGON AUTÓNOMO CON ARMAS GRANDES Y ENEMIGOS SMASH PUNY!"
+ JAK_light_tank_equipment_1:0 "Fast Warwagon"
+ JAK_light_tank_equipment_1_short:0 "Fast Warwagon"
+ JAK_light_tank_equipment_2:0 "Warwagon más rápido"
+ JAK_light_tank_equipment_2_short:0 "Warwagon más rápido"
+ JAK_light_tank_equipment_3:0 "El carro de guerra más rápido"
+ JAK_light_tank_equipment_3_short:0 "Warwagon más rápido"
+ JAK_light_tank_equipment_x:0 "Tren de guerra más interesante"
+ JAK_light_tank_equipment_x_short:0 "Carro de guerra más interesante"
+ JAK_medium_tank_equipment_1:0 "Carro de batalla"
+ JAK_medium_tank_equipment_1_short: 1 "Carro de batalla"
+ JAK_medium_tank_equipment_2:0 "Trituradora de cabezas"
+ JAK_medium_tank_equipment_2_short:0 "Rompecabezas"
+ JAK_medium_tank_equipment_3:0 "Rompehuesos"
+ JAK_medium_tank_equipment_3_short:0 "Rompehuesos"
+ JAK_heavy_tank_equipment_1:0 "Gran carro de batalla"
+ JAK_heavy_tank_equipment_1_short:0 "Gran carro de batalla"
+ JAK_heavy_tank_equipment_2:0 "Killsmasher"
+ JAK_heavy_tank_equipment_2_short:0 "Killsmasher"
+ JAK_heavy_tank_equipment_3:0 "Battlefortress"
+ JAK_heavy_tank_equipment_3_short:0 "Battlefortress"
+ JAK_super_heavy_tank_equipment_1:0 "Gargantilla"
+ JAK_super_heavy_tank_equipment_1_short:0 "Gargant"
+ JAK_modern_tank_equipment_1:0 "Shiny Smasher"
+ JAK_modern_tank_equipment_1_short:0 "Shiny Smasher"
+ JAK_amphibious_mechanized_equipment:0 "Carro de guerra flotante"
+ JAK_amphibious_mechanized_equipment_short:0 "Carro de guerra flotante"
+ JAK_amphibious_mechanized_equipment_1:0 "Carro de batalla de natación"
+ JAK_amphibious_mechanized_equipment_1_short:0 "Carro de batalla de natación"
+ JAK_amphibious_mechanized_equipment_2:0 "Carro de peces"
+ JAK_amphibious_mechanized_equipment_2_short:0 "Carro de pescado"
+ JAK_amphibious_tank_equipment:0 "Carro de batalla flotante"
+ JAK_amphibious_tank_equipment_short:0 "Carro de batalla flotante"
+ JAK_amphibious_tank_equipment_1:0 "Carro de batalla más flotante"
+ JAK_amphibious_tank_equipment_2:0 "El carro de batalla más flotante"
+ JAK_CAS_equipment_1:0 "Gritón"
+ JAK_CAS_equipment_1_short:0 "Gritón"
+ JAK_CAS_equipment_2:0 "Screecher"
+ JAK_CAS_equipment_2_short:0 "Screecher"
+ JAK_CAS_equipment_3:0 "Wailer"
+ JAK_CAS_equipment_3_short:0 "Wailer"
+ JAK_heavy_fighter_equipment_1:0 "Carro de tormenta"
+ JAK_heavy_fighter_equipment_1_short:0 "Storm Chariot"
+ JAK_heavy_fighter_equipment_2:0 "Thunder Chariot"
+ JAK_heavy_fighter_equipment_2_short:0 "Thunder Chariot"
+ JAK_heavy_fighter_equipment_3:0 "Carro celestial"
+ JAK_heavy_fighter_equipment_3_short:0 "Carro celestial"
+ JAK_fighter_equipment_0:0 "Vagón alado"
+ JAK_fighter_equipment_0_short:0 "Carro alado"
+ JAK_fighter_equipment_1:0 "Cloud Wagon"
+ JAK_fighter_equipment_1_short:0 "Cloud Wagon"
+ JAK_fighter_equipment_2:0 "Vagón de viento"
+ JAK_fighter_equipment_2_short:0 "Vagón de viento"
+ JAK_fighter_equipment_3:0 "Vagón de vendaval"
+ JAK_fighter_equipment_3_short:0 "Gale Wagon"
+ JAK_strat_bomber_equipment_1:0 "Destructor del cielo"
+ JAK_strat_bomber_equipment_1_short:0 "Sky Smasher"
+ JAK_strat_bomber_equipment_2:0 "Star Smasher"
+ JAK_strat_bomber_equipment_2_short:0 "Star Smasher"
+ JAK_strat_bomber_equipment_3:0 "Tormenta de granizo"
+ JAK_strat_bomber_equipment_3_short:0 "Granizada"
+ JAK_tac_bomber_equipment_0:0 "Águila de acero"
+ JAK_tac_bomber_equipment_0_short:0 "Águila de acero"
+ JAK_tac_bomber_equipment_1:0 "Águila de montaña"
+ JAK_tac_bomber_equipment_1_short:0 "Mountain Eagle"
+ JAK_tac_bomber_equipment_2:0 "Elder Eagle"
+ JAK_tac_bomber_equipment_2_short:0 "Elder Eagle"
+ JAK_tac_bomber_equipment_3:0 "Gran águila"
+ JAK_tac_bomber_equipment_3_short:0 "Gran águila"

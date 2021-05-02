@@ -1,0 +1,359 @@
+﻿l_spanish:
+FRE_neutrality:0 "Pònaidhean an Taigh-Fada"
+  FRE_fascism:0 "Pònaidhean a 'Claidheamh"
+  FRE_communism:0 "Pònaidh an Darach-Ruadh"
+  FRE_democrat:0 "Pònaidhean"
+  FRE_neutrality_DEF:0 "Pònaidhean an Taigh-Fada"
+  FRE_fascism_DEF:0 "Pònaidhean a 'Claidheamh"
+  FRE_communism_DEF:0 "Pònaidh an Darach-Ruadh"
+  FRE_democrat_DEF:0 "Pònaidhean an Taigh-Fada"
+  FRE_fascism_ADJ:0 "Pònaidh"
+  FRE_democrat_ADJ:0 "Pònaidh"
+  FRE_neutrality_ADJ:0 "Pònaidh"
+  FRE_communism_ADJ:0 "Pònaidh"
+
+  FRE_democrat_party:0 "Coalición de Taoiseach"
+  FRE_democrat_party_long:0 "La coalición de Taoiseach"
+  FRE_communism_party:0 "La fiesta libre"
+  FRE_communism_party_long:0 "La fiesta de los freeponies"
+  FRE_neutrality_party:0 "La Coalición Clann"
+  FRE_neutrality_party_long:0 "La Coalición por los Derechos de Clann"
+  FRE_fascism_party:0 "Los Señores de la Triath"
+  FRE_fascism_party_long:0 "El Consejo de los Señores de Triath"
+
+FRE_tribal_federation_desc:0 "El Prìomh Chomhairle es un consejo de 87 Triaths y Toisiches que se reúnen para discutir asuntos relacionados con todas las tribus. El Taoiseach es elegido para representar a todas las tribus internacionalmente y para guiar a las tribus en asuntos de estado".
+ #### IDEAS ####
+FRE_isolated_tribes:0 "Tribus aisladas"
+  FRE_isolated_tribes_desc:0 "Hay muchas tribus en lo alto de las montañas que saben poco del consejo. Aunque las protegeremos, es mejor dejarlas en paz."
+  FRE_traditional_army:0 "Ejército tradicional"
+  FRE_slowed_industralisation:0 "Industrialización lenta"
+  FRE_appeased_breezies:0 "Brisas apaciguadas"
+  FRE_breezie_famin:0 "La hambruna de Breezie"
+  FRE_agriculture_reformes_idea:0 "Reformas agrarias"
+
+ #### Advisor ####
+ FRE_civ_industry_advisor:0 "Bitty Builder"
+ FRE_mil_industry_advisor:0 "Moonsteel"
+ FRE_ideological_crusader_advisor:0 "Sunny 'Dàimh-Shùil' nic Willow"
+ FRE_silent_workhorse_advisor:0 "Father 'Seann Tuathanach' mac Corn"
+ FRE_smooth_talking_charmer_advisor:0 "Rose 'Speur-Bhean' nic Love"
+ FRE_military_theorist_advisor:0 "Bold 'Sleaghair' mac Iron"
+ FRE_air_war_advisor:0 "Blue 'Bileag Luath' mac Windsor"
+ FRE_inf_adv:0 "Lelei La Lalena"
+ FRE_navy_screen_adv:0 "Water 'Builgeanan' nic Heart"
+ FRE_entrenchment_adv:0 "Red 'Mòr' mac Apple"
+ FRE_chief_defensive:0 "Crystal 'Cridhe Iighe' nic Shield"
+ FRE_chief_morale:0 "Prancy 'Cha Stad e Gàire' mac Song"
+ FRE_air_reform:0 "Light 'Clostar' mac Wing"
+ FRE_air_ground:0 "Flutter 'Diùid' nic Storm"
+ FRE_navy_decisive_chief:0 "Strong 'Ochd-Ràmhach' mac Ore"
+ FRE_fleet_logistics_chief:0 "Blue 'Beag' mac Hooves"
+
+ FRE_tank_manufacturer:0 "Pònaidhean Joint Union Works"
+ FRE_fighter_industry:0 "Aerloingeas"
+ FRE_bomber_industry:0 "Uilepheist"
+ FRE_naval_manufacturer:0 "Laimrig Shipyard"
+ FRE_industrial_concern:0 "Mac Donhoofs"
+ FRE_infantry_equipment_manufacturer:0 "Dìtreabh Armaments"
+
+#### Enfoques ####
+ FRE_begin_rapid_industrialisation:0 "Industrialización rápida"
+ FRE_begin_rapid_industrialisation_desc:0 "Nuestra nación es un remanso pobre en comparación con nuestros vecinos. Nuestros ponis viven en la pobreza y trabajan muchas horas solo para sobrevivir. El Taoiseach ha ideado un ambicioso plan para industrializar el país, pero muchos de los clanes y especialmente los los monjes se oponen a estas ideas, ya que romperán con la tradición ".
+
+ FRE_call_for_reform:0 "Llamado a la reforma"
+ FRE_call_for_reform_desc:0 "Algunos considerarían a nuestra nación un remanso pobre en comparación con nuestros vecinos. Pero somos ricos en tradición y más felices por ello. Nuestros ponis viven en la pobreza y trabajan muchas horas solo para sobrevivir. Aunque el Taoiseach tiene grandes ambiciones de mejorar la nivel de vida, debe contenerse para asegurarse de que nos mantengamos fieles a lo que amamos ".
+
+ FRE_invite_foreign_experts:0 "Invitar a expertos extranjeros"
+ FRE_invite_foreign_experts_desc:0 "No tenemos los conocimientos necesarios para desarrollar una sociedad moderna e industrializada. Sin embargo, nuestros amigos pueden ayudar. Muchos de los ponis que nos rodean han hecho nuevos descubrimientos sorprendentes y algunos de ellos podrían estar dispuestos a ayudar Pònaidhean ".
+
+ FRE_invite_wittenland_teachers:0 "Invite a los maestros de la escuela de Wittenland"
+ FRE_invite_wittenland_teachers_desc:0 "Wittenland es un faro de aprendizaje y ciencia. Sus Unicornios pueden ser un poco decadentes, pero lo compensan con inteligencia. ¿Quién mejor para enseñar a los ponis de nuestras tribus cosas como lectura y matemáticas? Algunos tradicionalistas piensan que el los ponis deben quedarse y trabajar la tierra o los monjes les deben enseñar las costumbres antiguas, pero no podemos quedarnos en el pasado para siempre ".
+
+ FRE_land_reformes:0 "Reformas agrarias"
+ FRE_land_reformes_desc:0 "La forma en que se distribuye la tierra entre los Clanns y la forma en que se distribuyen las Tierras Comunes se basa en antiguos acuerdos verbales y en la memoria. Esto a menudo conduce a desacuerdos sobre quién posee qué, lo que a su vez conduce a que la buena tierra no se utilice. Al enviar agrimensores justos para resolver disputas de tierras y para escribir quién es dueño de qué, finalmente resolveremos el problema de la tierra ".
+
+ FRE_agriculture_reformes:0 "Reformas agrarias"
+ FRE_agriculture_reformes_desc:0 "Mediante el uso de técnicas agrícolas modernas podemos asegurarnos de que todos nuestros ponis tengan suficiente comida para comer durante todo el año, además de liberar un tiempo valioso de trabajar en el campo. Los productos de moda pònaidhean son productos de lujo buscados en las Riverlands, producidos localmente por nuestros agricultores. Con más alimentos y más industria local, podemos liberar más de nuestra propia industria para otros proyectos ".
+
+ FRE_long_term_economic_planning:0 "Planificación económica a largo plazo"
+ FRE_long_term_economic_planning_desc:0 "La planificación a corto plazo seguramente conducirá al desastre. Debemos planificar a largo plazo para asegurarnos de construir la mejor sociedad posible. Ahora que podemos garantizar la seguridad alimentaria, podemos comenzar a planificar proyectos más grandes con mayor facilidad. debemos asegurarnos, sin embargo, de que nuestros proyectos no se enreden en lugares sagrados antiguos ".
+
+ FRE_develop_arms_industry:0 "Desarrollar una industria de armas"
+ FRE_develop_arms_industry_desc:0 "El gran mundo exterior no solo está lleno de las maravillas de la tecnología. Hemos aprendido acerca de las muchas otras naciones que desean gobernar grandes dominios y que no se detendrán hasta que los últimos pueblos libres en Equus sean esclavizados. Simplemente debemos convertir nuestras herrerías y armerías locales en verdaderas fábricas de armas, si queremos tener una oportunidad en el mundo ".
+
+ FRE_tartan_mass_production:0 "Tartan Mass Production"
+ FRE_tartan_mass_production_desc:0 "Nuestras telas son lo que más nos gusta después de la mercancía. Debemos encontrar una manera de producir estas telas en masa para asegurarnos de tener una amplia oferta para comerciar. Aunque esto obligará a muchos de nuestros artesanos a mudarse a las ciudades para trabajar en una fábrica, dejará a nuestra nación mejor al final ".
+
+ FRE_welth_of_the_mountains:0 "La riqueza de las montañas"
+ FRE_welth_of_the_mountains_desc:0 "Los imponentes picos de nuestro hermoso país han permanecido intactos durante tanto tiempo. Muchos monjes hacen de estos lugares su residencia y abundan muchas leyendas sobre nuestras montañas. Sin embargo, las leyendas y los monasterios no nos ayudarán. Debemos volar estos antiguos bóvedas y apoderarse de la riqueza que se almacena allí para nosotros! "
+ 
+ FRE_iron_stallion:0 "El semental de hierro"
+ FRE_iron_stallion_desc:0 "Los trenes son grandes bestias de metal que tiran de vagones llenos de carga y ponis. Debemos asegurarnos de que estas bestias lleguen a todos los rincones de nuestra nación. Todos los ponis estarán conectados con la capital y con el mundo más allá. Todos somos pònaidheans ¡después de todo!"
+
+ FRE_reforme_monastic_schools:0 "Reformar las escuelas monásticas"
+ FRE_reforme_monastic_schools_desc:0 "Los monjes de Anam-Teine han brindado educación a los jóvenes de nuestra nación durante mucho tiempo. Debemos alentar a todos los ponis a que aprendan de ellos. Aún queda mucho por aprender de nuestro pasado y de trabajar junto con los monasterios para hacer que la educación sea más accesible , finalmente podremos hacer frente a la carga del analfabetismo ".
+
+ FRE_encourage_free_enterprise:0 "Fomentar la libre empresa"
+ FRE_encourage_free_enterprise_desc:0 "Nuestros ponis todavía están un poco cansados ​​de las nuevas influencias de la revolución industrial, así que debemos enseñarles algo de confianza en sí mismos. Nuestro país está lleno de ponis con grandes ideas, solo necesitan el coraje para actuar en consecuencia y iniciar su negocio, para que nuestra economía pueda crecer! "
+
+ FRE_non_disturbance_policy:0 "Política de no perturbaciones"
+ FRE_non_disturbance_policy_desc:0 "Las Triatas o jefes de algunos de los clanes han notado que no sienten la necesidad de participar en nuestra política de renovación. ¿Quiénes somos para ir en contra de los deseos de estas tribus? disturbio, dejando a los clanes en las tierras altas de Pònaidhean. "
+
+ FRE_reach_out_to_the_tribes:0 "Alcanza las tribus perdidas"
+ FRE_reach_out_to_the_tribes_desc:0 "Debemos incluir a todos los pony en nuestros esfuerzos por modernizarnos. Si lo hacemos con respeto y paciencia, podremos convencer incluso a las tribus de ponis más remotas y obstinadas de nuestras buenas intenciones. Enviemos emisarios y monjes para hablar a los Triat y abordar los problemas de su clan ".
+
+ FRE_drag_them_into_the_future:0 "Arrástralos al futuro"
+ FRE_drag_them_ into_the_future_desc:0 "Hay quienes todavía se aferran a sus propios caminos. Debemos mostrarles que el camino hacia el futuro es el único camino correcto para nuestra supervivencia. A esos ponis rebeldes del campo hay que enseñarles las costumbres modernas, incluso si protestan. Librémonos de tradiciones y privilegios arcaicos y dejemos atrás nuestro pasado tribal ".
+
+ FRE_power_to_the_taioseach:0 "Poder para el Taoiseach"
+ FRE_power_to_the_taioseach_desc:0 "El Prìomh Chomhairle nos ha servido mucho durante mucho tiempo, pero las constantes disputas entre Triaths y Toisiches llevan a que se haga poco. Se debe dar más poder al Taoiseach para asegurar que nuestras pequeñas diferencias no obstaculicen el progreso. "
+
+ FRE_a_new_clann:0 "Un nuevo Chomhairle"
+ FRE_a_new_clann_desc:0 "El Prìomh Chomhairle nos ha servido bien durante mucho tiempo, pero debe reformarse para permitir que se convierta en una forma de gobierno más inclusiva y significativa, adecuada para la era moderna. Cambiaremos la representación basada en el voto democrático, en lugar de tribal lealtad, lo que permitirá que los propios ponis tengan voz en el gobierno! "
+
+ ### ENFOQUES DEL EJÉRCITO ###
+
+ FRE_native_army:0 "Un ejército nativo"
+ FRE_native_army_desc:0 "Para nuestra defensa, no podemos confiar en otros, ni siquiera en nuestros amigos más cercanos. ¡Pònaidhean creará sus propias fuerzas armadas y todos los ponis estarán listos para defender nuestra antigua patria y la magia que reside en su interior!"
+
+ FRE_keep_the_old_ways:0 "Mantener las viejas formas"
+ FRE_keep_the_old_ways_desc:0 "Los monjes místicos y sabios a menudo se han lanzado a la defensa de nuestro país, contra monstruos e incluso amenazas del Otro Mundo. Naturalmente, debemos incorporar sus tradiciones ancestrales en nuestras fuerzas armadas, para que nuestros soldados puedan beneficiarse de sus sabiduría."
+
+ FRE_national_army:0 "Ejército Nacional de Pònaidhean"
+ FRE_national_army_desc:0 "Reorganizaremos las fuerzas armadas para los tiempos modernos. En los viejos tiempos, nuestras fuerzas se basaban en las escaramuzas de Ceithearn y el combate ritual entre monjes. Pero en esta nueva era, necesitaremos un ejército nacional profesional para proteger a nuestros seres queridos. ¡Pònaidhean an Taigh-Fada! "
+
+ FRE_monks_in_the_army:0 "Integrar a los monjes de Anam-Teine"
+ FRE_monks_in_the_army_desc:0 "Los monjes ya están bien entrenados en las artes del combate y proporcionarán un sólido núcleo de tropas de élite para nuestro ejército. Su conocimiento de nuestra tierra sagrada y su conexión mágica con ella significará que demostrarán que son nuestros centinelas inquebrantables ".
+
+ FRE_secrets_of_anam_teine:0 "Los secretos de Anam-Teine"
+ FRE_secrets_of_anam_teine_desc:0 "La antigua magia de los monasterios de Pònaidhean, Anam-Teine, guarda muchos secretos. Uno de ellos es el ritual para invocar un Anamarm o arma del alma. Al permitir que nuestros monjes estudien la antigua tradición de la magia, podrán mejorar su magia, haciendo que nuestro ejército sea aún más formidable ".
+ 
+ FRE_trade_with_breezies:0 "Comercia con los Breezies"
+ FRE_trade_with_breezies_desc:0 "Los Breezies viven en un reino mágico paralelo al nuestro, hogar de una cantidad interminable de cristales mágicos puros. Deberíamos llegar a un acuerdo comercial por estos cristales. Enviaremos a nuestros oradores más ingeniosos para negociar, ya que el ¡A los Breezies a veces les encantan los engaños y no queremos que ningún pony venda accidentalmente a su primogénito! "
+
+ FRE_magic_guns:0 "Energía espiritual armada"
+ FRE_magic_guns_desc:0 "Los espíritus que viven a nuestro alrededor son poderosos. Las meras armas de acero no pueden dañarlos, pero su energía aún puede usarse. Si capturamos los espíritus y hacemos nuestra su energía, podremos crear poderosos artefactos mágicos como armas ".
+
+ FRE_soul_weapons:0 "El poder de Anamarm"
+ FRE_soul_weapons_desc:0 "Un Anamarm, o arma del alma, es una representación física del alma de un pony que se usa para defenderse a sí mismo y a los demás del daño. Aprender a usar el Anamara es un rito de iniciación para los monjes esperanzados de Anam-Teine. Debemos asegurarnos de que esta habilidad se enseña a todos nuestros guerreros ".
+
+ FRE_local_officer_school:0 "Nuestro propio oficial Sescuela "
+ FRE_local_officer_school_desc:0 "No podemos confiar en Triats para dirigir nuestras tropas por tradición tribal. Debemos educar a una nueva generación de oficiales en la forma moderna y eso significa fundar nuestra propia escuela de oficiales. Estudiemos el arte de la guerra, para que podamos protege la paz ".
+
+ FRE_trible_militias:0 "Integrar las tasas tribales"
+ FRE_trible_militias_desc:0 "Debemos integrar nuestras levas, regimientos y unidades tribales en el ejército nacional. Si queremos asegurarnos de que todos los ponis puedan unirse al ejército, hay mucho que estandarizar. Uniformes, estándares, armas, equipo y raciones de alimentos. Para algunos tribus, toda la cadena de mando debe ser reformada, ¡o incluso construida a partir de la nada! "
+
+ FRE_weapon_development:0 "Armas de fuego modernas"
+ FRE_weapon_development_desc:0 "Debemos desarrollar armas de fuego modernas, si queremos armar tanto a nuestras tropas no mágicas como a nuestros monjes. ¡Afortunadamente, nuestros herreros se adaptan rápidamente a ser armeros!"
+
+ FRE_hill_fighters:0 "Maestros de las colinas y valles"
+ FRE_hill_fighters_desc:0 "La pendiente o el peñasco o el acantilado no nos importan. Hemos vivido aquí durante siglos y nos movemos en este terreno tan fácilmente como lo haríamos en terreno abierto. Pocos ponis son tan capaces en este terreno como nosotros, y ese es nuestro fuerza."
+ 
+ FRE_radio_implementation:0 "Implementación de radio"
+ FRE_radio_implementation_desc:0 "Es cierto que, tradicionalmente, nuestros guerreros han utilizado agudos gritos de guerra para comunicarse a distancia, pero estas radios parecen mucho más versátiles".
+
+ FRE_artillery_development:0 "Saca las armas grandes"
+ FRE_artillery_development_desc:0 "Parece que la guerra moderna tiene los mismos principios que la nuestra. Un arma más grande es más eficaz. Desarrollemos esta idea fabricando cañones de gran calibre para nuestro ejército y usando su mayor alcance para golpear a nuestros enemigos".
+
+ FRE_mountain_home:0 "Nuestra casa en la montaña"
+ FRE_mountain_home_desc:0 "¡Somos los Ponis de las montañas! Los lugares que otros llaman montañas inhóspitas llamamos hogar, y el terreno que llaman intransitable lo llamamos desafío. Somos los maestros de las altas cumbres, y nuestros enemigos aprenderán la locura de desafiar nosotros aquí ".
+
+ FRE_foreign_army_reform:0 "Reformadores del ejército extranjero"
+ FRE_foreign_army_reform_desc:0 "Cuando dejamos nuestro orgullo afuera, está claro que sabemos muy poco sobre las formas modernas de hacer la guerra y el equipo moderno. Si queremos convertir nuestras fuerzas armadas en un ejército que pueda defender nuestro país, debemos llamar sobre nuestros amigos ".
+
+ FRE_nimbusian_army:0 "Estrategas nimbusianas"
+ FRE_nimbusian_army_desc:0 "Los Strategoi de Nimbusia fueron una parte vital para asegurar la victoria contra los grifos en épocas pasadas. Seguramente su planificación estratégica y tácticas todavía están a la altura. Comuníquese con la Liga Nimbusiana y veamos si estarían interesados ​​en ayudar a ¡Pon en marcha nuestro ejército! "
+
+ FRE_wittenland_army:0 "Wittenland Magi"
+ FRE_wittenland_army_desc:0 "Los Unicornios de Wittenland han pasado mucho tiempo investigando los secretos de esta tierra. Sin duda son algunos de los magos más sabios que existen. Si le pedimos ayuda a Wittenland, ¡seguramente podremos aprender de sus investigadores!"
+
+ FRE_nimbusian_officer_school:0 "La Academia de Guerra Nimbusiana"
+ FRE_nimbusian_officer_school_desc:0 "Nos pondremos en contacto con los ponis de Nimbusia una vez más y les pediremos que construyan una academia en Dail Mhòr. Allí, nuestros oficiales esperanzados serán considerados las historias clásicas de los generales nimbusianos y las formas de estrategia. nuevos generales si queremos expandir nuestros ejércitos, ¡así que estos estudios serán de gran utilidad para nosotros! "
+
+ FRE_pegasi_assault_groups:0 "Grupos de asalto Pegasi"
+ FRE_pegasi_assault_groups_desc:0 "Siempre hemos preferido luchar en la Tierra y nunca hemos considerado el uso de nuestros soldados alados. Pero si queremos luchar contra los grifos de manera eficaz, debemos utilizar los ponis que pueden pelear con los pájaros. Afortunadamente, nuestros aliados nimbusianos saben un par de cosas sobre la guerra aérea ".
+
+ FRE_adopt_foreign_doctraines:0 "Adoptar doctrinas extranjeras"
+ FRE_adopt_foreign_doctraines_desc:0 "Los grandes conflictos requieren doctrinas que están hechas para el alcance de la guerra de masas. Nuestras doctrinas fueron hechas para escaramuzas o batallas con demonios, pero cuando el enemigo es otra nación, estas tácticas tendrán que desaparecer. Estudiemos las doctrinas de nuestros amigos y encontrar uno adecuado para implementar para Pònaidhean ".
+
+ FRE_army_motorisation:0 "Motorización del ejército"
+ FRE_army_motorisation_desc:0 "Aunque nuestros ponis son rápidos y maniobrables, es difícil luchar después de haber marchado todo el día. Si usamos camiones en nuestro ejército, podremos posicionar nuestras tropas donde sea necesario. Por supuesto estos camiones puede que no sea tan útil en nuestra patria montañosa, pero esperábamos no luchar allí de todos modos ".
+
+ FRE_armoured_warfare:0 "Guerra blindada"
+ FRE_armoured_warfare_desc:0 "Las últimas maravillas del progreso tecnológico han producido vehículos propulsados ​​por petróleo. Algunas naciones se apresuraron a reutilizar estas maravillas para uso en el campo de batalla armándolas, creando el tanque. Aunque estas cosasno son bonitos y extremadamente ruidosos, quizás aún podríamos hacer uso de ellos ".
+
+ FRE_magical_training:0 "Entrenamiento mágico"
+ FRE_magical_training_desc:0 "Nuestros unicornios son, si somos honestos, completamente ineptos en su magia en comparación con los de Wittenland e incluso las otras razas tienen mucho que aprender. Los magos de Wittenland están dispuestos a ayudar en nuestros esfuerzos para aprender más sobre nuestras habilidades raciales. ¡y deberíamos aceptar su ayuda! "
+
+ FRE_unicorn_corps:0 "Encontró el Cuerpo Unicornio"
+ FRE_unicorn_corps_desc:0 "Wittenland nos ha enseñado que los unicornios son los usuarios de magia más potentes que existen. Al concentrar nuestras tropas de unicornios en unidades especiales, podremos enfocar nuestra potencia de fuego. El cuerpo de unicornios será la punta del cuerno que rompe a nuestros enemigos . "
+
+### ENFOQUES AÉREOS ###
+
+FRE_build_airstrips:0 "Construir pistas de aterrizaje"
+FRE_build_airstrips_desc:0 "Si vamos a pensar siquiera en hacer una fuerza aérea, debemos comenzar por construir un lugar para que despeguen los aviones. ¡Debemos asignar un sitio cerca de la capital para convertirlo en la primera base aérea de Pònaidhean!"
+
+FRE_buy_fighters:0 "Procure Fighters"
+FRE_buy_fighters_desc:0 "Nimbusia tiene muchos aviones de combate. Para comenzar nuestra fuerza aérea, sería mejor si les preguntamos si podemos comprar algunos. Nuestros amigos confiables seguramente querrán ayudarnos, así que envíenos la propuesta tan pronto como sea posible. ¡posible!"
+
+FRE_buy_bombers:0 "Adquirir bombarderos"
+FRE_buy_bombers_desc:0 "Lake City tiene los aviones pesados ​​que necesitamos para iniciar una fuerza de bombarderos. Quizás los Lake Ponies estén interesados ​​en un trato. Si el precio es correcto, quizás estén dispuestos a desprenderse de algunos de sus bombarderos".
+
+FRE_air_doctrain:0 "Coordina nuestros aviones"
+FRE_air_doctrain_desc:0 "Las aeronaves con cañones son todas buenas, pero sin las tácticas adecuadas, su uso será muy limitado. Elijamos una doctrina aérea, para que podamos aumentar la efectividad de nuestro limitado suministro de aeronaves".
+
+FRE_start_fighter_industry:0 "Pon en marcha la industria de los luchadores"
+FRE_start_fighter_industry_desc:0 "No podemos confiar en nuestros amigos para siempre cuando se trata de diseños de aviones. Debemos construir nuestros propios aviones, para que podamos ser autosuficientes. Comenzar una industria de combate requerirá una inversión significativa, pero tenemos los fondos para al menos pruébalo ".
+
+FRE_start_bomber_industry:0 "Encontró una planta de producción de bombarderos"
+FRE_start_bomber_industry_desc:0 "Si vamos a fabricar más de estos bombarderos nosotros mismos, necesitaremos una instalación que se especialice en producirlos. Usaremos algunos de nuestros fondos para fundar una planta de producción de bombarderos, de modo que podamos empezar a fabricar aviones medianos de diseño nacional. . "
+
+FRE_expand_fighters:0 "Domina los cielos"
+FRE_expand_fighters_desc:0 "No podemos confiar en que otras naciones produzcan nuestros aviones para nosotros. En su lugar, debemos crear nuestra propia industria de cazas, una adecuada para el propósito de luchar en nuestros cielos".
+
+FRE_expand_bombers:0 "Protege la tierra"
+FRE_expand_bombers_desc:0 "Para preparar a nuestro país para la tarea de producir estos gigantes del cielo, primero debemos asegurarnos de que realmente entendemos los diseños".
+
+FRE_support_the_industry:0 "Expandir la industria aeronáutica"
+FRE_support_the_industry_desc:0 "Con el arte de la aeronáutica firmemente a nuestro alcance, ahora podemos continuar con nuestros planes para expandir activamente nuestra fuerza aérea en menos de una curiosidad y más en una fuerza a tener en cuenta".
+
+### ENFOQUES DE LA MARINA ###
+
+FRE_build_a_dock:0 "Una verdadera base naval"
+FRE_build_a_dock_desc:0 "Nuestra ciudad portuaria de Laimrig Geal se encuentra en una bahía cerca del rebelde Océano Este. Si vamos a construir embarcaciones dignas del océano, debemos construir un astillero para construirlas, junto con un puerto que pueda manejar barcos de este tamaño. . "
+
+FRE_buy_a_ship:0 "Nuestro primer barco"
+FRE_buy_a_ship_desc:0 "Preguntaremos a nuestros amigos si tienen barcos viejos alrededor, de esa manera podremos comenzar nuestra propia armada. Aunque puede comenzar de a poco, con un solo destructor obsoleto, con el tiempo nuestra flota será una verdadera armada".
+
+FRE_cruisers:0 "Freepony Cruisers"
+FRE_cruisers_desc:0 "Los barcos de la clase Crucero son más pesados ​​y tienen un mayor alcance que los destructores. Son el término medio perfecto para nuestra marina, así que investiguemos cómo construirlos".
+
+FRE_develop_navy_doctrain:0 "Establecer comando de flota"
+FRE_develop_navy_doctrain_desc:0 "Para coordinar nuestras naves, necesitaremos un comando de flota. ¡Convirtamos la Oficina del Capitán de Puerto en Laimrig Gael en un verdadero almirantazgo, donde se utiliza la última tecnología para comandar nuestra flota!"
+
+FRE_expand_navy_base:0 "Expandir los astilleros"
+FRE_expand_navy_base_desc:0 "Para terminar un barco a tiempo, aparentemente necesitamos más de un astillero para construirlos. Aunque nuestros carpinteros todavía están desconcertados por esta idea, deberíamos construir instalaciones de astillero adicionales, de modo que podamos construir nuestros barcos más rápido ¡Velocidad!"
+
+FRE_destroyers:0 "Actualizar los destructores"
+FRE_destroyers_desc:0 "Nuestro primer barco fue un destructor, pero hemos descubierto muchas formas de mejorar su diseño. Pongamos nuestra experiencia para usar e investigar un barco de clase destructor más moderno. Estos barcos se pueden usar para escoltar barcos civiles y patrullar las costas ".
+
+FRE_subs:0 "Sumerge nuestro Ships "
+FRE_subs_desc:0 "La sabiduría común dice que un barco que está bajo el agua lo está pasando mal. Sin embargo, algunos de nuestros ingenieros más ingeniosos han tenido la idea de un barco que puede sumergirse y emerger a voluntad. Esta novedosa idea sorprenderá a nuestros enemigos, que nunca verán venir estos submarinos! "
+
+ ### Evento ###
+ freeponies.1.t:0 ""
+ freeponies.1.d:0 ""
+ freeponies.1.a:0 ""
+
+ #Evento para que Nimbusia venda algunos luchadores. Desde FRE focus.
+ freeponies.2.t:0 "[From.GetName] quiere comprar algunos luchadores"
+ freeponies.2.d:0 "Nuestros amigos en Pònaidhean han decidido iniciar una fuerza aérea. Aunque estos ponis acaban de construir su primer aeropuerto, están buscando poner en marcha su flota aérea con algunos aviones extranjeros. El movimiento es conseguir algunos aviones de combate. Los pònaidheans han ofrecido una considerable suma de dinero, principalmente en forma de ropa valiosa, como compensación por haberles proporcionado algunos de nuestros viejos aviones. ¿Firmamos el trato?
+ freeponies.2.a:0 "Ayudar a un aliado es ayudarnos a nosotros mismos". #Conduce a ponis libres.3
+ freeponies.2.b:0 "Deberíamos quedarnos con estos aviones". #Conduce a ponis libres.4
+
+ freeponies.3.t:0 "[From.GetName] nos ha vendido algunos luchadores"
+ freeponies.3.d:0 "¡Nuestros amigos en [From.GetName] han aceptado nuestros términos! ¡Los aviones vienen hacia nosotros y pronto podremos comenzar a entrenar a nuestros airponies! Esta es una gran victoria para la diplomacia dentro de River Coalition y demuestra que, de hecho, podemos confiar en nuestros amigos ".
+ freeponies.3.a:0 "¡Genial!"
+
+ freeponies.4.t:0 "[From.GetName] no quiere vendernos ningún luchador"
+ freeponies.4.d:0 "Lamentablemente, nuestros amigos de [From.GetName] no quieren vendernos cazas. Dijeron que preferían guardar los aviones para ellos, por razones de seguridad. Parece que lo haremos tenemos que hacer nuestros propios aviones si queremos utilizar nuestro nuevo aeródromo ... "
+ freeponies.4.a:0 "Aww ..."
+
+ #Evento para que Lake City venda algunos bombarderos. Desde FRE focus.
+ freeponies.5.t:0 "[From.GetName] quiere comprar bombarderos"
+ freeponies.5.d:0 "Nuestros amigos de todo el camino en Pònaidhean han decidido comenzar una fuerza aérea. Aunque estos ponis recién han construido su primer aeropuerto, están buscando poner en marcha su flota aérea con algunos aviones extranjeros En lugar de comenzar con pequeños cazas, han puesto sus miras en algunos bombarderos más pesados.Los pònaidheans han ofrecido una considerable suma de dinero, principalmente en forma de ropa valiosa, como compensación por haberles proporcionado algunos de nuestros viejos aviones. ¿Firmamos el trato? "
+ freeponies.5.a:0 "Son parte de la Coalición, así que seguro". #Conduce a ponis libres.6
+ freeponies.5.b:0 "¿Qué bien harán esos aviones en sus cascos?" #Conduce a ponis libres.7
+
+ freeponies.6.t:0 "[From.GetName] nos ha vendido algunos bombarderos"
+ freeponies.6.d:0 "¡Nuestros amigos en [From.GetName] han aceptado nuestros términos! ¡Los aviones vienen hacia nosotros y pronto podremos comenzar a entrenar a nuestros airponies! Esta es una gran victoria para la diplomacia dentro de River Coalition y demuestra que, de hecho, podemos confiar en nuestros amigos ".
+ freeponies.6.a:0 "¡Genial!"
+
+ freeponies.7.t:0 "[From.GetName] no quiere vendernos bombarderos"
+ freeponies.7.d:0 "Lamentablemente, nuestros amigos de [From.GetName] no quieren vendernos ningún bombardero. Dijeron que preferían guardar los aviones para ellos, por razones de seguridad. Parece que lo haremos tenemos que hacer nuestros propios aviones si queremos utilizar nuestro nuevo aeródromo ... "
+ freeponies.7.a:0 "Awww ..."
+ 
+ # Activado por enfoque: FRE_welth_of_the_mountains
+ freeponies.8.t:0 "Protesta de Breezies"
+ freeponies.8.d:0 "Parece que los cuentos de advertencia que contamos a nuestros potrillos se hicieron realidad. Nuestros esfuerzos de industrialización significaron que tuvimos que perturbar algunas casas antiguas de las pequeñas criaturas. A pesar de que los monjes nos advirtieron y los trabajadores a veces dejaron sus herramientas y negándonos a talar árboles Breezie, avanzamos. \n \nAhora los Breezies han salido de sus hogares y han estado causando estragos en nuestras nuevas minas. Han estado molestando e interrumpiendo a los mineros, saboteando nuestra maquinaria y siendo una gran molestia en general . Una de las criaturas envió un mensaje directamente al Taoiseach. Los Breezies quieren que dejemos de destruir la tierra en la búsqueda de cristales y otros minerales. Advierten que no pueden aceptar que sigamos perturbando su espacio vital y que pueden hacerlo mucho peor si no cumplimos. Ignorar sus demandas puede ser desastroso, pero dar concesiones puede mostrar la debilidad del gobierno ".
+ freeponies.8.a:0 "Podemos hacer algunas concesiones".
+ freeponies.8.b:0 "¡¿A quién le importa lo que digan esos bichos ?!" #Conduce a ponis libres.9
+
+ freeponies.9.t:0 "La hambruna de Breezie"
+ freeponies.9.d:0 "¡Noticias sombrías, Taoiseach! Es la misma historia en todo el país. Los Breezies se han vengado de nosotros. la totalidad de Pònaidhean. No hay nada que podamos hacer, ya que su magia funcionaba como si sacara la tierra. Todos nuestros campos son barren y los ponis son irreprochables. Sin esperanza y sin razón, debemos depender de las importaciones extranjeras. Millones podrían morir de hambre debido a nuestra arrogancia. ¡Por tu arrogancia! Pero al menos todavía tenemos nuestros recursos naturales, aunque probablemente tengamos que comerciar con la mayoría de ellos solo para seguir con vida ".
+ freeponies.9.a:0 "Deberíamos haber escuchado ..."
+
+ #Trigger: -50% de estabilidad y está tomando la ruta de la rápida industrialización. Esto puede repetirse.
+ freeponies.10.t:0 "Ira en el Prìomh Chomhairle"
+ freeponies.10.d:0 "La Priomh Chomhairle está enojada con la dirección que está tomando el país. Están exigiendo que el Taoiseach reduzca sus planes de desarrollo. Los Triaths y Toisiches que protestan se han puesto ropas tradicionales, vistiendo sus tartanes y suaicheantas. Los Los partidarios de las reformas han comenzado, como contrapunto, a usar moda moderna, algunos incluso con corbata. Para proteger el consenso en el Prìomh Chomhairle, sería mejor forjar un consenso entre los clanes. Sin duda, eso significaría ralentizar nuestro esfuerzos de modernización ".
+ freeponies.10.a:0 "Negociar con los clanes tradicionalistas".
+ freeponies.10.b:0 "No podemos comprometernos ahora, ya casi llegamos".
+
+ #Trigger: Ha invitado a profesores de Wittenland. Estabilidad inferior al 50%
+ freeponies.11.t:0 "Monjes Protesta"
+ freeponies.11.d:0 "Una gran cantidad de monjes Anam-Teine han viajado a la capital y están realizando una protesta silenciosa frente al Prìomh Chomhairle. Sus rostros sombríos y su negativa a moverse, a pesar del clima extremo de los últimos días ha provocado un aumento en el apoyo a su causa. Los Monjes presentaron una carta al parlamento en la que afirman que los maestros de escuela de Wittenland que invitamos anteriormente están destruyendo la moral y el sentimiento con la herencia cultural en la juventud de la nación. \n \nLos ponis más jóvenes han sido sorprendidos burlándose de los monjes, impidiéndoles hacer su trabajo. Aparentemente, los maestros de Wittenland les enseñan que estos monjes son solo una tradición atrasada y de la que deben burlarse. Varios Triath han preparado una propuesta para encontrarse con los monjes a mitad de camino, pero este seguramente reducirá nuestros esfuerzos de modernización ".
+ freeponies.11.a:0 "Debemos mantener a estos maestros bajo control".
+ freeponies.11.b:0 "El tiempo de los Monjes ha terminado". #Triggers event freeponies.11
+
+ freeponies.12.t:0 "¡Un demonio ataca!"
+ freeponies.12.d:0 "Un demonio ha destruido una de nuestras fábricas en un terrible resplandor de magia oscura. Cuando apareció la criatura repugnante, los trabajadores fueron evacuados y los Monjes, nuestros antiguos guardianes contra el mal fueron llamados. Los monjes vieron que todos los ponis fueron puestos a salvo, se negaron a involucrarse con el demonio. En cambio, los monjes comenzaron a sermonear a los trabajadores locales, mientras su fábrica se incendiaba. Dicen que podrían haberlo evitado fácilmente, pero no lo hicieron porque el Los lugareños se habían vuelto contra los monjes y destrozado su monasterio. Si los monjes respetaran estos nuevos desarrollos en la sociedad, los ponis deberían respetar la tradición y mantener intactos los monasterios sagrados. Quizás si nos comprometiéramos, este desastre no habría ocurrido ".
+ freeponies.12.a:0 "Deberíamos haber escuchado ..."
+
+ # Dispara menos del 10% de estabilidad y se está industrializando.
+ freeponies.13.t:0 "El voto de la censura"
+ freeponies.13.d:0 "El Prìomh Chomhairle exigió un debate con el Taoiseach sobre las consecuencias de la política de industrialización. Muchos de los Triath atacaron sin piedad sus políticas, citando muchos ejemplos de la modernización que trajo el desastre a Pònaidhean. Al final de la día, los Freeponies votaron abrumadoramente a favor de una moción de censura, exigiendo que Taiosich renunciara por actuar en contra de la voluntad de la nación y por destruir las antiguas maravillas de la tierra. Las leyes no están claras sobre si el Taoiseach debe seguir tal orden , pero quedarse sin duda sería muy difícil ".
+ freeponies.13.a:0 "Quizás hayan tenido razón todo el tiempo ..."
+ freeponies.13.b:0 "¡No, es la gente la que se equivoca!" #Conduce a ponis libres.14
+ 
+ # Activar menos del 1% de estabilidad
+ freeponies.14.t:0 "¡Guerra Civil!"
+ freeponies.14.d:0 "La nación ha sido completamente dividida por la política de rápida modernización del Taoiseach y la resistencia se ha estado gestando en el interior desde hace un tiempo. Una alianza de Clannes y Monjes ha visto su oportunidad y se ha rebelado contra el gobierno central del Taoiseach que, según ellos, está destruyendo la nación. La nación pacífica y atrasado de Pònaidhean ahora se encuentra en guerra, no con forasteros, o algún mal antiguo, sino consigo mismos. El Taoiseach ahora debe mostrar la superioridad de sus caminos al fuerza, o arriesgarse a que los reaccionarios se hagan cargo de todo lo que ella luchaba por deshacer ".
+ freeponies.14.a:0 "Una casa comunal dividida no puede sostenerse".
+
+ # División de Clansponies ha llegado
+ freeponies.15.t:0 "¡Llegan los montañeses!"
+ freeponies.15.d:0 "¡La llamada a la guerra ha hecho eco a través de los bosques y sobre las cimas de las montañas y la llamada ha sido respondida!por la guerra! Cada día llegan más soldados a [FRE.Capital.GetName]. Ponis con armadura transmitida de generación en generación, con grandes espadas y escudos redondos. Otros vienen con rifles y pistolas, mientras que otros ponis del clan solo traen sus músculos. Las coloridas formaciones que trotaban por el campo vacío eran bastante visibles. Algunos ponis mayores tenían el rostro sombrío, mientras que los ponis más jóvenes alzaban la voz en una canción durante su marcha hacia [FRE.Capital.GetName] \n \nLos Triaths y Toisiches que lideran estas nuevas fuerzas se han presentado ante el Taoiseach y han jurado defender Pònaidhean. Los sementales y yeguas que lideran a los montañeses parecían reliquias de otra época, vistiendo los tartanes de su clan, hablando en un dialecto antiguo apenas comprendido por los ponis más conectados con el mundo. [Root.GetLeader] aceptó con gracia la lealtad de estas nuevas tropas, que habían venido a defender su patria en su hora de necesidad. Después de una última fiesta alegre, los montañeses marcharon hacia el frente, los colores de sus clanes se elevaron y las melodías alegres tocaron con sus gaitas ".
+ freeponies.15.a:0 "¡Buaidh no Bàs! - ¡Libertad o Muerte!"
+ 
+# FRE_secrets_of_anam_teine
+ freeponiesflavor.1.t:0 "Los secretos de Anam-Teine"
+ freeponiesflavor.1.d:0 "Cuando salió el sol por el este sobre la capital, la orilla del río Dail Mhòr se encendió con las luces delatoras de la magia. Un grupo de ponis se había reunido para observar la exhibición, mientras un pequeño grupo de Los monjes montaron un espectáculo en el paseo marítimo. Invocaron sus Amamarms, armas del alma, desde el aire, para asombro de los que miraban la exhibición. Sin embargo, tan impresionante como fue su invocación, no estaba ni cerca de lo que vendría después, brillante columnas de llamas azules se arquearon en el aire frío de la mañana, muchos ponis saltaron asustados ante la brillante demostración de magia de fuego. Demostrando el dominio de su oficio adecuado para su rango. Tejiendo hábilmente sus llamas a través del aire durante el resto de su exhibición. hasta que finalmente se detuvieron, empacaron lo poco que tenían y dejaron atrás a una multitud asombrada ".
+ freeponiesflavor.1.a:0 "¡Qué cosa para despertar!"
+ 
+ # FRE_trible_militias
+ freeponiesflavor.2.t:0 "¡Un ejército propio!"
+ freeponiesflavor.2.d:0 "El sonido de los tradicionales cánticos de guerra de Pònaidhean resonó en la capital esta noche, mientras nuestro ejército nacional recién establecido marchaba por la ciudad. Con el atuendo de nuestro pueblo y blandiendo nuestras armas, nuestros valientes soldados marcharon a través de Dail Mhòr en una demostración de nuestra nueva fuerza. Los asistentes a la ciudad acudieron a las calles para desearles lo mejor a los soldados y animarlos, y los mejores graduados de nuestra escuela de oficiales inspeccionaron con orgullo los ponis que pronto estarán bajo su mando ".
+ freeponiesflavor.2.a:0 "¡Gloria a Pònaidhean!"
+ 
+ # FRE_pegasi_assault_groups
+ freeponiesflavor.3.t:0 "El Vuelo del Cuerpo Pegasi"
+ freeponiesflavor.3.d:0 "Una vista alienígena se encontró con los ciudadanos de la capital hoy, cuando una procesión de pegasos con equipo militar se elevó sobre la ciudad en formación apretada, haciendo una exhibición fantástica de habilidades de vuelo. En las calles de abajo, el Los metales de una banda militar comenzaron a sonar cuando nuestro ejército recién entrenado salió a las calles, marchando en perfecta formación. Cuando la banda militar comenzó a tocar marchas con instrumentos adecuadamente extranjeros, muchos ciudadanos curiosos se reunieron en las calles para vigilar al ejército recién reformado. algunos vitoreando, otros enteros simplemente miraron ".
+ freeponiesflavor.3.a:0 "¡Mantente en formación, soldado!"
+ 
+ # FRE_unicorn_corps
+ freeponiesflavor.4.t:0 "Marcha de los Unicornios"
+ freeponiesflavor.4.d:0 "Nuestros programas para integrar unicornios en nuestras fuerzas armadas han sido un éxito fantástico, y el desfile en nuestra capital hoy lo ha demostrado a toda la nación. La procesión comenzó su marcha de manera regular, sin embargo pronto los unicornios comenzó su exhibición especialmente entrenada. Cerca del frente del cortejo, los cuernos de los muchos unicornios comenzaron a brillar al unísono, antes de usar su magia para iluminar las calles, haciendo un espectáculo deslumbrante de sus habilidades. exhibición, el resto de nuestro ejército se desempeñó tan admirablemente como era de esperar, aunque la mayoría de los elogios civiles se dirigieron hacia el cuerpo de unicornios recién entrenado ".
+ freeponiesflavor.4.a:0 "¡Envíe nuestro agradecimiento a Wittenland!"
+  
+ # evento del festival breezie
+ freeponiesflavor.6.t:0 "Ofrendas al Otro Mundo"
+ freeponiesflavor.6.d:0 "En todo Pònaidhean, los ponis han dejado a un lado sus rutinas típicas para una tarea más importante. Llevando regalos de varios tipos, los ponis se han propuesto complacer a los espíritus y hadas del Otro Mundo, dejando de lado varias ofrendas; los más típicos son la comida, los pequeños objetos de valor o el alcohol para el disfrute de sus amigos de otro mundo. No hay una exhibición más verdadera del cuidado de los ponis de Pònaidhean y los lazos de sus ciudadanos con las hadas con las que comparten la tierra ".
+ freeponiesflavor.6.a:0 "¡Un brindis por nuestros amigos hadas!"
+ 
+ # tribus ponis atropellados por un tren
+ freeponiesflavor.7.t:0"El semental de hierro"
+ freeponiesflavor.7.d:0 "En las tierras altas de nuestra nación, muchos clanes aislados permanecen dormidos, lejos del mundo exterior, contentos de mantenerse solos. Un día tranquilo en las montañas, un joven semental salió a recoger bayas, pero encontró algo mucho más extraño. Barras de metal en el suelo, unidas por madera, y extendiéndose hasta donde alcanza la vista. Antes de que pudiera regresar a su gente con la noticia del extraño hallazgo, se quedó paralizado en su lugar como un terrible Un rugido vino del más allá, el suelo comenzó a temblar. Miró a su alrededor con miedo, buscando cualquier bestia que causara tal ruido, cuando de repente fue arrancado de este mundo, golpeado por una de nuestras locomotoras más nuevas. Su clan, encontrando su cadáver junto a la línea por la que corría el 'demonio de metal', han empezado a sabotear nuestras líneas de tren en el área, pensando que nuestro tren es una especie de terrible bestia o demonio ".
+ freeponiesflavor.7.a:0 "¿Al menos los trenes salen a tiempo?"
+ 
+ # tribus ponis artesanos perdiendo puestos de trabajo
+ freeponiesflavor.8.t:0 "Protestas de los montañeses"
+ freeponiesflavor.8.d:0 "Los mercados de nuestras ciudades se han visto muy afectados por nuestras nuevas políticas de industrialización. Una vez que solo contenían alimentos y herramientas de artesanos y agricultores locales, nuestros mercados ahora ofrecen una gran variedad de productos, de todas partes Riverlands, un verdadero testimonio de nuestra modernización. Sin embargo, en la niebla de la mañana, se podían escuchar gritos de ira en los prósperos mercados de una ciudad. Un grupo de artesanos montañeses, enojados por la pérdida de empleos en industrias extranjeras y nacionales por igual , había comenzado una protesta, exigiendo que el gobierno interviniera para proteger su bienestar. Sin embargo, su pequeño intento de resistencia no duró mucho, rápidamente fueron expulsados ​​del mercado, pero una combinación de civiles enojados que deseaban comprar en él, y la aplicación de la ley local. Aunque este puede haber sido un incidente menor, sigue siendo indicativo de un problema mucho mayor ".
+ freeponiesflavor.8.a:0 "¿Seguramente podrían trabajar en las fábricas?"
+ ### OTRO ###
+ FRE_Scotts_arive_for_help_tooltip:0 "¡§GClansponies-Division ha llegado! §!"
+ FRE_nimbusian_cooperation:0 "Cooperación Nimbusiana"
+ FRE_wittenland_cooperation:0 "Cooperación de Wittenland"
+ FRE_buy_a_ship_tt:0 "Compraremos un destructor para poner en marcha nuestra armada".
+ FRE_breezies_are_angry:0 "Los Breezies están enojados contigo".
+ POLITICS_RAVEN_NICCALL_DESC:0 "Raven 'Cridhe Teine' nic Call es la Gran Maestra del Monasterio de Ard Fitheach. Quedó huérfana a la edad de 8 años cuando un demonio menor atacó su aldea; fue acogida por el monasterio local y criada como monje de Anam. -Teine, donde rápidamente dominó las artes místicas de Anam-Teine, incluida la invocación de su Anamarm (Arma del alma) más rápido que cualquiera de las otras novicias. Durante su primera misión a la Espesura Oscura, fueron atacadas por 2 Demonios Mayores. Su maestra y Otros 5 estudiantes murieron, pero Raven y otros 3, incluido Crimson Heart, pudieron mantenerse firmes hasta que fueron rescatados, ganándose el rango de Monje. Desde entonces, rápidamente ha ascendido de rango para convertirse en Gran Maestra de los más prestigiosos. monasterio en Pònaidhean y es el portavoz de todos los monjes en el Prìomh Chomhairle ".
+ POLITICS_CRIMSON_NICHEART_DESC:0 "Nacida como heredera del prestigioso clan Heart, Chrimson siempre tuvo un futuro de liderazgo y poder por delante. A la edad de 10 años se unió al monasterio Ard Fitheach para estudiar las artes de Anam-Teine y rápidamente creció para ser una guerrera habilidosa, además de hacerse amiga cercana del Gran Maestro Raven nic Call. Durante su primera misión a Dark Wilds, fueron atacados por 2 Demonios Mayores. Su maestra y otros 5 estudiantes murieron, pero Chrimson y otros 3 , incluida Raven nic Call, pudieron mantenerse firmes hasta que fueron rescatadas, ganándose el rango de Monje. \n \nDespués de dejar el monasterio para ocupar su lugar como Toisiche del Clann del Corazón, se convirtió en una estadista muy respetada y más tarde fue elegido como Taoiseach de Pònaidhean ".

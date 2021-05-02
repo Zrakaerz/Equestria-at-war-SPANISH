@@ -1,0 +1,6 @@
+﻿l_spanish:
+integration_occupation:0 "Integración (only for certain countries)"
+compliance_40_core:0 "Integración completa"
+add_to_ROOT_potential_original_cores_TT:0 Puede ser extraído por [Root.GetName] si es promedio §Hcompliance§! de los estados ocupados alcanza §H40%§!."
+add_to_ROOT_potential_cores_TT:0 "Puede ser extraído por [Root.GetName] si es promedio §Hcompliance§! de los estados ocupados alcanza §H40%§!."
+resistance_boosted:0 "Resistencia ya fortalecida"

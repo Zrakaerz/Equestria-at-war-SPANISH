@@ -1,0 +1,84 @@
+﻿l_spanish:
+griffon_folder:0 "Griffon Technologies"
+  griffon_folder_desc:0 "Tecnologías industriales, sociales y militares específicas de la raza del grifo".
+  griffon_race:0 "Griffon Race"
+  knights_tech_research:0 "Tiempo de investigación de tecnología de los Caballeros"
+  TITLE_GRIFFON_KNIGHTS_SUBTITLE:0 "GRIFFON KNIGHTS"
+  TITLE_GRIFFON_SOCIETY_SUBTITLE:0 "SOCIEDAD Y ECONOMÍA"
+  TITLE_GRIFFON_ARMY_SUBTITLE:0 "MILITAR"
+  TITLE_GRIFFON_AIR_NAVY_SUBTITLE:0 "AIRE Y MARINA"
+ ME_KNIGHTS_TOOLTIP:0 "\n£unit_knights_icon_small Knights will require §YMagical Infantry Equipment§W instead of §YInfantry Equipment§W\n"
+ ME_WE_CAN_FLY_TOOLTIP:0 "   Hills\n     Attack: §G+5%§!§W\n     Movement: §G+5%§!§W\n   Mountains\n     Attack: §G+5%§!§W\n     Movement: §G+10%§!§W"
+ knights:0 "Caballeros"
+knights_desc:0 "Desde tiempos inmemoriales, los Griffon Knights han sido la principal infantería / caballería pesada en el mundo. A medida que cambian los tiempos y la tecnología, los Caballeros cambian sus lanzas y armaduras de placas por armas pesadas y armaduras encantadas, lo que les permite funcionar como unidades de choque pesado. . "
+ knights_tech:0 "Tecnología de los Caballeros"
+ tech_knights:0 "División de Caballeros I"
+ tech_knights_desc:0 "Conocidos en todo el mundo por su caballerosidad y valentía, la tradición del título de caballero en la cultura de los grifos se remonta a algunas de las primeras sociedades de grifos. Usando armaduras y armas encantadas, estos soldados pueden enfrentarse incluso a algunos vehículos blindados".
+ tech_knights2:0 "División de Caballeros II"
+ tech_knights2_desc:0 "Mediante el uso de entrenamiento y equipo mejorados, podemos fortalecer nuestras divisiones de Caballeros".
+ tech_knights3:0 "División de Caballeros III"
+ tech_knights3_desc:0 "Con la mayor modernización y mejora de nuestros caballeros, podemos asegurar que su prevalencia en el campo de batalla continuará".
+ tech_knights_a:0 "División de Caballeros IV"
+ tech_knights_a_desc:0 "Al mejorar los encantamientos utilizados para la armadura, nuestros caballeros pueden sobrevivir y luchar durante más tiempo en el campo de batalla".
+ tech_knights_b:0 "División de Caballeros V"
+ tech_knights_b_desc:0 "Para mantener la competitividad de nuestros caballeros, debemos asegurarnos de que tengan encantamientos y armamento aún más fuertes".
+ tech_knights_c:0 "División de Caballeros VI"
+ tech_knights_c_desc:0 "Al invitar a algunos de los encantadores más poderosos de todo el mundo, podemos convertir a nuestros caballeros en luchadores imparables".
+ tech_knights_magical:0 "Reclutas nobles"
+ tech_knights_magical_desc:0 "Debemos asegurarnos de que no solo usamos el mejor equipo para nuestros caballeros, sino también los mejores soldados, solo aquellos de sangre noble merecen ser parte de nuestros caballeros de élite".
+ tech_knights_magical2:0 "Estándares más altos"
+ tech_knights_magical2_desc:0 "En nuestro ejército no se acepta nada menos que perfecto, y eso se extiende a nuestro entrenamiento: al hacer cumplir las estrictas pautas de reclutamiento y entrenamiento, nuestros caballeros serán la envidia del mundo".
+ tech_knights_regular:0 "Reclutas de plebeyos"
+ tech_knights_regular_desc:0 "No podemos permitirnos el lujo de limitar nuestro reclutamiento a los nobles. Si ampliamos nuestros reclutamientos a los plebeyos también, aunque nuestra calidad pueda verse afectada, nuestras tropas tendrán muchos más hombres de los que recurrir".
+ tech_knights_regular2:0 "Espíritu de lucha"
+ tech_knights_regular2_desc:0 "Lo que los plebeyos pueden carecer de sangre noble, lo compensan en espíritu. Si bien los nobles pueden no estar acostumbrados a las dificultades físicas, el campesinado luchará con uñas y dientes por su país".
+ tech_griffon_misc:0 "Herramientas encantadas"
+ tech_griffon_misc_desc:0 "Si bien es posible que no tengamos la magia" adecuada ", como algunas otras razas podrían considerarla, tenemos una magia propia. Al fomentar el uso de encantamientos para el trabajo, podemos hacer que el trabajo sea mucho más fácil y rápido".
+ tech_griffon_misc2:0 "Máquinas encantadas"
+ tech_griffon_misc2_desc:0 "El encantamiento Griffon debe modernizarse para la nueva era - ¿y qué es más moderno que la industria? La maquinaria encantada puede funcionar mucho más suave y más rápido que las máquinas convencionales".
+ tech_griffon_misc3:0 "Arquitectura Griffon"
+tech_griffon_misc3_desc:0 "Nuestra arquitectura es famosa por la incorporación de los paisajes, en particular las montañas. Podemos aprovechar esto para hacer las reparaciones mucho más fáciles y para adaptar más industria a espacios más reducidos".
+ tech_griffon_misc_a:0 "Sistemas mágicos de alerta temprana"
+ tech_griffon_misc_a_desc:0 "Utilizando encantamientos, podemos configurar sistemas para advertir de ataques entrantes, ayudando a salvar vidas civiles y mejorando nuestros esfuerzos para comprender al enemigo".
+ tech_griffon_misc_b:0 "Producción flexible"
+ tech_griffon_misc_b_desc:0 "No podemos limitar nuestras fábricas a ser demasiado especializadas y arriesgarnos a la incapacidad de proporcionar algo vital. Con los encantamientos utilizados para facilitar la conversión, podemos asegurarnos de que nuestras fábricas sean flexibles según sea necesario".
+ tech_griffon_misc_c:0 "Materiales irrompibles"
+ tech_griffon_misc_c_desc:0 "Al producir en masa los materiales mágicos y fuertes que se utilizan para las armas con armadura, podemos hacer que nuestro ejército y nuestra fuerza aérea sean mucho más difíciles de matar".
+ tech_griffon_airnavy:0 "Nidos de máquinas"
+ tech_griffon_airnavy_desc:0 "La práctica de los grifos de" anidar ", a pesar de ser un fenómeno natural, se puede aprender y adaptar para su uso en el ejército, especialmente en la fuerza aérea y la marina. Al fomentar la construcción de fuertes" nidos "para barcos y aviones , nuestros aviadores y marineros siempre tendrán una base sólida para operar ".
+ tech_griffon_airnavy2:0 "Cascos encantados"
+ tech_griffon_airnavy2_desc:0 "Podemos usar encantamientos en nuestros aviones y barcos, haciéndolos tan resistentes como la armadura de nuestros soldados".
+ tech_griffon_navy3:0 "Municiones buscadoras"
+ tech_griffon_navy3_desc:0 "La idea de los" Misiles Buscador ", misiles encantados hechos para rastrear sus objetivos, ha ido ganando terreno en la mente de algunos de nuestros oficiales navales. Con la adopción generalizada de esta tecnología, podemos hacer que atacar barcos enemigos sea mucho más fácil . "
+ tech_griffon_navy4:0 "Partes de embarque"
+ tech_griffon_navy4_desc:0 "Debe alentarse el acto de capturar convoyes enemigos, si queremos mantener fuertes bloqueos".
+ tech_griffon_navy5:0 "C&C naval mágico"
+ tech_griffon_navy5_desc:0 "La estructura de mando y la comunicación mejoradas dentro de nuestras armadas mejorarán nuestra armada en general".
+ tech_griffon_air3:0 "Pilotos de combate"
+ tech_griffon_air3_desc:0 "El uso de ejercicios de entrenamiento para inculcar un espíritu de lucha en nuestros pilotos garantizará que se utilicen tácticas más agresivas para obtener los mejores efectos".
+ tech_griffon_air4:0 "Aeronaves modernas"
+ tech_griffon_air4_desc:0 "Nuestros bombarderos deben ser robustos y fuertes para sobrevivir a las campañas en territorio enemigo".
+ tech_griffon_air5:0 "Nacido para volar"
+ tech_griffon_air5_desc:0 "Muchas carreras ven las máquinas voladoras como una oportunidad:un vehículo peculiar que se utiliza para llegar a lugares donde antes no podían. Los vemos como una extensión de nosotros mismos y, como consecuencia, nuestros pilotos serán mucho más hábiles".
+ tech_griffon_army:0 "¡¿Podemos volar ?!"
+tech_griffon_army_desc:0 "Desde el nacimiento de Griffonkind, uno de nuestros mayores regalos han sido nuestras alas, dadas por la propia Eyr. Por lo tanto, es imperativo que sepamos cómo usarlas para nuestro máximo provecho".
+ tech_griffon_army_def2:0 "Encantamientos de Messenger"
+ tech_griffon_army_def2_desc:0 "Muchos ejércitos usan radios para comunicarse. Sin embargo, al integrar mensajes encantados en nuestras empresas, la comunicación será mucho más fácil y difícil de interceptar que la radio".
+ tech_griffon_army_def3:0 "Armadura encantada"
+ tech_griffon_army_def3_desc:0 "La armadura de Griffon ha sido la envidia del mundo durante muchos años, famosa por su uso por nuestros caballeros. Al emplearla en todas nuestras fuerzas especiales, además de mejorar el diseño, mantendremos las cosas así".
+ tech_griffon_army_def_a:0 "Tanques endurecidos"
+ tech_griffon_army_def_a_desc:0 "Al encantar la armadura de los tanques de la misma manera que lo hacemos con las armaduras convencionales, podemos asegurarnos de que nuestros tanques sean más resistentes que los de la competencia".
+ tech_griffon_army_def_b:0 "Garra blindada"
+ tech_griffon_army_def_b_desc:0 "La comunicación mejorada entre los oficiales de tanques nos permitirá realizar varias maniobras mucho más fácilmente".
+ tech_griffon_army_def_c:0 "Barriles encantados"
+ tech_griffon_army_def_c_desc:0 "Con algunos encantamientos especiales, nuestra artillería se puede mejorar enormemente".
+ tech_griffon_army_atk2:0 "Golpeadores rápidos"
+ tech_griffon_army_atk2_desc:0 "Debemos priorizar la velocidad en nuestros ejércitos por encima de todo".
+ tech_griffon_army_atk3:0 "Punta de lanza"
+ tech_griffon_army_atk3_desc:0 "El uso de fuerzas especiales y reconocimiento en altas concentraciones puede hacer que nuestros asaltos sean mucho mejores".
+ tech_griffon_army_atk_a:0 "Salto de fe"
+ tech_griffon_army_atk_a_desc:0 "A diferencia de los paracaidistas de razas terrestres, que pueden tener miedo de caer a su perdición, nuestros paracaidistas tienen alas. Con este seguro adicional, están mucho más dispuestos a seguir órdenes".
+ tech_griffon_army_atk_b:0 "Reabastecimiento de aire"
+ tech_griffon_army_atk_b_desc:0 "Mediante el uso de mensajeros voladores y el envío de suministros desde los aviones, nuestros ejércitos pueden permanecer fuera del alcance de las cadenas de suministro durante más tiempo".
+ tech_griffon_army_atk_c:0 "Encantamientos de escolta"
+ tech_griffon_army_atk_c_desc:0 "Los encantamientos para vehículos motorizados pueden mejorar tanto su velocidad como su capacidad de ataque, convirtiéndolos en un enemigo mucho más feroz."

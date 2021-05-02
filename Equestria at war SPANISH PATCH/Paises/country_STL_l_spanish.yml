@@ -1,0 +1,217 @@
+﻿l_spanish:
+
+POLITICS_FEATHERBANGS:0 "Un rompecorazones local, Feather Bangs perdió su interés amoroso por un semental de Ponyville. Rápido para seguir adelante, todo el incidente ha despertado su curiosidad sobre el poder de la amistad y las costumbres de Equestria".
+POLITICS_DOUBLEDIAMOND:0 "Un fiel seguidor de la filosofía Igualitaria de Starlight Glimmer, Double Diamond vería que Equality triunfa siguiendo el ejemplo de los comunistas en Stalliongrad".
+
+### nombre del país ###
+
+ #STL_neutrality:0 "Our Town" # Duplicado idéntico de Eaw
+ #STL_fascismo:0 "Nuestra nación" # Duplicado diferente de Eaw
+ #STL_communism:0 "Our Town" # Duplicado diferente de Eaw
+ #STL_democratical:0 "Townsville" # Duplicado diferente de Eaw
+ #STL_neutrality_DEF:0 "Our Town" # Duplicado idéntico de Eaw
+ #STL_fascism_DEF:0 "Our Nation" # Duplicado diferente de Eaw
+ #STL_communism_DEF:0 "Our Town" # Duplicado diferente de Eaw
+ #STL_democratico_DEF:0 "La ciudad de Townsville" # Duplicado diferente de Eaw
+ #STL_fascism_ADJ:0 "Nacionalista" # Duplicado diferente de Eaw
+ #STL_democrat_ADJ:0 "Townie" # Duplicado diferente de Eaw
+ #STL_neutrality_ADJ:0 "Townie" # Duplicado diferente de Eaw
+ #STL_communism_ADJ:0 "Igual" # Duplicado diferente de Eaw
+
+STL_MY_communism:0 "Townsville"
+STL_MY_communism_DEF:0 "La ciudad de Townsville"
+STL_MY_communism_ADJ:0 "Townie"
+
+ #STL_OUR_communism:0 "Nueva igualdad" # Duplicado diferente de Eaw
+ #STL_OUR_communism_DEF:0 "La nueva comuna de igualdad" # Duplicado diferente de Eaw
+STL_OUR_communism_ADJ:0 "Igual"
+
+########### Starlight Village ############
+STL_abolish_equality:0 "Nuestro renacimiento"
+STL_abolish_equality_desc:0 "Nuestro esfuerzo anterior como sociedad libre de cutie mark fue un desastre. Es hora de reconocerlo de una vez por todas y comenzar a reconstruir".
+
+STL_society_reform:0 "Nuestro futuro"
+STL_society_reform_desc:0 "Starlight Glimmer dejó su huella en todos los aspectos de Nuestra Ciudad, incluso cuando nos quitó todas las marcas. Debemos considerar y debatir nuestro futuro, y cómo se organizará, todos iguales, la voz de todos escuchada. No perderemos nuestro camino de nuevo ".
+
+STL_elections:0 "Nuestras elecciones"
+STL_elections_desc:0 "¿Cómo pueden los ponis ser iguales si todos no pueden tener la oportunidad de liderarlo? Permitirle a un líder el poder absoluto fue nuestro error, y no lo permitiremos de nuevo. Consultaremos, y luego NOSOTROS elegiremos".
+
+## CAMINO COMUNISTA ##
+STL_neighbors_help:0 "Nuestros vecinos"
+STL_neighbors_help_desc:0 "Los ponis de Stalliongrad son almas gemelas; pueden hablar de trabajadores y producción en lugar de Igualdad, pero el resultado final es el mismo. Debemos establecer el comercio y buscar ayuda industrial".
+
+STL_STG_military_advisors:0 "Nuestros asesores de Stalliongrad"
+STL_STG_military_advisors_desc:0 "Si los grifos avanzan hacia el sur, seremos los primeros en ser atacados. Debemos buscar el apoyo militar de nuestros vecinos en Stalliongrad".
+
+STL_independence_line:0 "Nuestra independencia"
+STL_independence_line_desc:0 "Stalliongrad al principio respondió positivamente a nuestros esfuerzos por establecer relaciones, pero ahora se impacientan, con la esperanza de que nos unamos a ellos. Es hora de dejar claro:seguiremos siendo independientes, ahora y en el futuro".
+
+STL_industrial_effort:0 "Nuestro esfuerzo industrial"
+STL_industrial_effort_desc:0 "Nuestro acto de equilibrio con Stalliongrad ha dado sus frutos. El apoyo ofrecido y nuestro propio trabajo duro conducirán al desarrollo de dos nuevas fábricas. Los ponis hablan con entusiasmo de la prosperidad que traerán tales inversiones. ¿Es demasiado pronto para hablar de ello? ¿Nuestra ciudad?"
+
+STL_industrial_help:0 "Nuestra ayuda industrial"
+STL_industrial_help_desc:0 "Al igual que Stalliongrad, nos hemos perdido gran parte de la industrialización que se ha extendido por el sur de Equestria. Hoy, Stalliongrad es un caso de estudio de rápida industrialización; nuestros países serían más equitativos si compartieran ..."
+
+STL_new_army:0 "Nuestro nuevo ejército"
+STL_new_army_desc:0 "Grifos al norte, Nuestro 'Amigo' al sur, y el gigante de Equestria más allá, buscando tragarnos a los dos. Nuestros ciudadanos deben tomar las armas por seguridad, porque la triste verdad es que una bala es la ecualizador definitivo ".
+
+STL_demand_griffon_land:0 "Nuestra tierra de los grifos"
+STL_demand_griffon_land_desc:0 "Nos hemos acostumbrado tanto a referirnos a todo como 'Nuestro', que está empezando a descontrolarse." Nuestras cuevas "," Nuestras montañas "," Nuestras costas del norte ". La idea de pedirle a Nova Griffonia que danos todo lo que la tierra está llegando a tentar. Después de todo, ES Nuestra ".
+
+STL_socialist_trade:0 "Nuestro comercio en expansión"
+STL_socialist_trade_desc:0 "Cualesquiera que sean nuestras diferencias con Stalliongrad, ellos son nuestro principal socio comercial, y el comercio crece cada día. Con el desarrollo continuo, finalmente podremos quitarnos el manto de aislamiento económico que ha paralizado a la nación".
+
+STL_research_facility:0 "Nuestro centro de investigación"
+STL_research_facility_desc:0 "Mantenerse al día con un estado tan pequeño como el nuestro representa un desafío. Afortunadamente, mucha investigación es solo una cuestión de aplicar el conocimiento público existente, hacer ingeniería inversa a otros equipos y el robo de patentes descarado".
+
+STL_twilight_teaching:0 "Las enseñanzas de Twilight Sparkle "
+STL_twilight_teaching_desc:0 "Twilight Sparkle, Princesa Ecuestre de la Amistad reside en Ponyville, y los viajes de Sugar Belle y Feather Bangs los han visto regresar con algunas de sus publicaciones. Con la bendición de Feather Bang como líder, los ponis han comenzado a estudiar sus trabajos y considere cómo podría implementarse. El primer acto de Feather Bang ha sido cambiar el nombre de Our Town por el más amistoso, inspirado en Ponyville, Townsville ".
+
+STL_railroad_way:0 "Nuestro sistema de tránsito"
+STL_railroad_way_desc:0 "Si bien no tenemos necesidad de construir grandes sistemas ferroviarios, un pequeño esfuerzo para integrarnos con otras líneas ferroviarias ecuestres y sistemas locales de tranvías y autobuses ayudará a acomodar nuestra creciente población. La logística militar será particularmente fácil, como deberían hacer nuestros soldados poder tomar un autobús desde su casa hasta la línea del frente todas las mañanas ".
+
+STL_conquest_of_STG:0 "Nuestro Stalliongrad"
+STL_conquest_of_STG_desc:0 "Algunos miembros de nuestro gabinete se han preocupado, ya que Double Diamond parece descender a la locura, divagando sobre las OPM y la conquista del mundo. Otros insisten en que hay un genio militar en acción. En cualquier caso, nos preparamos para lo impensable:la guerra con Stalliongrad ".
+
+STL_equestrian_airbridge:0 "Equestrian Airbridge"
+STL_equestrian_airbridge_desc:0 "Una amistad floreciente con Equestria enfrenta un serio desafío. Estamos rodeados por dos estados poderosos y potencialmente hostiles. Establecer una ruta aérea segura con Equestria es esencial".
+
+STL_our_town_fortress:0 "La fortaleza de Townsville"
+STL_our_town_fortress_desc:0 "La amistad está muy bien, pero los delegados ecuestres aún tienen que ofrecer buenas sugerencias sobre cómo se puede usar la amistad contra los tanques comunistas y los caballeros grifos fuertemente armados. De manera más práctica, pueden pasarnos de contrabando grandes cargamentos de concreto, alambre de púas y ametralladoras pesadas para fortificarse. ¿Cómo? Al parecer, hay un gato involucrado ... "
+
+STL_eqs_exped_forces:0 "Fuerzas ecuestres expedicionarias"
+# STL_eqs_exped_forces_desc:0 "Fuerzas ecuestres expedicionarias"
+
+STL_griffon_transition:0 "Transición de Griffon"
+#STL_griffon_transition_desc:0 "Transición de Griffon"
+
+STL_GRF_cedeing_land:0 "Grifones ceden la tierra"
+#STL_GRF_cedeing_land_desc:0 "Grifones ceden la tierra"
+
+STL_our_town_institute:0 "Instituto de nuestra ciudad"
+# STL_our_town_institute_desc:0 "Instituto de nuestra ciudad"
+
+STL_call_to_war:0 "Llamada a la guerra"
+# STL_call_to_war_desc:0 "Llamada a la guerra"
+
+STL_first_move:0 "Nuestro primer movimiento"
+# STL_first_move_desc:0 "Nuestro primer movimiento"
+
+STL_war_on_GRF:0 "Nuestra liberación de la colonia"
+# STL_war_on_GRF_desc:0 "Nuestra liberación de la colonia"
+
+
+STL_GRF_revolution:0 "Nuestra revolución en Nova Griffonia"
+# STL_GRF_revolution_desc:0 "Nuestra revolución en Nova Griffonia"
+
+STL_garden:0 "Nuestro jardín"
+STL_garden_desc:0 "Hubo muchos problemas con el antiguo Our Town; todavía usamos los muffins como castigo para los prisioneros. Pero más allá de la comida terrible, estaba la monotonía del lugar. Con un poco de trabajo, podemos hacer de New Equality un relajante mundo de plantas, animales y belleza ".
+
+STL_one_factory:0 "Nuestra primera fábrica"
+STL_one_factory_desc:0 "En una fábrica, cada pony debe trabajar como uno, cada máquina, cada trabajador, haciendo su trabajo simple con precisión, una y otra vez. Ya no necesitamos depender de la obra maestra del artesano o del conocimiento especializado de el pony del gremio. En una fábrica todos son iguales ".
+
+STL_second_factory:0 "Nuestra segunda fábrica"
+STL_second_factory_desc:0 "Para algunas naciones somos una broma. ¿Una fábrica, dos fábricas ...? En el gran esquema de las cosas, ¡nada! Pero el pony Equal nunca necesita mirar a su lado para comparar, solo marchar hacia adelante en el conocimiento que sus colegas hagan lo mismo. Y dos se convertirán en tres ... "
+
+## ideas ###
+STL_equality_past:0 "Pasado de la igualdad"
+STL_equality_past_desc:0 "Los ponis de Our Town cometieron un terrible error al renunciar a sus cutie marks y están marcados por la experiencia. Siguen dudando sobre su futuro".
+STL_city_state:0 "Estado de la ciudad cerrada"
+STL_city_state_desc:0 "Con Griffons en el norte, Stalliongrad en el sur y sin acceso al mar, Our Town está paralizado por la falta de comercio".
+STL_city_state2:0 "Comercio limitado con Stalliongrad"
+STL_city_state2_desc:0 "El comercio ha comenzado con Stalliongrad, aliviando el estancamiento económico".
+STL_garden_spirit:0 "Nuestro jardín"
+STL_garden_spirit_desc:0 "Nuestra monótona ciudad se ha transformado en un colorido y relajante paraíso para que los ponis descansen y jueguen".
+STL_STG_advisory_military:0 "Asesores militares de Stalliongrad"
+STL_STG_advisory_industry:0 "Asistencia a la industria de Stalliongrad"
+
+STL_new_army_spirit:0 "Ejército de Igualdad"
+STL_new_army_spirit_desc:0 "Trabajar juntos para construir un ejército ha sido un éxito sorprendente, ya que una filosofía igualista encaja bien en la vida del soldado".
+
+ #trade_relations_with_stalliongrad:0 "Comercio próspero con Stalliongrad" # Duplicado diferente de Eaw
+trade_relations_with_stalliongrad_desc:0 "Nuestro aislamiento ha terminado y un flujo saludable de mercancías viaja todos los días con Stalliongrad".
+
+feather_bangs:0 "Flequillo de plumas"
+party_flavour:0"Favor de fiesta"
+sugar_belle:0 "Sugar Belle"
+
+# worker_solidarity2:0 ""
+
+#########EVENTOS
+
+starlight.1.t:0 "Una oferta de Stalliongrad"
+starlight.1.d:0 "Stalliongrad ha terminado con éxito su crisis alimentaria y política y parece estar una vez más en el camino hacia la prosperidad. Nos han invitado formalmente a formar parte de su nación".
+starlight.1.a:0 "Estaba destinado a suceder ..."
+starlight.1.b:0 "¡Nuestra ciudad, no la tuya!"
+
+starlight.2.t:0 "El regreso"
+starlight.2.d:0 "La Guerra Civil Comunista en Equestria no es algo que ningún pony pueda perderse. Sobre todo teniendo en cuenta el pony involucrado. Así que cuando supimos que los comunistas ganaron, supimos que vendrían.\n\nMe senté , escondiéndose detrás de mis pequeñas fortificaciones, esperando a ver qué harían:bombardearnos, enviar un embajador o incluso matarnos de hambre.\n\nEn cambio, enviaron un pony. ESE pony.\n\nStarlight Glimmer. Unescorted, Unruffled , Incierto. Caminando hacia nosotros.\n\nMiramos. El líder de la nación más poderosa del mundo, y nuestro antiguo alcalde. A mi lado, Sugar Belle se estremeció y levantó su rifle levemente, recordando el trauma de los muffins en el pasado.\n\nStarlight tosió. "Entonces ... ha pasado un tiempo, ¿no es así? El tiempo, eh, vuela ... cuando estás dirigiendo una guerra, ¿sabes? "Ella golpea el suelo nerviosamente con su casco." Así que lo hicimos. Igualdad. No robar cutie marks. Sin mentiras. Sólo ... justicia. Ella miró hacia otro lado, con los ojos llorosos. —Les debo a cada uno de ustedes una disculpa por lo que he hecho. ¡Creíste en la Igualdad! Incluso cuando no lo hice. Te mantuviste fiel. Todo lo que hicimos, empezó contigo. "\ N \ nRespiró hondo." Incluso si nunca me perdonas ... ¿Te unirás a nosotros? ¿Ayudarás a llevar la verdadera igualdad a Equestria? Enseñar a los ponis de esta tierra lo que hicimos, ¿qué podemos hacer? ¿Nos ayudarás a liderar Nuestra Nación? "\ N \ nSe apresuró a decir" Puedes decir que no. En realidad. Te dejaremos en paz. "Miré con duda al líder de una de las potencias militares más grandes del planeta, antes de mirar a mis compañeros ponis. Incluso sin tiempo para considerar, incluso con la guerra, la pura locura de la misma. todos, sabíamos la respuesta ... "
+starlight.2.a:0 "¡Bienvenido a casa, Starlight!"
+starlight.2.b:0 "Vete, Starlight Glimmer, y nunca regreses".
+
+starlight.3.t:0 "El fin de nuestra ciudad"
+starlight.3.d:0 "Hemos comenzado el doloroso proceso de comenzar de nuevo. Viejos carteles y pancartas derribados, retratos de Starlight Glimmer quemados y viejos talentos abrazados nuevamente. Algunos ponis dejaron la aldea para no regresar jamás. Otros se sentaron en silencio , mirando los ardientes retratos del mejor pony.\n\nPero al final de todo, Double Diamond habló. De una Nueva Igualdad. Tal vez no una igualdad de cutie marks, pero ciertamente de amistad, de trabajo, de justicia. Esta era una Igualdad en la que se podía creer, incluso los Stalliongradians estaban haciendo funcionar ideas similares.\n\nLos ponis que se habían quedado con Double Diamond asintieron y murmuraron en aprobación, y uno por uno se fueron a sus camas. . ¿Podría funcionar la Nueva Igualdad en un mundo cruel? "
+starlight.3.a:0 "Es un comienzo, al menos".
+
+starlight.4.t:0 "Una política a favor de Stalliongrad"
+starlight.4.d:0 "Double Diamond fue elegido como el nuevo líder y debemos buscar una cooperación más estrecha con nuestro amigable estado vecino, Stalliongrad. Podemos tener sus asesores y oficiales, ayudando con nuestros constructores militares y profesionales a observar nuestra construcción industrial -arriba."
+starlight.4.a:0 "Excelente".
+
+starlight.5.t:0 "Mensaje para Stalliongrad"
+starlight.5.d:0 "Nuestro representante entregó nuestro mensaje expresando el deseo casi unánime de independencia entre los ponis de Nuestra Ciudad. El embajador de Stalliongrad frunció el ceño y luego forzó una sonrisa, expresando su comprensión y reiterando su compromiso con una sociedad de igualdad. . "
+starlight.5.a:0 "Pudo haber sido peor".
+
+starlight.6.t:0 "Salida de la delegación industrial"
+starlight.6.d:0 "Hemos enviado una pequeña delegación para solicitar asistencia industrial de Stalliongrad. Les deseamos lo mejor".
+starlight.6.a:0 "Ahora depende de Stalliongrad".
+
+starlight.7.t:0 "Salida de la delegación militar"
+starlight.7.d:0 "Hemos enviado una pequeña delegación para solicitar ayuda militar de Stalliongrad. Les deseamos lo mejor".
+starlight.7.a:0 "Ahora le toca a Stalliongrad".
+
+# starlight.8.t:0 ""
+# starlight.8.d:0 ""
+# starlight.8.a:0 ""
+
+starlight.9.t:0 "Los debates de la ciudad"
+starlight.9.d:0 "Los ponis de Our Town debaten sobre su futuro. Se bosquejan ideas, se discuten filosofías, se muestran ejemplos. Un poco de la vieja pasión ha regresado, mientras los ponis lidian con la cuestión del mañana que desean vivir. en. En última instancia, el consenso se reduce a dos caminos:seguir los pasos de Equestria o Stalliongrad ".
+starlight.9.a:0 "Es bueno ver que se reavivó el interés".
+
+starlight.10.t:0 "Inversiones militares Ver resultados"
+starlight.10.d:0 "Para nuestra sorpresa, nuestra creciente inversión en las fuerzas armadas ha tenido buenos resultados. Perforar, marchar uno al lado del otro y dejar de lado el miedo por el bien común es algo natural para los ponis Equal, lo que lleva a una multa fuerza de combate.\n\nPonies que una vez miraron un rifle con horror ahora disparan, loanuncio y carga con precisión, encontrando consuelo en su parte de un todo mayor ".
+starlight.10.a:0 "Los MRE siguen siendo mejores que nuestros viejos muffins".
+
+starlight.11.t:0 "La delegación regresa"
+starlight.11.d:0 "Las posturas derrotadas de nuestra delegación nos dijeron antes de que cualquier pony pudiera hablar. Stalliongrad había rechazado nuestra propuesta de asistencia industrial."
+starlight.11.a:0 "¿Son realmente nuestros amigos?"
+
+starlight.12.t:0 "Respuesta de Stalliongrad"
+starlight.12.d:0 "Stalliongrad ha aceptado nuestra solicitud de apoyo militar, proporcionando un equipo de asesores para ayudar a capacitar, organizar y diseñar nuestras divisiones".
+starlight.12.a:0 "Excelente".
+
+starlight.13.t:0 "Respuesta de Stalliongrad"
+starlight.13.d:0 "Stalliongrad ha denegado nuestra solicitud de consejo militar, citando las dificultades que tendríamos para desplegar cualquier fuerza militar sustancial. No nos han recordado tan sutilmente que si nos uníamos a Stalliongrad, estaríamos bajo su mando militar completo. proteccion"
+starlight.13.a:0 "Et tu, camarada?"
+
+#elección
+starlight.14.t:0 "Preparación para una elección"
+starlight.14.d:0 "Los ponis restantes de Our Town han acordado:la elección será el camino a seguir. Se ha invitado a los candidatos a enviar sus nombres y han surgido dos opciones.\n\nLa primera es Double Diamond, actual líder de facto y el segundo al mando después de Starlight Glimmer. Habla de la necesidad de reconstruir una Nueva Igualdad, con cutiemarks, basada en la justicia, la amistad y la igualdad. Señala el éxito del vecino Stalliongrad en su ideología similar. Si Stalliongrad puede tener éxito, ¿por qué no en el lugar de nacimiento de Equality?\n\nEl otro es Feather Bangs. El famoso rompecorazones ha regresado recientemente de Ponyville en Equestria, habla de lo que ha aprendido allí, de cómo Ponyville ha visto el éxito de una manera diferente, de una manera donde se permite la diferencia y se equilibra con la amistad y el compromiso.\n\nNormalmente tales ideas serían rechazadas en Our Town, pero los ponis cansados ​​buscan en él una salida a su miseria, y la brillante sonrisa de la panadera del pueblo Sugar Belle en ella viajes comerciales a Ponyville dice la verdad de las palabras de Feather. Otros recuerdan la visita de la princesa Twilight Sparkle de Ponyville, quien expuso por primera vez el engaño de Starlight Glimmer ".
+starlight.14.a:0 "Una gran elección para un pueblo pequeño ..."
+
+starlight.15.t:0 "Día de las elecciones"
+starlight.15.d:0 "Una extraña actitud invade Nuestro Pueblo, tanto de esperanza como de presagio. Los candidatos mueven los cascos en una última demostración de buena voluntad, antes de anunciar que se abren las urnas.\n\nUna a una, se emiten las papeletas . El margen es pequeño, pero decisivo ... (Nota:la ruta armónica aún no está disponible) "
+starlight.15.a:0 "Doble diamante gana".
+starlight.15.b:0 "Feather Bangs gana".
+
+starlight.16.t:0 "¡[STG.GetName] ofrece ayuda industrial!"
+starlight.16.d:0 "Nuestros valientes camaradas en [STG.GetName] se han ofrecido a ayudarnos a establecer nuestra industria para que podamos contribuir mejor a la mayor prosperidad de nuestras naciones"
+starlight.16.a:0 "¡Excelente!"
+
+#evento aún no implementado
+# starlight.16.t:0 "La delegación regresa"
+# starlight.16.d:0 ""
+# starlight.16.a:0 "Excelente"
+
+#BANDERAS
+feather_bangs_elected:0 "Flequillo de plumas elegido"
+double_diamond_elected:0 "Doble diamante elegido"

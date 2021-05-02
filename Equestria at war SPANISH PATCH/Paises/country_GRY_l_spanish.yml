@@ -1,0 +1,1002 @@
+﻿l_spanish:
+
+### National Focuses ###
+ GRY_GATHERING_STORM_DESC:0 "Durante siglos, los cosacos de la hueste grifo han surcado las llanuras de la cuenca del río Evya, cultivando, volando, luchando y saqueando para ganarse la vida. Una vez que una antigua marcha fronteriza del Imperio Griffonian, se han hecho famosos como el terror de los ponis del río y un protector de los grifos, aunque ocasionalmente se han "escabullido" y robado de sus cargos. Ahora, en 1007, el anfitrión se enfrenta a arcas que disminuyen rápidamente. Se debe lanzar una incursión para compensar este déficit, pero el El mundo es mucho más peligroso de lo que solía ser. Los comunistas se agitan en el campo, las sociedades secretas se encuentran en las sombras. Si la próxima incursión fuera mal, se produciría el caos ... "
+ GRY_raid_brodfeld:0 "Incursión Brodfeld"
+ GRY_raid_brodfeld_desc:0 "Normalmente, estaría en contra de nuestro pacto con el Emperador Griffonian atacar Brodfeld. Sin embargo, la autoridad central se ha derrumbado en las últimas décadas, y ningún Oficial Imperial ha aparecido para exigir tributo o la renovación de nuestros juramentos en más de una década. es seguro asumir que el Emperador no impedirá que aprovechemos la inestabilidad de Brodfeld para llenar nuestros bolsillos ... "
+ GRY_raid_radicals:0 "Incursión en el GLA"
+ GRY_raid_radicals_desc:0 "Por lo general, se supone que no debemos asaltar a nadie al oeste del río, pero seguramente eso no se aplica a los radicales viciosos y antimonárquicos. Además, esta cosa del" comunismo "atrae a un número inquietante de nuestra juventud. , y sería bueno dañarlos como podamos ".
+ GRY_prywhen_response:0 "La amenaza roja"
+ GRY_prywhen_response_desc:0 "¡La GLA ha logrado derrotar al Rey de Brodfeld! Esta es una amenaza terrible, porque seguramente volverán su atención hacia nosotros pronto. ¡Tenemos que hacer algo!"
+ GRY_young_socialists:0 "Golpe de jóvenes socialistas"
+ GRY_young_socialists_desc:0 "En el caos de la muerte de Hetman, con los nobles peleándose entre sí por la falta de botín y culpándose mutuamente por la muerte de Bulba, el 'Ejército Joven Socialista' apoyado por GLA ha tomado el control del gobierno. Ellos han anunciado varias reformas, destinadas a la transición de nuestra sociedad a una utopía comunista adecuada ".
+ GRY_centralise:0 "La lucha por la sucesión"
+ GRY_centralise_desc:0 "Con la muerte de Hetman Bulba, el país ha caído en el caos. Muchos candidatos compiten por el título de Hetman, pero dos están emergiendo como claros pioneros:Grifnitsky con sus seguidores en Viskyo Griffonskoe, y Yeven Krawvelets, el gran líder de Hetman. -sobrino."
+ GRY_chorna_rada:0 "Chyorna Rada"
+ GRY_chorna_rada_desc:0 "¡Przekleństwo! El conflicto ideológico entre los dos candidatos ha provocado en la Rada una violencia mayor de la habitual, y ahora sus partidarios se están asesinando entre sí en las calles de Kaiv. Si no resolvemos rápidamente la crisis de sucesión, Gryphia caerá a la anarquía ".
+ GRY_liberate_lushi:0 "El asunto de Lushi"
+ GRY_liberate_lushi_desc:0 "[Root.GRYcommLUS]"
+ GRY_liberate_gryphus:0 "La materia de Gryphus"
+ GRY_liberate_gryphus_desc:0 "[Root.GRYcommGRU]"
+ GRY_raid_season:0 "Reuniendo los anfitriones"
+ GRY_raid_season_desc:0 "Ha llegado el momento de organizar la incursión anual. \n \nHetman Calas Bulba ha ordenado a los líderes del clan que reúnan a sus guerreros y se reúnan en la frontera de Brodfeldian. Debido a su guerra civil en curso, serán un buen objetivo para nuestros asaltantes. Esperemos que todavía quede algo que saquear ".
+ GRY_aftermath:0 "Consecuencias de la incursión"
+ GRY_aftermath_desc:0 "Estamos esperando el regreso del grupo de asalto. Con suerte, traerán un botín impresionante".
+ GRY_rifle_stash:0 "Alijos secretos"
+ GRY_rifle_stash_desc:0 "Algunos de nuestros nobles han contribuido con sus armas acumuladas para la lucha contra la amenaza comunista. Pasaremos por alto esta empresa porque necesitaremos todas las armas que podamos conseguir".
+ GRY_war_readiness:0 "¡Reúne a los cosacos!"
+ GRY_war_readiness_desc:0 "¡Todo grifo orgulloso que llame a Gryphia su hogar debe responder al llamado a las armas, porque no tendrán una si los comunistas toman el control!"
+ GRY_rile_up_the_warriors:0 "Propaganda anticomunista"
+ GRY_rile_up_the_warriors_desc:0 "Nuestros feroces guerreros están sedientos de sangre y están ansiosos por luchar. Será un asunto sencillo incitarlos contra la amenaza Prywhen, difundiendo historias de su renombrada crueldad y malicia".
+ GRY_destroy_the_revolution:0 "¡Fin de la revolución!"
+ GRY_destroy_the_revolution_desc:0 "¡Es hora de restaurar al gobernante adecuado al oeste del río Evya! ¡Las tierras de Brodfeld estarán libres de tiranía!"
+ GRY_kickstart_economy:0 "Métodos industriales modernos"
+ GRY_kickstart_economy_desc:0 "Eastern Griffonia nunca se desarrolló industrialmente en comparación con las naciones occidentales, sin embargo, Gryphia es más un remanso económico en comparación con nuestros vecinos más cercanos. Si pretendemos sobrevivir en este mundo peligroso, debemos llevar la revolución industrial a Gryphia".
+ GRY_agrarian_future:0 "Fisiocracia"
+ GRY_agrarian_future_desc:0 "Fiziokratiya es una filosofía de Aquileia que afirma que toda la riqueza proviene de la naturaleza, específicamente de la agricultura. Las exuberantes llanuras de Gryphian siempre han sido ricas en cultivos, y es natural que adoptemos esta forma de pensar y mejoremos nuestros propios campos ".
+ GRY_industrial_future:0 "Industrialización rápida"
+ GRY_industrial_future_desc:0 "La única forma de llevar Gryphia a los tiempos actuales es un plan rápido y decisivo para construir nuevas fábricas y carreteras".
+ GRY_new_industry:0 "Fábricas adecuadas"
+ GRY_new_industry_desc:0 "Para comenzar la revolución industrial, debemos cambiar de simples talleres a fábricas modernas capaces de producir en masa los bienes necesarios".
+ GRY_new_arsenals:0 "Talleres de armas de fuego"
+ GRY_new_arsenals_desc:0 "Históricamente, Gryphia ha dependido de gremios de herreros y armeros para producir armamento para nuestros ejércitos. Sin embargo, no pueden satisfacer las crecientes demandas. Por lo tanto, se construirá un conjunto de talleres dedicados exclusivamente a la producción de armas".
+ GRY_better_tools:0 "Herramientas de minería mejoradas"
+ GRY_better_tools_desc:0 "Nuestros implementos de minería son primitivos y toscos. Debemos obtener nuevas herramientas si queremos mejorar nuestra adquisición de recursos".
+ GRY_nation_of_farmers:0 "Subsidios para agricultores"
+ GRY_nation_of_farmers_desc:0 "Los agricultores resistentes y dedicados son la columna vertebral de esta nación, y deberíamos ofrecerles beneficios y apoyo adicionales para que puedan seguir produciendo cosechas abundantes".
+ GRY_infrastructure:0 "Desarrollo de infraestructura"
+ GRY_infrastructure_desc:0 "Las carreteras fuera de Kaiv son prácticamente inexistentes y son poco más que senderos dejados por vastas marchas cosacas. Debemos conectar el resto de nuestra nación".
+ GRY_steelmills:0 "Producción de acero mejorada"
+ GRY_steelmills_desc:0 "Nuestros métodos actuales de fundición de acero son ineficientes y muchos de ellos se descartan. Los trabajadores de las acerías aumentarán sus calificaciones y aprenderán nuevas técnicas de forja de acero, como el proceso de formación de charcos".
+ GRY_foreign_direct_investment:0 "Atraer capital extranjero"
+ GRY_foreign_direct_investment_desc:0 "Nuestra base industrial actual es pequeña, pero un grupo de magnates de Wingbardy parece interesado en invertir en nuestra floreciente economía. Deberíamos convencerlos de que se queden".
+ GRY_factory_efficiency:0 "Incrementar la productividad de la fábrica"
+ GRY_factory_efficiency_desc:0 "Los trabajadores de la fábrica no están familiarizados con sus nuevos trabajos y, como tal, falta productividad. Organizaremos seminarios para ayudar a nuestros trabajadores a desempeñarse mejor".
+ GRY_kaiv_uni:0 "Abrir la Universidad Kaiv"
+ GRY_kaiv_uni_desc:0 "La mayoría de nuestra nación es analfabeta y sin educación. Al abrir una universidad en Kaiv, esperamos revertir esta tendencia para las próximas generaciones y aumentar nuestro grupo de científicos".
+ GRY_modernisation_effort:0 "Nueva industria de grifos"
+ GRY_modernisation_effort_desc:0 "Hemos hecho mucho en el año anterior para llevar a Gryphia a una época más moderna. Llevará más tiempo alcanzar a las naciones occidentales, pero por ahora, Gryphia prospera".
+ GRY_electoral_reform:0 "Nueva dirección"
+ GRY_electoral_reform_desc:0 "Al camarada Khurshevich y su vanguardia se les permitirá en el gobierno organizar elecciones para nuestro nuevo estado socialista".
+ GRY_solidarity:0 "Unir a las tribus grifas"
+ GRY_solidarity_desc:0 "Muchas tribus de Gryphia todavía se resisten al nuevo orden y se niegan a servir en nuestro ejército rojo. Si les enseñamos los beneficios del comunismo, y quizás les ofrecemos algunos incentivos, verán la razón y se unirán a nosotros para establecer la regla de el proletariado ".
+ GRY_land_reform_1:0 "Incautar propiedad noble"
+ GRY_land_reform_1_desc:0 "Los nobles decadentes no han hecho más que discutir sobre pequeñas diferencias y derrochar su riqueza en frivolidades. Confiscaremos sus vastas propiedades y las distribuiremos a nuestros campesinos, que son el verdadero futuro del estado. \n \nLos nobles lo harán. indudablemente estarás furioso con este movimiento, sin embargo ... "
+ GRY_first_universale:0 "¡Proclame la Comuna!"
+ GRY_first_universale_desc:0 "Hemos hecho mucho para comenzar la transición de nuestra nación hacia una utopía socialista. ¡Que el mundo escuche, la Comuna de Kaiv se mantiene fuerte!"
+ GRY_the_reactionary_officers:0 "Destino de la vieja guardia"
+ GRY_the_reactionary_officers_desc:0 "Ha llegado el momento de lidiar con el elemento reaccionario en el ejército. Hasta ahora, hemos sido apoyados por los voevodas, pero nuestras reformas están comenzando a desviarlos de nuestra causa. Debemos decidir cuidadosamente el rumbo de acción."
+ GRY_befriend_GLA:0 "[Root.GRYrelGRW]"
+ GRY_befriend_GLA_desc:0 "[Root.GRYrelGRW_desc]"
+ GRY_we_need_factories:0 "Fábricas para la gente"
+ GRY_we_need_factories_desc:0 "Un estado socialista no puede existir sin una clase trabajadora, y tenemos muy pocas fábricas de las que hablar. Debemos hacer todo lo posible para construir fábricas para la gente, para que todos puedan tener un empleo e ingresos estables".
+ GRY_integrate_cossacks_into_red_army:0 "cosacos rojos"
+ GRY_integrate_cossacks_into_red_army_desc:0 "A pesar de su pensamiento contrarrevolucionario, la vieja guardia todavía tiene experiencia en el arte de la guerra. Los adoctrinaremos en nuestra causa y les mostraremos por qué deben luchar por el proletariado".
+ GRY_ideological_purity_in_the_army:0 "Rozkozachennya"
+ GRY_ideológico_purity_in_the_army_desc:0 "¡No se puede permitir que las ideas conservadoras existan en el ejército! ¡Si las dejamos, difundirán su ideología venenosa y provocarán un motín! ¡Eliminaremos a cualquiera que no esté de acuerdo con las enseñanzas comunistas!"
+ GRY_revolutionary_arsenals:0 "Armas de la revolución"
+ GRY_revolutionary_arsenals_desc:0 "La revolución también necesita ser protegida, y para cumplir esto construiremos fábricas destinadas a producir armas de fuego, cañones y mucho más. ¡Viva la Comuna Kaiv libre!"
+ GRY_land_reform_2:0 "Completar la reforma agraria"
+ GRY_land_reform_2_desc:0 "Hemos despojado con éxito a la antigua nobleza de sus injustos derechos y privilegios, y ahora son iguales, como todos los demás. Con su base de poder evaporada y la pérdida de sus leales soldados, los antiguos nobles ya no son una amenaza para la Comuna Kaiv ".
+ GRY_second_universale:0 "Proclamar nuestra política exterior"
+ GRY_second_universale_desc:0 "Ahora que hemos reorganizado nuestro estado de la manera socialista adecuada, es hora de decidir cómo tratar a nuestros vecinos en general. Nuestra facción de línea dura cree que debemos seguir a nuestros camaradas en Prywhen, pero los miembros de mentalidad más independiente de el partido cree que deberíamos forjar nuestro propio camino. Sin embargo, el camarada Khurshevich tiene la última palabra en el asunto ".
+ GRY_spread_the_revolution:0 "Revolución sin fronteras"
+ GRY_spread_the_revolution_desc:0 "Si bien estamos muy agradecidos con nuestros benefactores de Prywhen, ellos no ven que la revolución debe extenderse a nuestros vecinos, mediante un cambio pacífico o una conversión forzada. ¡Los trabajadores oprimidos serán libres!"
+ GRY_wittenland_attack:0 "[Root.WIT_attack_text]"
+ GRY_wittenland_attack_desc:0 "[Root.WIT_attack_text_desc]"
+ GRY_wittenland_attackit:0 "Nuestro antiguo enemigo"
+ GRY_wittenland_attackit_desc:0 "Los unicornios de Wittenland no son más que una amenaza burguesa, devorando el arduo trabajo de su proletariado. Ha llegado el momento de poner fin a su interminable fiesta y explotación".
+ GRY_ask_GRW:0 "Petición Prywhen"
+ GRY_ask_GRW_desc:0 "Wittenland es una tierra que ha sido constantemente oprimida por los reaccionarios, pero desafortunadamente, están bien protegidos por la Coalición del Río. Con la ayuda de nuestros aliados, tendremos muchas más posibilidades de derrotarlos, pero pueden resultar reacio a ir a la guerra contra toda la Coalición ... "
+ GRY_wittenland_makefriends:0 "Comuníquese con Wittenland"
+ GRY_wittenland_makefriends_desc:0 "¡Magníficas noticias! ¡El proletariado de Wittenland ha derrocado a sus aristocráticos represores y ha establecido un estado socialista! Aunque tenemos algunas diferencias doctrinales menores con ellos, sería una tontería no extender la garra de la amistad a sus compañeros izquierdistas, para asegurar la protección de la Revolución en ambos países ".
+ GRY_red_education:0 "Aprendizaje socialista"
+ GRY_red_education_desc:0 "La educación ha mejorado mucho desde hace poco, pero necesitamos introducir un plan de estudios obligatorio para enseñar a las nuevas generaciones el valor del socialismo. Serán los jóvenes pioneros de la nueva Gryphia".
+ GRY_let_prywhen_lead:0 "Cumplir con Prywhen"
+ GRY_let_prywhen_lead_desc:0 "Nuestros camaradas en Prywhen tienen mucha más experiencia en política y diplomacia, habiendo adquirido sus conocimientos en el hogar de la revolución en sí, Stalliongrad. Los seguiremos en su doctrina extranjera".
+ GRY_GRW_army_experience:0 "Ejercicios militares mutuos"
+ GRY_GRW_army_experience_desc:0 "Se organizará una serie de ejercicios militares y juegos de guerra mutuos para entrenar a nuestros ejércitos. Trabajando juntos, ampliaremos nuestro grupo de tácticas y aprenderemos más sobre la guerra moderna. El soldado común también se volverá más dedicado a sus camaradas -en-brazos también.
+ GRY_import_teachers:0 "Invitar a educadores de Prywhen"
+ GRY_import_teachers_desc:0 "Hasta hace poco, los grifos de Prywhen eran tan incultos como los nuestros. Pero el éxito de la revolución es evidente, y su gente está ahora a la vanguardia del pensamiento socialista. Deberíamos pedir a sus mejores educadores que difundan el conocimiento en Gryphia ".
+ GRY_brothers_in_revolution:0 "Amistad Gryphian-Prywhen"
+ GRY_brothers_in_revolution_desc:0 "¡La República Popular de Prywhen es un verdadero amigo del pueblo Gryphian, ya que han compartido gran parte de su éxito con nosotros! ¡Viva la amistad Gryphian-Prywhen!"
+ GRY_socialist_future:0 "Victoria del proletariado"
+ GRY_socialist_future_desc:0 "¡Por fin hemos completado la transición a un estado socialista! Los trabajadores de Gryphia están bien educados, bien pagados y tienen su empleo asegurado. ¡Esta es verdaderamente una victoria del camarada Khurshevich y la comuna de Kaiv!"
+ GRY_volnoye:0 "Soporte para Borad Grifnitsky"
+ GRY_volnoye_desc:0 "Borad Grifnitsky, hijo de un noble menor, ha hecho grandes avances en apoyo de Harmony entre la gente de Gryphia e incluso algunos otros nobles. Él cree que si cambiamos nuestras costumbres para mejorar, podemos volvernos más ricos y desarrollado. Muchos en la Rada no están del todo de acuerdo con cambios tan radicales, pero prefieren tenerlo a él antes que a Yeven ... "
+ GRY_monarchy_compromiso:0 "Una monarquía revisada"
+ GRY_monarchy_compromise_desc:0 "A pesar de las maquinaciones de Black Cloak, la Rada ha elegido a Borad Grifnitsky para Hetman con una cómoda mayoría. El precio de esto, sin embargo, fue que los nobles no apoyarían algunas de sus reformas más radicales. Un compromiso está en orden. "
+ GRY_elected_hetman:0 "Deja que la gente decida"
+ GRY_elected_hetman_desc:0 "¡Yeven y sus lacayos han intentado apoderarse de la Rada por la fuerza! Afortunadamente, su bajo número y un discurso apasionado de nuestro nuevo Hetman hizo que se retiraran, ya sea por vergüenza o pragmatismo. Como su primer acto, Borad ha ordenado para organizar una elección en la que todos los grifos puedan votar. Él cree que esto mostrará a todos los detractores que la Armonía funciona ".
+ GRY_reform_starshina:0 "Nuevo personal superior"
+ GRY_reform_starshina_desc:0 "El alto mando se ha vuelto complaciente e inadecuado para las amenazas que desafían nuestra Armonía. Se contratarán caras nuevas y frescas".
+ GRY_form_government:0 "Nombrar el nuevo gobierno"
+ GRY_form_government_desc:0 "Hetman Bulba ha dejado poco en el camino del gobierno real, debido a su hábito de tratar de resolver la mayoría de los problemas por sí mismo. Si bien su competencia no estaba en duda, su ausencia nos dejó sin una figura orientadora. Nuevos ministros y gabinete se formará para evitar que esto vuelva a ocurrir ".
+ GRY_strengthen_cossack_radas:0 "Incrementar la autonomía tribal"
+ GRY_strengthen_cossack_radas_desc:0 "Parece que los acontecimientos recientes han dividido a nuestra nación, más de lo habitual. Hetman Borad cree que el primer paso hacia una Gryphia unida es dar a cada clan una representación adecuada".
+ GRY_placate_communists:0 "Concesiones a los comunistas"
+ GRY_placate_communists_desc:0 "GSDLR tiene algunas buenas ideas para mejorar la vida del grifo común. A cambio de cesar todas las actividades subversivas, Cornilov Khurshevich será invitado a nuestro nuevo gobierno para promulgar algunas reformas socialistas (dentro de lo razonable, por supuesto)".
+ GRY_united_cossacks:0 "Un anfitrión unido"
+ GRY_united_cossacks_desc:0 "La armonía nos hace fuertes, y todas las Huestes estarán unidas, compartiendo sus habilidades militares y tácticas entre sí. Esto reforzará considerablemente nuestras fuerzas".
+ GRY_harmonic_economy:0 "Principios de una economía armónica"
+ GRY_harmonic_economy_desc:0 "Los valores de Armonía se difundirán mediante la cooperación entre compañeros de trabajo. Se abrirán nuevas fábricas para acomodar la mayor cantidad posible de grifos a las nuevas enseñanzas. Al mismo tiempo, vigorizaremos nuestra débil economía".
+ GRY_give_land_to_the_people:0 "Tierra para los empobrecidos"
+ GRY_give_land_to_the_people_desc:0 "La mayoría de la gente en Gryphia vive en la pobreza extrema, y ​​apenas tiene propiedades en sus posesiones. Dado que la tierra es lo más importante que puede tener un Grifo, parece correcto que compremos el exceso de tierras nobles y las distribuyamos de manera justa entre gente común."
+ GRY_placate_clans:0 "Beneficios tribales"
+ GRY_placate_clans_desc:0 "Nuestros esfuerzos iniciales han dado resultados, y los clanes se están dirigiendo lentamente hacia la unificación completa. Unas cuantas reformas y beneficios más convencerán a los clanes más obstinados e independientes".
+ GRY_minorities_in_army:0 "Integrar los clanes"
+ GRY_minorities_in_army_desc:0 "¡El estandarte de cada clan ahora se encuentra bajo la orgullosa insignia de la Gryphia unida! Como tal, los grifos más exitosos e influyentes han ofrecido su promesa, jurando proteger nuestra Armonía.
+ GRY_admin_reform:0 "Reformas burocráticas"
+ GRY_admin_reform_desc:0 "Nuestra burocracia está plagada de corrupción, trato preferencial e ineficacia. Se promulgará una reforma total, con nuevos edificios, reglas y papeleo ..."
+ GRY_compromise_with_rich:0 "Resolver las preocupaciones nobles"
+ GRY_compromise_with_rich_desc:0 "Los nobles están preocupados con nuestras reformas, especialmente con la compra de sus tierras. Como todavía son influyentes y poderosos, debemos llegar a un compromiso, a menos que queramos una rebelión en nuestras garras ..."
+ GRY_education_reform:0 "Comience la reforma educativa"
+ GRY_education_reform_desc:0 "La educación en Gryphia ha sido durante mucho tiempo el dominio exclusivo de los ricos y poderosos. No se puede permitir que esto continúe. Naturalmente, esto requerirá que construyamos muchos edificios escolares nuevos y contratemos educadores del exterior del país. La inscripción escolar obligatoria promulgarse para la educación básica, al menos ".
+ GRY_reinforce_government:0 "Gobierno armónico fuerte"
+ GRY_reinforce_government_desc:0 "La gente común de Gryphia está muy satisfecha con nuestras reformas, e incluso los nobles, los comunistas y los restos de los viejos regímenes no pueden decir demasiadas cosas malas sobre nosotros. La armonía se ha arraigado en nuestra tierra".
+ GRY_institutes_of_technology:0 "Institutos de Ciencias de Gryphian"
+ GRY_institutes_of_technology_desc:0 "Hay muchas más ramas de la ciencia de las que pensábamos antes, y cada una de ellas ofrece maravillosas innovaciones para una vida mejor. Abriremos más universidades para apoyar este esfuerzo".
+ GRY_liberty_from_the_barrel_of_a_gun:0 "Defiende nuestra libertad"
+ GRY_liberty_from_the_barrel_of_un_gun_desc:0 "La libertad no está garantizada para nosotros, con muchos tratando de apoderarse de nuestras orgullosas tierras. La libertad será defendida, desde el cañón de un rifle".
+ GRY_our_liberty_will_not_perish:0 "Recordar a la gente"
+ GRY_our_liberty_will_not_perish_desc:0 "¡Se debe enseñar a la gente de Gryphia lo preciosa que es realmente nuestra libertad! ¡Sólo entonces podrán entender que luchan por cosas mucho mayores que la tierra y la gloria!"
+ GRY_preserve_holdings:0 "Estamos solos"
+ GRY_preserve_holdings_desc:0 "Gryphia no necesita extranjeros, ya que son un grupo problemático. El acceso a nuestra nación estará estrictamente regulado y los extranjeros tendrán muchas más dificultades para comprar nuestra tierra. ¡Gryfia dlya Gryfianciv!"
+ GRY_constitution_of_the_zaphzans:0 "Constitución moderna de Zaphzan"
+ GRY_constitution_of_the_zaphzans_desc:0 "Se pondrá en papel un extenso código de leyes, para que todos los ciudadanos conozcan sus derechos y privilegios básicos. Este será el sello distintivo de la legislación de Gryphian".
+ GRY_gryphia_lives:0 "¡Gryphia sigue viva!"
+ GRY_gryphia_lives_desc:0 "La gente de Gryphia puede estar verdaderamente orgullosa de su nación. Hemos resuelto todos los problemas en estos últimos años, los derechos básicos están garantizados para todos los ciudadanos, los bienes de consumo y la educación están disponibles gratuitamente. Borad Grifnitsky es un verdadero héroe de la nación y su gente! "
+ GRY_new_diplomacy:0 "Diplomacia contemporánea"
+ GRY_new_diplomacy_desc:0 "Hemos estado aislados del exterior durante mucho tiempo, siendo una nación de asaltantes salvajes. Necesitamos mostrarle al mundo que hemos cambiado de página y ganar aliados de confianza".
+ GRY_apply_to_RIV:0 "Acércate a los Riverponies"
+ GRY_apply_to_RIV_desc:0 "Incluso los más optimistas creen que esto es un esfuerzo infructuoso, pero Hetman Borad insiste en que debemos establecer una alianza formal con los Riverponies. Para mostrar la sinceridad de su acción, viajará con una pequeña escolta a River Republic. . Ore para que no le dispare el primer centinela ".
+ GRY_federal_investment:0 "Programa de inversión Riverpony"
+ GRY_federal_investment_desc:0 "¡Ha sucedido lo imposible! Hetman Borad no solo ha regresado con noticias positivas, sino que los Riverponies han acordado invertir en nuestra nación. Algunos inversores ya se han ofrecido a financiar la construcción de nuevas carreteras y fábricas. Será un cuento de las edades, de cómo Hetman Borad ha sembrado la semilla de la amistad entre grifos y ponis ".
+ GRY_RIV_defense_coordination:0 "Cooperación militar conjunta"
+ GRY_RIV_defense_coordination_desc:0 "Los ponis y los grifos estarán uno al lado del otro como camaradas de armas, mientras compartimos nuestra experiencia militar y nuestras doctrinas. Que esta alianza dure mucho más".
+ GRY_the_between_rivers_concept:0 "Acércate a nuestros vecinos grifos"
+ GRY_the_between_rivers_concept_desc:0 "Desafortunadamente, las marcadas diferencias entre los ponis y nosotros son demasiado vastas para superarlas, sin mencionar los siglos de enemistad. Buscaremos aliados en nuestra propia familia".
+ GRY_speak_with_LUS:0 "Tratar con Lushi"
+ GRY_speak_with_LUS_desc:0 "[Root.allyLUSdesc]"
+ GRY_speak_with_GRU:0 "Tratar con Gryphus"
+ GRY_speak_with_GRU_desc:0 "[Root.allyGRUdesc]"
+ GRY_speak_with_GRW:0 "[Root.allyGRWorBRF]"
+ GRY_speak_with_GRW_desc:0 "[Root.allyGRWorBRFdesc]"
+ GRY_true_hetman:0 "Soporte para Yeven Krawvelets"
+ GRY_true_hetman_desc:0 "Yeven Krawvelets, el último sobrino nieto de Hetman, es la elección correcta para nuestro líder. Con el respaldo de los terratenientes ricos, convencerá a la disputada Rada de que solo él puede llevar a Gryphia a nuevas glorias".
+ GRY_proclaim_new_hetmanate:0 "El heredero legítimo"
+ GRY_proclaim_new_hetmanate_desc:0 "La Rada, con una tensa mayoría, ha elegido a Yeven Krawvelets para Hetman. La oposición está disgustada, pero su opinión ahora es irrelevante".
+ GRY_prevent_ruina:0 "Detén a Ruina"
+ GRY_prevent_ruina_desc:0 "¡Traidores! Los partidarios de Grifnitsky han salido de la Rada durante la toma de posesión de Yeven y han jurado oponerse a su legítimo gobierno. Ahora mismo, mientras hablamos, se están armando para apoderarse del título de Hetman por la fuerza. Aunque no lo harán. Sé lo suficientemente fuerte como para hacer una guerra en toda regla contra nosotros, nos espera meses de luchas civiles. ¡Debemos detener a la Ruina! "
+ GRY_support_of_kosh_otamans:0 "Soporte de Kosh Otaman"
+ GRY_support_of_kosh_otamans_desc:0 "Los Kosh Otamans, nuestros oficiales de alto rango, han decidido apoyar a Yeven. Han llegado a la conclusión de que es más probable que les conceda nuevos privilegios a diferencia de Grifnitsky".
+ GRY_pokozachennya:0 "Pokozachennya"
+ GRY_pokozachennya_desc:0 "Pokozachennya, o el acto de convertirse en cosaco, es una ceremonia antigua en la que un aspirante a cosaco recibió su shablya y sus mejores galas, y fue formalmente instalado. Sin embargo, hoy no podemos cumplir con sus rigurosos requisitos, y debemos cortar el Fuera frivolidades, porque necesitamos a cada grifo para nuestra causa ".
+ GRY_visit_the_people:0 "Apoyo público para Yeven"
+ GRY_visit_the_people_desc:0 "El gobierno de Yeven ya ha sido impugnado por los nobles, y su popularidad es muy débil. Ha decidido que el mejor curso de acción es buscar apoyot en la gente común, explicándoles que él está salvando a Gryphia, a diferencia de los traidores partidarios de Armónica ".
+ GRY_crush_dissent:0 "Eliminar a todos los disidentes"
+ GRY_crush_dissent_desc:0 "A pesar de nuestro enfoque amable, muchas personas aún no están convencidas de que Yeven esté trayendo un cambio positivo. Tendremos que lidiar con ellos, de una forma u otra, antes de que decidan tomar las armas y unirse a los rebeldes".
+ GRY_deal_with_traitors:0 "Purgar escoria comunista"
+ GRY_deal_with_traitors_desc:0 "¡Los GSDLR no son más que agitadores Prywhenist, enviados para socavar la nación Grifo! Hasta ahora, no han elegido un bando en la lucha civil entre Grifnitsky y nosotros, pero sin duda planean atacar una vez que estemos en nuestro punto más débil. Debemos ocuparnos de esta amenaza de inmediato ".
+ GRY_church_support:0 "Aliados dentro de los templos"
+ GRY_church_support_desc:0 "La religión común de los grifos prevalece en Gryphia, pero nuestros líderes religiosos no son lo suficientemente influyentes en comparación con los Imperial Heartlands. Sin embargo, dominan a la población, lo que les brinda consuelo en estos tiempos difíciles. Debemos ofrecerles un trato que será de beneficio mutuo ".
+ GRY_stronger_together:0 "Gente leal"
+ GRY_stronger_together_desc:0 "Los disidentes armónicos y comunistas han sido aplastados, y ahora, todo lo que queda son masas obedientes. El gobierno de Yeven está asegurado".
+ GRY_the_kingdom_question:0 "La cuestión de la corona"
+ GRY_the_kingdom_question_desc:0 "Ahora que los traidores han sido tratados, ha llegado el momento de decidir el futuro de nuestra nación. \n \nLos Black Cloaks han estado instando a Yeven a restaurar el Reino de Zaphzia, pero tal movimiento podría resultar ser profundamente impopular entre la nobleza ".
+ GRY_a_crowned_hetman:0 "¡Zaphzia Pererodjuetsya!"
+ GRY_a_crowned_hetman_desc:0 "¡En una humilde ceremonia en Kaiv, Yeven Krawvelets ha sido coronado rey de todos los zafzianos! ¡La multitud vitoreó mientras pronunciaba un ardiente discurso, prometiendo la unificación de todas nuestras legítimas tierras! ¡Los ponis también pagarán por su arrogancia! ¡Haiy jyve Korol '! "
+ GRY_preserve_hetmanate:0 "Preservar el Hetmanate"
+ GRY_preserve_hetmanate_desc:0 "Después de una cuidadosa deliberación, Yeven ha decidido no asumir los honores reales. El hetmanate se conservará, aunque en una forma más conveniente para nosotros. En consecuencia, nuestros vecinos serán apaciguados por nuestro gesto aparentemente pacífico".
+ GRY_support_local_farmers:0 "Recompensa a los campesinos"
+ GRY_support_local_farmers_desc:0 "Los nobles son una especie voluble y egoísta. Para frenar su influencia y mantenerlos a raya, la mayor parte de su tierra se redistribuirá a nuestros nuevos seguidores más confiables. Esto asegurará que tengamos el apoyo de la gente común . "
+ GRY_legacy_of_old_principality:0 "Memorias del Principado de Gryphian"
+ GRY_legacy_of_old_principality_desc:0 "Nuestro nuevo Reino preservará las tradiciones del Principado Grifo, para que puedan seguir guiándonos como lo hicieron con nuestros antepasados".
+ GRY_support_landowners:0 "Mantener las propiedades nobles"
+ GRY_support_landowners_desc:0 "A cambio de su apoyo en la Rada, Hetman Yeven legislará los derechos nobles como una ley oficial y también introducirá nuevos privilegios. Nuestras tradiciones no serán impugnadas".
+ GRY_protect_elites:0 "Expandir los derechos de los nobles"
+ GRY_protect_elites_desc:0 "Para aplacar a los nobles y asegurar su lealtad, recibirán más roles y privilegios en nuestras fuerzas armadas. Esto asegurará que permanecerán leales a Yeven y no fracturarán en señores de la guerra competidores".
+ GRY_fash_industry:0 "Fortalecimiento de nuestra industria"
+ GRY_fash_industry_desc:0 "Una nación industrializada es una nación fuerte, pero somos muy débiles en ese sentido. Se abrirán nuevas fábricas, dando a nuestra gente el trabajo que se merece".
+ GRY_fash_arsenals:0 "Armando la nación"
+ GRY_fash_arsenals_desc:0 "¡Si pretendemos restaurar la gloria de Zaphzia, entonces cada soldado debe estar completamente equipado y listo para la guerra! La victoria no se obtendrá con discursos y promesas, sino con acero y sangre".
+ GRY_national_strengthening_movement:0 "Educación nacional obligatoria"
+ GRY_national_strengthening_movement_desc:0 "El estado de la educación en esta nación ha sido una tragedia durante mucho tiempo. La educación obligatoria se aplicará a cada grifo hasta que podamos alcanzar un estándar satisfactorio en todo el país. Cada grifo debe saber leer, escribir y hacer aritmética básica ".
+ GRY_every_griffon_a_cossack:0 "Extiende la Pokozachennya"
+ GRY_every_griffon_a_cossack_desc:0 "Nuestra interminable necesidad de más soldados requiere que aflojemos aún más los ritos pokozachennya. Es posible que los nuevos reclutas no tengan el entrenamiento de los cosacos de antaño, pero lo compensan con su entusiasmo y fervor".
+ GRY_a_deal_with_beakolini:0 "Alianza Wingbardiana"
+ GRY_a_deal_with_beakolini_desc:0 "El Wingbardian Duce tiene algunas ideas similares sobre cómo dirigir un estado, su gente y el ejército. Deberíamos ofrecerles una garra formal en alianza".
+ GRY_prepare_for_war:0 "Modernización de nuestra estrategia"
+ GRY_prepare_for_war_desc:0 "Las guerras no sonluchó solo con soldados, pero también con tecnología. La victoria estará asegurada si estamos a la vanguardia del avance de las armas de fuego, doctrinas militares y mucho más ".
+ GRY_military_academies:0 "Academia militar de Vorobey"
+ GRY_military_academies_desc:0 "Una institución dedicada exclusivamente a enseñar a nuestra nueva generación de cuerpos de oficiales se abrirá en Vorobey. Aprenderán mejores formas de comandar sus tropas y asegurarse de tener un conjunto completo de tácticas bajo la manga".
+ GRY_led_by_the_hetman:0 "Nuestro gran líder"
+ GRY_led_by_the_hetman_desc:0 "¡Todo elogio para Yeven, el Hetman de Hetmans! Ha demostrado verdaderamente la perspicacia y la competencia para liderar nuestro estado".
+ GRY_tithe_of_war:0 "Exigir servicio militar"
+ GRY_tithe_of_war_desc:0 "Yeven ha exigido que los nobles aumenten la cantidad de los suyos que sirven en nuestras fuerzas armadas. A partir de ahora, cada noble deberá enviar a la guerra hasta dos de sus hijos y tres cuartas partes de sus fuerzas a la guerra. . "
+ GRY_unite_zavs:0 "Tribus zafzianas unidas"
+ GRY_unite_zavs_desc:0 "La independencia de los clanes está empezando a convertirse en una molestia para nuestros esfuerzos de centralización. Los clanes de Zaphzia estarán unidos como uno, les guste o no".
+ GRY_attack_lushi:0 "Conquistar Lushi"
+ GRY_attack_lushi_desc:0 "Las tierras del Principado de Lushian son legítimamente nuestras, y abandonaremos sus intrigantes juegos políticos".
+ GRY_attack_gryphus:0 "Eliminar Gryphus"
+ GRY_attack_gryphus_desc:0 "La gente de Gryphus son poco más que estafadores y piratas apretados. Debemos tomar su territorio para asegurar nuestro dominio en la región".
+ GRY_core_lushi:0 "Integrar tierras exuberantes"
+ GRY_core_lushi_desc:0 "Las tierras exuberantes deben integrarse rápidamente en nuestro reino en crecimiento, para que podamos extraer todo su potencial de ellas".
+ GRY_core_gryphus:0 "Aplastar la resistencia grifo"
+ GRY_core_gryphus_desc:0 "Los rebeldes de Gryphus se están convirtiendo en una molestia. Encuéntralos a todos y ponlos en el pelotón de fusilamiento".
+ GRY_attack_brodfeld:0 "Cruzando el Evya"
+ GRY_attack_brodfeld_desc:0 "Durante siglos, nuestro antiguo pacto con el Emperador Griffonian nos prohibió cruzar el río Evya con un ejército, y durante siglos esos nobles gordos y perezosos de Brodfeld se enriquecieron gracias a la seguridad que les proporcionamos. Yeven ha decidido que ¡Ya es suficiente! ¡Rembolsaremos nuestros siglos de servicio, tomando las riquezas de Brodfeld para nosotros! "
+ GRY_revenge_on_LCT:0 "¡Jezergrad arderá!"
+ GRY_revenge_on_LCT_desc:0 "Los viciosos y burlones ponis de Lake City han sido una espina clavada en nuestro costado desde hace siglos. Ahora que nuestro poder ha alcanzado su cenit, ha llegado el momento de quemar Jezergrad y dispersar a los ponis de una vez por todas. ! Esta es nuestra venganza! "
+ GRY_why_are_they_running:0 "Zaphzian Might"
+ GRY_why_are_they_running_desc:0 "¡Syla Zaphziany nepomirna! ¡Nashi vorogy bigly pered namy! \n \nHetman Yeven ha asombrado a todos con su éxito incomparable. Es verdaderamente el líder más grande de Zaphzia. Los nobles ya no disienten ni lo contrarrestan, y ahora, todos está totalmente detrás de nuestro líder. ¡Haiy jyve Korolivstvo Zaphzia! ¡Geroyam slava! "
+ GRY_cossack_reform:0 "Un cosaco contemporáneo"
+ GRY_cossack_reform_desc:0 "Desde la antigüedad, un cosaco grifo era un espectáculo temido en el campo de batalla. Su habilidad con un shablya era incomparable, su puntería de mosquete impecable, su velocidad:una fuerza imparable en las llanuras y los cielos. Pero la tecnología ha avanzado , y nuestras estrategias de asalto no son tan efectivas como solían ser. Los cosacos deben adaptarse al mundo de hoy ".
+ GRY_grand_battleplan_focus:0 "Grandiozniy Plan Bytvy Doctrine"
+ GRY_grand_battleplan_focus_desc:0 "Nuestro comportamiento imprudente e impetuoso debe abandonarse en favor de una planificación extensa, fortificaciones adecuadas y contener al enemigo. Después de todo, las vidas de los grifos no deben desperdiciarse".
+ GRY_the_trenchers:0 "Guerra de trincheras"
+ GRY_the_trenchers_desc:0 "Normalmente, nuestras llanuras son una mala ubicación defensiva, pero podemos convertirlas en campos de la muerte con trincheras, campos de minas y bombardeos de artillería. Estableceremos un cuerpo especializado para este propósito".
+ GRY_adapt_to_mountain_warfare:0 "Lecciones de la tribu Vuiky"
+ GRY_adapt_to_mountain_warfare_desc:0 "La tribu Vuiky siempre fue un bicho raro entre los anfitriones, prefiriendo vivir en las colinas. Sin embargo, siempre sobresalieron durante las incursiones en las montañas de Wittenland. Adoptaremos sus tácticas para entrenar tropas especializadas".
+ GRY_mass_assault_focus:0 "Doctrina Massoviy Napad"
+ GRY_mass_assault_focus_desc:0 "Una carga de cosacos masiva nos ha servido bien durante siglos, simplemente necesita ser improvisada para la era moderna."
+ GRY_the_cossack_idea:0 "El espíritu cosaco"
+ GRY_the_cossack_idea_desc:0 "Había pocas cosas más aterradoras para un pony que un cosaco destinado a reclamar su ganado y su vida. Claramente, tener más cosacos infundirá miedo en nuestros enemigos, así que flexibilizaremos los requisitos para convertirnos en uno".
+ GRY_precious_life:0 "Ayuda a los heridos"
+ GRY_precious_life_desc:0 "MediciNe siempre ha sido primitivo en Gryphia y, como resultado, muchos soldados heridos murieron o quedaron lisiados. Esta tendencia se revertirá con la formación de un cuerpo médico profesional ".
+ GRY_guns_for_the_cossacks:0 "Armas de fuego mejoradas"
+ GRY_guns_for_the_cossacks_desc:0 "Gran parte de nuestro armamento está desactualizado e inútil contra las nuevas amenazas en el campo de batalla. Debemos estudiar la posibilidad de adquirir nuevos modelos y planos de armas".
+ GRY_new_signals:0 "Innovaciones electrónicas"
+ GRY_new_signals_desc:0 "La electrónica es un invento bastante reciente y ha demostrado ser extremadamente útil. La comunicación instantánea será invaluable al dar órdenes".
+ GRY_superior_firepower_focus:0 "La doctrina de Perevazhna Vogneva Mits"
+ GRY_superior_firepower_focus_desc:0 "Un cosaco no es un cobarde, pero ni siquiera ellos se exponen a riesgos innecesarios. ¿Por qué no simplemente hacer volar a nuestros enemigos a la tierra con un bombardeo de artillería abrumador y luego lanzarse en picado?"
+ GRY_purchase_bigger_guns:0 "Artillería de Heartlands"
+ GRY_purchase_bigger_guns_desc:0 "Nuestros intendentes han inspeccionado nuestras existencias de artillería, y la mayoría de ellas están averiadas o obsoletas. Sin embargo, Boreas nos sonríe. Un intrépido comerciante de Imperial Heartlands ha llegado y nos ofrece vendernos un modelo de artillería moderno por un precio justo."
+ GRY_artillery_spotters:0 "Artyleriyni Navidnyky"
+ GRY_artillery_spotters_desc:0 "Los bombardeos de artillería requieren que alguien determine las coordenadas exactas del ataque, para lograr la máxima eficiencia. Nuestros observadores existentes serán entrenados con los métodos mejorados".
+ GRY_the_past:0 "La orgullosa élite"
+ GRY_the_past_desc:0 "Nuestros valientes cosacos nos han servido bien durante los últimos siglos, solo necesitan estar debidamente entrenados y equipados para los nuevos días".
+ GRY_the_present:0 "Aceptar el cambio"
+ GRY_the_present_desc:0 "Las viejas formas simplemente no son suficientes para prevalecer en la batalla, debemos considerar la adopción de doctrinas y armamento recientes. Nuestras tradiciones deberán conservarse en otros lugares".
+ GRY_the_future:0 "cosacos sobre ruedas"
+ GRY_the_future_desc:0 "Algunos de los nobles han expresado interés en un nuevo invento de Heartlands llamado" tanque ". Carecen de la clase y delicadeza de nuestros cosacos, pero sin duda proporcionan una excelente protección y opciones de asalto para nuestros soldados."
+ GRY_final_reform:0 "Una nueva era para los cosacos"
+ GRY_final_reform_desc:0 "Algunas de nuestras personas lamentan el desplazamiento de nuestras tradiciones, pero los cosacos de la nueva era son una vez más la fuerza principal en el campo de batalla".
+ GRY_navy:0 "Raiders en alta mar"
+ GRY_navy_desc:0 "Algunos de nuestros soldados ven el mar por primera vez y están desconcertados. El mar parece una vasta llanura, y seguramente eso significa que también podemos realizar incursiones contra ellos, ¿no es así ...?"
+ GRY_naval_company:0 "Oferta que no podemos rechazar"
+ GRY_naval_company_desc:0 "Un grupo de grifos de Skyfall se ha ofrecido a compartir su experiencia y diseños navales por un precio decente. Aceptaremos su oferta y haremos que dirijan nuestra empresa naval recién establecida".
+ GRY_fleet_in_being:0 "Un elemento disuasorio visible"
+ GRY_fleet_in_being_desc:0 "Los cosacos no rehuyen las peleas, y lo demostraremos con una flota de naves capitales, navegando orgullosamente a través de nuestros mares".
+ GRY_cruisers:0 "Enfoque en el modelo de crucero"
+ GRY_cruisers_desc:0 "Si bien carecemos de los recursos para producir los barcos más grandes, los cruceros de batalla y los cruceros pesados ​​siguen siendo lo suficientemente fuertes como para formar la columna vertebral de nuestra flota".
+ GRY_trade_interdiction:0 "Piratas cosacos"
+ GRY_trade_interdiction_desc:0 "La tradición cosaca continúa en los mares, ya que atacaremos y hundiremos los convoyes enemigos, dominando su economía".
+ GRY_submarines:0 "Cosacos submarinos"
+ GRY_submarines_desc:0 "El submarino es una de las armas más sutiles en la guerra, sus torpedos pueden hundir la mayoría de los barcos con facilidad. Sin embargo, debemos estar atentos a los destructores enemigos y las estaciones de radar".
+ GRY_marine_focus:0 "Forma el Morska Pihota"
+ GRY_marine_focus_desc:0 "Uno de nuestros asesores ha tenido una idea:elegir algunos de nuestros mejores infantes y adaptarlos para viajes navales. De esa manera, tendremos una unidad móvil que podremos transportar por mar. Serán la vanguardia de nuestro operaciones de desembarco ".
+ GRY_aegland_oil:0 "Oro negro"
+ GRY_aegland_oil_desc:0 "El petróleo es un recurso común en Gryphia, pero hasta ahora no hemos sido conscientes de sus verdaderos usos. Los campos petroleros actuales se ampliarán y se enviarán buscadores para buscar nuevos, de modo que podamos tener suficiente para nuestros vehículos, barcos y aviones ".
+ GRY_griffons_air_and_sea:0 "Aplicaciones prácticas de los encantamientos de grifón"
+ GRY_griffons_air_and_sea_desc:0 "Si bien es cierto que nuestra magia es deficiente en comparación con los ponis o los ciervos, nuestros encantamientos siguen siendo robustos y fiables. Los pondremos en práctica en nuestros proyectos militares".
+ GRY_airforce:0 "cosacos del cielo"
+ GRY_airforce_desc:0 "¡Un verdadero grifo llama a los cielos su hogar, y con un avión, los cosacos se volverán imparables!"
+ GRY_air_company:0 "Antoninov Aerotech"
+ GRY_air_company_desc:0 "Un brillanteEl diseñador de aviones llamado Antoninov se ha acercado a nosotros para ofrecernos mucho en el diseño de su avión si subvencionamos su empresa y le brindamos beneficios. Como ha demostrado la fiabilidad de los diseños de sus aviones, aceptaremos esta oferta ".
+ GRY_import_fighter_designs:0 "Adquirir modelos de caza"
+ GRY_import_fighter_designs_desc:0 "Para dominar los cielos, se requiere una avioneta básica. Importaremos algunos diseños extranjeros".
+ GRY_import_bomber_designs:0 "Adquirir un plano de bombardero"
+ GRY_import_bomber_designs_desc:0 "Los bombarderos son esenciales para someter a nuestros enemigos con una destrucción feroz y una lluvia de acero".
+ GRY_decide_air_doctrine:0 "Nuestra doctrina aérea"
+ GRY_decide_air_doctrine_desc:0 "Tenemos la opción de elegir de qué manera utilizaremos mejor nuestros aviones. ¿Nos centraremos en bombardear a nuestros enemigos y su industria, o en lograr la superioridad aérea?"
+ GRY_light_aircraft:0 "Superioridad de caza"
+ GRY_light_aircraft_desc:0 "Los cazas han sido elegidos como nuestro enfoque en los aviones, ya que son más confiables que los bombarderos".
+ GRY_heavy_aircraft:0 "Dominio del bombardero"
+ GRY_heavy_aircraft_desc:0 "El enemigo no puede luchar sin una industria o soldados; aquí es donde entran nuestros nuevos modelos de bombarderos".
+ GRY_cossacks_are_naturals:0 "Entrenamiento de paracaidista"
+ GRY_cossacks_are_naturals_desc:0 "Los cosacos no son ajenos a llevar una carga pesada a la espalda, pero no pueden hacerlo mientras vuelan al mismo tiempo. Sin embargo, con el ingenioso paracaídas, pueden desplegarse detrás de las líneas enemigas completamente equipados y con un factor de sorpresa para ellos ".
+ GRY_better_radars:0 "Incrementando nuestra mirada"
+ GRY_better_radars_desc:0 "Los radares son esenciales para descubrir aeronaves enemigas de manera confiable. Expandiremos nuestra red de torres de radio y mejoraremos nuestra tecnología existente para que nuestros pilotos puedan estar listos a la primera señal de problemas".
+ GRY_expand_airbases:0 "Nuevos hangares"
+ GRY_expand_airbases_desc:0 "El mantenimiento adecuado del avión requiere bases y pistas de aterrizaje extensas. Nuestra nación de llanuras es ideal para la construcción de más".
+ GRY_fearless_peerless:0 "Bezstrashni Piloty"
+ GRY_fearless_peerless_desc:0 "Algunos de nuestros pilotos están lo suficientemente ansiosos, o tal vez desesperados, de entregarse por la gloria y una muerte honorable en combate con el enemigo. Lo permitiremos, a pesar de las protestas de nuestros comandantes más cuidadosos. Los aviones son baratos, después de todo."
+ GRY_ride_the_wind:0 "Blyskavychniy"
+ GRY_ride_the_wind_desc:0 "¡El motor a reacción es el futuro de la guerra aérea! ¡Con él, los cosacos del cielo se volverán verdaderamente inalcanzables!"
+ 
+ 
+ ## Camino neutral secreto ##
+ GRY_raise_the_militia:0 "Formar grupos de milicias"
+ GRY_raise_the_militia_desc:0 "Se formarán rápidamente grupos de milicias ad-hoc a partir de la población dispuesta a ayudarnos en esta guerra civil".
+ GRY_empty_the_prisons:0 "Reclutas criminales"
+ GRY_empty_the_prisons_desc:0 "Es triste que tengamos que confiar en las peores heces de nuestra sociedad para liberar a nuestro pueblo de la opresión comunista, pero sin duda son peores. Por lo menos, los grifos encarcelados ya están familiarizados con el derramamiento de sangre".
+ GRY_musket_stashes:0 "Armas ancestrales"
+ GRY_musket_stashes_desc:0 "Para tener una oportunidad de victoria, nos vemos obligados a asaltar nuestras propias casas en busca de armas antiguas. Afortunadamente, todavía funcionan".
+ GRY_hetman_has_won:0 "¡Victoria!"
+ GRY_hetman_has_won_desc:0 "El experimento de la Comuna de Kaiv ha finalizado a la fuerza, y ahora, la coalición de tribus leales puede finalmente restaurar el orden adecuado en Gryphia".
+ GRY_rebuild_nation:0 "Cura las heridas"
+ GRY_rebuild_nation_desc:0 "La guerra ha dividido a muchas familias y arruinado nuestra tierra. Comenzaremos los esfuerzos de reconstrucción en nuestra industria y carreteras".
+ GRY_literacy_issue:0 "Educar a las masas"
+ GRY_literacy_issue_desc:0 "Para evitar que la mancha del comunismo se propague nuevamente entre la población, instalaremos un programa de educación nacional para enseñarles a todos que no es una solución rápida a todos sus problemas".
+ GRY_our_industry:0 "Reparar la industria devastada"
+ GRY_our_industry_desc:0 "Gran parte de nuestra industria ha sido devastada por la guerra, o incluso saboteada deliberadamente por comunistas rencorosos. Se realizarán grandes esfuerzos para reparar y abrir nuevas fábricas".
+ GRY_hire_foreign_instructors:0 "Importar investigadores extranjeros"
+ GRY_hire_foreign_instructors_desc:0 "Como si a Gryphia no le faltaran grifos educados, la reciente inestabilidad ha provocado que casi todos huyan a otra parte. Nos vemos obligados a buscar conocimiento exterior, por lo que contrataremos investigadores de tierras extranjeras".
+ GRY_the_restoration:0 "Restauración del Hetmanate"
+ GRY_the_restoration_desc:0 "Ahora que se ha restablecido el orden adecuado, podemos concentrarnos en restablecer nuestra nación después de la muerte del difunto Hetman".
+ GRY_crush_communism:0 "Aplasta el GSDLR"
+ GRY_crush_communism_desc:0 "Los partidarios comunistas pueden haber tenido algunas buenas ideas para la gente de Gryphia, pero han manchado irrevocablemente su reputación con sus 'reformas', sin mencionar que participaron en el asesinato de Hetman Bulba. ¡Maar, llévalas! ¡No plagas más a Gryphia! "
+ GRY_betray_black_capas:0 "Deshazte de las capas negras"
+ GRY_betray_black_cloaks_desc:0 "Black Cloaks nos ha ayudado contra los comunistas, pero ahora, su utilidad ha llegado a su fin. Deben ser detenidos antes de que sus ideas radicales lleven a la nación a otra Ruina".
+ GRY_reverse_land_reform:0 "Devolver la tierra incautada"
+ GRY_reverse_land_reform_desc:0 "¡Los comunistas no tenían derecho a quitarles las tierras a los nobles! ¡Deben ser devueltas a sus legítimos propietarios de inmediato!"
+ GRY_noble_donations:0 "La nobleza agradecida"
+ GRY_noble_donations_desc:0 "La nobleza de Gryphia es tan codiciosa como cualquier grifo, pero la restauración del orden adecuado los ha hecho inmensamente agradecidos. Nuestras arcas se hinchan con la afluencia de donaciones, lo que hace que la tarea de reconstruir la nación sea mucho más fácil".
+ GRY_round_up_traitorous_clans:0 "Tratar con los clanes disidentes"
+ GRY_round_up_traitorous_clans_desc:0 "¡Algunos de los clanes tuvieron la audacia de ponerse del lado de los comunistas! Sus privilegios y derechos serán eliminados hasta que puedan volver a demostrar que son leales".
+ GRY_reward_loyal_clans:0 "Recompensa a los leales"
+ GRY_reward_loyal_clans_desc:0 "Afortunadamente, la mayoría de los clanes nos han apoyado contra los comunistas. Serán recompensados ​​adecuadamente".
+ GRY_the_hetman_alone:​​0 "Regla absoluta"
+ GRY_the_hetman_alone_desc:0 "Los acontecimientos recientes han demostrado que jugar con todas estas nuevas ideologías y diferentes formas de gobierno no nos ha traído nada bueno. Simplemente seguiremos eligiendo a nuestros líderes por Rada, como siempre lo hicimos".
+ GRY_retain_democrat_tradition:0 "Simpatías armónicas"
+ GRY_retain_democrat_tradition_desc:0 "Algunas de las enseñanzas armonistas se implementarán para que puedan tener voz en la gobernanza. También es mucho menos probable que causen problemas".
+ GRY_back_to_the_empire:0 "Buscar protección imperial"
+ GRY_back_to_the_empire_desc:0 "En tiempos peligrosos, como estos, deberíamos buscar la ayuda de los más fuertes. Se enviará un emisario a Griffenheim para discutir la renovación de nuestro estado de Marcha Imperial y, con ello, traer de vuelta la protección y los beneficios imperiales".
+ GRY_imperial_funding:0 "Financiamiento del Imperio"
+ GRY_imperial_funding_desc:0 "¡Alabado sea Boreas! El Imperio ha acordado renovar nuestro trato, y ahora, una afluencia de diversos bienes está entrando en Gryphia, haciendo que nuestra gente sea mucho más feliz. Desafortunadamente, tuvimos que dejar de atacar a cualquier nación que el Imperio crea territorio legítimo, pero los Riverponies siguen siendo un juego limpio ".
+ GRY_remain_independent:0 "Solo más fuerte"
+ GRY_remain_independent_desc:0 "Gryphia se ha mantenido perfectamente bien durante años, y no necesitamos ningún aliado ahora que hemos reconstruido nuestra nación. Solo nos arrastrarán en sus disputas".
+ GRY_renewed_raiding:0 "Reanudar asalto"
+ GRY_renewed_raiding_desc:0 "Con todas nuestras crisis atrás, podemos comenzar una vez más con nuestra incursión anual. ¡Los cosacos marchan una vez más!"
+ GRY_seek_other_allies:0 "Mira a nuestros vecinos"
+ GRY_seek_other_allies_desc:0 "Solos, somos verdaderamente vulnerables, por eso el nuevo Hetman ha decidido aliarse con nuestros vecinos contra la amenaza comunista y poni".
+ GRY_trade_and_research:0 "Confianza, comercio, cooperación"
+ GRY_trade_and_research_desc:0 "Con las alianzas aseguradas, ahora fluirá libremente una amplia cooperación comercial y de investigación entre nuestras naciones, lo que nos dará a todos grandes beneficios".
+ GRY_further_civvies:0 "Forjas de los cosacos"
+ GRY_further_civvies_desc:0 "Ahora que hemos comenzado nuestro programa de modernización económica, es apropiado que establezcamos un centro industrial moderno. ¡El establecimiento de fábricas a gran escala proporcionará empleo y riqueza a todos los zafzanos, iluminando un futuro mejor para todos! "
+ GRY_further_mils:0 "Armas de los cosacos"
+ GRY_further_mils_desc:0 "Una nación moderna no puede estar sin armamento moderno. Las forjas artesanales de antaño son obsoletas; debemos establecer un verdadero complejo militar-industrial, capaz de alimentar una máquina de guerra moderna".
+ GRY_powerful_economy:0 "Una economía moderna"
+ GRY_powerful_economy_desc:0 "Ahora que hemos establecido el tipo de base industrial que se espera de una nación moderna, ¡nuestra economía está en auge! Nos hemos hecho fuertes y ricos gracias a la abundancia de las tierras de Zaphzia".
+ GRY_secure_safety:0 "Asegure nuestras fronteras"
+ GRY_secure_safety_desc:0 "Aunque Borad desea que el pueblo de Zaphzan viva pacíficamente junto a sus vecinos, no se puede razonar con algunos de esos vecinos. El valiente pueblo cosaco está más que dispuesto a usar la fuerza para romper las espaldas de todos los que quieran subyugarlos".
+ GRY_stop_GRW:0 "La amenaza roja"
+ GRY_stop_GRW_desc:0 "Los revolucionarios de Prywhen no comprenden la importancia de nuestras tradiciones, ni respetan la soberanía de los países" reaccionarios ", por muy bien que traten a su pueblo o lo mucho que los quiera su pueblo. Ya han enviado agitadores en nuestro país, ¡y seguramente es sólo cuestión de tiempo antes de que nos ataquen! ¡Debemos quitarles las garras antes de que nos muerdan! "
+ GRY_stop_WNG:0 "No pises a los cosacos"
+ GRY_stop_WNG_desc:0 "Wingbardy era uncuento lejano para nosotros, un lugar extraño al que los jóvenes de vez en cuando iban por educación, y poco más. Sin embargo, recientemente, el nuevo gobierno de Wingbardy se ha puesto en pie de guerra y ha conquistado tanto que ha invadido nuestras fronteras. ¡Al ver la franja sangrienta que nos han abierto, sería una locura pensar que se detendrán aquí! ¡Debemos aplastar su poder, antes de que sea demasiado tarde! "
+ GRY_stop_LCT:0 "Odio antiguo"
+ GRY_stop_LCT_desc:0 "Es quizás comprensible que los ponis de Lake City se hayan vuelto locos de sangre, después de haber sufrido nuestras redadas durante siglos. Aunque hemos jurado dejar de asaltar bajo el gobierno de Borad, no nos creen, y ahora han adoptado una política radicalmente militarista. gobierno. Somos los primeros blancos naturales de su odio, por lo que debemos tomar medidas para protegernos antes de que nos aplasten ".
+ outdated_ind_or_higher:0 "¡Tiene un §YSector industrial obsoleto§! o una §YModern Society§!"
+ has_an_outdated_ind:0 "¡Tiene un sector industrial §YOutdated§!"
+ has_a_modern_society:0 "¡Tiene una §YModern Society§!"
+ 
+ ## Camino de marionetas nazi
+ GRY_lord_protector:0 "El nuevo orden"
+ GRY_lord_protector_desc:0 "Un nuevo poder ha surgido en el continente, libre de los grilletes anteriores de la nobleza. Habiendo perdido nuestra independencia a este poder, Gryphia ha sido reformada como una Marcha Fronteriza Imperial, bajo el gobierno de un gobernador extranjero."
+ GRY_the_imperial_march:0 "Reichskommissariat Kosakenland"
+ GRY_the_imperial_march_desc:0 "Estos grifos salvajes necesitan ser domesticados y enseñados su lugar. Deberían estar felices de que les permitamos existir como un protectorado. Ahora bien, vayamos al asunto de la administración".
+ GRY_convince_the_warriors:0 "Asegurar la lealtad de los guerreros"
+ GRY_convince_the_warriors_desc:0 "Los feroces guerreros de Zaphzan son orgullosos y tienen una mentalidad independiente. Una combinación problemática, pero tenemos métodos para convencerlos de que luchen por nosotros y nuestros intereses".
+ GRY_convince_the_people:0 "Asegure a la gente"
+ GRY_convince_the_people_desc:0 "Aunque los grifos de Zaphzan se contentan con vivir en sus formas tradicionales y aisladas, ciertamente se convertirán en una molestia una vez que comencemos a explotar esta tierra para obtener sus riquezas. Se deben hacer esfuerzos para mantener a la gente relativamente contenta".
+ GRY_focus_on_war:0 "El negocio de la guerra"
+ GRY_focus_on_war_desc:0 "Para recordarle a la población que tenemos el control, ahora y para siempre, necesitamos una fuerza dedicada para mantener el orden. Hará que la administración de estas tierras sea más sencilla".
+ GRY_focus_on_resources:0 "Explotar la tierra"
+ GRY_focus_on_resources_desc:0 "¡Gryphia es una tierra llena de depósitos de recursos sin explotar! El Lord Protector ha establecido una cuota mensual y la excavación debe comenzar de inmediato. ¡Expanda las minas existentes y contrate topógrafos para encontrar riquezas adicionales!"
+ GRY_lower_recruitment_age:0 "Normas de soldado más flexibles"
+ GRY_lower_recruitment_age_desc:0 "Griffonpower siempre está en demanda, y las guerras interminables de nuestro señor supremo lo requieren. A partir de aquí, los criterios para unirse a las fuerzas armadas se reducirán".
+ GRY_guns_for_manpower:0 "Grifos para armas de fuego"
+ GRY_guns_for_manpower_desc:0 "Para aspirar a cosas mayores y ser fieles a nuestra naturaleza, debemos colaborar. Los soldados aptos y capaces de esta tierra serán enviados a los frentes de batalla y, a cambio, recibiremos lo que necesitamos para consolidar nuestro control de la región ".
+ GRY_tech_for_manpower:0 "Grifos para la tecnología"
+ GRY_tech_for_manpower_desc:0 "Hemos comprobado que nuestro señor supremo está dispuesto a cambiar rifles por soldados, por lo que tiene sentido expandir este comercio improvisado para incluir a los científicos. El desarrollo tecnológico de la región es asombrosamente pobre".
+ GRY_heritage_indoctrination:0 "Las viejas glorias"
+ GRY_heritage_indoctrination_desc:0 "Hay mucho que aprender del estilo de lucha de los cosacos de Zaphzan. Sería prudente estudiar sus tácticas y habilidades de combate".
+ GRY_promise_of_land:0 "Atraer inmigrantes de Heartlander"
+ GRY_promise_of_land_desc:0 "Con la antigua nobleza despojada de sus derechos y posesiones, nos encontramos en posesión de vastas tierras que serían perfectas para que los colonos se asentaran. Ofrécelas a un precio barato para los ciudadanos de Heartlander dispuestos, tenemos que repoblar".
+ GRY_industry_for_manpower:0 "Grifos para la industria"
+ GRY_industry_for_manpower_desc:0 "Para continuar con el desarrollo y la explotación de esta región, necesitamos una industria pesada que simplemente no está presente en el área. Afortunadamente, siempre tenemos más grifos dispuestos a comerciar".
+ GRY_find_more_labor:0 "Servicio forzado"
+ GRY_find_more_labor_desc:0 "¡Si puede sostener un rifle y disparar, el grifo es un soldado! ¡Presiona en servicio tantos como puedas encontrar!"
+ GRY_griffonian_exploitation:0 "Conectar las minas"
+ GRY_griffonian_exploitation_desc:0 "Para comenzar a cosechar los beneficios de la colaboración, todas las canteras, minas, pozos y otros depósitos de recursos deben estar vinculados con la infraestructura adecuada, de modo que se puedan extraer todos los recursos valiosos".
+ GRY_tsumina_metals:0 "Expansión de las minas Tsumina"
+ GRY_tsumina_metals_desc:0 "Las colinas de Tsumina contienen grandes depósitos de bauxita y mena de wolframita. Las minas actuales son insuficientes para los requisitos de nuestro señor supremo y deben ampliarse de inmediato."
+ GRY_invite_krahstahl:0 "Invitar empresas imperiales"
+ GRY_invite_krahstahl_desc:0 "Los intentos Grifos de modernización han sido toscos e ineficientes. Esto se nota más en su producción de acero, que es frágil y se fabrica en cantidades exiguas. Afortunadamente, hay muchos conglomerados imperiales a los que les encantaría intervenir y tomar encima."
+ GRY_greatest_asset:0 "Combustible para las máquinas de guerra"
+ GRY_greatest_asset_desc:0 "Sin duda, el mayor activo de Zaphzan son sus grandes cantidades de petróleo. ¡Incluso fluye libremente desde el suelo! El Lord Protector ha especificado el petróleo como el recurso más importante y debemos hacer todo lo posible para mantener su producción alta".
+ GRY_we_made_it:0 "Un modelo de protectorado"
+ GRY_we_made_it_desc:0 "Nuestro control sobre esta región ha sido asegurado, y el Lord Protector está muy satisfecho con nuestro progreso aquí. Nuestra entusiasta colaboración ha dado como resultado los beneficios que cosechamos ahora".
+ 
+ 
+ ###Eventos###
+ gryphianhost.100.t:0 "Estamos siendo integrados"
+ gryphianhost.100.d:0 "Nuestros titiriteros en Prywhen han exigido nuestra anexión. Podemos resistir, pero probablemente sería un esfuerzo inútil."
+ gryphianhost.100.a:0 "Iremos en silencio".
+ gryphianhost.100.b:0 "Nos arriesgaremos".
+ gryphianhost.102.t:0 "[Root.PRYRaidTitle]"
+ gryphianhost.102.d:0 "[Root.PRYRaidDesc]"
+ gryphianhost.102.a:0 "¡El Raid es un éxito!"
+ gryphianhost.102.b:0 "¡La incursión falla!"
+ gryphianhost.103.t:0 "Proclamación de la Comuna de Kaiv"
+ gryphianhost.103.d:0 "En su primer Universal Universale oficial, la Rada Central del Gryphian Hetmanate ha declarado formalmente la disolución de la antigua forma de gobierno y ha proclamado que, de inmediato, el pueblo de Gryphus está gobernado por la Comuna Kaiv , un gobierno proletario del pueblo y para el pueblo ".
+ gryphianhost.103.a:0 "¡El camino del futuro!"
+ gryphianhost.104.t:0 "La Comuna Kaiv se extiende en solidaridad proletaria"
+ gryphianhost.104.d:0 "¡Los grifos de Gryphian Host han derrocado a su gobierno reaccionario y desean aliarse con nosotros en una demostración de hermandad socialista! ¿Cómo debemos responder?"
+ gryphianhost.104.a:0 "¡Damos una calurosa bienvenida a nuestros nuevos camaradas!"
+ gryphianhost.104.b:0 "Son revisionistas, no podemos arriesgar nuestra revolución asociándonos con ellos".
+ gryphianhost.105.t:0 "Una propuesta impactante"
+ gryphianhost.105.d:0 "[Root.GetLeader] ha recibido hoy una propuesta asombrosa - tan asombrosa de hecho que inicialmente se asumió que era una broma. Sin embargo, nos han asegurado que, no, el Gryphian Host realmente quiere para unirse a la River Coalition. Su líder, Borad Grifnitsky, afirma estar dedicado a la armonía y que su gente ha cambiado de página. La mayoría de los ponis son escépticos, pero algunos insisten en que podría valer la pena intentarlo; después de todo, Si incumplen su promesa, siempre podemos echarlos de nuevo, ¿verdad? La mayoría de los miembros de la Coalición no tienen una opinión particularmente fuerte sobre este asunto, excepto tres. Lake City y Wittenland son los objetivos de incursión tradicionales de los Grifos y tienen sufrió mucho. El público en estos lugares será muy resistente al cambio en este tema. Nimbusia, por otro lado, está lejos de los Griffons, pero se considera a sí misma como la protectora de todos los Riverponies, y no apoyará ninguna acción que parezca amenazar la seguridad del Riverl ys. Podemos esperar las siguientes reacciones:\n [Root.NIMreaction] [Root.LCTreaction] [Root.WITreaction] ".
+ gryphianhost.105.a:0 "Han cambiado para mejor, podemos confiar en ellos".
+ gryphianhost.105.c:0 "¿Realmente esperan que creamos que pueden cambiar tan de repente?"
+ gryphianhost.106.t:0 "Viejas heridas perdonadas"
+ gryphianhost.106.d:0 "Para nuestra gran sorpresa y alegría, los Riverponies han visto más allá de las acciones de nuestros antepasados ​​y han reconocido nuestra nueva sociedad Armónica. ¡Ahora somos un miembro de pleno derecho de la River Coalition!"
+ gryphianhost.106.a:0 "¡Excelente!"
+ gryphianhost.107.t:0 "No hay agua debajo de ese puente"
+ gryphianhost.107.d:0 "Lamentablemente, aunque no de forma inesperada, los Riverponies han rechazado nuestra apelación. No podemos buscar protección, amistad o seguridad en ellos".
+ gryphianhost.107.a:0 "No podemos decir que realmente los culpemos".
+ gryphianhost.108.t:0 "Un gran cambio, si es real"
+ gryphianhost.108.d:0 "En un giro impactante, nuestros antiguos enemigos, el Gryphian Host, solicitó recientemente su membresía en la River Coalition, ¡y [From.GetName] estuvo de acuerdo! Aunque esto ha provocado protestas de muchos de nuestros ciudadanos, los Grifos realmente parecen haber cambiado, y [Root.GetLeader] asegura a la gente que todo estará bien, y que los Grifos serán expulsados ​​a la primera señal de problemas. Si bien no todos están contentos con la situación, parece como si lo estuvieran aguantando por el momento ".
+ gryphianhost.108.a:0 "Los estoy vigilando".
+ gryphianhost.109.t:0 "Sla anidad prevalece "
+ gryphianhost.109.d:0 "¡En un giro impactante, nuestros antiguos enemigos, el Gryphian Host, recientemente solicitó ser miembro de la River Coalition! Afortunadamente, [From.GetLeader] tuvo suficiente presencia de ánimo para rechazar su oferta, sin creer en sus ridícula pretensión de haberla reformado totalmente ".
+ gryphianhost.109.a:0 "Es bueno saber que [From.GetLeader] no ha perdido totalmente sus canicas".
+ gryphianhost.110.t:0 "¡Un ultraje!"
+ gryphianhost.110.d:0 "¡Escándalo! ¡Horror! El Gryphian Host hizo recientemente la impactante decisión de solicitar la membresía en la River Coalition - y [From.GetLeader] ¡DEJENLOS ENTRAR! [Root.GetLeader] ha expresado feroces protestas por esto Escandalosa traición a nuestra gente. Estos grifos han asaltado, masacrado y saqueado a nuestra gente durante siglos, y [From.GetLeader] realmente creía que sus afirmaciones sin sentido se habían reformado. En respuesta, [Root.GetLeader] ha abandonado formalmente River Coalition, viendo que claramente no tiene nuestros mejores intereses en el corazón ".
+ gryphianhost.110.a:0 "¿Cómo pudo [From.GetName] traicionarnos así?"
+ gryphianhost.111.t:0 "[From.GetName] solicita una alianza"
+ gryphianhost.111.d:0 "Un extraño grupo de grifos del este, que se hacen llamar [From.GetName], ha expresado interés en unirse a nosotros para ayuda y protección mutua. Estos grifos tienen una historia como guerreros feroces, y podría ser una adición útil a nuestra coalición, aunque están bastante lejos ... "
+ gryphianhost.111.a:0 "¿Por qué rechazaríamos a los aliados potenciales?"
+ gryphianhost.111.b:0 "No podemos permitirnos defender una ubicación tan remota".
+ gryphianhost.112.t:0 "[From.GetName] acepta"
+ gryphianhost.112.d:0 "[From.GetLeader] ha aceptado formalmente la oferta de alianza militar de [Root.GetLeader]. Ahora somos oficialmente parte de la alianza de [From.GetName]".
+ gryphianhost.112.a:0 "¡Excelentes noticias!"
+ gryphianhost.113.t:0 "[From.GetName] rechaza"
+ gryphianhost.113.d:0 "[From.GetLeader] ha rechazado con pesar nuestra oferta de alianza, citando varios problemas que resultarían de ella. Tendremos que buscar protección en otro lugar".
+ gryphianhost.113.a:0 "Maldita sea".
+ gryphianhost.114.t:0 "Los grifos ofrecen una unión"
+ gryphianhost.114.d:0 "Los representantes de [From.GetName] llegaron hoy a los edificios gubernamentales, de una manera que nunca antes los habíamos visto. Hasta ahora, los grifos eran conocidos como feroces asaltantes, y nosotros No me gusta mucho conocerlos, a pesar de nuestra lejana conexión ancestral. Sin embargo, en los últimos años han reformado su gobierno para convertirlo en uno más pacífico, y han proclamado su interés en formar una "hermandad de zaphzans", que abarcará a todos los grifos de ascendencia zaphzan , incluyéndonos a nosotros. Aunque no nos hemos llamado Zaphzans durante más de mil años, algunos dentro de nuestro país piensan que la oferta es tentadora. ¿Cómo responderemos? "
+ gryphianhost.114.a:0 "Con mucho gusto nos uniremos a esta iniciativa".
+ gryphianhost.114.b:0 "Preferiríamos no comprometernos con algo así".
+ gryphianhost.115.t:0 "La cuestión de la corona"
+ gryphianhost.115.d:0 "[Root.GetLeader] ha aplastado por completo toda oposición y se ha establecido como gobernante de los zaphzans. Tan grande es su poder que, tal vez, podría reclamar el título de Rey de Zaphzia, desaparecido hace mucho tiempo. , lo que restauraría la antigua gloria de nuestro pueblo. Sin embargo, tenemos una larga tradición de líderes elegidos democráticamente, y tal vez sería más prudente (por no mencionar menos polémico) si simplemente reafirmara el título de Hetman (aunque lo hará no, por supuesto, permitir que lo derroten en unas elecciones. Sería una tontería) ".
+ gryphianhost.115.a:0 "¡Salve al Rey!"
+ gryphianhost.115.b:0 "Por supuesto, debemos preservar nuestras tradiciones democráticas ..."
+ gryphianhost.116.t:0 "Destino de los reaccionarios"
+ gryphianhost.116.d:0 "Estamos en una posición difícil con respecto a nuestros hermanos cosacos. Si bien algunos de ellos apoyaron a la GSDLR en su revolución, muchos de ellos son firmes partidarios del antiguo orden. No podemos permitirnos ignorar esto problema, porque son algunos de nuestros críticos más vocales, pero del mismo modo, también son algunos de nuestro personal militar más capacitado. Podríamos simplemente ejecutarlos, pero tal movimiento sería profundamente impopular y dejaría a nuestros militares desanimados y desanimados. ¿Quizás sería mejor convencerlos de que se unan a nosotros para integrarlos en nuestro nuevo Ejército Rojo? Esto sería mucho más sencillo y nos permitiría beneficiarnos de su amplia experiencia, pero ¿podríamos estar seguros de su lealtad? ? "
+ gryphianhost.116.a:0 "Perdónalos e intégralos en el Ejército Rojo".
+ gryphianhost.116.b:0 "¡No podemos permitir elementos reaccionarios en nuestro ejército! ¡Deben ir todos!"
+ gryphianhost.117.t:0 "El segundo universo de la comuna de Kaiv"
+ gryphianhost.117.d:0 "[Root.gryevent117loc]"
+ gryphianhost.117.b:0 "Debemos apoyar a nuestros hermanos mayores en el socialismo".
+ gryphianhost.117.a:0 "¡Difundiremos la revolución, ya sea solos o no!"
+ gryphianhost.118.t:0 "Kaiv Commune propone vínculos más estrechos"
+ gryphianhost.118.d:0 "El gLos rifones de Kaiv se han liberado de las cadenas de la opresión y han establecido un estado socialista a orillas del río. Al ver que también hemos llegado a ver la gloria eminente del socialismo, se han ofrecido a forjar vínculos más estrechos con nosotros, asegurar la cooperación pacífica entre los socialistas y defender la revolución de potencias extranjeras hostiles. Sin embargo, existe cierta disputa entre nuestros funcionarios más destacados sobre hasta dónde deberíamos llevar esta oferta. La mayoría está feliz de aceptar la oferta de protección de Kaiv, pero algunos desean ir más allá y unirse directamente a ellos contra las fuerzas de la reacción ".
+ gryphianhost.118.a:0 "Defensa mutua, sí, pero cada uno de nosotros debe construir su propio socialismo".
+ gryphianhost.118.b:0 "Somos pequeños y estamos rodeados. Los aliados serían útiles".
+ gryphianhost.119.t:0 "La Comuna Kaiv propone una ofensiva conjunta"
+ gryphianhost.119.d:0 "La Comuna de Kaiv se ha acercado a nosotros con una propuesta drástica, una que podría afectar significativamente el futuro de ambos. El militarismo está creciendo dentro de su nación, y su gente está ansiosa por difundir la Revolución de inmediato y por la fuerza. . Esto no sería un problema, si no fuera por el hecho de que desean atacar a su vecino, Wittenland. Gobernado por una élite corrupta, Wittenland es ciertamente reaccionario y digno de ser destruido, pero también está protegido por toda la River Coalition . Una guerra contra ellos casi seguramente provocaría la furia de los Riverponies sobre nuestras cabezas, una perspectiva que no podemos tomar a la ligera. Si vamos a disuadirlos de este ataque, será mejor que lo hagamos ahora, y con fuerza ".
+ gryphianhost.119.a:0 "¡Apoya la ofensiva! ¡Los ponis del río también deben ver la luz del comunismo!"
+ gryphianhost.119.b:0 "¡Esto es demasiado arriesgado, es una locura! ¡Ordéneles que retrocedan!"
+ gryphianhost.120.t:0 "[From.GetName] nos respalda"
+ gryphianhost.120.d:0 "Nuestra propuesta ha sido escuchada y aceptada por nuestro aliado. [Root.GetName] ha aceptado unirse a nosotros en la gran lucha para liberar a los trabajadores de Wittenland".
+ gryphianhost.120.a:0 "¡A la guerra, entonces!"
+ gryphianhost.121.t:0 "Ultimátum de [From.GetName]"
+ gryphianhost.121.d:0 "Nuestro aliado ha escuchado nuestra propuesta y respondió rápidamente. Han declarado en términos inequívocos que un ataque a Wittenland resultaría en la destrucción de su nación y la nuestra, y se niegan categóricamente a ayudarnos en cualquier esfuerzo de este tipo. Nos han presentado una dura elección:renunciar a nuestros objetivos en Wittenland o hacer que nuestra alianza se rompa formalmente ".
+ gryphianhost.121.a:0 "¡Cobardes! ¡No seremos disuadidos así! ¡A la guerra!"
+ gryphianhost.121.b:0 "No podemos permitirnos el lujo de arruinar nuestras relaciones con nuestros amigos de esta manera, retroceda en nuestras afirmaciones".
+ gryphianhost.122.t:0 "[From.GetLeader] corta los lazos"
+ gryphianhost.122.d:0 "Los Kaivans no nos han escuchado, despreciándonos por nuestra" cobardía "y" revisionismo ". [From.GetLeader] ha roto formalmente los lazos con [Root.GetName], y los planes para la invasión de Wittenland avanza a buen ritmo ".
+ gryphianhost.122.a:0 "¡Esos necios testarudos!"
+ gryphianhost.123.t:0 "[From.GetLeader] retrocede"
+ gryphianhost.123.d:0 "Bajo nuestra amenaza, [From.GetLeader] ha retirado su retórica hostil hacia Wittenland y archiva en silencio sus planes para una invasión. Parece que la paz, por ahora, ha prevalecido".
+ gryphianhost.123.a:0 "Al menos no seremos arrastrados a una guerra estúpida e imposible de ganar".
+ gryphianhost.124.t:0 "Restablecimiento de contacto"
+ gryphianhost.124.d:0 "Aunque nos aislamos del mundo exterior durante la guerra, ahora que hemos probado con éxito que de hecho podemos derrotar a los Riverponies, deberíamos reabrir la comunicación".
+ gryphianhost.124.a:0 "¡Por fin!"
+ gryphianhost.125.t:0 "¡Levantamiento reaccionario!"
+ gryphianhost.125.d:0 "¡Terribles noticias! Nuestra toma de partes sustanciales de sus propiedades ha enfurecido a los aristócratas, y nuestra indecisión en despojarlos de su poder les ha permitido levantarse. Se han unido con elementos descontentos dentro del ejército , así como los anticomunistas del campo, y declararon su intención de derrocar al gobierno y restaurar el antiguo Hetmanate. El caos desciende sobre nuestras tierras, mientras nos deslizamos hacia la guerra civil ... "
+ gryphianhost.125.a:0 "¡La revolución triunfará!"
+ gryphianhost.125.b:0 "¡Gloria al Hetman!"
+ gryphianhost.126.t:0 "¡Defecto de oficiales!"
+ gryphianhost.126.d:0 "¡Más malas noticias! Nunca hemos estado completamente seguros de la lealtad del antiguo cuerpo de oficiales, pero parecían contentos de trabajar para nosotros en el pasado. Poco sabíamos que esto era solo una artimaña para ¡Gana tiempo! Ahora que las fuerzas reaccionarias se han levantado para derrocar al comunismo, varios de nuestros generales más hábiles han desertado, declarando su lealtad al nuevo Hetman y su ejército ".
+ gryphianhost.126.a:0 "¡Deberíamos haberlos purgado cuando tuvimos la oportunidad!"
+ gryphianhost.127.t:0 "[From.GetName] se une a nosotros"
+ gryphianhost.127.d:0 "Los diplomáticos de [From.GetName] han llegado hoy a la sede del gobierno para firmar formalmente un tratado que los admita en nuestra alianza. Se han intercambiado obsequios, y esed que esta es la primera señal de muchos años de paz y prosperidad para nuestros dos pueblos ".
+ gryphianhost.127.a:0 "¡Que nuestra amistad dure mil años!"
+ gryphianhost.128.t:0 "[From.GetName] nos rechaza"
+ gryphianhost.128.d:0 "Diplomáticos de [From.GetName] han llegado a la sede del gobierno hoy, con tristes noticias. Los líderes de su país han decidido no unirse a nosotros en una alianza de defensa y comercio mutuos".
+ gryphianhost.128.a:0 "Qué decepción".
+ gryphianhost.129.t:0 "La Hueste Gryphian traiciona su Juramento"
+ gryphianhost.129.d:0 "Para nuestra consternación, el Gryphian Host ha violado su juramento de lealtad al invadir un país que es oficialmente parte de nuestro reino. Nuestras garantías de defensa con ellos ahora son nulas y sin valor, y los subsidios imperiales a sus las tierras han sido congeladas indefinidamente ".
+ gryphianhost.129.a:0 "¡Qué manada de traidores!"
+ gryphianhost.130.t:0 "Hemos traicionado nuestro juramento"
+ gryphianhost.130.d:0 "Nuestro reciente acto de guerra fue una clara violación de nuestro tratado con Su Augusto Majestad el Emperador. Al declarar esta invasión, [Root.GetLeader] nos ha puesto a todos en grave peligro. Nuestras garantías de defensa con el Imperio ahora es nulo y sin valor, y los subsidios imperiales a nuestras tierras se han congelado indefinidamente ".
+ gryphianhost.130.a:0 "Quizás esto no fue una buena idea ..."
+ gryphianhost.131.t:0 "El Hetman solicita la restauración de la marcha fronteriza"
+ gryphianhost.131.d:0 "Hace mucho tiempo, Grover I, el augusto fundador del Imperio, hizo un trato con los cosacos de la ribera oriental del río. Él los protegería de las depredaciones de los pones del río hostiles, a cambio de su lealtad y un recorte de las ganancias de sus frecuentes incursiones en territorio enemigo. Este acuerdo se siguió durante siglos, pero en las últimas décadas hemos sido demasiado débiles para hacer cumplir el pago del tributo o para evitar incursiones menores a nuestros súbditos nominales. Hoy, sin embargo, Al ver nuestra fuerza incrementada, el Hetman of the Host ha enviado un enviado a Griffenheim, pidiendo la restauración del estatus de su pueblo como una Marcha Imperial. Ellos defenderán las fronteras del Imperio y atacarán a nuestros enemigos, a cambio de fondos y promesas de protección. serán atacados por fuerzas hostiles ".
+ gryphianhost.131.a:0 "Así que los cosacos finalmente han vuelto a casa, ¿verdad? ¡Restablezcan la Marcha!"
+ gryphianhost.131.b:0 "Ya no nos importa esa tierra".
+ gryphianhost.132.t:0 "El Emperador protege"
+ gryphianhost.132.d:0 "Para nuestra alegría, el Emperador ha aceptado nuestra solicitud de convertirse en una Marcha Imperial. Siempre y cuando no transgredamos el dominio legítimo del Imperio (incluidos los territorios actualmente en manos de gobernantes desleales), deberíamos estar bien . (NB:Su pantalla de declaración de guerra le advertirá si está a punto de declararle la guerra a alguien que no tiene permitido) ".
+ gryphianhost.132.a:0 "¡Salve, Emperador!"
+ gryphianhost.133.t:0 "El desprecio del emperador"
+ gryphianhost.133.d:0 "Lamentablemente, el Emperador no ha expresado ningún interés en restaurar nuestro estatus como una marcha fronteriza. Parece que ya no se preocupa por nosotros, ni por la tierra del río".
+ gryphianhost.133.a:0 "Qué desafortunado".
+ gryphianhost.134.t:0 "Los dardos del destino"
+ gryphianhost.134.d:0 "¡Ay! Mientras era llevado por sus soldados durante una celebración después de su reciente incursión, Hetman Bulba recibió un disparo de un francotirador comunista. Una docena de cosacos inmediatamente detuvieron al villano y lo destrozaron en el acto, sin poder para contener su pura furia, pero el daño ya está hecho. El Hetman murió instantáneamente, la bala de mosquete atravesó limpiamente su cerebro. Su muerte ha matado el estado de ánimo normalmente alegre de los guerreros victoriosos, y el grupo de asalto ha llevado su cuerpo a casa en la vieja costumbre, llevado sobre los hombros de sus guerreros más devotos. Hetman Bulba nos dirigió durante más de cuarenta años, y fue muy apreciado por todos. Peor aún, murió sin dejar un heredero claro, lo que significa que la elección del próximo Hetman está destinado a estar lleno de confusión ".
+ gryphianhost.134.a:0 "Hoy lloramos, mañana comenzaremos de nuevo".
+ gryphianhost.135.t:0 "Los dardos del destino"
+ gryphianhost.135.d:0 "¡Ay! Mientras consolaba a algunos de los guerreros heridos de su banda, abatidos después de su incursión fallida, Hetman Bulba fue disparado por un francotirador comunista. Una docena de cosacos inmediatamente detuvieron al villano y lo hicieron trizas en el El Hetman murió instantáneamente, la bala de mosquete atravesó limpiamente su cerebro. Su muerte ha sido la última y más grande tragedia en esta excursión fallida, y el grupo de asalto ha Llevó su cuerpo a casa en la vieja costumbre, sobre los hombros de sus guerreros más devotos. Hetman Bulba nos guió durante más de cuarenta años, y fue muy apreciado por todos. Sin embargo, sin la financiación que se pretendía provenir de esta incursión , es dudoso que el país pueda evitar caer en la anarquía y la agitación. Hetman Bulba fue el último hilo que mantenía unida a esta sociedad fracturada, y ahora ese hilo se ha roto. AnarquíaEstá suelto, y el partido más organizado y violento ganará el día ".
+ gryphianhost.135.a:0 "Hoy lloramos, mañana comenzaremos de nuevo".
+ gryphianhost.136.t:0 "Encendiendo la llama"
+ gryphianhost.136.d:0 "Ahora que hemos liberado a los trabajadores de Prywhen de sus opresores burgueses, hemos decidido restablecer el Ejército de Liberación de Grifón, con el fin de administrar más eficazmente la tierra, así como en reconocimiento de la deuda que tenemos con el movimiento revolucionario Prywhen por su ayuda en el patrocinio y la lucha parcial de nuestra revolución. Sin embargo, algunos dentro del Politburó debaten si es prudente darles a Redglad y sus compañeros el verdadero poder, o si sería más aconsejable darles roles meramente simbólicos, manteniendo el verdadero control del país nosotros mismos ".
+ gryphianhost.136.a:0 "El área aún es inestable. Sería mejor si la administramos directamente".
+ gryphianhost.136.b:0 "¡Tonterías! ¡Prywhen y Kaiv son camaradas e iguales!"
+ gryphianhost.137.t:0 "Restauración de la Corona"
+ gryphianhost.137.d:0 "Ahora que nos hemos apoderado de las tierras de Brodfeld, nos ha quedado claro que administrarlas directamente sería un asunto costoso y doloroso. Muchos de los nobles han sugerido restablecer el Reino de Brodfeld, ya que es más probable que la gente responda bien a un gobernante nativo, por impopular que sea. Por supuesto, cuánto poder real dijo que tendría King quedaría totalmente a nuestra discreción ... "
+ gryphianhost.137.a:0 "Pon un títere en el trono, un Kissau, si puedes encontrar uno".
+ gryphianhost.137.b:0 "Los cosacos no están en el negocio de la esclavitud, serán aliados".
+ gryphianhost.139.t:0 "El ataque de los cosacos"
+ gryphianhost.139.d:0 "[Root.raideventoutcome]"
+ gryphianhost.139.a:0 "¡Malditos cosacos!"
+ 
+ ## eventos de sabor
+ gryphianhost.140.t:0 "La Rada Negra"
+ gryphianhost.140.d:0 "Normalmente, no sería nada fuera de lo común. Peleas, amenazas de muerte, insultos a la herencia son una característica común de la Rada. Pero nada parece ordinario en Zaphzia en estos días. \n \nSin un Claramente candidato a sucesor, todos los nobles menores que sintieron que tenían un derecho al Hetmanate hicieron campaña para obtener apoyo. La tradición exigía que cada uno de ellos fuera votado por la Rada, lo que resultó en una pérdida de un tiempo precioso, ya que ninguno tenía la mayoría requerida. Esta parálisis duró quince días, hasta que los candidatos más viables presentaron su reclamo. \n \nBorad Grifnitsky, respaldado por muchos de los pares empobrecidos, ha captado la atención de muchos con sus promesas de reformas, paz y estabilidad. Aunque muchos lo han acusado de siendo blando en los asuntos de defensa, les ha asegurado que el pacifismo no implica debilidad para los Grifos. El ciudadano Grifo común habla muy bien de Borad, también. \n \nLas noticias son un mal invitado, una reputación que parecía seguir S.M ven Krawvelets. Apoyado por los terratenientes ricos, su retórica grandilocuente pero cruda ha atraído a muchos grifos que desean regresar a los días gloriosos de antaño. A pesar de ser el sobrino nieto del viejo Hetman, es profundamente impopular entre la gente común, y su elección podría causar un resultado muy divisivo. \n \nSe está acabando el tiempo para que la Rada elija al nuevo Hetman, no sea que la nación sea presa de la amenaza que se avecina. ... "
+ gryphianhost.140.a:0 "Eventualmente se elegirá un líder".
+ gryphianhost.141.t:0 "El ascenso de Borad Grifnitsky"
+ gryphianhost.141.d:0 "El Rada puede ser un asunto bastante sangriento, pero en este día, fue inusualmente pacífico. Después del caos inicial, Borad Grifnitsky ha estado ocupado reuniendo apoyo para su causa. Tan grande fue su persuasión y fuerza de voluntad, que una gran mayoría ha expresado su elección para que él sea el nuevo Hetman. Los únicos grifos que no estaban satisfechos con el resultado fueron Yeven Krawvelets y sus compinches, quienes rápidamente abandonaron el salón de reuniones y partieron hacia lugares desconocidos. preocupado, Yeven intentaría causar un escándalo, dada su naturaleza agresiva, pero tal evento no sucedió. \n \nEl nuevo Hetman ha expresado su gratitud y prometió que las reformas llegarían pronto a Gryphia, y con ellas, una paz duradera para sus grifos. . "
+ gryphianhost.141.a:0 "¡Saluden al nuevo Hetman!"
+ gryphianhost.142.t:0 "La idea republicana"
+ gryphianhost.142.d:0 "El Rada puede ser un asunto bastante sangriento, pero en este día, fue inusualmente pacífico. Después del caos inicial, Borad Grifnitsky ha estado ocupado reuniendo apoyo para su causa. Tan grande fue su persuasión y fuerza de voluntad, que una gran mayoría ha expresado su elección de que él sea el nuevo Hetman. Los únicos grifos que no estaban satisfechos con el resultado fueron Yeven Krawvelets y sus compinches, que estaban a punto de irse, si no fuera por la sorpresa de Borad. anuncio de su intención de preparar las primeras elecciones democráticas en Zaphzia. \n \nEn ese momento, Yeven y sus seguidores intentaron apresurar el nuevo Hetman, pero fueron rápidamente sometidos por otros grifos. Algunos, lamentablemente, resultaron heridos pero no hubo vida tomado hoy. Borad se apresuró a regañar a Yeven por hes brutal y ordenó que lo encarcelaran. Después, agradeció a la Rada por su apoyo y prometió un futuro brillante para todos nosotros ".
+ gryphianhost.142.a:0 "Debemos tener cuidado con estas nuevas ideas ..."
+ ## gryphianhost.143.t:0 "Un cambio de gobierno"
+ ## gryphianhost.143.d:0 ""
+ ## gryphianhost.143.a:0 "El liderazgo nunca es simple".
+ gryphianhost.144.t:0 "La reconciliación"
+ gryphianhost.144.d:0 "A [GRY.GetLeader] no le gustaba Cornilov Khurshevich. Para nada. Parecía fácil y extrovertido, pero Borad sospechaba que estaba ocultando un lado mucho más insidioso. Después de todo, ¿quién podría cometer tales actos? de traición a su propio país, los grifos, todo en nombre de una extraña ideología de un continente lejano. Lamentablemente para Borad, las circunstancias requerían que tuvieran que trabajar juntos, en nombre de la paz. \n \nEl encuentro entre estos dos grifos se llevó a cabo tan bien como esperaba Borad. La hostilidad y la incomodidad iniciales se dejaron de lado rápidamente una vez que se compartieron el tradicional hlib y gorilka, y se sentaron juntos para discutir el futuro de Zaphzia y el alcance de las políticas socialistas que implementaría el nuevo gobierno. \n \nDespués, cesaron las campañas de terror en el campo y todo volvió a la serenidad en Gryphia ".
+ gryphianhost.144.a:0 "No tenemos que gustarnos, pero podemos trabajar juntos".
+ ## gryphianhost.145.t:0 "Una negociación dolorosa"
+ ## gryphianhost.145.d:0 ""
+ ## gryphianhost.145.a:0 "Compromiso tras compromiso ..."
+ gryphianhost.146.t:0 "Reparando viejas heridas"
+ gryphianhost.146.d:0 "La religión rara vez ha sido un punto de discordia en Gryphia. Junto con el sacerdocio tradicional de Boreas, también estaban muy extendidas las iglesias dedicadas a Eyr y Arcturius. Las denominaciones menores, como la grifonificación del río Evya, también estaban muy extendidas. popular. Como tal, este pluralismo piadoso funcionó sin problemas, a excepción de unos pocos. \n \nEn primer lugar fueron los cultistas maaritas ocultos. Aunque su existencia nunca pudo ser probada de manera decisiva, estos susurros en la oscuridad siguieron siendo una preocupación para los grifos temerosos de los dioses . Sin embargo, algo más era un problema mucho mayor para el grifo común:la adoración del panteón Riverpony. Saber que algún griff estaba siguiendo a los pony espíritus resultaría en nada menos que el ostracismo para ellos, y ninguno fue más despreciado que los grifos de la tribu Polshava, que vivían durante mucho tiempo bajo el gobierno de Jezeragrad. \n \nComo parte de su campaña de unificación nacional, Borad Grifnitsky se ha fijado el objetivo personal de llegar e integrar a esta despreciada tribu. Ini Inicialmente, los líderes del clan de Polshavan eran escépticos, pero la seria convicción de Borad, combinada con su carisma personal, los ha suavizado. Queda por ver si el resto de la sociedad aceptará estos grifos descarriados ".
+ gryphianhost.146.a:0 "No importa a qué dios adores, todos somos Grifos".
+ gryphianhost.147.t:0 "Solo por nuestras garras"
+ gryphianhost.147.d:0 "Los años anteriores han visto un gran cambio en Zaphzia. Ya no todos los grifos trabajan en el campo todos los días, ni consideran invenciones como el automóvil como magia dada por Boreas, sino que han aceptado la modernidad y todos los beneficios que conlleva. Por supuesto, a los propietarios les disgustó que su jerarquía tradicional se haya desmantelado lentamente, ya que muchos grifos buscaron suerte en las crecientes ciudades industriales de Kaiv, Husaka, Chykchyryn y más. Fue el progreso de Gryphian que [GRY.GetLeader] ha programado un anuncio para ser transmitido en la estación de radio nacional, una de las primeras en establecerse, y muchos grifones han sintonizado con entusiasmo, ya sea en sus propias casas, en las de sus amigos o lugares de reunión locales. \n \n "¡Grifos! He elegido dirigirme a ustedes hoy, porque quería decirles lo orgulloso que estoy de ustedes. Sí, todos y cada uno de los grifos que han trabajado duro para traer el futuro a nuestra nación justa. Ya no tienes que caminar kilómetros solo para llegar a una tienda para encontrar sustento, o vagar en la oscuridad de la ignorancia. \n \nTu esfuerzo, tu dedicación y tu coraje, todos han trabajado en armonía para llevar a Gryphia a la vanguardia de la modernidad, y con nuestra primera constitución ratificada y promulgada como ley, ¡pasará a todos nuestros hijos! ¡Gryphia vive y sigue su camino! "".
+ gryphianhost.147.a:0 "El futuro es nuestro".
+ gryphianhost.148.t:0 "El mundo que nos rodea"
+ gryphianhost.148.d:0 "[GRY.GetLeader] comprendía a su gente. Orgulloso e independiente, y compartía sus valores y herencia, lo que facilitaba permanecer en sus buenas gracias mientras continuaba la reforma de la sociedad de Zaphzan. Sin embargo, entendí que eran sus vecinos. Grifos y ponis de muchos intereses que pueden o no entrar en conflicto con los intereses de Gryphia. \n \nLos pony del este se erigen como un baluarte contra la agresión de los grifos. Borad estaría feliz si pudiera enterrar el antiguo hacha , pero incluso él comprende que algunas heridas pueden ser demasiado profundas para curarlas, y que incluso ahora, la fría hostilidad será la norma para el futuro. Las naciones de los parientes también siguen siendo inescrutables. \n \nLa paz podría prevalecer y algún tipo de gramoy se podría establecer una alianza para defenderse del imperialismo, pero si eso falla, Borad sabe que sólo con acero y garras los Grifos mantendrán su libertad en este mundo cambiante ".
+ gryphianhost.148.a:0 "Zaphzia perseverará".
+ gryphianhost.149.t:0 "La ascendencia de Yeven Krawvelets"
+ gryphianhost.149.d:0 "Yeven Krawvelets creía estar por encima de los demás. Esto no era una jactancia tonta, sino un hecho:era el sobrino del difunto Hetman, tenía el apoyo de los terratenientes más ricos y estaba bastante bien ¿Qué pasa si le gusta romper algunos picos para salirse con la suya? Solo un bufón cree que puede vivir la vida con palabras bonitas y garras enfundadas. No, la fuerza, la voluntad y el poder es lo que hace el trabajo. \n \nY así fue como Yeven se acercó a la Rada. Algunos discursos que detallan su gran visión, un par de sobornos y amenazas en los lugares correctos, y no pasó mucho tiempo antes de que se emitiera el voto decisivo. Estuvo un poco demasiado cerca para su gusto, ese maldito idiota de Grifnitsky tenía un don con las palabras, pero las ambiciones de Yeven se lograron, era el nuevo Hetman de la Hueste Gryphian. \n \nOh, tenía planes tan buenos después de esto. Lo celebraría con una porción saludable de kovbasa y vino importado de Arantigan, resolver algunos rencores ahora que tenía las riendas del poder. Pero primero, necesitaba lidiar con Borad y sus lacayos. No estaban muy emocionados con este resultado y prometieron un maldito ajuste de cuentas ".
+ gryphianhost.149.a:0 "" Pronto, será todo mío ... ""
+ gryphianhost.150.t:0 "Disidentes problemáticos"
+ gryphianhost.150.d:0 "Yeven Krawvelets estaba consternado al escuchar que la pequeña rebelión de Borad había despegado tan fácilmente. Sus tontas ideas de armonía y democracia eran un cebo fácil para los desposeídos, quienes deberían haber sabido mejor que rebelarse contra su natural amos. Las protestas pacíficas se convirtieron en huelgas, que rápidamente se convirtieron en disturbios e insurrecciones armadas. \n \nNi siquiera tuvo más remedio que ordenar a los segmentos leales de las fuerzas armadas que pacificaran a todos los que se resistían a su gobierno. Su única petición era exigir una rendición antes disparando. Después de todo, sería malo parecer tan ansioso por derramar sangre, cuando los prisioneros podían ser utilizados de muchas formas productivas. \n \nLa táctica incluso dio sus frutos. Sintiendo que las probabilidades no eran favorables, muchos habían depuesto las armas, y sus líderes fueron capturados o habían escapado a un paradero desconocido. Lástima que Grifnitsky no estuviera entre los que fueron capturados; Yeven habría disfrutado proclamando su sentencia de prisión. A su debido tiempo, tal vez ... "
+ gryphianhost.150.a:0 "Esta rebelión estaba condenada desde el principio".
+ ## gryphianhost.151.t:0 "Gran retórica de Yeven"
+ ## gryphianhost.151.d:0 ""
+ ## gryphianhost.151.a:0 "" ¡Solo yo puedo devolver la gloria a Zaphzia! ""
+ ## gryphianhost.152.t:0 "Asuntos de piedad y fe"
+ ## gryphianhost.152.d:0 ""
+ ## gryphianhost.152.a:0 "Eviliana vela por nosotros".
+ gryphianhost.153.t:0 "La coronación"
+ gryphianhost.153.d:0 "El día finalmente había llegado. Se hizo mucho esfuerzo para realizar el renacimiento del antiguo reino, y [GRY.GetLeader] fue su fuerza impulsora. Las protestas de los nobles fueron irrelevantes - Zaphzia tenía un destino y no iba a permitir que lo detuvieran un grupo de tontos ricos y holgazanes que no querían hacer nada más que contar sus joyas y desfilar con uniformes ceremoniales. No, había encontrado una base de seguidores mucho más poderosa , que ayudaría a ver su visión hacerse realidad. Los campesinos y la creciente población urbana, junto con las crecientes fuerzas armadas que le eran leales, y no sus nobles amos, serían una herramienta útil para alcanzar la grandeza. \n \nY así El humilde evento de coronación en Kaiv se llevó a cabo. No fue extravagante de ninguna manera - Yeven no tenía la intención de presumir de riqueza mientras la gente vivía con poco. La antigua corona de los Reyes Grifos, sin embargo, era un poco demasiado decadente para su gustos, pero tal era la tradicin, ya que estaba plac ed en el cuero cabelludo de Yeven por el Prelado de Eviliana-in-Zaphzia. Los vítores y los elogios comenzaron poco después, seguidos de un gran banquete en el que todos, sin importar cuán importantes o ricos fueran, tuvieron una buena comida. \n \nEste fue solo el primer paso hacia la gloria ".
+ gryphianhost.153.a:0 "¡El antiguo reino se levantará una vez más!"
+ gryphianhost.154.t:0 "Una idea ridícula"
+ gryphianhost.154.d:0 "Recientemente han circulado rumores entre la población general de Kaiv de que [GRY.GetLeader] se proclamaría Rey y restauraría las antiguas propiedades que Gryphia poseyó. La opinión de Yeven sobre el asunto no fue muy entusiasta. Ciertamente, la corona llegó con beneficios y estaba ansioso por ver a Zaphzia restaurada a sus legendarias fronteras, pero sus nobles partidarios no apoyaban esta idea. Y Yeven necesitaba su apoyo, de lo contrario sería reemplazado rápidamente por alguien incompetente. \n \nPor lo tanto, en el En las semanas siguientes, mientras hacía sus apariciones públicas en Kaiv, Yeven se aseguró de repudiar cualquier idea de convertirse en rey. Habló extensamente de que Zaphzia no necesitaba uno, porque sería genial sin depender de viejos recuerdos.aceptó que el statu quo prevalecería para el siguiente tiempo, al menos. "
+ gryphianhost.154.a:0 "Zaphzia no necesita un rey".
+ gryphianhost.155.t:0 "Nuestra legítima tierra"
+ gryphianhost.155.d:0 "Las reformas de [GRY.GetLeader] han tenido un gran comienzo. Finalmente, se había construido una industria real, las forjas de guerra estaban ocupadas produciendo muchas armas de fuego para su creciente ejército y calidad de vida ha aumentado constantemente. Ciertamente, Gryphia no pudo resolver sus problemas de la noche a la mañana, pero estaban en el buen camino para poner las cosas en orden. Con la población satisfecha, Yeven ahora podía continuar con la siguiente fase de su plan. \n \nQue fue una campaña pública a gran escala para difundir su idea de conquista. Los grifos lamieron sus discursos, donde habló con gran fervor de que las naciones vecinas de los grifos no tenían derecho a existir fuera de la influencia de los Grifos, y que proporcionarían los griffonpower y material para su venganza contra los ponis. \n \nLa estratagema de Yeven tuvo éxito. Los pacifistas y objetores conscientes fueron rápidamente barridos por la mayoría sedienta de sangre que quería ver restaurada la gloria de Zaphzia ".
+ gryphianhost.155.a:0 "Nadie puede interponerse en nuestro camino".
+ gryphianhost.156.t:0 "Preocupante traqueteo de sable"
+ gryphianhost.156.d:0 "Nuestros enviados y ciudadanos en el extranjero que residen en [GRY.GetNameDef] han regresado recientemente con inquietantes presagios:[GRY.GetLeader], quien recientemente asumió el poder, seguido de un período de rápida industrialización y armamento militar -up, se está volviendo cada vez más hostil. Se ha observado que habla en público de la necesidad de "unir las antiguas tierras de Zaphzan", que por casualidad incluye a nuestra nación, por la fuerza de las armas si no nos sometemos a su voluntad. No tenemos ningún deseo someternos a este pequeño tirano, y aunque Gryphia no ha representado una amenaza sustancial en los últimos años, los cambios recientes muestran que debemos preocuparnos por la defensa fronteriza ".
+ gryphianhost.156.a:0 "Déjalos venir. Fallarán".
+ gryphianhost.157.t:0 "Toma del poder de los jóvenes socialistas"
+ gryphianhost.157.d:0 "La incursión fallida ha tenido un efecto terrible en Gryphia. Con Hetman Bulba y la mayor parte de la nobleza superior asesinados en el campo, combinado con la falta de fondos esperados de la incursión, la unidad nacional de Zaphzan se ha roto . Los intentos de convocar la Rada no han tenido éxito, y muchos de los terratenientes se involucran en guerras civiles a pequeña escala. \n \nViendo su oportunidad, los siervos oprimidos se han levantado, apoyados por los insurgentes comunistas. La nobleza fue rápidamente pacificada debido a su fuerza se desperdició en luchas internas, y la toma de posesión se ha llevado a cabo a un ritmo rápido. Khurshevich y sus seguidores ya han comenzado a implementar sus reformas, con la gente común vitoreando por finalmente poseer la tierra en la que han estado trabajando durante tanto tiempo ".
+ gryphianhost.157.a:0 "¡Los reaccionarios no pueden detener la revolución!"
+ gryphianhost.158.t:0 "La revolución más allá de nuestras fronteras"
+ gryphianhost.158.d:0 "Con el segundo universal concluido, y la elección de perseguir la expansión territorial como la principal prioridad de la nación, [GRY.GetLeader] continuó enfatizando la importancia de liberar a los trabajadores oprimidos que estaban atrapados en el círculo de La explotación, el feudalismo y la privación de derechos. Cada grifo, dijo Cornilo, merece el derecho a una compensación adecuada por su trabajo y la propiedad de sus herramientas de trabajo, y la Comuna de Kaiv se encargaría de que la bandera roja del socialismo ondeara en lo alto, desde las costas. de Gryphus a las llanuras de Lushi. Todo esto era necesario antes de que pudieran enfrentarse a sus antiguos pony enemigos, que tenían aún menos respeto por los valores del comunismo ".
+ gryphianhost.158.a:0 "¡Trabajadores, levántense!"
+ gryphianhost.159.t:0 "Provocaciones comunistas"
+ gryphianhost.159.d:0 "La revolución y la amarga guerra civil que envolvió a la nación de Brodfeld nos ha hecho preocuparnos de que la amenaza roja vendría pronto para nosotros, y eso podría llegar a nosotros lo suficientemente pronto. Nuestros infiltrados estacionados en [ GRY.GetName] habla de una decisión reciente del Soviet Supremo de Kaivian, que luego se imprimió y difundió en el periódico estatal, de difundir el comunismo a través de sus fronteras, ya sea de manera pacífica o por la fuerza. No podemos permitir que derroquen a nuestros gobernantes legítimos y reemplacen ellos con campesinos sucios, ¡debemos prepararnos para la guerra antes de que sea demasiado tarde! "
+ gryphianhost.159.a:0 "¡Mira nuestras defensas!"
+ gryphianhost.160.t:0 "Juntos en solidaridad"
+ gryphianhost.160.d:0 "Con el segundo universal concluido, y la elección hecha para conformarnos con nuestro socio más grande al oeste en Prywhen, [GRY.GetLeader] ha asegurado a los miembros de línea dura del Partido que la servidumbre no significa que Kaiv no tendría ninguna influencia en la revolución. En cambio, Cornilo habló de su amistad personal con [GRW.GetLeader], y de cómo había hecho posible todo lo que tenemos. La bandera roja eventualmente ondeará sobre las naciones decadentes que nos rodean, pero por ahora nos enfocaremos en fortalecernos en la preparación para tal tarea. Solo necesitamos ser pacientes ".
+ gryphianhost.160.a:0 "[GRW.GetLeader] sabe mejor ".
+ gryphianhost.161.t:0 "[GRY.GetLeader] nos asegura su apoyo"
+ gryphianhost.161.d:0 "Hoy ha llegado un breve aviso de nuestros camaradas en Kaiv:su reciente soviet supremo ha decidido que se conformaría con nosotros en lo que respecta a la política exterior. [GRW.GetLeader] ha expresado su satisfacción por este giro de eventos, ya que su situación era aún inestable y se necesitaba hacer mucho más antes de que el socialismo se extendiera. Esta medida sólo servirá para profundizar la amistad entre los grifos de Prywhen y Gryphia ".
+ gryphianhost.161.a:0 "Verdaderos camaradas, todos y cada uno".
+ gryphianhost.162.t:0 "Un momento de tranquilidad juntos"
+ gryphianhost.162.d:0 "[Root.gryphianhost162desc]"
+ gryphianhost.162.a:0 "A la amistad".
+ gryphianhost.163.t:0 "Nuestro antiguo enemigo"
+ gryphianhost.163.d:0 "" ¡A las armas! ¡A las armas! ¡En defensa de nuestro hogar! "\n \nEstas palabras se corearon en todas las ciudades de Zaphzan. Los grifos han aceptado con entusiasmo este llamado a las armas, porque ningún enemigo era más detestable que los ponis de Jezeragrad. El apoyo de la guerra nunca había sido mayor e incluso los niños y los ancianos se han comprometido con la causa. Los Grifos saben el destino que les espera en caso de que los ponis salgan victoriosos, y juraron seguir luchando hasta el amargo final ".
+ gryphianhost.163.a:0 "Peremoga abo smert!"
+
+ ## danos cosas por favor eventos
+ gryphianhost.240.t:0 "Una solicitud de nuestra marcha fronteriza"
+ gryphianhost.240.d:0 "El administrador del Reichskommissariat Kosakenland nos ha enviado un llamamiento hoy, ofreciendo una cantidad decente de grifos capaces para servir en nuestras fuerzas armadas, a cambio de un alijo de armas de fuego. Citan la necesidad de armar sus personal de mantenimiento de la paz nacional, pero ¿requerimos actualmente ese comercio? "
+ gryphianhost.240.a:0 "Solicitud concedida".
+ gryphianhost.240.b:0 "No podemos prescindir de armas de fuego en este momento".
+ gryphianhost.241.t:0 "Una solicitud de nuestra marcha fronteriza"
+ gryphianhost.241.d:0 "El administrador del Reichskommissariat Kosakenland nos ha enviado un llamamiento hoy, ofreciendo una cantidad considerable de grifos capaces para servir en nuestras fuerzas armadas, a cambio de un alijo de armas de fuego. Citan la necesidad de armar sus personal de mantenimiento de la paz nacional, pero ¿requerimos actualmente ese comercio? "
+ gryphianhost.241.a:0 "Solicitud concedida".
+ gryphianhost.241.b:0 "No podemos prescindir de armas de fuego en este momento".
+ gryphianhost.242.t:0 "Una solicitud de nuestra marcha fronteriza"
+ gryphianhost.242.d:0 "El administrador del Reichskommissariat Kosakenland nos ha enviado un llamamiento hoy, ofreciendo una cantidad extravagante de grifos capaces para servir en nuestras fuerzas armadas, a cambio de un alijo de armas de fuego. Citan la necesidad de armar sus personal de mantenimiento de la paz nacional, pero ¿requerimos actualmente ese comercio? "
+ gryphianhost.242.a:0 "Solicitud concedida".
+ gryphianhost.242.b:0 "No podemos prescindir de armas de fuego en este momento".
+ gryphianhost.243.t:0 "¡Armas de fuego entregadas!"
+ gryphianhost.243.d:0 "El Lord Protector ha entendido nuestra necesidad y está de acuerdo con el comercio. Los camiones que contienen valiosas armas de fuego llegarán en los próximos días".
+ gryphianhost.243.a:0 "Excelente".
+ gryphianhost.244.t:0 "¡Solicitud denegada!"
+ gryphianhost.244.d:0 "Desafortunadamente, el Lord Protector ha rechazado nuestra solicitud. Afirma que actualmente, todas las armas son necesarias para el frente de guerra y no se pueden ahorrar para las marchas fronterizas pacificadas".
+ gryphianhost.244.a:0 "Una lástima".
+ 
+ 
+ gryphianhost.245.t:0 "La marcha fronteriza desea asistencia tecnológica"
+ gryphianhost.245.d:0 "El administrador del Reichskommissariat Kosakenland nos ha enviado un llamamiento hoy, ofreciendo una cantidad decente de grifos capaces para servir en nuestras fuerzas armadas, a cambio de asistencia en la investigación tecnológica. Afirman que para mejorar sirven como una marcha fronteriza, desean mantenerse al día con los tiempos modernos, pero ¿podemos confiar en ellos lo suficiente como para no revelar nuestros secretos científicos? "
+ gryphianhost.245.a:0 "Muy bien, si lo requieren".
+ gryphianhost.245.b:0 "Los preferimos detrás de nosotros en la investigación".
+ gryphianhost.246.t:0 "La marcha fronteriza desea asistencia tecnológica"
+ gryphianhost.246.d:0 "El administrador del Reichskommissariat Kosakenland nos ha enviado un llamamiento hoy, ofreciendo una cantidad considerable de grifones capaces para servir en nuestras fuerzas armadas, a cambio de asistencia en la investigación tecnológica. Afirman que para mejorar sirven como una marcha fronteriza, desean mantenerse al día con los tiempos modernos, pero ¿podemos confiar en ellos lo suficiente como para no revelar nuestros secretos científicos? "
+ gryphianhost.246.a:0 "Muy bien, si lo requieren".
+ gryphianhost.246.b:0 "Los preferimos detrás de nosotros en la investigación".
+ gryphianhost.247.t:0 "La marcha fronteriza desea asistencia tecnológica"
+ gryphianhost.247.d:0 "El administrador del Reichskommissariat Kosakenland nos ha enviado un llamamiento hoy, ofreciendo una cantidad extravagante de grifos capaces para servir en nuestras fuerzas armadas, a cambio de asistencia en la investigación tecnológica. Afirman que para mejorar sirven como una marcha fronteriza, desean mantenerse al día con los tiempos modernos, pero ¿podemos confiar en ellos lo suficiente como para no convertir nuestro secreto científico?¿Qué pasa con nosotros? "
+ gryphianhost.247.a:0 "Muy bien, si lo requieren".
+ gryphianhost.247.b:0 "Los preferimos detrás de nosotros en la investigación".
+ gryphianhost.248.t:0 "¡Llegan los científicos!"
+ gryphianhost.248.d:0 "Según nuestra petición, el Lord Protector nos ha enviado un pequeño grupo de científicos a cambio de poder de grifo. Finalmente, podemos empezar a hacer algunos progresos en esta provincia atrasado".
+ gryphianhost.248.a:0 "Muy bien".
+ gryphianhost.249.t:0 "¡Solicitud rechazada!"
+ gryphianhost.249.d:0 "Lamentablemente, el Lord Protector ha considerado oportuno no aceptar nuestra solicitud. Afirma que todos los científicos son actualmente necesarios para un proyecto ultrasecreto".
+ gryphianhost.249.a:0 "Vergüenza".
+ gryphianhost.250.t:0 "¡Llegan los científicos!"
+ gryphianhost.250.d:0 "Según nuestra solicitud, el Lord Protector nos ha enviado un grupo decente de científicos a cambio de poder de grifo. Finalmente, podemos empezar a hacer algunos progresos en esta provincia atrasado".
+ gryphianhost.250.a:0 "Maravilloso".
+ gryphianhost.251.t:0 "¡Llegan los científicos!"
+ gryphianhost.251.d:0 "Según nuestra solicitud, el Lord Protector nos ha enviado un gran grupo de científicos a cambio de poder de grifo. Finalmente, podemos empezar a hacer algunos progresos en esta provincia de remanso".
+ gryphianhost.251.a:0 "Excelente".
+ 
+ 
+ gryphianhost.252.t:0 "La marcha fronteriza requiere desarrollo industrial"
+ gryphianhost.252.d:0 "El administrador del Reichskommissariat Kosakenland nos ha enviado un llamamiento hoy, ofreciendo una cantidad decente de grifos capaces para servir en nuestras fuerzas armadas, a cambio de ayuda para construir su escasa base industrial. el desarrollo del Reichskommissariat en nuestro interés actual? "
+ gryphianhost.252.a:0 "Esto es aceptable".
+ gryphianhost.252.b:0 "Hay preocupaciones más urgentes".
+ gryphianhost.253.t:0 "La marcha fronteriza requiere desarrollo industrial"
+ gryphianhost.253.d:0 "El administrador del Reichskommissariat Kosakenland nos ha enviado un llamamiento hoy, ofreciendo una cantidad considerable de grifones capaces para servir en nuestras fuerzas armadas, a cambio de ayuda para construir su escasa base industrial. el desarrollo del Reichskommissariat en nuestro interés actual? "
+ gryphianhost.253.a:0 "Esto es aceptable".
+ gryphianhost.253.b:0 "Hay preocupaciones más urgentes".
+ gryphianhost.254.t:0 "La marcha fronteriza requiere desarrollo industrial"
+ gryphianhost.254.d:0 "El administrador del Reichskommissariat Kosakenland nos ha enviado un llamamiento hoy, ofreciendo una cantidad extravagante de grifones capaces para servir en nuestras fuerzas armadas, a cambio de ayuda para construir su escasa base industrial. Sin embargo, es el desarrollo del Reichskommissariat en nuestro interés actual? "
+ gryphianhost.254.a:0 "Esto es aceptable".
+ gryphianhost.254.b:0 "Hay preocupaciones más urgentes".
+ gryphianhost.255.t:0 "¡Soporte industrial recibido!"
+ gryphianhost.255.d:0 "Hoy han llegado noticias positivas, ya que el Lord Protector ha considerado oportuno invertir en el desarrollo de nuestra provincia. Como tal, las tierras de Gryphia se industrializarán mucho más rápido que si estuviéramos solos. "
+ gryphianhost.255.a:0 "Muy bien".
+ gryphianhost.256.t:0 "¡Solicitud rechazada!"
+ gryphianhost.256.d:0 "Para nuestra consternación, el Lord Protector se ha negado a desviar parte de la industria del Imperio hacia nuestra provincia. Afirma que, por el momento, todas las fábricas son necesarias para el esfuerzo de guerra y que deberíamos desarrollarnos en nuestra propia."
+ gryphianhost.256.a:0 "Quizás la próxima vez".
+ gryphianhost.257.t:0 "¡Soporte industrial recibido!"
+ gryphianhost.257.d:0 "Hoy han llegado noticias positivas, ya que el Lord Protector ha considerado oportuno invertir ampliamente en el desarrollo de nuestra provincia. Como tal, las tierras de Gryphia se industrializarán a un ritmo moderadamente rápido".
+ gryphianhost.257.a:0 "Excelente".
+ gryphianhost.258.t:0 "¡Soporte industrial recibido!"
+ gryphianhost.258.d:0 "Hoy han llegado noticias positivas, ya que el Lord Protector ha considerado oportuno invertir fuertemente en el desarrollo de nuestra provincia. Como tal, las tierras de Gryphia se industrializarán a un ritmo asombroso".
+ gryphianhost.258.a:0 "Estamos muy agradecidos".
+
+ ## ideas ###
+ GRY_advisor1:0 "Symon Preenliura"
+ GRY_advisor2:0 "Mykhailo Thrushkevsky"
+ GRY_advisor3:0 "Anatoli Kreenakh"
+ GRY_advisor4:0 "Zapzoboronprom"
+ GRY_navy_concern:0 "Kozna Rymbal"
+ GRY_air_concern:0 "Antoninov Aerotech"
+ GRY_air_man_1:0 "Aropragt"
+ GRY_air_man_2:0 "Aviones Enatro"
+ GRY_air_man_3:0 "Sikorbeak Aeronautics"
+ GRY_navy_man_1:0 "Envío de Zapzopol"
+ GRY_navy_man_2:0 "Construcción naval de Okan"
+ GRY_theorist1:0 "Oleg Antoninov"
+ GRY_theorist2:0 "Vladimir Stalskaw"
+ GRY_theorist3:0 "Sergei Klawrolev"
+ GRY_tank_1:0 "Planta de máquinas Mollyshev"
+ GRY_tank_2:0 "Zapzoboronprom"
+ GRY_fac1:0 "Kaiv Arsenal"
+ GRY_fac2:0 "Fuerte RBZ"
+ GRY_fac3:0 "ZrAZ"
+ GRY_indy:0 "MatynVest"
+ GRY_synthy:0 "Vorobeyko Naftogazprom"
+ GRY_leccy:0 "Electrónica ZAE"
+ GRY_air_dude1:0 "Rurik Tarascreechov"
+ GRY_air_dude2:0 "Nadiya Screechenko"
+ GRY_air_dude3:0 "Boris Tatyarokov"
+ GRY_naval_dude1:0 "Mikhail Shiblin"
+ GRY_naval_dude2:0 "Boris Kozbeak "
+ GRY_armyChief2:0 "Oleksander Uklawichenko"
+ GRY_armyChief3:0 "Shimon Protko"
+ GRY_milAdv2:0 "Mikol Shrapnelval"
+ GRY_milAdv3:0 "Konstantin Movalotov"
+ GRY_milAdv4:0 "Vasyl Chupchukak"
+ GRY_workhorse:0 "Roman Sikorwing"
+ GRY_propagandaMaster:0 "Pyotr 'Sakharov' Greywing"
+ GRY_milAdv1:0 "Anton Nevsbeak"
+ GRY_armyChief1:0 "Boris 'Vladimirovich' Kestral"
+ GRY_polishGenius:0 "Mateusz Nobeak"
+ 
+ GRY_the_bunker_jumpers:0 "Los saltadores del búnker"
+ GRY_the_bunker_jumpers_desc:0 "Los Bunker-Jumpers son un cuerpo especial de grifos especialmente entrenados para avanzar rápidamente, atrincherarse, frenar los asaltos del enemigo y luego avanzar de nuevo."
+ GRY_conscription_law:0 "Reclutas patrióticos"
+ GRY_conscription_law_desc:0 "¡Gryphia te necesita!"
+ GRY_kaboom:0 "Líneas de suministro de artillería"
+ GRY_kaboom_desc:0 "Dado que el valor de la artillería es evidente, el ejército de Gryphian ha promulgado reformas para garantizar que todas las divisiones tengan un apoyo de artillería considerable, con amplias líneas de suministro para que siempre haya suficientes proyectiles".
+ GRY_anti_communism:0 "Cruzada anticomunista"
+ GRY_rebuilding:0 "Amplios esfuerzos de construcción"
+ GRY_RIV_defense_idea:0 "Entrenamiento de defensa coordinado"
+ GRY_trade_research:0 "Vínculos comerciales sustanciales"
+ GRY_investment:0 "Inversión imperial"
+ GRY_landed_gentry:0 "Landed Gentry"
+ GRY_landed_gentry_desc:0 "La mayor parte de la tierra agrícola en Gryphia está en manos de poderosos barones y líderes tribales, que emplean a numerosos siervos para trabajar la tierra. Las obligaciones feudales requieren que estos siervos sirvan un número determinado de días en las fuerzas armadas cada año, lo que refuerza la estructura. La vida en Gryphia no ha cambiado en los últimos siglos, dando a la gente una sensación de estabilidad. Sin embargo, esto hace que la modernización sea bastante difícil y las áreas urbanas adecuadas están creciendo muy lentamente ".
+ GRY_nobles_love_us:0 "Soporte completo para los nobles"
+ GRY_cossacks:0 "Cossack Military"
+ GRY_cossacks_desc:0 "Los temibles cosacos de la Hueste son famosos por su velocidad y gran número. Sus incursiones son una plaga para las aldeas y pequeñas ciudades de ponis vecinos."
+ GRY_fiercer_raids:0 "Ejército cosaco"
+ GRY_cossacks_2:0 "Militar cosaco"
+ GRY_cossacks_2_desc:0 "Los temibles cosacos de la Hueste son famosos por su velocidad y gran número. Sus incursiones son una plaga para las aldeas y pueblos pequeños de los ponis vecinos."
+ GRY_cossacks_3:0 "Militar cosaco"
+ GRY_cossacks_3_desc:0 "Los temibles cosacos de la Hueste son famosos por su velocidad y gran número. Sus incursiones son una plaga para las aldeas y pueblos pequeños de los ponis vecinos."
+ GRY_cossacks_harmony:0 "Militar cosaco"
+ GRY_cossacks_harmony_desc:0 "El carisma de Borad Grifnitsky ha unido a clanes previamente divididos, fortaleciendo nuestras fuerzas y acabando con viejos rencores".
+ GRY_harmonic_land_reform_1_nobility_angry:0 "Kulaks Challenge Noble Authority"
+ GRY_harmonic_land_reform_1_nobility_placated:0 "Leyes justas de tenencia de tierras"
+ GRY_harmonic_land_reform_2_nobility_angry:0 "Nobles privados de sus derechos"
+ GRY_harmonic_land_reform_2_nobility_placated:0 "Nobles y kulaks en paz"
+ GRY_populist_land_reform:0 "Tierra redistribuida a los campesinos"
+ GRY_elitist_land_reform:0 "Privilegios ancestrales mantenidos"
+ GRY_legacy_of_rus:0 "Legado del Principado"
+ GRY_protected_elites:0 "Ejército de la nobleza"
+ GRY_protected_elites_2:0 "Ejército de la nobleza"
+ GRY_protected_elites_3:0 "Ejército de la nobleza"
+ GRY_modernisation_woes:0 "Problemas de modernización"
+ GRY_independent_tribes:0 "Tribus independientes"
+ GRY_independent_tribes_desc:0 "Las diversas tribus que componen nuestra nación están desorganizadas y, a menudo, se pelean entre sí. Esto debilita nuestro control sobre nuestro país y obstaculiza nuestros intentos de reformar o hacer la guerra".
+ GRY_punished_disloyal_tribes:0 "Tribus desleales castigadas"
+ GRY_rewarded_loyal_tribes:0 "Tribus leales recompensadas"
+ GRY_local_representation:0 "Representación local"
+ GRY_clans_accept_us:0 "Apoyo mayoritario al clan"
+ GRY_clans_accept_us_desc:0 "La mayoría de los clanes principales nos apoyan. Sin embargo, las minorías todavía se sienten preocupadas por la privación de sus derechos políticos".
+ GRY_united_clans:0 "Los clanes unidos"
+ GRY_united_clans_desc:0 "Hemos unido por completo a todos los clanes de nuestra nación, tanto mayoritarios como minoritarios".
+ GRY_raided:0 "Incursión de la hueste de Gryphian"
+ GRY_raided_desc:0 "¡Viciosos asaltantes cosacos nos están saqueando!"
+ GRY_consumer_bonus:0 "Botín y saqueo"
+ GRY_research_bonus:0 "Rifle Excedente"
+ GRY_research_bonus_desc:0 "Con un suministro excesivo de rifles, hemos aprendido algunos trucos sobre la mejor manera de hacer más".
+ GRY_centralisation_struggles:0 "Peleas dentro de la Rada"
+ GRY_centralisation_king_1:0 "El rey comienza a consolidar el poder"
+ GRY_centralisation_king_2:0 "El rey está ampliamente reconocido"
+ GRY_centralisation_king_3:0 "Rey de los Zaphzans"
+ GRY_centralisation_republic_1:0 "La República comienza a estabilizarse"
+ GRY_centralisation_republic_2:0 "La República se está estabilizando"
+ GRY_centralisation_republic_3:0 "La República prospera"
+ GRY_centralisation_hetman_1:0 "El Hetman busca apoyo para su reinado"
+ GRY_centralisation_hetman_2:0 "El Hetman solidifica su poderr "
+ GRY_agrarianism:0 "Enfoque agrario"
+ GRY_agrarianism_desc:0 "Hemos optado por seguir utilizando nuestras fortalezas existentes y modernizar nuestro sector agrícola. La industria adecuada se desarrollará más lentamente, pero con un excedente de alimentos, podemos estar seguros de que habrá muchos picos nuevos para impulsar a nuestra nación a futuro."
+ GRY_agrarianism_2:0 "Enfoque agrario"
+ GRY_agrarianism_2_desc:0 "Hemos optado por seguir utilizando nuestras fortalezas existentes y modernizar nuestro sector agrícola. La industria adecuada se desarrollará más lentamente, pero con un excedente de alimentos, podemos estar seguros de que habrá muchos picos nuevos para impulsar a nuestra nación a futuro."
+ GRY_industralism:0 "Enfoque industrial"
+ GRY_industralism_desc:0 "Gryphia no puede permitirse quedarse atrapada en el pasado, todavía arando sus vastos campos; debemos modernizarnos a cualquier costo y esfuerzo. Solo así podremos tener un futuro como una nación fuerte e independiente".
+ GRY_industralism_2:0 "Enfoque industrial"
+ GRY_industralism_2_desc:0 "Gryphia no puede permitirse quedarse estancada en el pasado, todavía arando sus vastos campos; debemos modernizarnos a cualquier costo y esfuerzo. Solo así podremos tener un futuro como una nación fuerte e independiente".
+ GRY_industralism_3:0 "Enfoque industrial"
+ GRY_industralism_3_desc:0 "Gryphia no puede permitirse quedarse atrapada en el pasado, todavía arando sus vastos campos; debemos modernizarnos a cualquier costo y esfuerzo. Solo así podremos tener un futuro como una nación fuerte e independiente".
+ GRY_efficiency:0 "Producción optimizada"
+ GRY_communist_rebels:0 "Rebeldes comunistas"
+ GRY_communist_rebels_desc:0 "El GSDLR, radicalizado y apoyado por los revolucionarios en Prywhen, está llevando a cabo una campaña de bombardeos y terrorismo en todo el campo".
+ GRY_communist_rebels_2:0 "GSDLR integrado"
+ GRY_communist_rebels_2_desc:0 "Cornilo Khurshevich y su Milicia Popular han sido invitados a nuestro gobierno, y ahora nos apoyan en lugar de dispararnos".
+ GRY_comm_tribes_1:0 "Algunas tribus nos escuchan"
+ GRY_comm_tribes_2:0 "El comunismo gana terreno entre las tribus"
+ GRY_comm_tribes_3:0 "Zaphzan Solidarity"
+ GRY_defend_the_homeland:0 "Defiende la Patria"
+ GRY_defend_the_homeland_2:0 "Defiende la Patria"
+ GRY_gryphia_lives_and_marches_on:0 "Gryphia vive y sigue su marcha"
+ GRY_all_united:0 "Zaphzans United"
+ GRY_otaman_support:0 "Los Kosh Otamans nos apoyan"
+ GRY_pokozachennya_idea:0 "Pokozachennya"
+ GRY_pokozachennya_idea_desc:0 "Grifos de todas las clases y condiciones sociales buscan una vida mejor como cosacos, aumentando nuestras fuerzas armadas".
+ GRY_great_hetman:0 "Hetman de Hetmans"
+ GRY_comm_influence:0 "Influencia de Cornilo"
+ GRY_comm_land_reform_1:0 "Tierra incautada a los nobles"
+ GRY_comm_land_reform_1_desc:0 "Hemos redistribuido la tierra de los Nobles a la gente. Los campesinos están contentos, pero los antiguos nobles están absolutamente furiosos. §R ¡Podríamos enfrentarnos a una contrarrevolución pronto§ !, a menos que podamos §Romper el poder de los propietarios. .§! "
+ GRY_comm_land_reform_2:0 "El marchitamiento de la nobleza"
+ GRY_comm_land_reform_2_desc:0 "Con la aristocracia aplastada, la paz y la prosperidad pueden finalmente regresar a los campesinos y trabajadores de Gryphia".
+ GRY_communist_army:0 "Un verdadero ejército comunista"
+ GRY_socialist_future_idea:0 "Un futuro socialista"
+ GRY_the_ancient_enemy:0 "El enemigo antiguo"
+ GRY_the_ancient_enemy_desc:0 "¡No hay cuartel para los ponis de Jezeragrad! Luchamos hasta el final".
+ GRY_exploitation:0 "Explotación de recursos"
+ GRY_exploitation_desc:0 "La nueva administración se preocupa por sacar el máximo partido posible de la tierra, sin tener en cuenta la sostenibilidad a largo plazo o dar a los Zaphzans una parte justa del pastel".
+ GRY_even_more_conscription:0 "Edad de contratación más baja"
+ GRY_even_more_conscription_desc:0 "Para satisfacer las demandas de nuestro señor supremo, Gryphia ha reducido drásticamente los estándares requeridos para reclutar nuevos soldados".
+ GRY_we_made_it_idea:0 "Una nación una vez más"
+ GRY_we_made_it_idea_desc:0 "La nueva administración ha consolidado su dominio sobre las antiguas tierras de los Grifos, con una mínima alteración de la existencia de la población nativa".
+ GRY_industry_boost_10K:0 "Asistencia industrial menor"
+ GRY_industry_boost_25K:0 "Asistencia industrial moderada"
+ GRY_industry_boost_50K:0 "Asistencia industrial significativa"
+ GRY_research_boost_10K:0 "Asistencia de investigación menor"
+ GRY_research_boost_25K:0 "Asistencia de investigación moderada"
+ GRY_research_boost_50K:0 "Ayuda significativa para la investigación"
+ 
+ ### Decisiones ###
+ GRY_10k_weapons_for_manpower:0 "Oferta 10,000 soldados"
+ GRY_25k_weapons_for_manpower:0 "Oferta 25.000 soldados"
+ GRY_50k_weapons_for_manpower:0 "Oferta 50.000 soldados"
+ GRY_10k_tech_for_manpower:0 "Oferta 10,000 soldados"
+ GRY_25k_tech_for_manpower:0 "Oferta 25.000 soldados"
+ GRY_50k_tech_for_manpower:0 "Oferta 50.000 soldados"
+ GRY_10k_industry_for_manpower:0 "Oferta 10,000 soldados"
+ GRY_25k_industry_for_manpower:0 "Oferta 25.000 soldados"
+ GRY_50k_industry_for_manpower:0 "Oferta 50.000 soldados"
+ GRY_gun_exchange_program:0 "Comercio de soldados por armas"
+ GRY_tech_exchange_program:0 "Comercio de soldados por tecnología"
+ GRY_industry_exchange_program:0 "Soldados comerciales para la industria"
+ GRY_gun_exchange_program_desc:0 "Necesitamos más armas, y nuestro señor supremo necesita más soldados. Deberíamos ofrecer aumentar nuestro impuesto al estado a cambio de más armas de fuego. Cuidado, solo puede tomar estas decisiones §Y una vez cada seis meses, y la elección de si aceptar o no, depende enteramente de nuestro señor supremo. §! "
+ GRY_tech_exchange_program_desc:0 "Estamos tecnológicamente atrasados, y nuestro señor supremo necesita más soldados. Deberíamos ofrecer aumentar nuestro impuesto al estado a cambio de más tecnología. Cuidado, solo puedes tomar estas decisiones §Y una vez cada seis meses, y el la elección de aceptar o no depende totalmente de nuestro señor supremo. §! "
+ GRY_industry_exchange_program_desc:0 "Necesitamos más fábricas, y nuestro señor supremo necesita más soldados. Deberíamos ofrecer aumentar nuestro impuesto al estado a cambio de más industria. Cuidado, solo puede tomar estas decisiones §Y una vez cada seis meses, y la elección de si aceptar o no, depende enteramente de nuestro señor supremo. §! "
+ GRY_modernise_decisions:0 "Hacer frente a la modernidad"
+ GRY_modernisation_decisions:0 "Adaptarse al mundo moderno"
+ GRY_free_prywhen_category:0 "El destino de Prywhen"
+ GRY_release_the_GLA:0 "Revive el Ejército de Liberación del Grifo"
+ GRY_release_the_GLA_desc:0 "Ahora que hemos liberado a Prywhen del imperialismo, sería bueno devolver al GLA al poder. Los camaradas de la revolución deben unirse en solidaridad".
+ GRY_release_brodfeld:0 "Restaurar la corona de Brodfeld"
+ GRY_release_brodfeld_desc:0 "Con Brodfeld bajo nuestro control, ha surgido la cuestión de si debemos restaurar o no el Reino de Brodfeld. Podríamos simplemente conservar la tierra, pero no tenemos ningún derecho legítimo sobre ella, así que tener un gobierno títere para nosotros podría ser más beneficioso ".
+ GRY_raid_wittenland:0 "Saqueo de los ponis del río"
+ GRY_raid_norbeak:0 "Incursión Norbeak"
+ GRY_raid_fyrd:0 "Asalto a Mountain Fyrds"
+ GRY_raid_darnish:0 "Incursión en las Tierras Altas de Darnish"
+ GRY_raid_queenslayer:0 "Incursión en Blessedzemija"
+ GRY_raid_road:0 "Incursión en Shayrmia"
+ 
+ ### Información sobre herramientas ###
+ GRY_will_unlock:0 "§¡Se desbloqueará una nueva rama de enfoque nacional.§!"
+ GRY_enrico_soft:0 "Enrico Chivaldori se ha vuelto suave con los comunistas"
+ GRY_will_boost_army:0 "¡§C¡Tu ejército se volverá más poderoso! §!"
+ GRY_govt_will_stabilise:0 "§C ¡El gobierno se estabilizará.§!"
+ GRY_begging_cooldown:0 "¡Recientemente hemos hecho esta petición§! De nuestro señor supremo".
+ GRY_begging_cooldown_tech:0 "¡Recientemente hemos hecho esta petición§! De nuestro señor supremo".
+ GRY_begging_cooldown_ind:0 "¡Recientemente hemos hecho esta petición§! De nuestro señor supremo".
+ GRY_spawn_divs_protectorate:0 "§Y Generará un ejército adicional, extraído de nuestro señor supremo.§!"
+ GRY_modernise_society:0 "Modernizar la sociedad"
+ GRY_modernise_society_desc:0 "El resto del mundo se ha adelantado en términos de desarrollo social y tecnológico, dejándonos muy atrás. ¡Tendremos que trabajar duro si queremos tener la oportunidad de ponernos al día! Debemos importar tantos asesores y tanta tecnología como podamos, a fin de acelerar el proceso de modernización ".
+ GRY_will_give_mil_bonus:0 "¡Esto otorgará §Y bonificaciones adicionales de atrincheramiento y planificación§ !, más §Y población reclutable§ !, o una §Yreducción en el costo de artillería§ !, dependiendo de la §Y ruta militar§! Que hayas elegido."
+ has_no_illiteracy:0 "¡No tiene espíritu nacional §YMass Analfabetismo§!"
+ GRY_adjected_to_GRW:0 "Nosotros, uno de nuestros títeres o uno de los miembros de nuestra facción tiene un límite con Prywhen"
+ GRY_adjected_to_LCT:0 "Nosotros, uno de nuestros títeres o uno de los miembros de nuestra facción tenemos una frontera con Lake City"
+ GRY_adjected_to_WNG:0 "Nosotros, uno de nuestros títeres o uno de los miembros de nuestra facción tenemos un límite con Wingbardy"
+ GRY_economic_bonus_tooltip:0 "§YEsto mejorará el espíritu nacional que recibiste al elegir tu Ruta Industrial.§!"
+ GRY_BULBA_DESC:0 "Calas Bulba es un viejo grifo sabio y sabio, y ha gobernado a los Grifos durante más de cuarenta años. Casi todos lo tienen en alta estima, tanto por sus sabios consejos como por su sorprendente juventud y energía, considerando su edad. A pesar de que sus médicos le dijeron que debería dejar de dirigir Raids en persona como lo hizo en su juventud, se niega a escuchar, porque como dice "Preferiría morir antes que vivir el resto de mis años en mi cama".
+ GRY_YEVEN_DESC:0 "A pesar de ser nieto de la hermana del viejo Hetman Bulba, Yeven Krawvelets es una especie de espejo oscuro del viejo pájaro. Mientras que Bulba era directo y honesto, Yeven es ruidoso y aficionado al abuso verbal. Donde Bulba era valiente, Yeven es violento. Sin embargo, una cosa que tiene es ambición, y mucha ambición. Sueña con devolver al pueblo de Zaphzan a la antigua grandeza y está dispuesto a usar la fuerza para lograr su sueño de una "Gran Zaphzia" ".
+ GRY_CORNBOI_DESC:0 "Cornilo Khurshevich era un confidente de Redglad y era uno de sus antiguos compañeros de bebida antes de que estallara la Revolución en Prywhen. Poco antes de esto, Cornilo dejó Prywhen para liderar la resistencia en su propio país.está en el poder, sin duda buscará a su viejo amigo y se alineará con él. Él favorece una política de solidaridad con Prywhen y el cuidado de la clase agrícola vulnerable como el camino a seguir para Zaphzia ".
+ GRY_BORAD_DESC:0 "Borad Grifnitsky es un cosaco atípico; aunque valiente en la batalla, no le gusta la violencia y prefiere encontrar soluciones pacíficas a largo plazo para problemas graves siempre que sea posible. En la sociedad cosaca belicosa esto debería haberlo aislado y condenado al ostracismo. No obstante, una combinación de valor en el campo de batalla, una personalidad amistosa y una oratoria excepcional le ha atraído seguidores. Al ver el mal estado de los zapzhan, desea reformar el ejército en una república democrática y asegurar diplomáticamente a su pueblo contra las represalias de los zapzhanos. Los comunistas y los ponis del río ".
+ GRY_raiding_GLA_tooltip:0 "¡Si tiene éxito, obtendrá §Yguns.§!"
+ GRY_raiding_brodfeld_tooltip:0 "Si tiene éxito, obtendrá §Y bienes de consumo.§!"
+ GRY_raid_succeeded:0 "¡La redada fue exitosa!"
+ GRY_raid_failed:0 "La redada falló".
+ GRY_purged_reactionaries:0 "Los generales reaccionarios fueron purgados"
+ GRY_integrated_reactionaries:0 "Los generales reaccionarios fueron rehabilitados"
+ GRY_militia_rising:0 "¡§YMilita leal§! ¡Se formarán unidades§!"
+ GRY_will_pacify_nobles:0 "§YLos nobles se apaciguarán, reduciendo su enojo por nuestras reformas agrarias.§! \n"
+ GRY_will_push_through_reform:0 "§Y Ampliaremos el alcance de la reforma agraria, asegurando un acceso pleno y justo a la tierra para todos.§! \n"
+ GRY_will_add_civvies:0 "§YEste enfoque agregará una serie de fábricas civiles dependiendo de la actitud que tomaste hacia la industrialización.§! \n"
+ GRY_will_add_mils:0 "§YEste enfoque agregará una serie de fábricas militares dependiendo de la actitud que tomaste hacia la industrialización.§! \n"
+ vereskopadsky_desc:0 "Vereskopadsky, el socio más cercano de Hetman Bulba, está decidido a salvar a su país de los brutales matones comunistas que mataron a su maestro y figura paterna".
+ GRY_risk_of_neutral_civil_war:0 "¡Si no terminamos el proceso de reforma agraria lo suficientemente rápido, podemos sufrir una §RCounter-Revolution§! \n \n"
+ GRY_defend_liberty_tooltip:0 "\nSi ya tienes el §YDefend the Homeland§! National Spirit, este enfoque duplicará su fuerza".
+ GRY_has_imperial_patronage:0 "El Emperador nos ha dado su patrocinio"
+ GRY_integrate_tribes_decisions:0 "Integrando las tribus"
+ GRY_integrate_tribes:0 "Conquistar a las tribus"
+ GRY_integrate_tribes_desc:0 "Para que nuestra Revolución tenga éxito, debemos curar las insensatas divisiones culturales y étnicas que nos debilitan. ¡En el nuevo paraíso socialista, todos los grifos serán hermanos!"
+ GRY_remove_tribes_decisions:0 "Desbloquea decisiones que te permiten integrar gradualmente las tribus de Zaphzia"
+ GRY_waiting_for_response:0 "Estamos esperando una respuesta"
+ GRY_restore_prywhen:0 "§YGanará objetivos de guerra contra quien haya aplastado la Revolución en Prywhen".
+ GRY_unlocks_diplomacy:0 "Esto desbloqueará decisiones que te permitirán aliarte con varios países armónicos en Griffonia".
+ GRY_diplomacy_decisions:0 "Nuevos esfuerzos diplomáticos"
+ GRY_ally_RIV:0 "Ponte en contacto con los ponis del río"
+ GRY_ally_RIV_desc:0 "Ahora que hemos reformado nuestra nación, debemos buscar amigos en otra parte. Los Riverponies son una gran coalición de naciones en su mayoría armónicas que está cerca de nosotros, y nos ofrecerían protección y ayuda sustanciales, si no fuera por el siglos de odio acumulado de nuestra historia de asaltarlos violentamente. Sin embargo, es posible que el nuevo liderazgo de River Coalition piense de manera diferente, pero Lake City, a menos que sea dirigido por el candidato más moderado y armónico posible, es casi seguro para bloquear nuestra entrada ".
+ GRY_ally_WNG:0 "Únete al pacto karthiniano"
+ GRY_ally_WNG_desc:0 "Si bien rara vez hemos tenido mucho contacto con los Grifos del Sur, es innegable que serían aliados útiles. Son relativamente cercanos a nosotros, son ideológicamente compatibles y son lo suficientemente poderosos como para resistir la mayoría de los poderes en este continente. Debemos apelar a su Rey, pidiéndole que nos proteja ".
+ GRY_ally_JER:0 "Aliado con la República de Aquilea"
+ GRY_ally_JER_desc:0 "Aquilea es una tierra lejana con la que tenemos poco contacto, pero recientemente se han convertido en una República, y serían amigos poderosos si pudiéramos convencerlos de que se unan a nosotros".
+ GRY_ally_FAT:0 "Únete a la República Pan-Griffon"
+ GRY_ally_FAT_desc:0 "La República de Griffonian ha sido la forma legítima y republicana de gobierno de Griffonia durante décadas. Como República, solo nos beneficiaría unirnos formalmente a ellos".
+ GRY_RCT_accepted:0 "Nos hemos unido a la River Coalition"
+ GRY_WNG_accepted:0 "Nos hemos unido a la alianza de Wingbardy"
+ GRY_JER_accepted:0 "Hemos hecho causa común con la República de Aquilea"
+ GRY_FAT_accepted:0 "Nos hemos convertido en parte de la República Pan-Griffonian"
+ accept_our_enemies_into_fed:0 "Dejemos que nuestros enemigos entren en la coalición"
+ accept_us:0 "Nos perdonó nuestras acciones pasadas"
+ GRY_crown_hetman:0 "[Root.GetLeader] será coronado como Rey de los Zaphzans"
+ GRY_dictatorship:0 "[Root.GetLeader] conservará el título de Hetman, en honor a nuestras antiguas tradiciones"
+ GRY_fascist_king:0 "El Hetman ha asumido los honores reales"
+ GRY_fascist_dictator:0 "El Hetman ha rechazado los honores reales"
+ GRY_own_foreign_policy:0 "Seguiremos nuestra propia política exterior"
+ GRY_go_with_prywhen:0 "Dejaremos que más países comunistas de alto rango dirijan nuestra política exterior"
+ GRY_must_stabilise:0 "§YDebemos tener un gobierno estable§!"
+ GRY_ALLIANCE:0 "Alianza Evyan"
+ ### Texto dinámico ###
+ GRY_brod_raid_title:0 "Saqueo de los realistas"
+ GRY_brod_raid_desc:0 "Aprovechando el caos causado por la guerra civil, Hetman Bulba ha decidido enviar grupos de asalto a Brodfeld, para apoderarse del botín y el saqueo para el Anfitrión. Nuestros asaltantes se han cuidado de evitar áreas que se sabe están controladas por los grifones El Ejército de Liberación, ya que está bien armado y desesperado, posee pocas cosas que valga la pena tomar. Ahora solo necesitamos esperar noticias de nuestros grupos de asalto ... "
+ GRY_GRW_raid_title:0 "Devastando a los radicales"
+ GRY_GRW_raid_desc:0 "Aprovechando el caos causado por la guerra civil, Hetman Bulba ha decidido enviar partidas de asalto a Brodfeld, para apoderarse del botín y el saqueo para la Hueste. Nuestros asaltantes han recibido instrucciones de centrarse en atacar al Ejército de Liberación de Griffon, para apoderarse de sus armas y perjudicar sus posibilidades de difundir más su ideología venenosa. Ahora solo tenemos que esperar noticias de nuestros grupos de asalto ... "
+ GRY_105_wb_elected:0 "[Root.GetLeader] ha recibido hoy noticias increíbles, tanto que inicialmente se asumió que era una broma. Sin embargo, ahora estamos bastante seguros de que, sí, el Anfitrión de Gryphian realmente desea unirse a nuestra alianza. Afirman haber reformado sus costumbres, creando una sociedad armónica y pacífica, y haber renunciado a las incursiones. No hace falta decir que a la mayoría de los ponis les ha costado creer esto. Ciertos ponis, como el Wavebreaker de Lake City, han estado instando a que al menos vale la pena intentarlo, mientras que muchos todavía sienten que no son sinceros. A pesar de las quejas oficiales de Wittenland y Lake City, sus líderes nos han asegurado que seguirán nuestro ejemplo si realmente queremos aceptar ".
+ GRY_105_wb_not_elected:0 "[Root.GetLeader] ha recibido hoy noticias increíbles, tanto que inicialmente se asumió que era una broma. Sin embargo, ahora estamos bastante seguros de que, sí, el Anfitrión de Gryphian realmente desea unirse a nuestra alianza. Afirman haber reformado sus costumbres, creando una sociedad armónica y pacífica, y haber renunciado a las incursiones. No hace falta decir que a la mayoría de los ponis les ha costado creer esto. Wittenland y Lake City en particular están furiosos, y sus líderes han hecho está claro en términos inequívocos que cortarán sus lazos con nosotros si nos atrevemos a hacer algo tan atroz como permitir que sus antiguos enemigos entren en la Coalición ".
+ GRY_LCT_WIT_both_ok:0 "[Root.GetLeader] ha recibido hoy noticias increíbles, tanto que inicialmente se asumió que era una broma. Sin embargo, ahora estamos bastante seguros de que, sí, el Anfitrión de Gryphian realmente desea unirse a nuestra alianza. Afirman haber reformado sus costumbres, creando una sociedad armónica y pacífica, y haber renunciado a las incursiones. No hace falta decir que a la mayoría de los ponis les ha costado creer esto. Sin embargo, algunos ponis han insistido en que al menos vale la pena. intentando, mientras que muchos todavía sienten que no son sinceros. Lake City y Wittenland han protestado oficialmente, y tanto Wavebreaker como Queen White Star han exigido una compensación monetaria, pero, lo que es más importante, ninguno de ellos ha descartado categóricamente la posibilidad de permitir la idea ".
+ GRY_LCT_ok_WIT_no:0 "[Root.GetLeader] ha recibido hoy noticias increíbles, tanto que inicialmente se asumió que era una broma. Sin embargo, ahora estamos bastante seguros de que, sí, el Anfitrión de Gryphian realmente desea unirse a nuestra alianza. Afirman haber reformado sus costumbres, creando una sociedad armónica y pacífica, y haber renunciado a las incursiones. No hace falta decir que a la mayoría de los ponis les ha costado creer esto. Sin embargo, algunos ponis han insistido en que al menos vale la pena. intentando, mientras que muchos todavía sienten que no son sinceros. Honoria de Wittenland está furiosa y amenaza con abandonar la alianza por completo si se produce una medida tan atroz. El alcalde Wavebreaker, sin embargo, es menos vehemente y se niega a descartar la idea. aunque exige una fuerte remuneración por los crímenes que el anfitrión ha cometido contra L a lo largo de los años ".
+ GRY_LCT_no_WIT_ok:0 "[Root.GetLeader] ha recibido hoy noticias increíbles, tanto que inicialmente se asumió que era una broma. Sin embargo, ahora estamos bastante seguros de que, sí, el Anfitrión de Gryphian realmente desea unirse a nuestra alianza. Afirman haber reformado sus costumbres, creando una sociedad armónica y pacífica, y haber renunciado a las incursiones. No hace falta decir que a la mayoría de los ponis les ha costado creer esto. Sin embargo, algunos ponis han insistido en que al menos vale la pena. intentando, mientras que muchos todavía sienten que no son sinceros. Lake City está furioso y amenaza con dejar elalianza por completo si se produce un movimiento tan escandaloso. La Reina White Star, sin embargo, es menos vehemente y se niega a descartar la idea, aunque exige una fuerte remuneración por los crímenes que el Anfitrión ha cometido contra Wittenland a lo largo de los años ".
+ GRY_LCT_WIT_both_no:0 "[Root.GetLeader] ha recibido hoy noticias increíbles, tanto que inicialmente se asumió que era una broma. Sin embargo, ahora estamos bastante seguros de que, sí, el Anfitrión de Gryphian realmente desea unirse a nuestra alianza. Afirman haber reformado sus costumbres, creando una sociedad armónica y pacífica, y haber renunciado a las incursiones. No hace falta decir que a la mayoría de los ponis les ha costado creer esto. Wittenland y Lake City en particular están furiosos, y sus líderes han hecho está claro en términos inequívocos que cortarán sus lazos con nosotros si nos atrevemos a hacer algo tan atroz como permitir que sus antiguos enemigos entren en la Coalición ".
+ GRY_117_GRW_faction:0 "Por fin, hemos terminado de estabilizar nuestro país y hemos establecido los inicios de un verdadero estado socialista en Gryphia. Sin embargo, ahora nos enfrentamos al tema muy importante de nuestra política exterior. Si bien estamos agradecidos con nuestros amigos en el Republic Of Prywhen, hay división entre los Rada acerca de cuán estrechamente debemos vincularnos a ellos. Los partidarios de Khurshevich sostienen que sería mejor unirnos más a Prywhen, porque el mundo es grande y está lleno de personas que nos odian, y sería una tontería atacar por nuestra cuenta y arriesgarnos a alienar a nuestro único aliado confiable. Sin embargo, sus oponentes han criticado esta política, calificándola de "revisionista" y alegando que el camarada Khurshevich simplemente carece de coraje para hacer frente a las fuerzas de la reacción . "
+ GRY_117_not_GRW_faction:0 "Por fin, hemos terminado de estabilizar nuestro país y hemos establecido los inicios de un verdadero estado socialista en Gryphia. Sin embargo, ahora nos enfrentamos al tema muy importante de nuestra política exterior. Si bien no estamos en condiciones de difundir el socialismo en toda Griffonia, la presión popular ha convencido a Cornilo Khurshevich de que el único camino viable para el proletariado es luchar por la liberación de los trabajadores oprimidos en los países vecinos ".
+ GRY_LUS_is_communist:0 "¡Los Grifones de Lushi han derrocado a sus reaccionarios opresores y abrazado la gloria del comunismo! Deberíamos abrir lazos diplomáticos con ellos, para proteger mejor a la Revolución de las amenazas extranjeras - después de todo, ¿no tenemos el deber de defender a nuestros camaradas? ? "
+ GRY_LUS_not_communist:0 "¡El fuego de la Revolución se ha encendido en Griffonia, y debe extenderse! La gente justa de Lushland ha sido aplastada durante demasiado tiempo bajo la opresión de gobiernos reaccionarios, y ya no podemos tolerar tal injusticia. Las selvas de Lushland arderán en llamas y quemarán los castillos de los tiranos ".
+ GRY_GRU_is_communist:0 "¡La bandera roja ondea sobre Gryphus! Nuestros hermanos ancestrales en el sur han abrazado un gobierno socialista, deshaciéndose de sus viejos gobernantes burgueses. En interés de la hermandad y la camaradería socialista, deberíamos enviar un partido diplomático para discutir lazos más estrechos entre nuestros pueblos ".
+ GRY_GRU_not_communist:0 "Gryphus ha sido gobernado durante mucho tiempo por gobiernos reaccionarios y burgueses. ¿Podemos descansar sin hacer nada mientras nuestros hermanos ancestrales yacen en sus cadenas? ¡Traeremos libertad a los trabajadores oprimidos de Gryphus!"
+ GRY_GRW_is_communist:0 "Hazte amigo del GLA"
+ GRY_GRW_is_communist_desc:0 "Ahora que nuestra Revolución aquí en Gryphia ha tenido éxito, debemos unirnos con nuestros hermanos y generosos benefactores en Prywhen. ¡Todos los socialistas del mundo deben unirse, porque solo juntos podemos destruir el capitalismo!"
+ GRY_GRW_not_communist:0 "Restaurar la revolución"
+ GRY_GRW_not_communist_desc:0 "¡Desastre! ¡La revolución en Prywhen ha sido sofocada por fuerzas reaccionarias! Debemos nuestra propia existencia a nuestros camaradas de Prywhen, ¿podemos simplemente sentarnos y permitir que la llama del socialismo se apague en su corazón? No ! Muerte a los reaccionarios! ¡Gloria a la clase obrera! "
+ NIM_leave:0 "¡Los nimbusianos están aborrecidos por la mera sugerencia de que permitiéramos a los grifos, la razón misma de la existencia de la Coalición, unirse a nuestra alianza! Han dejado muy claro que protestarán enérgicamente si nos atrevemos a hacer algo así. tonto. \n "
+ NIM_no_leave:0 "A pesar de sus objeciones, está claro que los nimbusianos no llegarán tan lejos como para destrozar la Coalición por este tema. \n"
+ WIT_leave:0 "Los habitantes de Wittenland no tolerarán la más mínima sugerencia de permitir que los grifos se unan a la Coalición. Si nos atrevemos a intentar tal cosa, la población probablemente exigirá que Wittenland se separe de la Coalición. \n"
+ WIT_no_leave:0 "Los habitantes de Wittenlan se han opuesto a la idea de permitir que los Grifos se unan a la Coalición, pero parece que tienen una opinión algo superior de Grifnitsky, el nuevo Hetman. \n"
+ LCT_leave:0 "Los ponis lacustres están absolutamente indignados ante la idea de perdonar a los Grifos. Son uno delas razones de la existencia de la River Coalition! Los líderes populistas locales han pasado muchos días resoplando y resoplando por los "tontos de mente débil" que "no saben a qué hemos renunciado para protegerlos". Si intentáramos imponer esto, la gente de Lake City ciertamente no estaría con nosotros. \n "
+ LCT_no_leave:0 "Wavebreaker ha expresado su preocupación por la idea de permitir que los Grifos se unan a la Coalición, pero no ha prometido bloquear el movimiento por completo. Probablemente podríamos impulsar el movimiento sin enojar demasiado a la gente de Lake City. \norte"
+ ally_with_BRF:0 "Cosaco y cañón"
+ ally_with_BRF_desc:0 "Si bien no siempre hemos tenido la mejor relación con los grifos de Brodfeld en el pasado, ha quedado claro que la cuenca del río Evya ya no es un lugar seguro para naciones pequeñas como la nuestra. Trabajaremos para superar nuestra no nos agradan, e invitamos al gobernante de Brodfeld a nuestro pacto de defensa ".
+ ally_with_GRW:0 "Trague nuestro orgullo"
+ ally_with_GRW_desc:0 "Por mucho que sea desagradable para muchos de nosotros, los grifos de Prywhen también deben incluirse en nuestro tratado de defensa. Dejemos lo pasado, ya que nuestra supervivencia es más importante que las diferencias ideológicas".
+ BRF_raided_success:0 "Se supone que los cosacos de la hueste grifo nos protegen de la agresión oriental, no para asaltar y saquear nuestra tierra, pero han demostrado ser inconstantes a lo largo de la historia, arriesgándose a robarnos mientras el Imperio no No estoy mirando, que ciertamente es el caso en este momento. Los ladrones descarados han entrado en nuestro territorio y se han llevado lo que quieren, confiscando oro, gemas preciosas, armas, comida y cualquier cosa de valor. Nuestros ejércitos están demasiado ocupados con la guerra civil hacer frente a ellos, y en cualquier caso, sus grupos de asalto son demasiado rápidos para que nuestros ejércitos los atrapen la mayor parte del tiempo. Han infligido un daño económico sustancial a nuestro país y, por el momento, no hay nada que podamos hacer al respecto. "
+ BRF_raided_failed:0 "Se supone que los cosacos de la hueste grifo nos protegen de la agresión del este, no para asaltar y saquear nuestra tierra, pero han demostrado ser inconstantes a lo largo de la historia, arriesgándose a robarnos mientras el Imperio no esté no está mirando, que es sin duda el caso en este momento. Los ladrones descarados han cruzado a nuestro territorio y han atacado a quien quieran. Sin embargo, su incursión parece haber estado mal organizada, con bandas de asaltantes dando tumbos de manera descoordinada, a menudo cazando furtivamente más que de nuestra propia gente. Además, los campesinos de Brodfeld están muy acostumbrados a la guerra en este punto, y han aprendido algunos trucos que les permiten infligir algunas derrotas sorprendentes a las incursiones cosacas. ¡Parece que este ataque ha estallado en sus propias caras! "
+ GRW_raided_success:0 "El reaccionario régimen cosaco de Gryphian Host rara vez ha cumplido su promesa de no atacar a los grifos de Prywhen, y ahora han demostrado su perfidia una vez más. En un movimiento descarado y flagrantemente ilegal, han cruzado la frontera hacia Prywhen y empezaron a saquear y matar como quieran. Lo que es peor, parecen estar apuntando específicamente a comunistas y simpatizantes comunistas conocidos, ¡e incluso han empezado a asaltar nuestros escondites de armas! Esto perjudicará nuestros esfuerzos por hacer la guerra en el futuro previsible ".
+ GRW_raided_failed:0 "El reaccionario régimen cosaco de la Hueste Gryphian rara vez ha cumplido su promesa de no atacar a los grifos de Prywhen, y ahora han demostrado su perfidia una vez más. Han cruzado la frontera hacia Prywhen y están intentando saquear y saquear la tierra, y han apuntado especialmente a los comunistas y simpatizantes de los comunistas. Sin embargo, no han tenido en cuenta el poder del proletariado, y nuestros partisanos bien armados han demostrado su eficacia para expulsar a sus incursiones. Esos tontos se arrepentirán de oponerse a la Revolución. ! "
+ GRY_borad_attack_lushi:0 "A pesar de las relaciones relativamente buenas entre nuestras dos naciones a lo largo de la historia, el Principado de Lushi es ahora una amenaza para nosotros. El viejo príncipe, Elías, ha sido derrocado y las fuerzas extremistas han tomado el control del gobierno. Esto amenaza con ¡desestabilizar toda la cuenca del río Evya! Debemos hacer frente a esta amenaza antes de que tenga la oportunidad de crecer más ".
+ GRY_borad_befriend_lushi:0 "Se acercará a los líderes de Lushi con una oferta de un tratado defensivo mutuo. Seguramente pueden ver el beneficio en esto, ¿no es así?"
+ GRY_borad_attack_gryphus:0 "Nuestra ascendencia compartida siempre ha mantenido cálidas las relaciones entre nosotros y nuestros primos en Gryphus, es decir, hasta hace poco. Para nuestra consternación, elementos radicales han tomado el control de las ciudades de Gryphus, y ahora representan una amenaza para nuestra seguridad. que ya no podemos ignorar. Con el corazón apesadumbrado, debemos ir a la guerra contra nuestros propios parientes para asegurar la seguridad de nuestras fronteras ".
+ GRY_borad_befriend_gryphus:0 "Nuestros primos lejanos en las ciudades de Gryphus son conocidos por sus comerciantes yaficionados, pero sus fuerzas armadas son bastante débiles. Deberíamos acercarnos a ellos para una alianza mutuamente beneficiosa ".
+ GRY_162_redglad_alive:0 "Fue un día brillante en [GRY.GetNameDef], ¡porque la revolución socialista se ha completado! Al menos, dentro de sus fronteras. Los ciudadanos y trabajadores estaban libres de la explotación feudal, a nuestros polluelos se les enseñaron los valores más importantes para asegurar un futuro comunista, y nuestras fuerzas armadas eran más grandes que nunca, dedicadas a la seguridad de la revolución. Como tal, [GRY.GetLeader] ha considerado oportuno reunir a sus amigos cercanos para una celebración improvisada. \n \nOh, sí, todos estaban allí, Krylylo, Virona, Litidia e incluso Filip Redglad iban a aparecer. Excepto que llegaba tarde, como de costumbre. Independientemente, Cornilo había traído su escondite secreto de gorilka, de alta calidad, y lo compartió libremente entre sus colegas, dando un discurso breve. \n \n "¡Mis más queridos amigos! ¡Hemos trabajado durante mucho tiempo, solo para ver nuestros sueños realizados! Debo admitir a todos ustedes, que cuando me volví de nuestra lucha, era escéptico. Pensé que todavía estaba bajo la influencia, porque la noche anterior Filip y yo estábamos bebiendo, preguntándonos cómo terminó Cornilo en este lío. ¡Qué equivocado estaba! Cada uno de nosotros hizo todo lo posible para que este día sucediera, y me alegro de tener amigos a mi lado. ¡Salud a todos! ", Tras lo cual se tragó el contenido de su vaso. Sus amigos dieron una rápida ovación e hicieron lo mismo, y todos intercambiaron coloridas bromas. Al menos hasta que se abrió la puerta. \n \nLas cabezas se volvieron rápidamente, para divisar un grifo carmesí, que parecía bastante agotado. "Disculpas por llegar tarde, camaradas. Espero que me hayas guardado un poco, ¿no? ", Gritó alegremente Filip Redglad, a lo que siguió una amistosa bienvenida y una continua alegría".
+ GRY_162_redglad_not_alive:0 "Fue un día brillante en [GRY.GetNameDef], ¡porque la revolución socialista se ha completado! Al menos, dentro de sus fronteras. Los ciudadanos y trabajadores estaban libres de la explotación feudal, a nuestros polluelos se les enseñaron los valores más importantes para asegurar un futuro comunista, y nuestras fuerzas armadas eran más grandes que nunca, dedicadas a la seguridad de la revolución. Como tal, [GRY.GetLeader] ha considerado oportuno reunir a sus amigos cercanos para una celebración improvisada. \n \nOh, sí, todos estaban allí - Krylylo, Virona, Litidia, pero desafortunadamente faltaba el que fue el catalizador de todos sus esfuerzos. Independientemente, Cornilo había traído su escondite secreto de gorilka, de alta calidad, y lo compartió libremente entre sus colegas, dando un breve discurso. . \n \n "¡Mis más queridos amigos! ¡Hemos trabajado durante mucho tiempo, solo para ver nuestros sueños realizados! Debo admitir a todos ustedes, que cuando me volví de nuestra lucha, era escéptico. Pensé que todavía estaba bajo la influencia, porque la noche anterior Filip y yo estábamos bebiendo, preguntándonos cómo terminó Cornilo en este lío. ¡Qué equivocado estaba! Cada uno de nosotros hizo todo lo posible para que este día sucediera, y me alegro de tener amigos a mi lado. Sin embargo, es una lástima que nuestro querido Filip no esté aquí con nosotros. Habría estado feliz de estar aquí, pero no pudimos encontrarlo, ni supimos nada de su paradero. Aún así, disfrutemos nuestro tiempo juntos. ", Tras lo cual se tragó el contenido de su vaso. Sus amigos dieron un rápido, aunque sombrío, vítores e hicieron lo mismo, y todos intercambiaron coloridas bromas. Somegriff trajo una fotografía de Redglad , y las miradas de los grifos se fijaron en él. \n \nTe extrañamos, viejo amigo ".
+ #QUE HACER
+ hostraidlakecity.1.t:0 "Incursión exitosa en Lake City"
+ hostraidlakecity.1.d:0 "Los lastimosos ponis de Lake City no tenían ninguna posibilidad contra el poder de nuestros guerreros grifos. Después de cruzar la frontera, los desorganizados defensores de Lake City fueron rápidamente invadidos, y nuestra banda de asaltantes victoriosa ahora regresa con sus botín justo! "
+ hostraidlakecity.1.a:0 "¡No tenían ninguna posibilidad!"
+ hostraidlakecity.2.t:0 "Lake City Repels Raid"
+ hostraidlakecity.2.d:0 "Cuando nuestros asaltantes cruzaron la frontera hacia Lake City, la mayoría esperaba una redada fácil llena de botines y masacre. Lamentablemente, esas expectativas no se cumplieron ya que los pony defensores de Lake City se organizaron rápidamente en una fuerza de combate mortal , matando o capturando a muchos de nuestros valientes grifos ".
+ hostraidlakecity.2.a:0 "¡Tendremos nuestra venganza!"
+ hostraidlakecity.3.t:0 "Defensa exitosa contra Griffon Raiders"
+ hostraidlakecity.3.d:0 "Hoy temprano en la mañana, una banda de asaltantes cruzó nuestra frontera hacia el sur, probablemente provenientes de la Hueste Gryphian. Gracias a nuestras bien preparadas unidades de defensa fronteriza, los asaltantes fueron atacados rápidamente, la mayoría de ellos siendo abatidos por disparos sostenidos de rifles. Esto es sólo un síntoma de la continua agresión de las Huestes Grifas hacia nosotros, y muchos piensan que se debe hacer algo al respecto ".
+ hostraidlakecity.3.a:0 "¡Lake City se mantiene firme!"
+ hostraidlakecity.4.t:0 "Ataque de los asaltantes grifos"
+ hostraidlakecity.4.d:0 "Los asaltantes grifos cruzaron la frontera hoy y rápidamente abrumaron a nuestros defensores en la frontera. Los asaltantes regresaron a los territorios de los Grifosian Host antes de que se pudiera reunir una fuerza eficaz para hacer frente a ellos, y se largaron ilesos con sus despojos ".
+ hostraidlakecity.4.a:0 "Desafortunado".
+ hostraidlakecity.5.t:0 "¡Retirada de los asaltantes grifos!"
+ hostraidlakecity.5.d:0 "Los asaltantes grifos enviados recientemente a Lake City se han visto obligados a retirarse debido a circunstancias en su tierra natal. La gente de Lake City da un suspiro de alivio hoy".
+ hostraidlakecity.5.a:0 "Interesante".
+ hostraidwittenland.1.t:0 "Incursión exitosa en Wittenland"
+ hostraidwittenland.1.d:0 "Los lastimosos ponis de Wittenland no tenían ninguna posibilidad contra el poder de nuestros guerreros grifos. Después de cruzar la frontera, los desorganizados defensores de Wittenland fueron rápidamente invadidos, y nuestra victoriosa banda de asaltantes ahora regresa con su justo botín ! "
+ hostraidwittenland.1.a:0 "¡No tenían ninguna posibilidad!"
+ hostraidwittenland.2.t:0 "Wittenland Repels Raid"
+ hostraidwittenland.2.d:0 "Cuando nuestros asaltantes cruzaron la frontera hacia Wittenland, la mayoría esperaba una incursión fácil llena de botín y masacre. Lamentablemente, esas expectativas no se cumplieron ya que los pony defensores de Wittenland se organizaron rápidamente en una fuerza de combate mortal, matando o capturar a muchos de nuestros valientes grifos ".
+ hostraidwittenland.2.a:0 "¡Tendremos nuestra venganza!"
+ hostraidwittenland.3.t:0 "¡Retirada de los asaltantes grifos!"
+ hostraidwittenland.3.d:0 "Los asaltantes grifos enviados recientemente a Wittenland se han visto obligados a retirarse debido a las circunstancias de su tierra natal. Los valientes defensores de Wittenland respiran hoy aliviados".
+ hostraidwittenland.3.a:0 "Interesante".
+ hostraidwittenland.4.t:0 "Defensa exitosa contra Griffon Raiders"
+ hostraidwittenland.4.d:0 "Hoy temprano en la mañana, una banda de asaltantes cruzó nuestra frontera hacia el oeste, probablemente provenientes de la Hueste Gryphian. Gracias a nuestras unidades de defensa fronteriza bien preparadas, los asaltantes fueron de ellos siendo abatidos por disparos sostenidos de rifles. Esto es sólo un síntoma de la continua agresión de las Huestes Grifas hacia nosotros, y muchos piensan que se debe hacer algo al respecto ".
+ hostraidwittenland.4.a:0 "¡Wittenland se mantiene fuerte!"
+ hostraidwittenland.5.t:0 "Ataque de los asaltantes grifos"
+ hostraidwittenland.5.d:0 "Los asaltantes grifos cruzaron la frontera hoy y rápidamente abrumaron a nuestros defensores en la frontera. Los asaltantes regresaron a los territorios de la Hueste Grifo antes de que se pudiera reunir una fuerza efectiva para hacerles frente, y huyeron con sus despojos ilesos ".
+ hostraidwittenland.5.a:0 "Desafortunado".

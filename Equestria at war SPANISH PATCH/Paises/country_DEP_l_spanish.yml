@@ -1,0 +1,25 @@
+﻿l_spanish:
+DEP_neutrality:0 "Deponya"
+  DEP_fascism:0 "Imperio de los árboles de la sombra"
+  DEP_communism:0 "Tree Pony Commune"
+  DEP_democratic:0 "Reino de Deponya"
+  DEP_neutrality_DEF:0 "Deponya"
+  DEP_fascism_DEF:0 "El imperio de los árboles de la sombra"
+  DEP_communism_DEF:0 "The Tree Pony Commune"
+  DEP_democratic_DEF:0 "El Reino de Deponya"
+  DEP_fascism_ADJ:0 "Deponiano"
+  DEP_democratic_ADJ:0 "Deponiano"
+  DEP_neutrality_ADJ:0 "Deponiano"
+  DEP_communism_ADJ:0 "Deponian"
+
+  #### IDEAS ####
+  DEP_old_country:0 "País antiguo"
+  DEP_old_country_desc:0 "Deponya es un país antiguo con sus propios caminos al revés. El resto de Eastlands puede reírse de nosotros, pero estamos arraigados en la tradición y creemos en nuestro Rey".
+
+
+  #### Información sobre herramientas ####
+
+  DEP_Advisors_rounds_1_tt:0 "Se necesitan al menos 1 rondas de asesores finalizadas"
+  DEP_Advisors_rounds_2_tt:0 "Se necesitan al menos 2 rondas de asesores finalizadas"
+  DEP_Advisors_rounds_3_tt:0 "Se necesitan al menos 3 rondas de asesores finalizadas"
+  DEP_Advisors_rounds_4_tt:0 "Necesito finalizar todas las rondas de asesores"

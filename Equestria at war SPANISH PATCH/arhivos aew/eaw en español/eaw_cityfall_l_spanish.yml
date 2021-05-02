@@ -1,0 +1,128 @@
+﻿l_spanish:
+###########################################
+### FOCUS LOCALISATION ####################
+###########################################
+#jesus feather PDX and/or hasbro is gonna nail us for this
+#Fox al rescate entonces.
+cityfall.1.t:0 "La caída de Vaverfront"
+ cityfall.1.d:0 "[This.GetNewspaperHeader] Los informes de esta mañana temprano hablan de fuerzas cambiantes que invadieron la ciudad oleana de Vaverfront, eliminando a los últimos defensores que se aferraban desesperadamente al puerto de la ciudad.\n\ nCientos de miles de olenianos los civiles han estado saliendo de la ciudad en cascos o en barco, aunque ya era demasiado tarde para muchos, ya que los tanques Changeling los alcanzaron y bloquearon todas las rutas de escape.\n\ nLa ciudad, una vez un punto de acceso de tráfico de radio, ahora se volvió inquietantemente silencioso, con sólo música de celebración y discursos transmitidos por las fuerzas de ocupación Changeling en la ciudad ".
+ cityfall.1.a:0 "Los Cambiantes están avanzando ..."
+ cityfall.1.b:0 "Esto es solo el comienzo".
+ cityfall.1.c:0 "¡Vengaremos a Vaverfront!"
+
+cityfall.2.t:0 "La caída de Hjortland"
+ cityfall.2.d:0 "[This.GetNewspaperHeader] Las fuerzas de los cambiantes han abrumado a los últimos defensores de Olenia en la capital de Hjortland. Después de infiltrarse en las filas de los defensores, los cambiantes lanzaron un ataque sorpresa desde fuera y desde dentro, aplastando rápidamente cualquier apariencia. de una defensa organizada. Los últimos defensores se retiraron al palacio de Hjortland, pero su defensa incondicional no fue rival para las unidades de élite de Jagers que asaltaron el edificio histórico.\n\ nLa bandera del Cambiante ahora vuela desde las ruinas del Riksdag como el Oleniano sobreviviente los soldados se rinden ante los cambiantes victoriosos ".
+ cityfall.2.a:0 "Los Olenianos lo dieron todo".
+ cityfall.2.b:0 "¡Una gran victoria!"
+ cityfall.2.c:0 "¿Es este el final?"
+
+cityfall.3.t:0 "La caída de Cervus"
+ cityfall.3.d:0 "[This.GetNewspaperHeader] La lucha ha llegado a su fin en la ciudad de Olenia de Cervus cuando las fuerzas cambiantes eliminan a los últimos defensores que se esconden dentro de las fábricas abandonadas y bloques de apartamentos de la ciudad. Después de fuertes bombardeos aéreos y de artillería , Los tanques cambiantes atravesaron las barricadas improvisadas y se apresuraron por las calles para asegurar los muelles y el depósito ferroviario.\n\ nLos pocos defensores olenianos que quedaron no pudieron evacuar debido a la velocidad del rayo del avance cambiante. A partir de esta mañana, Cervus está ahora oficialmente bajo la ocupación de Changeling ".
+ cityfall.3.a:0 "¿No hay nadie que detenga a los Cambiantes?"
+ cityfall.3.b:0 "No eran rival para nosotros".
+ cityfall.3.c:0 "¡Regresaremos por Cervus!"
+
+cityfall.4.t:0 "La caída de Sakara"
+ cityfall.4.d:0 "[This.GetNewspaperHeader] Toda la resistencia efectiva en la ciudad de Sakara en Olenia terminó esta mañana después de que las fuerzas de Changeling se apresuraran al ayuntamiento y capturaran el cuartel general de Sakaran de los Olenianos. Un incendio, posiblemente provocado por las fuerzas de Olenian en retirada , devastó la ciudad de madera, lo que obligó a los cambiantes invasores a concentrarse en apagar los incendios.\n\ nLos incendios se apagaron, pero han causado un precio terrible en daños colaterales y víctimas civiles. Las estaciones cambiantes han anunciado que el gobierno de Olenia culpa de la tragedia y de que se han creado hospitales de campaña militares para los heridos ".
+ cityfall.4.a:0 "Los Olenianos se están desesperando".
+ cityfall.4.b:0 "Qué desperdicio de vida".
+ cityfall.4.c:0 "Con suerte, eso nos dio algo de tiempo".
+
+cityfall.5.t:0 "La caída de Rijekograd"
+ cityfall.5.d:0 "[This.GetNewspaperHeader] La brutal lucha calle a calle en la capital [old_controller.GetAdjective] de River Republic ha llegado a su fin en las primeras horas de la mañana.\n\ n muchos de los puentes famosos de la ciudad, los defensores no pudieron evitar que las tropas de [new_controller.GetAdjective] cruzaran los ríos Gold y Green. Después de luchar por cada calle y casa, los defensores fueron empujados de regreso a la antigua ciudadela en Green Hill y se quedaron sin suministros, el comandante [old_controller.GetAdjective] ordenó una fuga de la ciudad al amparo de la noche y la espesa niebla, llevándose consigo a tantos civiles como pudieran. Sin embargo, fueron avistados y sometidos a fuertes disparos. Los últimos defensores lucharon hasta el final para proteger a los civiles en retirada ".
+ cityfall.5.a:0 "¡Una ciudad no hace una Federación!"
+ cityfall.5.b:0 "El corazón de Riverlands ahora es nuestro".
+ cityfall.5.c:0 "El sol comienza a ponerse sobre los ponis del este".
+
+cityfall.6.t:0 "La caída de [EQC.Capital.GetName]"
+ cityfall.6.d.maresoc_take:0 "[This.GetNewspaperHeader] La lucha en la capital de New Mareland, [EQC.Capital.GetName] ha llegado a su fin cuando la milicia fanática de MARESOC capturó a los defensores finales. del gobierno, dueños de negocios, soldados y policías marcharon a la prisión de Long Bay. La bandera del partido MARESOC ondea sobre el Congreso de la Commonwealth y se han organizado mítines entre las ruinas ofreciendo perdón a cualquiera que jure su lealtad al partido MARESOC. No está seguro del destino que les espera a quienes continúen resistiendo ".
+ cityfall.6.d.maresoc_loose:0 "[This.GetNewspaperHeader] La ciudad de [EQC.Capital.GetName] es irreconocible para quienes la conocían antes del gobierno de MARESOC. Los imponentes monolitos que ocupaban los Ministerios de la Verdad, la Abundancia y la Paz demolido por las fuerzas del MARESOC, aparentemente borrando todo rastro de su presencia allí. Al resto de la ciudad no le había ido mucho mejor. Las tácticas de tierra quemada empleadas por los defensores han dejado la mayor parte de la ciudad en ruinas. Los residentes de los barrios marginales apretados participaron con entusiasmo en esta destrucción de sus propios hogares antes de lanzarse contra las fuerzas de [new_controller.GetAdjective] que avanzaban con palos y garrotes afilados.\n\ nSólo queda el Ministerio del Amor. Un búnker aparentemente impenetrable que bombardea constantemente y Los ingenieros de [new_controller.GetAdjective] no han podido romper. Independientemente de lo que hay detrás de las puertas selladas mágicamente, está en poca posición para controlar las ruinas de la que alguna vez fue una gran ciudad ".
+ cityfall.6.d.other:0 "[This.GetNewspaperHeader] La lucha ha llegado a su fin en la ciudad de [EQC.Capital.GetName] cuando el último de los defensores de [old_controller.GetAdjective] se rindió en los escalones de la ópera. El edificio en sí había sido destruido por los incendios causados ​​por los bombardeos de artillería de [new_controller.GetAdjective]. El puente del puerto de [EQC.Capital.GetName] se mantuvo intacto ya que las fuerzas de [old_controller.GetAdjective] no lograron destruir el símbolo de la ciudad.\n\ nLa bandera [new_controller.GetAdjective] ahora ondea desde la parte superior del arco del puente, permitiendo que todos sepan quién controla ahora la ciudad ".
+ cityfall.6.a.maresoc_take:0 "¡No se puede permitir que la locura de MARESOC gane!"
+ cityfall.6.a.maresoc_loose:0 "Pueden tener las cenizas".
+ cityfall.6.a:0 "Dale tiempo y el sol saldrá sobre [EQC.Capital.GetName] una vez más."
+ cityfall.6.b.maresoc_take:0 "Esta es una gran victoria para el partido".
+ cityfall.6.b.maresoc_loose:0 "La corrupción de MARESOC está desapareciendo".
+ cityfall.6.b:0 "Es hora de tener un barby en la playa".
+ cityfall.6.c.maresoc_take:0 "Y así cae la oscuridad sobre New Mareland."
+ cityfall.6.c.maresoc_loose:0 "El sol sale sobre [EQC.Capital.GetName] una vez más."
+ cityfall.6.c:0 "Con el final de [EQC.Capital.GetName], la oscuridad ha caído sobre New Mareland."
+
+cityfall.25.t:0 "La caída de Vesalipolis"
+ cityfall.25.d:0 "[This.GetNewspaperHeader] Las altas torres de la capital cambiante están en llamas cuando las fuerzas de [new_controller.GetAdjective] aseguran su control de la ciudad-colmena. [old_controller.GetLeader] supuestamente huyó cuando el enemigo se acercó y ordenó a la guarnición local que luchara hasta la muerte. A los civiles se les prohibió salir de la ciudad y serían acusados ​​de alta traición si lo hicieran. Esto significa que, a pesar de los mejores esfuerzos de [new_controller.GetNameDef], no se pudieron evitar las bajas civiles, especialmente porque los defensores utilizaron a civiles como escudos o los obligaron a luchar. Después de un breve pero feroz combate urbano, la guarnición se rindió y la bandera [new_controller.GetAdjective] se izó sobre la Gran Torre de la Reina, muy dañada y en llamas ".
+ cityfall.25.a:0 "¡Tendremos nuestra venganza!"
+ cityfall.25.b:0 "¡La victoria está cerca! ¡La esperanza vive!"
+ cityfall.25.c:0 "El fin de un imperio".
+ 
+cityfall.26.t:0 "La caída de Yakistown"
+ cityfall.26.d:0 "[This.GetNewspaperHeader] La capital tradicional de Yakyakistan se rindió al ejército [new_controller.GetAdjective] hoy. Los yaks que defendían la ciudad eran extremadamente tercos y sufrieron muchas bajas ante los guerreros heridos restantes, incapaces de lucha, finalmente capituló. \ nLa ciudad [old_controller.GetAdjective] había sido casi completamente destruida por una avalancha en 1005 y había sido reconstruida con ayuda ecuestre. Sin embargo, la devastación generalizada deja en claro que se necesitará ayuda nuevamente. Las dos estatuas gigantes en las puertas de la ciudad, que representan la unidad de los yaks y los jaks, permanecieron en pie a pesar de estar muy quemadas. Los habitantes de la ciudad ven esto como un signo de esperanza ".
+ cityfall.26.a:0 "¡YAKS SMASH INVADER Y RECUPERAR CAPITAL!"
+ cityfall.26.b:0 "Quizás esas estatuas necesiten ser derribadas, entonces."
+ cityfall.26.c:0 "Esos yaks seguro que tienen espíritu de lucha".
+
+cityfall.27.t:0 "El asedio de Vraks"
+ cityfall.27.d:0 "[This.GetNewspaperHeader] Este día marca el final del Asedio de Vraks. Después de que el área circundante fue capturada, la enorme ciudad colmena fue sitiada. [old_controller.GetLeader] resolvió no retirar los muchos civiles de la ciudad en un esfuerzo por estimular al ejército de cambiantes a luchar más duro contra el enemigo. Esto solo había hecho que la batalla fuera más costosa, ya que los cambiantes recurrieron al uso de ataques con gas a corta distancia para dar cualquier ventaja que pudieran reunir en el cierre. cuartos de combate urbano. Con las fuerzas de [new_controller.GetAdjective] enfundadas en máscaras de gas y armadas con bastones y escopetas, se movieron a través de barricadas y búnkeres hasta que la última bolsa de resistencia cambiante fue aplastada, y la colmena masiva, una vez llena de vida, quedó como silencioso como los campos helados del norte ".
+ cityfall.27.a:0 "¡Muerte o deshonra! ¡Sigue luchando!"
+ cityfall.27.b:0 "La venganza es un plato que se sirve mejor frío".
+ cityfall.27.c:0 "La marea ha cambiado".
+ 
+cityfall.28.t:0 "La caída de Weter"
+ cityfall.28.d:0 "[This.GetNewspaperHeader] La capital de la colonia griffonian en Equus, fundada hace más de doscientos años por el propio emperador Grover I, se rindió a los atacantes hoy. La ciudad se había vaciado en su mayoría de civiles, que habían sido transportados en barcos, dejando a los defensores de [old_controller.GetAdjective] solos en una tranquila ciudad fantasma. El silencio fue roto por un bombardeo preliminar de artillería que golpeó a los defensores y fue seguido por un feroz ataque de infantería. Los desesperados grifos se retiraron a ruinas antiguas de un asentamiento de ponis en las afueras de la ciudad. La posición era tan defendible que la artillería [new_controller.GetAdjective] no tuvo más opción que nivelarlo hasta el suelo con bombardeos copiosos, destruyendo por completo el sitio históricamente valioso ".
+ cityfall.28.a:0 "¡No! ¡No podemos rendirnos! ¡Todavía no!"
+ cityfall.28.b:0 "Seguramente podemos restaurar las ruinas".
+ cityfall.28.c:0 "Así termina su independencia".
+
+ cityfall.29.t:0 "La caída de Griffenheim"
+ cityfall.29.d:0 "[This.GetNewspaperHeader] Se ha dado un golpe salvaje al Imperio Griffonian cuando la Capital Imperial fue capturada por las fuerzas [new_controller.GetAdjective]. Muchos piensan que esto presagia el fin del Imperio vestigial, a menos que el El Ejército Imperial se las arregla para retomar la ciudad de alguna manera. La batalla había sido feroz ya que los defensores destruyeron los puentes centenarios que conducían al río Griffking, lo que obligó al enemigo a sobrevolarlo durante la noche o construir balsas y pontones. A pesar de muchas bajas, se establecieron varias cabezas de puente y los defensores se retiraron hacia el Palacio Imperial. Allí, tomaron una dramática última resistencia, muriendo ansiosamente en nombre del Imperio, hasta que solo quedaron unos pocos. Superados en número y rodeados, los últimos restos de la guarnición se rindió ".
+ cityfall.29.a:0 "¡Lucha! ¡Por el Imperio!"
+ cityfall.29.b:0 "Deberíamos considerar trasladar nuestra capital allí ..."
+ cityfall.29.c:0 "El Imperio finalmente está llegando a su fin".
+ 
+cityfall.30.t:0 "La caída de Griffonstone"
+ cityfall.30.d:0 "[This.GetNewspaperHeader] El hogar de la dinastía imperial y la cuna de los grifos, Griffonstone, ha caído. [new_controller.GetAdjective] los soldados tuvieron que luchar duro para tomar la ciudad, ya que fue construida sobre un árbol antiguo y sagrado sobre una montaña. Esto significaba que solo la infantería alada podía capturarlo, su apoyo era limitado ya que los atacantes no se atrevían a usar la artillería para no dañar la ciudad santa. Los defensores de [old_controller.GetAdjective] fueron audaces ya que se negaron a que se tomara un lugar tan sagrado sin luchar, para que los atacantes pagaran con sangre por cada casa y calle que tomaran. Sin embargo, siguieron luchando hasta que quedó el abandonado Palacio Real, donde el rey Guto VI había vivido hace más de 40 años. En lugar de fortificar el palacio y continuando luchando, los defensores se rindieron y se rindieron, deseando que lo dejaran en paz ".
+ cityfall.30.a:0 "¡Debemos contraatacar!"
+ cityfall.30.b:0 "La ciudad santa es nuestra".
+ cityfall.30.c:0 "Buitres peleando por huesos ..."
+ 
+cityfall.31.t:0 "La caída de Aquila"
+ cityfall.31.d:0 "[This.GetNewspaperHeader] Cuando las fuerzas [new_controller.GetAdjective] se acercaban a la capital cultural de Griffonia, el alcalde de Aquila, ignorando las órdenes y demandas del gobierno [old_controller.GetAdjective], declaró que era Una ciudad abierta. Está claro que deseaba proteger los monumentos históricos y evitar que se repitiera la devastación sufrida por la ciudad en 785, cuando el emperador Grover II la incendió para castigar a los aquileños por rebelarse contra su gobierno. bombardeo de artillería antes de que los atacantes entraran en la ciudad abierta, pero afortunadamente los famosos bulevares y museos permanecen ilesos ".
+ cityfall.31.a:0 "¡El alcalde es un traidor!"
+ cityfall.31.b:0 "Celebraremos un desfile de la victoria en esos bulevares".
+ cityfall.31.c:0 "La Ciudad de la Luz se ha extinguido".
+ 
+cityfall.32.t:0 "La caída de Karthin"
+ cityfall.32.d:0 "[This.GetNewspaperHeader] Los [old_controller.GetAdjective] defensores de la capital fueron superados en número y la defensa parecía inútil, pero [old_controller.GetLeader] declaró que la rendición de la ciudad al enemigo solo sería concedido después de que las tropas habían opuesto suficiente resistencia para dejar en claro que la toma hostil no fue aceptada libremente. Los restos de los antiguos muros de piedra alrededor de la ciudad fueron utilizados por los defensores, pero fueron destruidos por un bombardeo de artillería, que fue seguido por un furioso asalto de los mejores soldados de choque de [new_controller.GetAdjective]. La defensa se hizo añicos y los soldados de [old_controller.GetAdjective] no tuvieron otra opción que rendirse al enemigo ".
+ cityfall.32.a:0 "¡Wingbardy para siempre! ¡Debemos liberarlo!"
+ cityfall.32.b:0 "Ay de los vencidos".
+ cityfall.32.c:0 "La joya del sur ha sido incautada".
+ 
+cityfall.33.t:0 "La caída de Lake City"
+ cityfall.33.d:0 "[This.GetNewspaperHeader] Cuando las fuerzas de [new_controller.GetAdjective] llegaron a las afueras de Jezeragrad, también conocida como Lake City, la guarnición de [old_controller.GetAdjective] ya había establecido una fuerte defensa, con muchas barricadas y nidos de francotiradores, así como cañoneras en el lago. Los invasores realizaron varios ataques de sondeo y decidieron que tenían que pedir refuerzos. Lo que siguió fue una serie de asaltos por tierra, aire y agua, cada uno repelido por los tenaces y valientes defensores . Se realizó un último ataque desesperado que logró un gran avance que se aprovechó rápidamente para dividir y destruir las unidades [old_controller.GetAdjective]. Ahora [new_controller.GetNameDef] ha ganado el control de la mayor parte de la ciudad, pero la guarnición se niega a rendirse y la resistencia continúa en los suburbios."
+ cityfall.33.a:0 "No hay honor en rendirse".
+ cityfall.33.b:0 "¡Estos ponis son tercos!"
+ cityfall.33.c:0 "A veces es mejor admitir la derrota ..."
+ 
+cityfall.34.t:0 "El saqueo de Skyfall"
+
+ cityfall.34.d:0 "[This.GetNewspaperHeader]When the [old_controller.GetAdjective] government realized they could not bribe the enemy soldiers and thus save their capital, they used the money to hire mercenaries instead to bolster the city's defence. Initial assaults by the [new_controller.GetAdjective] army failed because the metropolis had been turned into a labyrinth of death, so they sent a message to the mercenaries, giving them an offer they couldn't refuse: If they switched sides, they would be allowed to loot Skyfall's entire treasury. The turncoats quickly turned the tide in favour of the attacker, who used the element of surprise to their advantage and shattered the defenders. Widespread pillaging followed as the mercenaries not only looted the treasury but sacked the rest of the city as well."
+ cityfall.34.a:0 "¡Maldice a esos traidores codiciosos!"
+ cityfall.34.b:0 "Quizás podamos hacer un pequeño saqueo también ..."
+ cityfall.34.c:0 "Parece que el dinero no puede comprarte la victoria".
+ 
+cityfall.35.t:0 "New Skynavia Burns"
+ cityfall.35.d:0 "[This.GetNewspaperHeader] Una vez que un faro de esperanza para los aspirantes a revolucionarios socialistas de todo el mundo, Nueva Skynavia ha caído ante el avance inexorable del ejército [new_controller.GetAdjective]. Expulsado de detrás de su calle barricadas, los últimos vestigios de la resistencia organizada de [old_controller.GetAdjective] habían sido completamente derrotados cuando las tropas de choque estaban montando la bandera [new_controller.GetAdjective] en la parte superior del Salón del Congreso General de Skynavian.\n\ nLos disparos esporádicos y las explosiones persistieron por todas partes la ciudad, como algunos de sus ciudadanos más impulsados ​​ideológicamente, continuaron en la lucha contra el invasor desde las ventanas de sus salas de estar, balcones y sótanos ".
+ cityfall.35.a:0 "¡Nueva Skynavia volverá a ser libre!"
+ cityfall.35.b:0 "Esos Skynavians seguro que luchan duro".
+ cityfall.35.c:0 "La estrella del norte ha caído".
+ 
+ cityfall.36.t:0 "La caída de Cloudbury"
+ cityfall.36.d:0 "[This.GetNewspaperHeader] El bastión del republicanismo griffoniano y la antigua capital del ducado que lleva su nombre, Cloudbury, ha caído en manos de los atacantes [new_controller.GetAdjective]. La ciudad había sido fortificada durante décadas por -El mariscal Kemerskai y sus aliados, no solo para defenderlo de la agresión contrarrevolucionaria sino también de los señores de la guerra que gobiernan el campo. Como tal, la guarnición de [old_controller.GetAdjective] tuvo facilidad para repeler a los invasores al principio, lo que obligó a su enemigo a usar tácticas más poco ortodoxas para apoderarse de la ciudad. Incursiones nocturnas a través del río, maniobras de flanqueo en el aire por parte de la infantería alada y varios intentos de infiltración se utilizaron en tándem, pero al final [new_controller.GetNameDef] tuvo que depender de números abrumadores y potencia de fuego para ganar agridulce victoria."
+ cityfall.36.a:0 "No puedes matar una idea simplemente tomando una ciudad".
+ cityfall.36.b:0 "¡Los lacayos de Kemerskai serán purgados!"
+ cityfall.36.c:0 "El acto final de una obra de teatro de treinta años".
+
+ cityfall.37.t:0 "La caída de Bronzekreuz"
+ cityfall.37.d:0 "[This.GetNewspaperHeader] La ciudad de Bronzekreuz cayó ante las fuerzas de [new_controller.GetAdjective] en las primeras horas de esta mañana. Después de una feroz lucha calle a calle, las últimas fuerzas de [old_controller.GetAdjective] cayeron de regreso a Kar-Friz, el gran palacio subterráneo en la ladera de la montaña Grover. Las armas de asedio y los ingenieros pasaron horas destruyendo las antiguas puertas de entrada solo para descubrir que el palacio había sido vaciado y muchos pasillos colapsados.\n\ nEl [new_controller.GetAdjective] se izó la bandera desde lo alto de una estatua del emperador Grover II de 60 pies de altura y los combates cesaron en las calles, pero se ordenaron búsquedas exhaustivas en el vasto subterráneo de la ciudad y se espera que se completen en meses ".
+ cityfall.37.a:0 "Pueden tener la superficie, pero nosotros vivimos debajo de la tierra".
+ cityfall.37.b:0 "¡Encuentra esos perros!"
+ cityfall.37.c:0 "Demasiado para luchar hasta el final".

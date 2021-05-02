@@ -1,0 +1,368 @@
+﻿l_spanish:
+generic_griffon_focus:0 "el árbol de enfoque genérico de Griffon"
+### Enfoque nacional ###
+griffon_political_effort:0 "Abrir la esfera política"
+griffon_political_effort_desc:0 "El futuro de nuestra nación está en nuestro [Root.GetHands]. Es hora de decidir nuestro destino".
+griffon_dreams_of_a_republic:0 "Sueños de una república"
+griffon_dreams_of_a_republic_desc:0 "Hay personas dentro de nuestra nación que nos verían en la transición a un gobierno republicano. Puede ser el momento de considerar seriamente estas sugerencias".
+griffon_gather_support:0 "Reunir apoyo"
+griffon_gather_support_desc:0 "Aumentar el apoyo a una república y redactar una constitución nos permitirá completar todos los pasos necesarios para formar una república".
+griffon_popular_revolution:0 "Revolución popular"
+griffon_popular_revolution_desc:0 "[Root.GetPopularRevolutionDesc]"
+griffon_popular_revolution_desc_grif:0 "Algunos argumentan que los grifos son naturalmente codiciosos y egoístas, pero estos conceptos no tienen cabida en nuestra nación. Con el apoyo de la gente, marcaremos el comienzo de una nueva era de prosperidad e igualdad siguiendo las enseñanzas socialistas".
+griffon_popular_revolution_desc_other:0 "Con el apoyo del pueblo, marcaremos el comienzo de una nueva era de prosperidad e igualdad siguiendo las enseñanzas socialistas".
+griffon_land_reform:0 "Reforma agraria"
+griffon_land_reform_desc:0 "La tierra dentro de nuestras fronteras está actualmente en manos de unos pocos [Root.GetRaceMembers], con la mayoría de los agricultores luchando bajo su dominio opresivo. Esto no puede sostenerse. Debemos establecer granjas colectivas, con cada agricultor trabajando por el bien del toda la nación, no sólo su monedero ".
+griffon_five_year_plan:0 "Plan de cinco años"
+griffon_five_year_plan_desc:0 "Un pilar importante del socialismo es una economía planificada. Al redactar un plan de cinco años para el crecimiento de nuestra economía, podemos mejorar enormemente nuestras capacidades industriales a largo plazo".
+griffon_spread_the_revolution:0 "Difundir la revolución"
+griffon_spread_the_revolution_desc:0 "Puede que hayamos logrado una utopía socialista aquí, pero mucha gente aún debe sufrir bajo la opresión del capitalismo. Al enviar voluntarios a las naciones en guerra con los imperialistas, podemos luchar contra la opresión dondequiera que aparezca".
+griffon_fight_to_the_last:0 "Lucha hasta el último"
+griffon_fight_to_the_last_desc:0 "Nuestras fronteras nacionales deben hacerse cumplir sin importar el costo. Cualquier fuerza externa que intente socavar nuestra soberanía enfrentará todo el poder de nuestro ejército. Y si nuestras peores pesadillas suceden, nos aseguraremos de que cada [Root.GetRaceMember ] está dispuesto a morir en defensa de su patria ".
+griffon_ideological_ilst:0 "Pensamiento ideológico"
+griffon_ideological_ilst_desc:0 "Debemos fortalecer la base ideológica de nuestro país. El mundo debe saber lo que defendemos y que estamos dispuestos a luchar por nuestros valores".
+griffon_expansionist_focus:0 "Enfoque expansionista"
+griffon_expansionist_focus_desc:0 "A nuestro alrededor, las naciones extranjeras esperan la oportunidad de subyugarnos. No debemos mostrar debilidad ahora, para que no lleven a cabo sus nefastos planes. Nuestro destino es el nuestro, y deberían ser necesarios ataques preventivos para asegurar el futuro de nuestro gente, que así sea ".
+griffon_our_own_way:0 "Nuestro propio camino"
+griffon_our_own_way_desc:0 "Cualesquiera que sean nuestros planes para el futuro, dejaremos en claro que somos nuestra propia nación. Todo lo que hagamos será por el bien de nuestra propia gente".
+griffon_neutrality_focus:0 "Enfoque de neutralidad"
+griffon_neutrality_focus_desc:0 "Dejemos que otras naciones luchen entre sí hasta que no puedan luchar más. Nunca nos involucraremos voluntariamente en ningún conflicto militar que no afecte directamente a nuestra nación o pueblo".
+griffon_strengthen_government:0 "Fortalecer el gobierno"
+griffon_strengthen_government_desc:0 "Cada vez es más claro que se requiere un estado fuerte y centralizado para cualquier nación moderna. Los días de los reinos feudales están contados".
+griffon_fundations_of_a_modern_state:0 "Los cimientos de un estado moderno"
+griffon_fundations_of_a_modern_state_desc:0 "Nuestra nación debe estar unida bajo un gobierno grande y centralizado. La lealtad de todos los ciudadanos será al estado y solo al estado".
+griffon_only_strong_will_survive:0 "Supervivencia del más fuerte"
+griffon_only_strong_will_survive_desc:0 "El mundo se está volviendo peligroso. Nuestra nación tendrá que ser fuerte para enfrentar la tormenta que se avecina, porque en última instancia, solo los más fuertes sobrevivirán. Nos aseguraremos de que NOSOTROS seamos los más fuertes. Y cuando el polvo se asiente, ser más poderoso que nunca ".
+griffon_nationalist_thought:0 "Pensamiento nacionalista"
+griffon_nationalist_thought_desc:0 "Las necesidades de nuestra nación siempre deben ser lo primero. Las potencias extranjeras solo buscan socavar nuestro estado y robar nuestro progreso para sus propios propósitos siniestros. Nuestra nación reinará supremamente, y si debemos usar la fuerza para lograr esto, que así sea. . "
+griffon_gear_for_war:0 "Equipo para la guerra"
+griffon_gear_for_war_desc:0 "Cada día es más obvio que la guerra con nuestros vecinos es inevitable. Nos aseguraremos de ser preparado por un conflicto prolongado cuando llegue el momento ".
+griffon_militarization:0 "Militarización"
+griffon_militarization_desc:0 "Nuestra gente debe estar lista para tomar las armas y luchar por el estado en cualquier momento. Necesitaremos muchos soldados capaces para nuestras futuras campañas".
+griffon_rightful_rule:0 "Regla legítima"
+griffon_rightful_rule_desc:0 "Sólo hay un [Root.GetRaceMember] que puede gobernar nuestra nación: el monarca legítimo. Donde otros buscarían un cambio radical, protegeremos lo que nos hizo grandes en primer lugar".
+griffon_noble_birthright:0 "Derecho de nacimiento noble"
+griffon_noble_birthright_desc:0 "Recientemente, algunas ideas tontas sobre la noción de que todos los [Root.GetRaceMembers] son ​​iguales han circulado en nuestro país. Debemos acabar con esa tontería de inmediato y reafirmar el antiguo derecho de nacimiento de la nobleza".
+griffon_harmony_and_liberty:0 "Armonía y libertad"
+griffon_harmony_and_liberty_desc:0 "Los ponis de Equestria nos han mostrado el camino a la armonía hace siglos, sin embargo, nuestros ciudadanos siempre fueron lentos para adaptarse a las nuevas ideas. Finalmente debemos superar este obstáculo y abrazar la armonía y la libertad para todos nuestros ciudadanos".
+griffon_carry_the_torch:0 "Lleva la antorcha"
+griffon_carry_the_torch_desc:0 "Ahora que nuestra población finalmente ha sido iluminada y abrazó la armonía, podremos realizar todo tipo de investigación de manera mucho más efectiva".
+griffon_words_not_swords:0 "Palabras, no espadas"
+griffon_words_not_swords_desc:0 "Haremos saber que defender la paz es la máxima prioridad en nuestra política internacional. Al fomentar el comercio y la diplomacia, podemos convertirnos en un bastión de estabilidad en un mundo en constante deterioro".
+griffon_common_good:0 "El bien común"
+griffon_common_good_desc:0 "Nuestras esperanzas de una paz duradera son cada vez más pequeñas. Debemos preparar nuestra industria y nuestra gente para la posibilidad de un conflicto armado. Cada [Root.GetRaceMember] debe prestar su [Root.GetHands], ya sea luchando o trabajando en nuestras fábricas y minas ".
+griffon_stronger_together:0 "Fuerza en la unidad"
+griffon_stronger_together_desc:0 "Incluso si enfrentamos dificultades casi imposibles, trabajando juntos podemos lograr grandes hazañas. No solo fomentaremos la cooperación y la amistad dentro de nuestras fronteras, sino que también fortaleceremos nuestros lazos diplomáticos con naciones de ideas afines en todo el mundo. "
+griffon_the_old_ways:0 "Las viejas formas"
+griffon_the_old_ways_desc:0 "La monarquía ha funcionado bien durante miles de años, ¿por qué deberíamos cambiar nuestro gobierno ahora? Los cambios radicales pueden ser muy dañinos e incluso peligrosos para nuestra sociedad. Nos aseguraremos de que cada [Root.GetRaceMember] comprenda la importancia de la tradición y las viejas costumbres ".
+griffon_defend_the_tradition:0 "Disuasión"
+griffon_defend_the_tradition_desc:0 "Nuestra cultura y tradiciones son sagradas. Nuestra soberanía debe estar asegurada para que nuestra identidad nacional sobreviva. Al fortalecer nuestras fronteras, nos aseguraremos de que cualquier potencia extranjera que intente atacar nuestra patria pagará un precio terrible".
+griffon_home_guard:0 "Guardia de casa"
+griffon_home_guard_desc:0 "Al formar unidades paramilitares en las que cada [Root.GetRaceMember] debe servir durante un tiempo, podemos aumentar drásticamente la cantidad de soldados entrenados a nuestra disposición, así como mejorar nuestras capacidades defensivas generales".
+griffon_leading_the_way:0 "Liderando el camino"
+griffon_leading_the_way_desc:0 "Debemos asegurarnos de que cada soldado sepa exactamente por qué está luchando. Cada [Root.GetRaceMember] que sirve en nuestras fuerzas armadas debe estar dispuesto a morir por su país".
+
+griffon_industrial_effort:0 "Esfuerzo industrial"
+griffon_industrial_effort_desc:0 "Para convertirnos en un estado moderno, debemos mejorar nuestras capacidades industriales. El financiamiento de la investigación en nuevos campos tecnológicos ciertamente ayudaría en este esfuerzo".
+griffon_cottage_industry:0 "Industria artesanal"
+griffon_cottage_industry_desc:0 "Al alentar a nuestra población a dedicarse a embarcaciones más pequeñas además de su ocupación de tiempo completo, deberíamos poder mejorar nuestra industria ligera".
+griffon_roads:0 "Carreteras y ferrocarriles"
+griffon_roads_desc:0 "Debemos mejorar nuestra infraestructura general para lograr un mayor crecimiento económico. Con este fin, construiremos ferrocarriles que conecten a toda nuestra nación, además de mejorar nuestra red de carreteras".
+griffon_boost_economy:0 "Estímulo económico"
+griffon_boost_economy_desc:0 "Al subsidiar partes importantes de nuestra economía y financiar la investigación industrial, podemos diseñar un programa que estimulará y revitalizará nuestra economía e industria".
+griffon_industrial_revolution:0 "Revolución industrial"
+griffon_industrial_revolution_desc:0 "La mayoría de las demás naciones del mundo han abrazado durante mucho tiempo la Revolución Industrial y todos los beneficios que la acompañan. Al construir grandes manufacturas utilizando la última maquinaria, podemos mejorar significativamente nuestra industria pesada".
+griffon_education_reform:0 "Reforma educativa"
+griffon_education_reform_desc:0 "Es bien sabido que nos falta en el sector científico. Una reforma educativa universal nos ayudará a mejorar nuestras capacidades científicas en el futuro".
+griffon_railway:0 "Ferrocarriles mejorados"
+griffon_railway_desc:0 "Al aumentar aún más el tamaño de nuestra red ferroviaria nacional, así como estandarizar todos los vagones y motores de tren utilizados, podemos mejorar significativamente la infraestructura de nuestra nación".
+griffon_economic_boom:0 "Boom económico"
+griffon_economic_boom_desc:0 "Nuestros esfuerzos para estimular nuestra economía han tenido mucho éxito hasta ahora. Es importante que construyamos sobre nuestro éxito y mantengamos nuestro desarrollo industrial, para que nuestros esfuerzos no sean en vano".
+griffon_science_effort:0 "Esfuerzo científico"
+griffon_science_effort_desc:0 "Basándonos en el éxito de nuestra reforma educativa, ahora deberíamos financiar programas de educación superior para aumentar aún más nuestras capacidades científicas".
+griffon_science_effort_ii:0 "Esfuerzo científico II"
+griffon_science_effort_ii_desc:0 "Al invitar a científicos extranjeros a enseñar y trabajar en nuestras universidades, deberíamos poder capacitar a una nueva generación de científicos capacitados, lo que nos permitirá realizar más investigaciones que nunca".
+griffon_universities:0 "Nuevas universidades"
+griffon_universities_desc:0 "Simplemente mejorar nuestras universidades existentes no es suficiente. Debemos construir más universidades utilizando técnicas de construcción y arquitectura de vanguardia. Podemos esperar que ocurran muchos avances en estas grandes salas de aprendizaje".
+griffon_scientific_breakthrough:0 "Avance científico"
+griffon_scientific_breakthrough_desc:0 "Gracias a nuestras recientes reformas industriales y educativas, ahora estamos en condiciones de convertirnos en una de las naciones más avanzadas del mundo. Ahora, podemos cosechar nuestra recompensa y aprovechar al máximo nuestra destreza industrial y científica".
+griffon_industrial_effort_ii:0 "Esfuerzo industrial II"
+griffon_industrial_effort_ii_desc:0 "Nuestros recientes avances científicos e industriales deberían permitirnos mejorar nuestras capacidades industriales aún más mediante la aplicación de nuevas tecnologías y prácticas".
+griffon_new_factories:0 "Nuevas fábricas"
+griffon_new_factories_desc:0 "Deberíamos construir varias fábricas nuevas desde cero, utilizando maquinaria y técnicas de construcción de última generación".
+griffon_modernise_society:0 "Modernizar la sociedad"
+griffon_modernise_society_desc:0 "Nuestro poder industrial ha aumentado enormemente solo en los últimos años. Junto con él, nuestra sociedad también ha cambiado, haciéndose comparable a las grandes naciones del mundo. Es hora de que cosechemos plenamente los beneficios de nuestro sociedad e industria nuevas y modernas ".
+griffon_arms_effort:0 "Esfuerzo de armamento"
+griffon_arms_effort_desc:0 "El mundo se está volviendo peligroso, y ya sea que nos veamos arrastrados o no a un conflicto militar, debemos estar preparados. Financiar nuestra industria pesada nos permitirá equipar a nuestros soldados con todo lo que necesitan".
+griffon_arms_effort_ii:0 "Esfuerzo de armamentos II"
+griffon_arms_effort_ii_desc:0 "Ahora que hemos abrazado la revolución industrial, deberíamos poder mejorar nuestra producción militar, así como nuestra industria civil".
+griffon_arms_effort_iii:0 "Esfuerzo armamentístico III"
+griffon_arms_effort_iii_desc:0 "Nuestra industria ligera ha mejorado significativamente, pero nuestra industria pesada todavía falta en algunos departamentos. Un mayor desarrollo de nuestra industria militar nos permitirá mantener un ejército más grande".
+
+griffon_expand_army:0 "Expansión del ejército"
+griffon_expand_army_desc:0 "El conflicto militar parece más probable día a día. Para prepararnos para esta posibilidad, debemos expandir y mejorar nuestro ejército".
+griffon_improved_weapons:0 "Armas mejoradas"
+griffon_improved_weapons_desc:0 "La mayor parte del equipo de infantería que utiliza nuestro ejército está lamentablemente desactualizado. Si deseamos desplegar un ejército moderno y eficaz, debemos desarrollar nuevos sistemas de armas lo antes posible".
+griffon_artillery_effort:0 "Esfuerzo de artillería"
+griffon_artillery_effort_desc:0 "La artillería es muy eficaz para apoyar a nuestra infantería. El desarrollo de nuevos cañones de artillería contribuiría en gran medida a mejorar las capacidades de nuestro ejército".
+griffon_special_forces:0 "Fuerzas especiales"
+griffon_special_forces_desc:0 "Las Fuerzas Especiales pueden llevar a cabo misiones que son demasiado peligrosas o complicadas para nuestras tropas regulares. Cuando se usan correctamente, pueden cambiar el rumbo de una guerra".
+griffon_doctrine_advancement:0 "Avance doctrinal"
+griffon_doctrine_advancement_desc:0 "Hemos equipado a nuestro ejército con el mejor armamento disponible para nosotros, convirtiéndolo en una fuerza eficaz. Sin embargo, todavía hay margen de mejora, especialmente en nuestra doctrina militar. Al estudiar el combate moderno y realizar ejercicios de entrenamiento, deberíamos poder mejorar la competencia táctica y estratégica de nuestros oficiales ".
+griffon_support:0 "Empresas de soporte"
+griffon_support_desc:0 "Las empresas de apoyo, como los ingenieros o las unidades de reconocimiento, pueden ayudar a nuestra fuerza principal de muchas formas. La integración de las empresas de apoyo en nuestras divisiones seguramente mejorará la eficacia de nuestro ejército".
+griffon_traditonal_warfair:0 "Guerra tradicional"
+griffon_traditonal_warfair_desc:0 "[Root.GetTraditionalWarfareDesc]"
+griffon_traditonal_warfair_desc_grif:0 "Nuestros caballeros se han mantenido fuertes durante generaciones y todavía son más que capaces de defender nuestra nación contra cualquier poder extranjero. Nos centraremos en mejorar las tácticas y el equipo de nuestros caballeros en lugar de cambiar radicalmente el núcleo de nuestro ejército".
+griffon_traditonal_warfair_desc_pony:0 "Nuestros soldados pegasos se han mantenido fuertes durante generaciones y aún son más que capaces de defender nuestra nación contra cualquier poder extranjero. Nos centraremos en mejorar las tácticas y el equipo de nuestros pegasos en lugar de cambiar radicalmente el núcleo de nuestro ejército".
+griffon_traditonal_warfair_desc_other:0 "En esos tiempos cambiantes, debemos centrarnos en lo que nos protegió durante todas las generaciones anteriores. Solo manteniéndonos fieles a la tradición podemos prevalecer".
+griffon_modern_warfair:0 "Guerra moderna"
+griffon_modern_warfair_desc:0 "El mundo ha cambiado mucho en los últimos años, y también la naturaleza del conflicto. La movilidad se está volviendo más importante que nunca, por lo que sería una locura seguir confiando en las tácticas y los equipos de guerra tradicionales".
+griffon_local_tank_production:0 "Producción local de tanques"
+griffon_local_tank_production_desc:0 "Para modernizar completamente nuestro ejército, necesitamos integrar fuerzas blindadas en nuestro ejército. Nuestra industria local y nuestros científicos son más que capaces de desarrollar y producir nuestros propios modelos de tanques".
+griffon_tank_licenses:0 "Licencias de tanques extranjeros"
+griffon_tank_licenses_desc:0 "Debido a nuestra pequeña base científica, los diseños de tanques extranjeros son muy superiores a cualquier cosa que se nos ocurra. En lugar de perder el tiempo tratando de diseñar nuestros propios vehículos, deberíamos financiar un programa de licencias de producción y solicitar licencias de aliados u otros regímenes comprensivos ".
+
+griffon_aviation_effort:0 "Esfuerzo de aviación"
+griffon_aviation_effort_desc:0 "[Root.GetAviationEffortDesc]"
+griffon_aviation_effort_desc_grif:0 "Todo grifo sano es capaz de volar. En los últimos tiempos, sin embargo, se han realizado muchos avances en la aviación mecánica. Con aviones modernos, podemos volar más rápido que nunca. La creación de un cuerpo de vuelo designado utilizando solo aviones es en orden."
+griffon_aviation_effort_desc_other:0 "Recientemente, se han hecho muchos avances en la aviación mecánica. Usando aviones modernos, podemos volar más rápido que nunca. La creación de un cuerpo de vuelo designado usando solo aviones está en orden".
+griffon_fighter_focus:0 "Fighter Focus"
+griffon_fighter_focus_desc:0 "Los cazas son capaces de defender nuestros cielos de cualquier incursión extranjera, y también son capaces de ayudar a los bombarderos con ataques al espacio aéreo enemigo".
+griffon_fighter_focus_2:0 "Enfoque de combate avanzado"
+griffon_fighter_focus_2_desc:0 "Se han hecho muchos avances en el desarrollo de cazas, y es probable que muchos aún estén por llegar. Con un aumento de la financiación para nuestros científicos, deberíamos poder acelerar el desarrollo de nuevos modelos de manera significativa".
+griffon_bomber_focus:0 "Foco de bombardero"
+griffon_bomber_focus_desc:0 "Los bombarderos pueden atacar profundamente el espacio aéreo enemigo, reduciendo su infraestructura e industria a escombros. Usando bombarderos, podemos enviar a nuestros enemigos de regreso a la edad de piedra".
+griffon_bomber_focus_2:0 "Enfoque avanzado del bombardero"
+griffon_bomber_focus_2_desc:0 "Los modelos de bombarderos anteriores han demostrado ser muy efectivos. Sin embargo, aún quedan muchas mejoras por hacer, y con una mayor financiación, deberíamos poder desarrollar bombarderos superiores a todos los que poseemos actualmente".
+griffon_aviation_effort_2:0 "Una fuerza aérea moderna"
+griffon_aviation_effort_2_desc:0 "Ahora tenemos acceso a aviones muy avanzados, pero todavía hay margen de mejora. La ampliación de nuestros aeródromos y la realización de ejercicios de entrenamiento nos permitirán transformar nuestro cuerpo de vuelo en una fuerza aérea verdaderamente moderna".
+griffon_purchase_foreign:0 "Licencias de aeronaves extranjeras"
+griffon_purchase_foreign_desc:0 "Lamentablemente, carecemos de la base científica para desarrollar nuestros propios aviones. En su lugar, deberíamos buscar licencias de producción de potencias extranjeras. Esto debería permitirnos centrar nuestra investigación en otros campos".
+griffon_fighter_competition:0 "Competencia de luchadores extranjeros"
+griffon_fighter_competition_desc:0 "Tenemos la posibilidad de elegir entre muchos modelos diferentes de luchadores de países extranjeros. La celebración de una competición de luchadores debería ayudarnos a determinar cuál es el más adecuado para nuestras necesidades".
+griffon_bomber_competition:0 "Competencia de bombarderos extranjeros"
+griffon_bomber_competition_desc:0 "Tenemos la posibilidad de elegir entre muchos modelos de bombarderos diferentes de países extranjeros. La celebración de una competición de bombarderos debería ayudarnos a determinar cuál es el más adecuado para nuestras necesidades".
+griffon_naval_effort:0 "Esfuerzo naval"
+griffon_naval_effort_desc:0 "La expansión de nuestra armada debería ser nuestra primera prioridad. Asignar todos los recursos disponibles a nuevos astilleros e investigar sobre naves ligeras de superficie".
+griffon_flexible_navy:0 "Azul marino flexible"
+griffon_flexible_navy_desc:0 "Reinventar la guerra naval para dar cuenta de los avances en la tecnología submarina nos permitirá atacar con eficacia los convoyes enemigos".
+griffon_large_navy:0 "Azul marino grande"
+griffon_large_navy_desc:0 "Adaptar nuestras doctrinas navales para acomodar barcos grandes y garantizar la seguridad de nuestros convoyes comerciales nos enseñará mucho sobre qué tipo de barcos necesitamos".
+griffon_cruiser_effort:0 "Esfuerzo de crucero"
+griffon_cruiser_effort_desc:0 "Antes de hacer incursiones en la investigación avanzada de acorazados, los cruceros más pequeños necesitan ser reemplazados."
+griffon_submarine_effort:0 "Esfuerzo submarino"
+griffon_submarine_effort_desc:0 "La guerra submarina es el desarrollo naval más emocionante de los últimos años. Haríamos bien en no solo protegernos de los submarinos, sino también utilizarlos contra la navegación enemiga".
+griffon_capital_ships_effort:0 "Esfuerzo de la nave capital"
+griffon_capital_ships_effort_desc:0 "La nación con más acorazados gobernará los océanos. Los acorazados y los portaaviones representan lo viejo y lo nuevo en superioridad naval".
+griffon_destroyer_effort:0 "Esfuerzo del destructor"
+griffon_destroyer_effort_desc:0 "Al estudiar el diseño y el uso estratégico de los submarinos, también hemos aprendido cómo contrarrestar esas estrategias. Los destructores serán cruciales para esto".
+
+### Eventos ###
+#fash monarquía
+griffonian.3.t:0 "La lucha por la supervivencia"
+griffonian.3.d_change:0 "La guerra siempre ha sido a la manera de Griffonian. Antes del ídolo de Boreas, hubo guerra. Después de que el artefacto desapareció, hubo guerra de nuevo. Si nuestra nación y nuestro pueblo único quieren sobrevivir, la nación debe militarise. [Root.GetLeader] se ha dado cuenta de esto y ha otorgado poderes excesivos a los supremacistas para transformar el país. Aunque tanto tradicionalistas como armonistas han protestado, estamos convencidos de que esta será nuestra mejor apuesta para sobrevivir a estos tiempos difíciles ". #cambiar a
+griffonian.3.d:0 "Hace mucho tiempo que nuestro gobierno se ha dado cuenta de los peligros de nuestro continente. Los poderes hambrientos se ciernen sobre nuestras fronteras y, lo que es peor, los comunistas acechan dentro de ellas. Para proteger a nuestro monarca y a la nación, hemos reafirmado una vez más nuestro pensamiento. Sólo fortaleciendo el estado y las fuerzas armadas, crearemos un futuro para [Root.GetName] ". #reafirmar
+# griffonian.3.d_change:0 "La guerra siempre ha sido frecuente y sangrienta en Griffonia. Si nuestra nación y nuestro pueblo quieren resistir las amenazas de nuestros vecinos, la nación debe militarizarse. [Root.GetLeader] se ha dado cuenta de esto y ha dado excesivo poderes a los fascistas para transformar el país. Aunque esto signifique una disminución de las libertades para nuestros ciudadanos, estamos convencidos de que esta será nuestra mejor apuesta para sobrevivir a estos tiempos convulsos ". # Duplicado diferente de Eaw
+# griffonian.3.d:0 "Hace mucho tiempo que nuestro gobierno se ha dado cuenta de los peligros de nuestro continente. Los poderes hambrientos se ciernen sobre nuestras fronteras y, lo que es peor, los comunistas acechan dentro de ellas. Para proteger nuestra raza y nuestra nación, hemos reafirmado una vez más nuestra pensamiento. Sólo fortaleciendo el estado y las fuerzas armadas, crearemos un futuro para [Root.GetName] ". # Duplicado diferente de Eaw
+griffonian.3.a:0 "Sobreviviremos, cueste lo que cueste". #cambiar a
+griffonian.3.b:0 "Hemos elegido el camino correcto". #reafirmar
+#harmonic monarchy
+griffonian.4.t:0 "Los principios de la armonía"
+griffonian.4.d_change:0 "Equestrian Harmony ha sido la fuerza impulsora de Equus durante siglos y ha llevado a la paz y la prosperidad para todos los ponykind. Sin embargo, los grifos han rechazado en su mayoría estas afirmaciones y han optado por luchar. Esto ha sido un desastre para la gente común y para nuestro progreso cultural y tecnológico. Nuestro monarca, en su infinita sabiduría, ha decidido dar un paso atrás y dejar que los reformadores armónicos elaboren una constitución moderna. Seremos un faro de luz en medio de los estados en guerra que nos rodean. . " #cambiar a
+griffonian.4.d:0 "Nuestra nación fue una de las primeras en Griffonia en abrazar verdaderamente los principios de la Armonía. Como tal, no es de extrañar que nuestro monarca haya decidido reafirmar los ideales y valores que tenemos en alta estima. Dirigiéndose a los grifos sobre el valor de la libertad y la cooperación, [Root.GetLeader] ha expresado sus esperanzas de que nuestro país sea un ejemplo para nuestros vecinos de que los grifos pueden seguir la armonía ". #reafirmar
+# griffonian.4.d_change:0 "Equestrian Harmony ha sido la fuerza impulsora de Equus durante siglos y ha llevado a la paz y la prosperidad para todos los ponykind. En Griffonia, sin embargo, estas ideas han tenido pocos seguidores. Esto ha sido un desastre para el gente común y por nuestro progreso cultural y tecnológico. Nuestro monarca, en su infinita sabiduría, ha decidido dar un paso atrás y dejar que los reformadores armónicos elaboren una constitución moderna. Seremos un faro de luz en medio de los estados en guerra que nos rodean ". # Duplicado diferente de Eaw
+# griffonian.4.d:0 "Nuestra nación fue una de las primeras en Griffonia en abrazar verdaderamente los principios de la Armonía. Como tal, no es de extrañar que nuestro monarca haya decidido reafirmar los ideales y valores que tenemos en alta estima. en un discurso a los grifos sobre el valor de la libertad y la cooperación, [Root.GetLeader] ha expresado sus esperanzas de que nuestro país sea un ejemplo para nuestros vecinos de que la armonía no es debilidad, sino verdadera fuerza ". # Duplicado diferente de Eaw
+griffonian.4.a:0 "El futuro es nuestro ahora". #cambiar a
+griffonian.4.b:0 "¡Armonía para siempre!" #reafirmar
+
+ # monarquía neutral
+griffonian.5.t:0 "Una noble tradición"
+griffonian.5.d_change:0 "Muchos radicales intentan controlar las naciones de Griffonia. O intentan otorgar demasiados derechos a los plebeyos, debilitando la nación sin remedio, o se aferran a las formas totalitarias del comunismo o la supremacía. Estos no son los caminos de nuestros antepasados. Un verdadero grifo conoce los valores de la herencia y la tradición. Del apellido y del honor. [Root.GetLeader] se ha comprometido a volver a estos principios, para que nuestra nación se convierta en lo que alguna vez fue ". #cambiar a
+griffonian.5.d:0 "Hemos visto cómo armonistas, comunistas y supremacistas intentan desviar al grifo común. Sus falsas promesas solo sirven a sí mismas al final. Nos hemos mantenido fieles a las viejas costumbres. A la garra guía de nobleza y verdadera tradición grifona. Hemos puesto nuestra confianza en [Root.GetLeader] como nuestro soberano. Pase lo que pase, ellos nos guiarán a través de estos tiempos turbulentos ". #reafirmar
+ # griffonian.5.d_change:0 "Muchos radicales intentan controlar las naciones de Griffonia. O intentan otorgar demasiados derechos a los plebeyos, debilitando la nación sin remedio, o se aferran a las formas totalitarias del comunismo o el fascismo. Estos son no las costumbres de nuestros antepasados. Las leyendas y los cuentos nos hablan de los valores de la herencia y la tradición. Del apellido y del honor. [Root.GetLeader] se ha comprometido a volver a estos principios, para que nuestra nación pueda convertirse en lo que una vez fue . "# Duplicado diferente de Eaw
+ # griffonian.5.d:0 "Hemos visto cómo armonistas, comunistas y fascistas tratan de desviar al plebeyo. Sus falsas promesas solo sirven a sí mismas al final. Nos hemos mantenido fieles a las viejas costumbres. A los mitos rectores y enseñanzas de nuestros antepasados ​​y nuestra religión. Hemos puesto nuestra confianza en [Root.GetLeader] como nuestro soberano. Pase lo que pase, ellos nos guiarán a través de estos tiempos turbulentos ". # Duplicado diferente de Eaw
+griffonian.5.a:0 "Ahora sabemos quién blandió el cetro". #cambiar a
+griffonian.5.b:0 "¡Nos mantendremos fieles a las viejas costumbres!" #reafirmar
+
+griffonian.10.t:0 "[From.GetNameDef] propone alianza"
+griffonian.10.d:0 "Ha llegado un enviado de la nación ahora independiente de [From.GetName]. Están proponiendo una alianza defensiva contra el Imperio resurgente y su regente ilegítimo, [GRI.GetLeader]. Divididos y solos , el Imperio puede destruirnos uno por uno, pero unidos podemos tener una oportunidad contra el poder del Reichsarmee. Nos garantizaríamos mutuamente la independencia recién obtenida hasta que la amenaza del Imperio haya sido resuelta ".
+griffonian.10.a:0 "El enviado tiene razón. Aceptamos".
+griffonian.10.b:0 "No podemos confiar en ellos".
+ 
+griffonian.11.t:0 "[From.GetNameDef] acepta Alliance"
+griffonian.11.d:0 "Nuestra enviada ha regresado de [From.Capital.GetName] con una sonrisa en su rostro, porque [From.GetName] ha aceptado nuestra propuesta de alianza defensiva y ha garantizado formalmente nuestra independencia, prometiendo para acudir en nuestra ayuda si somos atacados. Haremos lo mismo por ellos a cambio, para que podamos enfrentar juntos el poder del Imperio ".
+griffonian.11.a:0 "¡Unidos estamos!"
+
+griffonian.12.t:0 "[From.GetNameDef] Rechaza la alianza"
+griffonian.12.d:0 "Nuestra enviada ha regresado de [From.Capital.GetName] con el ceño fruncido, porque [From.GetName] ha rechazado nuestra propuesta de una alianza defensiva y no ha aceptado garantizar formalmente nuestra independencia, dejándonos enfrentar la amenaza del Imperio por nuestra cuenta. Por lo tanto, tampoco acudiremos en su ayuda. Queda por ver si esta obstinada tontería nos traerá la ruina a los dos ".
+griffonian.12.a:0 "Desafortunado".
+ 
+griffonian.13.t:0 "La Mancomunidad de Evi"
+griffonian.13.d:0 "[This.GetNewspaperHeader] Hoy en día, los grifos del Valle de Evi están unidos como uno solo. La Commonwealth de Evi se ha establecido, uniendo todas las tierras comúnmente conocidas como la Frontera Griffonian. La región se unió por última vez hace muchos años por un forastero, el emperador Grover I, pero ahora un líder local ha unificado a todas sus naciones. En la historia reciente, Evi ha pasado por muchos problemas:hambre, revolución y guerra. Es hora del Valle de Evi, con los campos de arroz de Prywhen , las vastas estepas de Gryphia, los hermosos castillos de Lushi y las ricas ciudades comerciales de Gryphus, se convirtieron en una sola. Ahora, los evianos están unidos contra los poderosos vecinos que desearían aprovecharse de ellos ".
+griffonian.13.a:0 "¿Paz en el valle de Evi? Extraordinario".
+
+griffonian.150.t:0 "Competición de luchadores"
+griffonian.150.desc:0 "Un estudio reciente del combate aéreo moderno ha mostrado una debilidad crítica en nuestra fuerza aérea. Nuestros cazas están muy por detrás de los desarrollos en otros países. El Ministerio del Aire ha iniciado un programa de choque para adquirir un caza moderno tan pronto como sea posible. Dado que el desarrollo nacional llevaría una cantidad de tiempo inaceptable, se decidió comprar una licencia en el extranjero. Se autorizó un presupuesto adicional.\n\nLos expertos difieren en qué tipo de avión sería el más adecuado para modernizar nuestro caza alas."
+griffonian.150.a:0 "Un interceptor pequeño y ligero".
+griffonian.150.b:0 "Un caza grande y pesado".
+griffonian.151.t:0 "Competición de caza ligero"
+griffonian.151.desc_light_fighter:0 "El Ministerio del Aire está buscando adquirir un nuevo caza ligero para barridos de caza ofensivos y defensa puntual, pero el Ministerio de Relaciones Exteriores ha sugerido que las preocupaciones políticas y diplomáticas también deberían influir en la decisión de qué país comprar. . "
+griffonian.151.desc_light_fighter_refused:0 "Citando la seguridad nacional, el gobierno [From.GetAdjective] se ha negado a liberar una licencia de producción. Es posible que tengamos mejores oportunidades en otros lugares, o podemos considerar la actualización de nuestros aviones existentes como una solución provisional de emergencia".
+griffonian.151.a:0 "Acércate al Imperio".
+griffonian.151.b:0 "Aproximación [WNG.GetName]".
+griffonian.151.c:0 "Aproximación [JER.GetName]".
+griffonian.151.g:0 "Aproximación [LCT.GetName]".
+griffonian.151.e:0 "Aproximación [EQS.GetName]".
+griffonian.151.f:0 "Utilice la experiencia obtenida de la competencia para mejorar nuestros propios aviones".
+griffonian.152.t:0 "Competición de caza pesado"
+griffonian.152.desc_heavy_fighter:0 "El Ministerio del Aire está buscando adquirir un nuevo caza pesado para la interceptación de largo alcance y la escolta de bombarderos, pero el Ministerio de Relaciones Exteriores ha sugerido que las preocupaciones políticas y diplomáticas también deberían influir en la decisión de qué país comprar. . "
+griffonian.152.desc_heavy_fighter_refused:0 "Citando la seguridad nacional, el gobierno [From.GetAdjective] se ha negado a liberar una licencia de producción Podemos tener mejores oportunidades en otros lugares, o podemos mirar a la mejora de nuestros aviones existentes como un substituto de emergencia.".
+ griffonian.153.t:0 "[From.GetAdjective] Fighter Competition"
+griffonian.153.desc:0 "La Fuerza Aérea [From.GetAdjective] está realizando pruebas para un nuevo caza ligero. Según nuestro Air Attache, nuestro modelo más nuevo está listo para ganar. Una solicitud formal del [From.GetAdjective] se espera el gobierno en breve.\n\nLos representantes del fabricante están firmemente a favor de la venta, pero existen preocupaciones de seguridad nacional sobre la venta de nuestro equipo más moderno a un país extranjero. ¿Deberíamos permitir que la venta se lleve a cabo? "
+griffonian.153.a:0 "Absolutamente".
+  griffonian.153.b:0 "No podemos arriesgarnos a que se produzcan fugas".
+griffonian.154.desc:0 "La Fuerza Aérea [From.GetAdjective] está realizando pruebas para un nuevo caza pesado. Según nuestro Air Attache, nuestro modelo más nuevo está listo para ganar. Una solicitud formal del [From.GetAdjective] se espera el gobierno en breve.\n\nLos representantes del fabricante están firmemente a favor de la venta, pero existen preocupaciones de seguridad nacional sobre la venta de nuestro equipo más moderno a un país extranjero. ¿Deberíamos permitir que la venta se lleve a cabo? "
+griffonian.155.t:0 "Competición de luchadores completada"
+  griffonian.155.desc:0 "Tras las negociaciones con el fabricante y los funcionarios estatales, hemos obtenido con éxito una licencia de producción para un nuevo caza. Ya ha llegado un ejemplo del avión para entrenar a los mecánicos en su mantenimiento, y un conjunto completo de dibujos y los planos se esperan en breve. La producción puede comenzar en cualquier momento ".
+  griffonian.155.a:0 "Limpio".
+  griffonian.160.t:0 "Competencia de bombarderos"
+ griffonian.160.desc:0 "Un estudio del Ministerio del Aire ha revelado que nuestras fuerzas aéreas están mal equipadas para apoyar al ejército. Los ataques aéreos de largo alcance y el apoyo aéreo cercano han sido identificados como áreas clave en las que tenemos una deficiencia crítica . El gobierno ha puesto dinero a disposición para un programa de choque para adquirir un bombardero moderno, pero debemos tomar una decisión sobre qué avión debemos adquirir ".
+  griffonian.160.a:0 "Un pequeño bombardero para apoyo cercano".
+  griffonian.160.b:0 "Un plano más grande con más alcance".
+  griffonian.161.t:0 "Competición de bombarderos ligeros"
+griffonian.161.desc_cas:0 "El Ministerio del Aire está buscando adquirir un nuevo bombardero ligero para apoyar de cerca a las fuerzas terrestres, pero el Ministerio de Relaciones Exteriores ha sugerido que las preocupaciones políticas y diplomáticas también deberían influir en la decisión de qué país comprar. "
+griffonian.161.desc_cas_refused:0 "Citando la seguridad nacional, el gobierno [From.GetAdjective] se ha negado a liberar una licencia de producción Podemos tener mejores oportunidades en otros lugares, o podemos mirar a la mejora de nuestros aviones existentes como un substituto de emergencia.".
+ griffonian.162.t:0 "Competencia de bombarderos medios"
+  griffonian.162.desc_tac:0 "El Ministerio del Aire está buscando adquirir un nuevo bombardero medio para la interdicción de largo alcance y los ataques aéreos tácticos, pero el Ministerio de Relaciones Exteriores ha sugerido que las preocupaciones políticas y diplomáticas también deberían influir en la decisión de qué país comprar de."
+  griffonian.162.desc_tac_refused:0 "Citando la seguridad nacional, el gobierno [From.GetAdjective] se ha negado a liberar una licencia de producción. Es posible que tengamos mejores oportunidades en otros lugares, o podemos considerar la actualización de nuestros aviones existentes como una solución de emergencia".
+  griffonian.163.t:0 "[From.GetAdjective] Bomber Competition"
+griffonian.163.desc:0 "La Fuerza Aérea [From.GetAdjective] está realizando pruebas para un nuevo bombardero ligero. Según nuestro Air Attache, nuestro modelo más nuevo está listo para ganar. Una solicitud formal del [From.GetAdjective] se espera el gobierno en breve.\n\nLos representantes del fabricante están firmemente a favor de la venta, pero existen preocupaciones de seguridad nacional sobre la venta de nuestro equipo más moderno a un país extranjero. ¿Deberíamos permitir que la venta se lleve a cabo? "
+  griffonian.164.t:0 "[From.GetAdjective] Concurso de bombarderos"
+griffonian.164.desc:0 "La Fuerza Aérea [From.GetAdjective] está realizando pruebas para un nuevo bombardero medio. Según nuestro Air Attache, nuestro modelo más nuevo está listo para ganar. Una solicitud formal del [From.GetAdjective] se espera el gobierno en breve.\n\nLos representantes del fabricante están firmemente a favor de la venta, pero existen preocupaciones de seguridad nacional sobre la venta de nuestro equipo más moderno a un país extranjero. ¿Deberíamos permitir que la venta se lleve a cabo? "
+  griffonian.165.t:0 "Competición de bombarderos completada"
+griffonian.165.desc:0 "Tras las negociaciones con el fabricante y los funcionarios estatales, hemos obtenido con éxito una licencia de producción para un nuevo bombardero. Ya ha llegado un ejemplo del avión para entrenar a los mecánicos en su mantenimiento, y un conjunto completo de dibujos y los planos se esperan en breve. La producción puede comenzar en cualquier momento ".
+  griffonian.165.a:0 "Limpio".
+### ideas ###
+griffon_republic_support_idea:0 "Sentimiento republicano"
+griffon_republic_support_idea_desc:0 "¿Por qué deberíamos servir a un [Root.GetRaceMember] al que no elegimos servir? En su lugar, se debería fundar una República Justa y Libre".
+griffon_monarchy_support_idea:0 "Sentimiento monárquico"
+griffon_monarchy_support_idea_desc:0 "Nuestro Monarca guía y apoya a todos dentro de nuestra orgullosa nación. ¿Por qué querríamos que esto cambiara?"
+griffon_monarchy_dem_support_idea:0 "Un monarca más justo"
+griffon_monarchy_dem_support_idea_desc:0 "El hecho de que tengamos un monarca no significa que no podamos abrazar ideas como Armonía y Amistad".
+griffon_monarchy_fas_support_idea:0 "Un monarca enérgico"
+griffon_monarchy_fas_support_idea_desc:0 "Recientemente, varios supremacistas y otros derechistas dentro del país han torcido la oreja de nuestro monarca".
+griffon_communism_support_idea:0 "Sentimiento comunista"
+griffon_communism_support_idea_trait:0 "Sentimiento comunista"
+griffon_communism_support_idea_desc:0 "Folletos y carteles, marchas en las calles: el comunismo extiende sus zarcillos rojos en nuestro país".
+griffon_fascism_support_idea:0 "Reuniones supremacistas"
+griffon_fascism_support_idea_trait:0 "Reuniones supremacistas"
+griffon_fascism_support_idea_desc:0 "Nuestros ciudadanos están empezando a creer que un gobierno fuerte debería gobernar nuestro país".
+griffon_harmony_support_idea:0 "Pensamientos armoniosos"
+griffon_harmony_support_idea_trait:0 "Pensamientos armoniosos"
+griffon_harmony_support_idea_desc:0 "Amistad y armonía, elecciones libres, tales son las demandas de la población".
+griffon_neutrality_support_idea:0 "Las viejas formas"
+griffon_neutrality_support_idea_desc:0 "El cambio por el simple hecho de hacerlo nunca funciona bien para quienes lo instigan: las viejas formas son simplemente las mejores".
+griffon_land_reform_idea:0 "Reforma agraria"
+griffon_land_reform_idea_desc:0 "Estamos confiscando y redistribuyendo tierras en todo el país para apoyar mejor nuestros objetivos".
+griffon_five_year_plan_idea:0 "Plan de cinco años"
+griffon_five_year_plan_idea_desc:0 "Nuestra capacidad industrial actual ya no satisface nuestras necesidades. Seguiremos un plan de cinco años para mejorar más rápidamente nuestra industria que carece".
+griffon_spread_the_revolution_idea:0 "Difundir la revolución"
+griffon_spread_the_revolution_idea_desc:0 "¡Ya no podemos quedarnos sin hacer nada y ver sufrir a nuestros compañeros [Root.GetRaceMembers]! ¡Debemos traerles la libertad!"
+griffon_nationalist_thought_idea:0 "Retórica nacionalista"
+griffon_nationalist_thought_idea_desc:0 "La idea de que todos somos iguales es ridícula. ¡Nuestra gente es superior en todos los sentidos y esto lo demostraremos con todas nuestras fuerzas!"
+griffon_gear_for_war_idea:0 "Prepárate para la guerra"
+griffon_gear_for_war_idea_desc:0 "Si vamos a tomar lo que es legítimamente nuestro, necesitamos una industria de armas que esté a la altura de nuestro orgullo nacional".
+griffon_militarization_idea:0 "Militarización"
+griffon_militarization_idea_desc:0 "Para tener éxito en nuestro futuro más brillante, debemos permitir que los militares tengan todos los recursos que necesitan para guiarnos en nuestro camino".
+griffon_carry_the_torch_idea:0 "Lleva la antorcha"
+griffon_carry_the_torch_idea_desc:0 "Nuestro gobierno es libre y acogedor para todos; esto nos ha proporcionado una gran ayuda para que nuevos investigadores se unan a nuestros proyectos".
+griffon_words_not_swords_idea:0 "Palabras, no espadas"
+griffon_words_not_swords_idea_desc:0 "Nunca debemos usar la espada cuando la palabra hablada funciona igual de bien."
+griffon_common_good_idea:0 "Bien común"
+griffon_common_good_idea_desc:0 "La gente no nos sirve, nosotros servimos a la gente".
+griffon_defend_the_tradition_idea:0 "Defiende nuestras tradiciones"
+griffon_defend_the_tradition_idea_desc:0 "Cada día más y más traidores amenazan nuestra forma de vida. Debemos defendernos de todas las formas de agresión externa".
+griffon_home_guard_idea:0 "Guardia de casa"
+griffon_home_guard_idea_desc:0 "Las distintas unidades paramilitares de nuestro país apoyan constantemente al frente interno".
+griffon_leading_the_way_idea:0 "Liderando el camino"
+griffon_leading_the_way_idea_desc:0 "Que nadie diga que no derramaremos hasta la última gota de sangre para defender lo que es nuestro".
+griffon_fight_to_the_last_idea:0 "Hasta el último"
+griffon_fight_to_the_last_idea_desc:0 "Si perdemos, no hay futuro, debemos sangrar cada gota de sangre de [Root.GetRaceMember] para asegurar nuestra supervivencia a cualquier precio".
+griffon_stronger_together_idea:0 "Juntos más fuertes"
+griffon_stronger_together_idea_desc:0 "A pesar de nuestras diferencias, ciertamente somos más fuertes juntos que separados".
+griffon_expansionist_focus_idea:0 "Expansionismo"
+griffon_expansionist_focus_idea_desc:0 "¿Por qué deberíamos conformarnos con lo que tenemos cuando lo que otros poseen es aún mayor?"
+
+ #griffon_tank_licenses:0 "Tank Licenses"# Different duplicate from Eaw
+griffon_air_licenses:0 "Aero Licensing"
+
+### Scripted Loc ###
+ hand_talon:0 "talon"
+ hand_talons:0 "talons"
+ hand_hoof:0 "hoof"
+ hand_hooves:0 "hooves"
+ hand_paw:0 "paw"
+ hand_paws:0 "paws"
+ hand_appendage:0 "appendage"
+ hand_appendages:0 "appendages"
+ member_griffon:0 "griffon"
+ member_griffons:0 "griffons"
+ member_pony:0 "pony"
+ member_ponies:0 "ponies"
+ member_deer:0 "deer"
+ member_changeling:0 "Changeling"
+ member_changelings:0 "Changelings"
+ member_diamond_dog:0 "Diamond Dog"
+ member_diamond_dogs:0 "Diamond Dogs"
+ member_being:0 "being"
+ member_beings:0 "beings"
+ griffon_race_type:0 "Griffon"
+ pony_race_type:0 "Pony"
+ buffalo_race_type:0 "Buffalo"
+ changeling_race_type:0 "Changeling"
+ deer_race_type:0 "Deer"
+ diamond_dog_race_type:0 "Diamond Dog"
+ #yak_race_type:0 "Yak"# Identical duplicate from Eaw
+
+ griffonian.166.t:0 "¡Cometa avistado!"
+  griffonian.166.d:0 "La aparición de un cometa brillante en el cielo nocturno causó pánico entre los [Root.GetRaceMembers] de nuestra nación. Algunos de ellos creen que el cometa es un presagio del fin del mundo o que pronto llegará el castigo por todas nuestras obras ".
+  griffonian.166.a:0 "¡Que los dioses sean misericordiosos!"
+  griffonian.166.b:0 "¡Boreas, protégenos!"
+  griffonian.166.c:0 "¡Haz un sacrificio a Maar!"
+  griffonian.166.e:0 "¿Por qué tengo tantos [Root.GetRaceMembers] estúpidos en mi nación?"
+  griffonian.166.apony_1:0 "¡El final está cerca!"
+  griffonian.166.apony_2:0 "¡Los Windigoes están regresando!"
+
+ERI_rivalry:0 "La rivalidad interminable"
+ERI_rivalry_desc:0 "La rivalidad entre Erie y Eyrie es tan antigua como la propia Griffonia. Las escaramuzas y las pequeñas guerras son nuestro deporte nacional. ¿Podremos destruir a nuestros vecinos en este siglo?"
+ERI_create_wargoal:0 "¡Prepara un ataque!"
+ERI_white_peace:0 "¡Negocia por la paz!"
+
+ERI_border_skirmish:0 "Escaramuza fronteriza"
+ERI_border_skirmish_timeout:0 "Tiempo de espera de escaramuza fronteriza"
+EYR_border_skirmish:0 "Escaramuza fronteriza"
+EYR_border_skirmish_timeout:0 "Tiempo de espera de escaramuza fronteriza"
+
+erie.1.t:0 "¡Nuestros rivales ofrecen paz!"
+erie.1.d:0 "Nuestra eterna rivalidad con [From.GetName] ha dominado durante mucho tiempo la política de nuestra nación, pero parece que esta antigua rivalidad podría llegar a su fin. Un enviado de [From.GetName] ha llegado, con una oferta de una paz definitiva entre nuestras naciones, ¿aceptamos? "
+erie.1.a:0 "¡Paz!"
+erie.1.b:0 "¡No hay paz para ti!"
+
+erie.3.t:0 "¡Victoria en la escaramuza fronteriza!"
+erie.3.d:0 "¡Navegamos sobre el río y atravesamos las defensas rivales y saqueamos las aldeas cercanas! ¡Genial!"
+erie.3.a:0 "¡Hoy vamos de fiesta!"
+erie.4.t:0 "¡Derrota en la escaramuza fronteriza!"
+erie.4.d:0 "¡Nuestras valientes tropas no lograron romper la heroica defensa de nuestro orgulloso rival!"
+erie.4.a:0 "¡Gloria a los guerreros caídos!"
+erie.5.t:0 "¡La pelea por la frontera terminó sin nada!"
+erie.5.d:0 "Parece que la batalla que estalló en nuestra frontera con nuestros eternos rivales se ha estancado, y ahora parece dar pocos frutos para nuestra nación. Como tal, nuestros comandantes han decidido suspender el ataque".
+erie.5.a:0 "¡Los mostraremos la próxima vez!"
+
+erie.6.t:0 "¡Nuestro mejor esfuerzo!"
+erie.6.d:0 "¡Los honorables guerreros defendieron con éxito nuestra barca del río contra los tontos sobre el río!"
+erie.6.a:0 "¡Viva!"
+
+erie.7.t:0 "¡Allanada en la frontera!"
+erie.7.d:0 "Nuestros terribles rivales han atravesado nuestras defensas y han asaltado las aldeas alrededor de la frontera".
+erie.7.a:0 "Eso es malo".

@@ -1,0 +1,73 @@
+﻿l_spanish:
+seer_tech:0 "Adivinación"
+ seer_tech_research:0 "Tiempo de investigación de adivinación"
+ deer_folder:0 "Tecnologías de ciervos"
+ deer_folder_desc:0 "Tecnologías mágicas, económicas y militares específicas de la raza de los ciervos".
+ deer_race:0 "Carrera de ciervos"
+ tactic_motti_tactics:0 "Motti"
+ deer_army_tech:0 "Tecnologías militares de ciervos"
+ deer_navy_tech:0 "Tecnologías navales de ciervos"
+ TITLE_DEER_SOCIETY_MAGIC_SUBTITLE:0 "ECONOMÍA Y COMERCIO"
+ TITLE_DEER_NAVY_MAGIC_SUBTITLE:0 "TRADICIÓN NAVAL"
+ TITLE_DEER_SEER_MAGIC_SUBTITLE:0 "DIVINATION"
+ TITLE_DEER_ARMY_MAGIC_SUBTITLE:0 "MILITAR"
+ tech_deer_misc:0 "Geología asistida por el espíritu"
+ tech_deer_misc_desc:0 "A través de su conexión especial con los espíritus, algunos ciervos pueden detectar minerales a través del suelo. Es similar a lo que pueden lograr ciertos ponis, pero nuestra destreza va cada vez más lejos".
+ tech_deer_misc2:0 "Teoría económica moderna"
+ tech_deer_misc2_desc:0 "Durante mucho tiempo nuestra economía ha estado al revés, y para que tengamos la esperanza de competir en el futuro, debemos modernizarnos".
+ tech_deer_misc3:0 "Medios mágicos de producción"
+ tech_deer_misc3_desc:0 "Combinando el poder de los espíritus y la magia con la industria moderna, podemos formar una simbiosis que puede ayudar a todos los ciervos a progresar".
+ tech_deer_misc_a:0 "Arquitectura natural"
+ tech_deer_misc_a_desc:0 "Al construir nuestras fábricas y viviendas en conjunto con nuestro entorno, y no contra ellos, no solo podemos aumentar la productividad, sino ayudar a ocultarlos de los bombardeos".
+ tech_deer_misc_b:0 "Comercio preferencial"
+ tech_deer_misc_b_desc:0 "Debemos promover a los capitalistas y corporaciones de nuestra nación para que se enfoquen en los intereses de los ciervos por encima de todos los demás".
+ tech_deer_misc_c:0 "Economía Reincardiana"
+ tech_deer_misc_c_desc:0 "Últimamente, un economista en nuestro país ha ganado notoriedad por sus enseñanzas, específicamente sus puntos de vista sobre la inflación y las restricciones comerciales. Al adoptar sus ideas, esperamos poder promover el crecimiento industrial y prevenir problemas futuros con la inflación. "
+ tech_deer_naval:0 "Nuevos métodos de construcción naval"
+ tech_deer_naval_desc:0 "A pesar de la larga historia de la construcción naval de ciervos, últimamente nuestras prácticas han comenzado a fallar en cuanto a técnicas más modernas. Debemos evitar eso y asegurarnos de que los barcos de ciervos sigan siendo de primera línea . "
+ tech_deer_naval2:0 "Tácticas de golpe y huida"
+ tech_deer_naval2_desc:0 "Con el uso de tácticas de golpe y huida, podemos reducir lentamente a los enemigos más grandes mientras mantenemos nuestras naves a salvo, y eliminar las naves más pequeñas con mucho menos riesgo".
+ tech_deer_naval3:0 "Diseños de barcos mercantes"
+tech_deer_naval3_desc:0 "Si bien puede ser tentador para nosotros concentrar todos nuestros recursos navales en la guerra, no debemos olvidar qué alimenta el comercio de máquinas de guerra. Al modernizar la flota comercial de nuestras clases mercantes, podemos producirlos de manera mucho más eficiente , y por lo tanto comerciar más ".
+ tech_deer_naval3_tp:0 "Trade Convoy £production_cost  Production Cost:  §G-10%§!"
+ tech_deer_naval_a:0 "Piratas modernos"
+ tech_deer_naval_a_desc:0 "Una vez, hace mucho tiempo, todos los marineros temían ver barcos de ciervo en el horizonte, y ningún barco podía escapar de su saqueo; sin embargo, solo porque esos tiempos han pasado, no significa que debamos abandonar nuestras tradiciones. por completo. Con tácticas de corsario modernizadas podemos controlar el comercio del enemigo y privarlos de recursos e importaciones de alimentos ".
+ tech_deer_naval_b:0 "Camuflaje naval"
+ tech_deer_naval_b_desc:0 "Al reducir la visibilidad de nuestros barcos, podemos mejorar casi todas las facetas de nuestra armada. Tal subterfugio se basa en métodos de disfraz tanto mágicos como más contemporáneos".
+ tech_deer_naval_c:0 "Espíritus del mar"
+ tech_deer_naval_c_desc:0 "Al invocar a los espíritus que habitan los mares, podemos mejorar la puntería y la coordinación de nuestras flotas, y causar estragos en todos aquellos a los que nos enfrentamos en la batalla".
+ tech_deer_seer:0 "Vislumbres del futuro"
+ tech_deer_seer_desc:0 "Al enviar videntes especialmente capacitados o dotados con nuestros generales, podemos ayudar a aumentar su conocimiento de su entorno y mejorar su planificación".
+ tech_deer_seer2:0 "Field Völvur"
+ tech_deer_seer2_desc:0 "Los Völvur están dotados como hembras con habilidades extremadamente elevadas como videntes y místicos. Al emplear cuerpos especializados de estos ciervos, podemos usar sus habilidades para nuestra ventaja en el combate".
+ tech_deer_seer3:0 "Visiones científicas"
+ tech_deer_seer3_desc:0 "Algunos ciervos han informado de visiones del futuro: maquinaria zumbando, inventos nuevos y extraños y nuevos diseños. Sería una farsa ignorar esta oportunidad de adelantarse a los tiempos, literalmente".
+ tech_deer_seer_a:0 "Visiones estratégicas"
+ tech_deer_seer_a_desc:0 "No debemos permitir que nuestros programas de inteligencia no se vean afectados por una práctica que podría beneficiarlo tanto como sea posible de ver - al entrenar a viejos y nuevos espías y especialistas en obtener y descifrar vislumbres del futuro, con suerte podemos prevenir y intentos de infiltración de enemigos del Estado ".
+ tech_deer_seer_b:0 "Planificación predictiva"
+ tech_deer_seer_b_desc:0 "Al capacitar a ciertos especialistas tanto en visión como en estrategia, podemos emplear ciervos que pueden emplear sus habilidades únicas en conjunto y planificar los resultados mucho mejor".
+ tech_deer_army:0 "Equipo de invierno"
+ tech_deer_army_desc:0 "Si bien los ciervos ya están al menos acostumbrados al frío, el territorio, especialmente hacia el norte, puede representar un problema para nuestras tropas. Para evitar lesiones o inconvenientes que esto pueda causar, podemos producir equipo de invierno especializado para las tropas que vayan en condiciones heladas. "
+ tech_deer_army2:0 "Infantería de esquí"
+ tech_deer_army2_desc:0 "Durante bastante tiempo, los esquís han sido el medio de transporte preferido para muchos ciervos que viven en climas nevados. No solo ayuda a evitar el problema de caminar por la nieve, sino que a menudo es mucho más rápido. Al entrenar a nuestros soldados en el uso del esquí, y usando esquís en nuestro ejército, podemos superar a cualquier invasor mucho más fácilmente ".
+  tech_deer_army2_tp:0 "£unit_mountaineers_icon_small Mountaineers:\n   Hills\n     Movement: §G+5%§!§W\n   Mountains\n     Movement: §G+10%§!§W"
+tech_deer_army2a:0 "Artillería de montaña"
+  tech_deer_army2a_desc:0 "Al utilizar nuestro conocimiento del terreno para mejorar nuestra artillería, podemos diseñar cañones más ligeros y maniobrables, y obtener una ventaja en la batalla".
+  tech_deer_army2a_tp:0 "   Hills\n     Movement: §G+5%§!§W\n   Mountains\n     Movement: §G+10%§!§W"
+tech_deer_army3:0 "Equipos de francotiradores"
+ tech_deer_army3_desc:0 "Al emplear equipos de francotiradores entrenados tanto para reconocimiento como para ataque, nuestros ejércitos podrán eliminar objetivos prioritarios y buscar enemigos que se acerquen con facilidad".
+ tech_deer_army_def:0 "Motti"
+ tech_deer_army_def_desc:0 "Al emplear 'Motti Tactics', la estrategia de formar pequeños bolsillos alrededor de las fuerzas atacantes y atraparlas mientras se agotan sus suministros, podemos defendernos de enemigos mucho más fuertes".
+ tech_deer_army_def2:0 "Dominio del terreno"
+ tech_deer_army_def2_desc:0 "Si bien nuestros enemigos pueden estar marchando hacia un terreno desconocido, estas tierras son nuestros hogares, y este conocimiento sigue vivo en los corazones de cada soldado. Nunca cederán una pulgada de la legítima tierra de los ciervos a los invasores o enemigos. Los efectos de esto son profundos, los efectos pragmáticos lo son igualmente: todo, desde la logística, el posicionamiento e incluso los disparos simples, es más fácil para aquellos que se sienten cómodos y conocen su entorno ".
+ tech_deer_army_def3:0 "Entrenamiento de montaña generalizado"
+ tech_deer_army_def3_desc:0 "Al extender el entrenamiento de montaña desde tropas especializadas a toda la infantería, podemos mejorar nuestro desempeño en cualquier entorno con el que nos encontremos".
+  tech_deer_army_def3_tp:0 "   Hills\n     Attack: §G+5%§!§W\n     Movement: §G+5%§!§W\n   Mountains\n     Attack: §G+10%§!§W\n     Defence: §G+5%§!§W\n     Movement: §G+7%§!§W"
+ tech_deer_army_atk:0 "Espíritus de los antepasados"
+  tech_deer_army_atk_desc:0 "Nuestros antepasados eran conocidos y temidos en las tierras por su valor y agresión, y debemos inculcar este rasgo en nuestros soldados. Al invocar la voluntad de sus antepasados y lanzarnos a las batallas, seremos nuevamente temidos y respetados una vez lo fuimos! "
+  tech_deer_army_atk2:0 "Espíritus del bosque"
+  tech_deer_army_atk2_desc:0 "Durante siglos, los ciervos han vivido en armonía con la naturaleza y los bosques de nuestra tierra natal. Con la ayuda de fuentes místicas, nuestros soldados pueden aprovechar el poder que se encuentra en estos bosques, convirtiéndonos en un enemigo sin igual".
+   tech_deer_army_atk2_tp:0 "   Forest\n     Attack: §G+10%§!§W\n     Defence: §G+10%§!§W\n     Movement: §G+5%§!§W"
+tech_deer_army_atk3:0 "Grupos de asalto"
+  tech_deer_army_atk3_desc:0 "Si bien algunas naciones tienen 'marines' simples, la nuestra será mucho más. Con los espíritus de sus antepasados dándoles poder, nuestros soldados brillarán por encima de la competencia".
+  

@@ -1,0 +1,218 @@
+﻿l_spanish:
+### IDEAS ###
+ EQC_anarchy:0 "Anarchy"
+ EQC_anarchy_desc:0 "Para el nuevo pedido, se deben hacer sacrificios".
+ EQC_the_purge_idea:0 "La purga"
+ EQC_MARE_loyalist_officers_idea:0 "Pruebas de lealtad de oficiales"
+ EQC_MARE_two_min_hate:0 "Odio en dos minutos"
+ EQC_MARE_thought_police_idea:0 "Policía del pensamiento"
+ EQC_MARE_economic_idea:0 "Cuotas de MiniPlenty"
+ EQC_MARE_balefire_idea:0 "Bombas Balefire"
+ EQC_MARE_sea_of_death_idea:0 "Mar de la muerte"
+ EQC_unrestricted_experiment:0 "Experimentación sin restricciones"
+ EQC_MARE_freedom_is_slavery_idea:0 "La libertad es esclavitud"
+ EQC_MARE_war_is_peace_idea:0 "La guerra es la paz"
+ EQC_MARE_mass_combat_idea:0 "Combate masivo"
+ EQC_MARE_mass_production_idea:0 "Producción en masa"
+ maresoc_leader_trait:0 "Paria internacional"
+ EQC_MARE_newspeak:0 "Newspeak"
+ EQC_MARE_prolefeed:0 "Prolefeed"
+ EQC_MARE_hate:0 "Campañas de odio"
+ EQC_MARE_doublethink:0 "Doble pensamiento"
+ EQC_MARE_joycamps_idea:0 "Joycamps"
+ EQC_MARE_junior_spies:0 "Los espías jóvenes"
+ EQC_MARE_poverty:0 "Pobreza generalizada"
+ EQC_MARE_poverty_desc:0 "Inusualmente, esta economía depende de la pobreza para funcionar, manteniendo a sus ciudadanos demasiado pobres para pensar en la traición. Esto le permite eludir muchos problemas comunes causados ​​por la pobreza generalizada".
+ 
+ ### Agencia
+ miniluv_name:0 "Miniluv"
+
+ ### VP
+ 
+ EQC_vp_south_bales:0 "South Bales"
+ EQC_vp_big_sister:0 "Hermana mayor"
+ 
+ ### Decisión
+ EQC_maresoc_surprise_war:0 "Declarar guerra sorpresa en [From.GetName]"
+ EQC_maresoc_surprise_war_desc:0 "Marelandia siempre ha estado en guerra con [From.GetNameDef]".
+ EQC_maresoc_rename_mareland:0 "Renombrar Mareland"
+ EQC_maresoc_rename_mareland_desc:0 "Ahora que hemos asegurado el control de Mareland, debemos borrar todos los registros que contradicen el hecho de que New Mareland siempre se llamó Marelandia, y que no hay otro lugar llamado Mareland en el mundo".
+ 
+ ### ENFOQUES ###
+ EQC_seize_the_opportunity:0 "Afianzar la revolución"
+ EQC_seize_the_opportunity_desc:0 "Hemos derrocado con éxito el régimen corrupto y capitalista de los viejos, pero nuestro dominio de la nación es tenue en el mejor de los casos. Deben comenzar las reformas que restablezcan el orden y aseguren nuestro control total de todos".
+ 
+ EQC_the_purge:0 "La gran purga"
+
+  ### -----
+ EQC_the_purge_desc:0 "No se puede confiar en nadie. Ni siquiera los del Partido. Debemos vaporizar a aquellos que podrían amenazar la revolución antes de que causen problemas.: Los leales celestiales, los capitalistas y los demasiado inteligentes. Cualquier mención de sus nombres se eliminará de todos los registros. Será como si nunca hubieran existido en primer lugar."
+  ### -----
+
+ EQC_seize_the_ecomony:0 "Colectivizar la economía"
+  EQC_seize_the_ecomony_desc:0 "Los mercados son nuestros mercados. Debemos desarraigar el capitalismo de nuestra nación y reducirlo a cenizas. El Partido será el dueño de todo. El comercio exterior también debe terminar; cualquier interacción con quienes están fuera de nuestra nación será castigada con la muerte. Podemos no tiene ninguna influencia en la mente de nuestros ciudadanos que no esté estrictamente autorizada por el estado mismo ".
+ 
+  EQC_reclass_the_population:0 "Reclasificar la población"
+
+  ### -----
+
+ EQC_reclass_the_population_desc:0 "Todas las sociedades del mundo, a lo largo de la historia, se han dividido en tres grupos.: El alto, el medio y el bajo. Nuestra sociedad también tendrá esa estructura. El Partido Interior será el Alto, el Partido Exterior será el Medio y el Proletariado será el Bajo. Este nuevo orden meritocrático debe afianzarse permanentemente."
+  
+  ### -----
+
+
+ EQC_begin_mind_control:0 "Big Sister Is Watching You"
+ EQC_begin_mind_control_desc:0 "To embody the Party and its values, an individual is needed. This person will be the public face of the Party, for emotions of love and fear are more easily focused on a single relatable pony. Her face will soon be displayed across the nation, with posters plastered on every wall with the slogan "Big Sister is Watching You.""
+ 
+# Ministerio de la Verdad #
+ EQC_found_minitrue:0 "La ignorancia es fuerza"
+ EQC_found_minitrue_desc:0 "Quién controla el pasado controla el futuro; quién controla el presente controla el pasado. Mientras el Partido mantenga el control del pasado, la verdad es lo que el Partido quiera que sea. Si decimos que el negro es blanco, entonces todos deben decir que es así, creer que es así y saber que el negro siempre ha sido blanco ".
+ 
+ EQC_alter_the_past:0 "Alterar el pasado"
+ EQC_alter_the_past_desc:0 "El pasado existe solo en la memoria y los registros, y ambos son mutables. Por lo tanto, Marelandia siempre se ha llamado Marelandia, y nunca fue una colonia. No hay un lugar llamado" Mareland "en el mundo. Siempre hemos estado en guerra con Equestria. Todo esto es verdad, y todo lo que contradice la verdad debe ser rectificado o borrado. El Partido es infalible ".
+ 
+ EQC_prolefeed:0 "Prolefeed"
+ EQC_prolefeed_desc:0 "Como todo ganado, los proles necesitan sustento para mantenerse contentos. Prolesec, un departamento de Minitrue, les proporcionará entretenimiento superficial y prolefeed que también moldeará su cosmovisión a nuestro gusto. Producido en masa con versificadores y otros dispositivos similares, se compone de periódicos, novelas, películas, canciones y obras de teatro radiofónicas, sin nada de sustancia ".
+ 
+ EQC_newspeak:0 "Introducir Newspeak"
+ EQC_newspeak_desc:0 "El lenguaje es la base del pensamiento. Si queremos evitar pensamientos heréticos, entonces debemos modificar claramente el lenguaje. Se simplificará, su vocabulario se reducirá enormemente y cualquier matiz o insinuación se hará imposible. Cada palabra tendrá solo una significado, y si ese significado no puede ser ortodoxo, entonces la palabra se borrará. El nuevo lenguaje se puede usar sin pensar ".
+ 
+ EQC_hate_campaigns:0 "Campañas de odio"
+ EQC_hate_campaigns_desc:0 "La baja calidad de vida y nuestra dura regla hacen que los ciudadanos se sientan frustrados y enojados inconscientemente. Sin embargo, esta emoción puede dirigirse a nuestros enemigos, tanto existentes como inexistentes, lejos de MARESOC. Dedicando dos minutos cada día y uno semana al año para odiar, podemos permitir que los ciudadanos desahoguen su ira reprimida. Aprenderán a despreciar a los enemigos del estado ".
+ 
+ EQC_doublethink:0 "Doble pensamiento"
+ EQC_doublethink_desc:0 "El doble pensamiento es el arte refinado de tener dos creencias contradictorias simultáneamente, pero pensar genuinamente que ambas son verdaderas. Sin embargo, no se trata simplemente del control de las propias creencias, sino también del dominio de los recuerdos y la capacidad del pensamiento inconsciente. Mientras que el nuevo lenguaje es el método para controlar la mente a través del lenguaje, el doble pensamiento es el método para controlar directamente la mente ".
+ 
+ #Control#
+ EQC_found_miniluv:0 "La libertad es esclavitud"
+ EQC_found_miniluv_desc:0 "El poder está en hacer pedazos las mentes y volver a unirlas en nuevas formas que tú elijas. Los ponis de Marelandia no conocerán la" magia "de la amistad, ni conocerán la honestidad, la generosidad o la bondad. Solo conocerán conoce el amor de la Hermana Mayor. Los exprimiremos para vaciarlos de armonía y los llenaremos con nosotros mismos ".
+
+ EQC_MARE_extradite_griffons:0 "Expulsar a los grifos"
+ EQC_MARE_extradite_griffons_desc:0 "No se puede confiar en la minoría de grifos de nuestro país. Son una quinta columna potencial que nuestros enemigos del este están ansiosos por utilizar en su beneficio cuando finalmente busquen destruirnos. No solo eso, sino que su raza es inherentemente capitalista, muchos de ellos se niegan a integrarse en nuestra sociedad y sirven en el ejército. Hemos tolerado su comportamiento disidente durante bastante tiempo ".
+ 
+ EQC_MARE_transrads:0 "Un Transrad en cada hogar"
+ EQC_MARE_transrads_desc:0 "El Transrad es un nuevo invento creado por los mejores ingenieros de MARESOC. Es similar a la radio, pero además de actuar como receptor también puede transmitir audio y datos visuales, de ahí el nombre. Equipado con un micrófono sensible y una cámara en miniatura, nos permitirá monitorear de cerca a cada miembro del partido. Especialmente a los que pertenecen al Partido Exterior ".
+ 
+ EQC_MARE_joycamps:0 "Abrir el campamento de alegría "
+### -----
+ EQC_MARE_joycamps_desc:0 "Tenemos decenas de miles de prisioneros que languidecen bajo custodia y su número crece cada día. Pero ahora finalmente estamos abriendo instalaciones correccionales donde los prisioneros serán obligados a trabajar para el estado. Esto tiene dos propósitos: Castigar a los prisioneros y arrancarles trabajo. A los prisioneros se les dirá que si trabajan lo suficiente, serán liberados. Nunca lo serán."
+ ### -----
+
+EQC_MARE_the_spies:0 "Los espías jóvenes"
+EQC_MARE_the_spies_desc:0 "No podemos permitir que los ciudadanos sean más leales a la familia que al partido. Los lazos deben romperse desde dentro, haciendo que los potros se unan a Junior Spies, una organización juvenil nacional que promueve el patriotismo y los valores del partido. Después de la los hijos son adoctrinados, se volverán fanáticamente leales al partido, espiarán con entusiasmo a sus padres e informarán sobre cualquier comportamiento divergente ".
+ 
+EQC_MARE_thought_police:0 "Policía del pensamiento"
+
+### -----
+EQC_MARE_thought_police_desc:0 "En Marelandia, estamos libres de leyes opresivas. Sólo hay un crimen que se puede cometer, del cual todos los demás actos tortuosos se derivan de: Crimen de pensamiento. Para prevenirlo, se establecerá la Policía del Pensamiento, dedicada a monitorear a los miembros del Partido Exterior y su comportamiento para detectar cualquier signo de disidencia. Aquellos que sean declarados culpables serán limpiados de herejía en la habitación 84.."
+### -----
+
+# MiniPlenty #
+ EQC_MARE_found_miniplenty:0 "La pobreza es prosperidad"
+ EQC_MARE_found_miniplenty_desc:0 "El Ministerio de la Abundancia, el Ministerio responsable no solo de la agricultura, sino también de la fabricación de bienes que las masas puedan pensar que quieren y de bienes que sabemos que necesitaremos. Un grupo leal de ponis dedicados a garantizar que se cumplan los números y que la población se mantenga en un estado permanente de pobreza absoluta ".
+ 
+ EQC_MARE_war_rations:0 "Racionamiento de guerra"
+ EQC_MARE_war_rations_desc:0 "La población cree que estamos en guerra, y lo estamos. Estamos en guerra con el sistema del capitalismo. Este estado de emergencia permanente significa que los recursos deben ser redirigidos del consumo civil sin sentido a la economía de guerra vital. Los registros , por supuesto, afirmará que de hecho se han aumentado las raciones. Aquellos que digan que esto no es cierto serán acusados ​​de cometer un delito mental ".
+
+ EQC_MARE_command_economy:0 "Economía de comando"
+ EQC_MARE_command_economy_desc:0 "MiniPlenty debe tener un control completo y total sobre nuestra economía. Es su deber imponer cuotas a las hordas de proles para que produzcan una cantidad excesiva de balas, armas, cohetes, tanques y más. Obligando a la población a gastar la mayor parte de su tiempo trabajando, no tendrán tiempo libre que pueda potencialmente usarse para un crimen mental ".
+ 
+ EQC_MARE_repurpose_factories:0 "Destitución impuesta"
+ EQC_MARE_repurpose_factories_desc:0 "No podemos permitir que los proles tengan riqueza o acceso a los medios de producción. Si se les mantiene en un estado de pobreza extrema, dependerán del Partido para sobrevivir y no podrán pagar la educación. Una población pobre e ignorante es mucho más fácil de dominar, después de todo. Por lo tanto, reutilizaremos las instalaciones utilizadas para la producción civil en uso militar ".
+ 
+ EQC_MARE_state_lotteries:0 "Loterías estatales"
+ EQC_MARE_state_lotteries_desc:0 "MARESOC puede darse el lujo de darles a los proles una pizca de falsa esperanza, mejorar su moral y proporcionarnos fondos. Se realizarán regularmente loterías nacionales que prometen grandes premios para los participantes. Sin embargo, nunca se entregarán premios a cualquiera. El Ministerio de la Verdad, por supuesto, publicará noticias sobre los ganadores de la lotería, pero no serán reales. El único que gana es Big Sister ".
+ 
+ EQC_MARE_live_long_and_prosper:0 "Live Long And Prosper"
+ EQC_MARE_live_long_and_prosper_desc:0 "Los informes anuales afirman que la producción está en constante aumento. En realidad, siempre está disminuyendo en todos los sectores excepto en el militar. Los informes afirman que las raciones aumentan, las cuotas superan las cuotas, que cada generación de marelandianos es más próspera y saludable que la anterior. son todas mentiras, por supuesto, y los únicos que disfrutan del vino y el chocolate son los miembros del Partido Interior ".
+
+ # Ministerio de Paz
+ EQC_found_minipax:0 "La guerra es la paz"
+ EQC_found_minipax_desc:0 "El Ministerio de Paz será responsable de mantener un estado de guerra perpetua para siempre. Es vital que seamos lo suficientemente fuertes para sobrevivir, pero no demasiado fuertes para terminar nuestras guerras demasiado rápido. La guerra constante preserva la atmósfera mental especial que una sociedad jerárquica necesita ".
+
+ EQC_MARE_loyalist_officers:0 "Oficiales MARESOC"
+ EQC_MARE_loyalist_officers_desc:0 "Antes del golpe de MARESOC, muchos oficiales permanecían leales a cosas tan abominables como la democracia y Equestria. Ahora esos oficiales nunca existieron. Se necesitan nuevos para restablecer el orden en el ejército sin líderes. Los miembros prometedores y ortodoxos del partido serán recompensados ​​con puestos de mando en el ejército ".
+
+ EQC_MARE_army_work_placements:0 "Marelandia, es para ti"
+ EQC_MARE_army_work_placements_desc:0 "Es deber patriótico de cada miembro del partido y prole salvaguardar su país de la agresión contrarrevolucionaria y de los despreciables extranjeros. El entrenamiento militar será obligatorio y todos los pony deben estar listos para servir en el ejército si es necesario".
+
+ EQC_MARE_peace_forces:0 "El ejército renacido"
+ EQC_MARE_peace_forces_desc:0 "El antiguo ejército de New Mareland ha sido moldeado a nuestra imagen. Los herejes han sido sacrificados y la disciplina restaurada. Cada soldado está dispuesto a morir por Big Sister. Este es el embrión de un poderoso ejército que un día aplastará a todos nuestros rivales y enemigos ".
+
+ #Minipax Ejército
+ EQC_MARE_land:0 "El nuevo ejército de Marelandia"
+ EQC_MARE_land_desc:0 "Un ejército, leal a los caprichos del Partido, es la única forma de mantener verdaderamente el territorio ganado y defender a MARESOC de cualquier amenaza externa. Su tarea es garantizar que la guerra se pueda mantener durante el mayor tiempo posible, y desperdiciar la producción excedente en la guerra ".
+
+ EQC_MARE_new_ways_to_kill:0 "Tecnología de la muerte"
+ EQC_MARE_new_ways_to_kill_desc:0 "El progreso tecnológico solo se permite cuando las innovaciones se pueden usar para la opresión o la conquista. Los rifles mejorados y las armas pesadas contribuyen a esto último y fortalecen nuestro ejército. Tales innovaciones deben ser alentadas, ya que eventualmente permitirán que MARESOC supere todos sus enemigos ".
+
+ EQC_MARE_war_machines:0 "Marelandia es indestructible"
+ EQC_MARE_war_machines_desc:0 "Ya no se permite que ningún pony cruce la frontera. Debe fortificarse aún más en preparación para la agresión enemiga. Miles de trabajadores trabajarán incesantemente, hasta la muerte si es necesario, para convertir a nuestra nación en una fortaleza inexpugnable e invencible. . Nada puede amenazar el gobierno de MARESOC ".
+ 
+ EQC_MARE_mass_combat:0 "Una ola de carne"
+ EQC_MARE_mass_combat_desc:0 "Marelandia es pequeña y débil. Si queremos lograr nuestro objetivo de conquista total del mundo, debemos volvernos fuertes. Nuestro ejército debe rivalizar con el de nuestros vecinos a pesar de nuestra menor población e industria. Reclutaremos a la fuerza tantos ponis como necesitamos ahogar a nuestros enemigos en la sangre de nuestros soldados ".
+
+ EQC_MARE_mass_production:0 "Producción en masa"
+ EQC_MARE_mass_production_desc:0 "Nuestro ejército siempre necesita más herramientas de matanza. Los proles serán enviados a las fábricas de armas para trabajar sin cesar y llenar las cuotas de producción. Se tendrán que hacer sacrificios en cuanto a calidad, pero varios soldados mueren de el mal funcionamiento de las armas es una pérdida aceptable ".
+
+ EQC_MARE_extermination_research:0 "Experimentación sin restricciones"
+ EQC_MARE_extermination_research_desc:0 "En Marelandia la ciencia, en el sentido antiguo, casi ha dejado de existir. Los métodos de empirismo y racionalidad, que contradicen los principios del MARESOC, solo se aplican donde es necesario, como el desarrollo de nuevas armas. Como la moralidad es cualquiera que sea el Party quiere que así sea, esta investigación ahora se puede desencadenar ".
+
+ #Minipax Airforce
+EQC_MARE_air:0 "La nueva fuerza aérea de Marelandia"
+ EQC_MARE_air_desc:0 "Somos los legítimos herederos de la Fuerza Aérea de New Mareland, y la reutilizaremos para convertirla en una herramienta de destrucción. Quien gobierne los cielos gobierna el campo de batalla, y quien gobierne el campo de batalla eventualmente gobernará el mundo. Nuestro amplio suministro de aluminio y los pilotos experimentados nos permiten manejar la fuerza aérea más poderosa del continente ".
+
+ EQC_MARE_fighters:0 "Supremacía aérea"
+ EQC_MARE_fighters_desc:0 "Nuestros aviones deben ser cada vez más rápidos, ágiles y letales. Cada nuevo modelo debe superar al anterior. Sin embargo, la cantidad no debe sacrificarse por la calidad. Si no solo superamos al enemigo, sino que lo superamos en número, lograremos dominación total del cielo. ¡Los ingenieros y los trabajadores de las fábricas deben ponerse a trabajar! "
+
+ EQC_MARE_bombers:0 "Muerte desde arriba"
+ EQC_MARE_bombers_desc:0 "Si deseamos someter a nuestros enemigos por completo, debemos bombardear a los civiles y destruir las fábricas. Cuando les mostramos lo vulnerables que son, atacamos sus monumentos más queridos y masacramos a civiles indefensos, su moral quedará devastada. y se debilitarán a causa del miedo ".
+
+ EQC_MARE_atomic_purges:0 "Armas de destrucción masiva"
+ EQC_MARE_atomic_purges_desc:0 "La máxima demostración de fuerza es la única forma de garantizar el ascenso de MARESOC y la total erradicación del capitalismo, y ¿qué mejor forma que una mezcla de ciencia y magia tan peligrosa que no debería utilizarse salvo en las circunstancias más extraordinarias?"
+
+#Minipax Armada
+ EQC_MARE_sea:0 "La Nueva Marina de Marelandia"
+ EQC_MARE_sea_desc:0 "Los barcos de la Royal Mareland Navy han sido colectivizados por el estado. Ahora se utilizarán para defender nuestra extensa costa y controlar el océano que nos rodea, cortando las líneas de suministro marítimo y los vínculos comerciales de nuestros enemigos. . "
+
+ EQC_MARE_convoy_raiding:0 "Ahogarlos"
+ EQC_MARE_convoy_raiding_desc:0 "Cualquier fuerza ecuestre que invada Marelania tendría que llevar suministros a través de los mares para mantener sus tropas abastecidas. Cazar y hundir estos barcos logísticos dejará a los invasores varados y hambrientos, haciéndolos presa fácil para nuestros soldados".
+
+ EQC_MARE_terror_ships:0 "Fortalezas flotantes"
+ EQC_MARE_terror_ships_desc:0 "Es inevitable que nuestra armada tenga que luchar en combate directo con otra armada, y asegurarnos de que nuestras naves capitales estén en la cima de la línea evitará que seamos derrotados. Construir enormes gigantes de acero móviles armados hasta el borde con armamento garantizará el dominio naval ".
+
+ EQC_MARE_sea_of_death:0 "Mar de la muerte"
+ EQC_MARE_sea_of_death_desc:0 "Llenar los mares con submarinos traerá la muerte a todos los buques mercantes, así como a las flotas de superficie que nuestros enemigos enviarán inevitablemente tras nosotros".
+ ### OTHER ###
+ eqc_prepare_the_maresoc_coupe:0 "§RMARESOC preparará un golpe.§!"
+ 
+ ##I cannot fucking believe maresoc did not have any events whatsoever, really shows how poorly done this path was
+ ##anyways yes here's event loc
+ 
+ mareland.69.t:0 "¡Las bombas cohete golpean el atardecer!"
+ mareland.69.d:0 "Al mediodía se oyó un fuerte chillido sobre Sunset, momentos antes de que el sonido de una explosión retumbara hiciera eco en las calles. Un rastro de humo gris atravesó el cielo, dejado por un cohete que había viajado más rápido que Había aterrizado cerca del centro de la ciudad, en un distrito industrial durante las horas de trabajo más concurridas. Una gran fábrica se había reducido a un enorme cráter humeante, con trozos de carne esparcidos a su alrededor.\n\nNo tomó mucho tiempo propaganda para difundir la noticia del evento. Equestria había lanzado un cohete a través del mar y mató a 156 civiles inocentes e hirió a varios cientos más. Ahora estaba claro para todos que Celestia era una tirano insensible que no estaba por encima de asesinar ponis indefensos para romper la moral de Marelander . Se esperaban más bombas cohete, pero los ciudadanos de Marelandia no tenían miedo. No, estaban envalentonados y más dispuestos que nunca a luchar contra el despreciable e inmoral enemigo. Los jóvenes ponis acudieron en masa a los centros de reclutamiento y entusiasmados. ly se unió al ejército y la fuerza aérea, ansiosos por defender sus hogares de tales ataques ".
+ mareland.69.a:0 "¡Muerte a la escoria ecuestre!"
+ 
+ mareland.70.t:0 "Dos minutos de odio"
+ mareland.70.d:0 "Todo el departamento se detuvo cuando todos los trabajadores se reunieron en un pasillo con una gran pantalla de proyección. Había cientos de asientos, pero pronto estaban todos ocupados. Se oía una charla excitada en el aire mientras los ponis esperaron a que comenzara el odio de los dos minutos. Se quedaron en silencio cuando una gran cara en blanco y negro apareció en la pantalla.\n\nEra Jet Set, el ex gobernador de New Mareland, el principal enemigo de Marelandia. Su Su rostro estaba triste, y comenzó a suplicar a la audiencia, diciendo que habían cometido un grave error y que no era demasiado tarde para dar marcha atrás. Varios ponis en la audiencia respondieron con gritos de enojo. Jet Set continuó, su voz cada vez más quebradiza. , mientras hablaba sobre la magia de la amistad y la princesa Celestia, y cómo ella todavía los amaba y los perdonaría si la abrazaban de nuevo. Pero mientras hablaba, unos soldados ecuestres sombríos comenzaron a marchar detrás de él. La audiencia jadeó y comenzó gritando cada vez más. Mientras las botas de los soldados Estampado en el suelo, Jet Set continuó gimiendo, las lágrimas brotaban de sus ojos. Era tan miserablemente patético que era imposible no despreciarlo.\n\nEntonces, el rostro de Jet Set se desvaneció, y apareció la propia Celestia, sacudiendo la sucia garra de un bárbaro grifo. Ahora los soldados ponis marcharon junto a los grifos hacia la audiencia, empuñando rifles, pistolas y cuchillos, con una mirada asesina en sus ojos. La audiencia gritó y gritó, algunos comenzaron a entrar en pánico mientras un pony arrojaba un Diccionario Newspeak a la pantalla.\n\nPero luego la pantalla se volvió negra y silenciosa. Lentamente, apareció el rostro calmado de Big Sister, mirando en silencio a los espectadores. Ellos respondieron con elogios, aliviados de que ella los hubiera salvado de la princesa tirana y sus salvajes aliados, y comenzaron a corear su nombre con alegría ".
+ mareland.70.a:0 "¡B - S! B - S! B - S!"
+ 
+ mareland.71.t:0 "Refugiados leonados de Marelandia"
+ mareland.71.d:0 "Nuestros guardias fronterizos informan que miles de grifos indigentes han estado cruzando la frontera día y noche, provenientes del país vecino de Marelandia. Son parte de la minoría de grifos en la nación, pero ahora parece que el partido gobernante del MARESOC ha decidido extraditar a la mayoría de los grifos que viven dentro de sus fronteras. Los refugiados dicen que eran sospechosos de ser espías, saboteadores y miembros potenciales de una quinta columna.\n\nNo tenemos más opción que dejar que las masas de pobres los grifos entran en nuestro país. Enviarlos de vuelta a la pesadilla distópica de Marelandia está claramente fuera de discusión. Esto significa que tenemos que averiguar qué hacer con todos los refugiados que están llegando ".
+ mareland.71.a:0 "Esos ponis han ido demasiado lejos ..."
+ 
+ mareland.72.t:0 "Podemos escucharte"
+ mareland.72.d:0 "Paper Pusher, miembro del Partido Exterior, miró a los lados mientras se acercaba a su casa. Tenía que asegurarse de que nadie lo seguía antes de entrar en el edificio de apartamentos. Sus alforjas contenían un artículo lo que resultaría en la pena capital si se descubría, pero afortunadamente nadie tenía una razón para revisar su contenido.\n\nSubió las crujientes y destartaladas escaleras y silenciosamente abrió la puerta de su apartamento, tratando de no llamar la atención. Cerró la puerta y exhaló un suspiro de alivio. El transrad en su habitación tocaba canciones patrióticas, era imposible apagarlo, así que había estado encendido mientras él no estaba. Caminó hasta su escritorio y se quitó la alforja. Con vacilación, la abrió y luego, por si acaso, corrió las cortinas apolilladas de las ventanas. Con cascos temblorosos sacó el objeto criminal y blasfemo.\n\n"El Diario de la Amistad", murmuró asombrado. El libro contenía las lecciones de Twilight Sparkle y sus amigas. Contrabando f rom en el extranjero. Calificado como "propaganda armonista de lavado de cerebro" por MARESOC. En estas páginas, la magia de la amistadpermaneció incluso cuando se había ido del resto de New Mareland. Este tomo era tan valioso como peligroso.\n\nAbrió con cuidado la cubierta y pasó las páginas para comprobar que era real. De hecho lo estaba, lleno de historias de amistad y armonía. Tenía muchas ganas de leerlo todos los días y recordar el pasado, cuando los ponis de New Mareland eran amigos.\n\nSe oyó un fuerte golpe en la puerta. Luego otro. Paper Pusher jadeó y se apresuró a esconder el libro. Pero ya era demasiado tarde cuando la puerta se hizo añicos en astillas de madera. Los policías entraron, apuntándole con armas y ordenándole que dejara caer el libro y se acostara con los cascos en la espalda.\n "¿Pensaste que podrías escondernos tu crimen de pensamiento?" ladró uno de los oficiales. "Recuerda, la Hermana Mayor no solo te está mirando. Ella también te está escuchando".\nAntes de que pudiera responder, un oficial lo golpeó en la cabeza con una porra, dejándolo inconsciente ".
+ mareland.72.a:0 "Otro criminal atrapado en el acto".
+ 
+ mareland.73.t:0 "Curar la locura"
+ mareland.73.d:0 "" ¿Sabes dónde estás, Empujador de Papel? ", preguntó un miembro del Partido Interior.\n" Dentro del Ministerio del Amor ".\n" ¿Cuánto tiempo llevas aquí? "\n" No sé. ¿Semanas, meses, años? "\n" ¿Y por qué crees que traemos ponis aquí? "\n" Para hacerlos confesar ".\n" Mal. "\n" ¿Para castigarlos? "\n" ¡No! Los traemos aquí para curarlos. Para que puedan volver a estar cuerdos. Tú también estarás cuerdo ".\n\nPaper Pusher estaba acostado en una camilla, con las extremidades atadas y el cuerpo inmovilizado. Se le sujetaron varios cables." Aún te aferras a tus delirios de que la amistad y la armonía deben ser luchadas, incluso luchó por. Una vez que hayamos terminado contigo, sabrás lo que realmente importa. Dime, ¿cuál es el propósito de MARESOC? "\n" Afirmas protegernos del capitalismo y el imperialismo mientras asegura tu frágil gobierno con la tiranía ".\nPulsa un interruptor y Paper Pusher gritó de dolor." No. Inténtalo de nuevo. "\n" Tú ... nos gobiernas por nuestro propio bien. "Gritó de nuevo de dolor. El miembro del Partido Interior sacudió la cabeza con decepción." No lo entiendes. La meta y el propósito de MARESOC es el poder. Poder no sobre la materia, sino sobre la mente. No permitimos que florezca la herejía. Lo limpiamos tan pronto como lo encontramos. Dime, ¿cómo puedes asegurarte de que otra persona te obedezca? "\n" ¿Con sufrimiento? "\n" Con sufrimiento. El dolor es la esencia del poder. Y el poder es todo lo que buscamos. Por eso hacemos sufrir a rebeldes y traidores hasta que se rompen, hasta que los curamos y los hacemos leales, hasta que triunfamos. Eso es lo que deseamos. Victoria tras victoria, dominación completa. No somos como otros tiranos del mundo, como Chrysalis que afirmó luchar por el honor, o Kemerskai que afirmó luchar por la democracia. No queremos nada más que poder por sí mismo. "\n" Pero ... ¿por qué abandonaste la amistad y la armonía? ¿Por qué no le gustó? "\n" Debe entender esto, empujador de papel. La amistad es un alivio temporal. Los amigos mueren. La armonía se estanca y muere. Pero el Partido es para siempre. Si un individuo se borra a sí mismo y se vuelve uno con el Partido, si todos sus pensamientos y acciones derivan del Partido, es inmortal. Por lo tanto, tienen poder incluso sobre la muerte. "\n" No me importa la inmortalidad o el poder. Solo quiero tener amigos de nuevo, como antes ".\nEl miembro del Partido Interior suspiró." Parece que solo te queda una opción ".
+ mareland.73.a:0 "" Habitación 84. ""
+ 
+ mareland.74.t:0 "Un día normal"
+ mareland.74.d:0 "Después de dieciséis horas de trabajo en la fábrica de municiones, Light Sky se dirigió hacia su casa. No vestía nada más que harapos grises, su única prenda de vestir, que apenas cubría su cuerpo demacrado. Caminaba con cansancio. calles agrietadas y sin mantenimiento mientras se ponía el sol, sin transporte público ni vehículo personal para usar. Pasó junto a una banda de conocidos ladrones y traficantes de drogas, que la miraron y la ignoraron, al ver lo pobre que era.\n\nDespués una hora, Light Sky finalmente llegó a su choza, ubicada en el vasto barrio pobre que rodea a Sunset. Recordó haber vivido una vez en un apartamento, pero ahora estaban reservados solo para los miembros del Partido. Esperaba que su potro algún día pudiera aprobar los exámenes y unirse a los estimados rangos de MARESOC, y vivir una vida mejor que ella.\n\nEse potrillo vino a conocerla e inmediatamente exigió comida. Tenía hambre, aunque tenía más grasa y músculos alrededor de los huesos que ella. Ella asintió y se dirigió a la la sección de cocina de la habitación. No había otras habitaciones en la choza. Rebuscó en el crujiente armario junto a la estufa oxidada y se las arregló para encontrar un poco de pan rancio y mohoso en un rincón. Luego usó un fragmento de metal que había robado de la fábrica como un cuchillo para cortar los trozos mohosos y partir el pan por la mitad. Pero cuando ella le ofreció la mitad a su potrillo, él se sintió infeliz y pisoteó el piso con sus cascos, ordenándole que le diera la otra hogaza también, o de lo contrario reportaría el robo de la pieza de metal al Ministerio del Amor. . Ella obedeció sin resistencia. Otro día más sin comida. Pero valió la pena mientras uns su hijo viviría ".
+ mareland.74.a:0 "Así es la vida patética de un prole repugnante".
+ 
+ mareland.80.t:0 "Armonía racial"
+ mareland.80.d:0 "No todos los grifos se vieron obligados a abandonar el país. Aquellos que voluntariamente se unieron al partido y expusieron sus valores fueron bienvenidos en el redil de Big Sister. De hecho, no hubo discriminación racial en el proceso de convertirse en un miembro del partido, ya que a todas las criaturas se les dio la misma oportunidad siempre que cumplieran con los otros numerosos requisitos previos, lo más importante la lealtad absoluta al MARESOC. Grifos, thestrals y cebras pronto ascendieron en las filas, algunos incluso se unieron al Partido Interior.\n\nPropaganda oficial continuó retratando a los grifos como una raza alienígena y hostil, pero incluso esto fue un arreglo temporal. Una vez que los estados de los grifos fueran inevitablemente aplastados, no habría razón para promover el odio contra los grifos, y la máquina de propaganda cambiaría rápidamente de marcha para promover los grifos como hermanos y hermanas, no diferentes a los ponis. Ya se estaba haciendo propaganda similar sobre los thestrals, que durante mucho tiempo habían sido considerados como ciudadanos secundarios, aunque tratados mejor que en Eq. uestria. Marelandia, después de todo, era un país libre e igualitario, por lo que era de esperar la solidaridad racial.\n\nLos jinetes, sin embargo, son criaturas descarriadas y salvajes, empeñadas en destruir Marelandia. Big Sister no les dará piedad. ¡Ella destruirá Equestria y erradicará a su gente! ¡Muerte a Equestria! ¡B - S! ¡B - S! ¡B - S! "
+ mareland.80.a:0 "¡Todas las razas unidas bajo un mismo estandarte!"
+ 

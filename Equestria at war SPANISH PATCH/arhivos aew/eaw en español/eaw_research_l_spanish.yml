@@ -1,0 +1,44 @@
+﻿l_spanish:
+paperclip_tech_bonus:0 "" Operación Paperclip "Bonus"
+  #excavation_tech:0 "Velocidad de investigación de tecnologías de excavación" # movido para reemplazar la carpeta
+  naval_weaponry:0 "Armamentos navales"
+  naval_artillery:0 "Artillería naval"
+  torpedo_tech:0 "Tecnologías de torpedos"
+  naval_training:0 "Métodos de entrenamiento naval"
+  naval_ammunition:0 "Tecnologías de munición naval"
+  naval_light_artillery:0 "Modelos de batería ligera y secundaria"
+  naval_medium_artillery:0 "Modelos de batería media"
+  naval_heavy_artillery:0 "Modelos de batería pesada"
+  naval_armor:0 "Tecnologías de armadura naval"
+  fire_control:0 "Tecnologías de control de incendios"
+  special_forces_tech:0 "Tecnología de fuerzas especiales"
+  special_forces_tech_research:0 "Tiempo de investigación de tecnología de las fuerzas especiales"
+  #cat_anti_air:0 "Anti-Air" # Duplicado idéntico de Eaw
+  computing_tech_research:0 "Investigación tecnológica informática"
+  interwar_antiair:0 "Antiaéreo remolcado"
+## Additional Amphibious Vehicles
+amphibious_mechanized_infantry_3:0 "Tractores anfibios avanzados"
+ amphibious_mechanized_infantry_3_desc:0 "Los avances adicionales en Amtracs permiten una mayor eficiencia en los desembarcos navales".
+ amphibious_mechanized_infantry_4:0 "Tractores anfibios modernos"
+ amphibious_mechanized_infantry_4_desc:0 "Los Amtracs modernizados brindan a nuestros marines una protección aún mejor".
+ amphibious_mechanized_infantry_5:0 "Tractores anfibios modernos II"
+ amphibious_mechanized_infantry_5_desc:0 "Los Amtracs modernos implementan cambios de sus contrapartes terrestres para mejorar su potencia de fuego".
+ amphibious_tank_3:0 "Tanque anfibio avanzado"
+ amphibious_tank_3_desc:0 "Los tanques anfibios avanzados se centran en realizar mejoras similares a las que se hicieron en sus variantes terrestres para aumentar su poder".
+ amphibious_tank_4:0 "Tanque anfibio moderno"
+ amphibious_tank_4_desc:0 "Los tanques anfibios modernizados proporcionan una protección y una potencia de fuego aún mejores".
+ amphibious_tank_5:0 "Tanque anfibio moderno II"
+ amphibious_tank_5_desc:0 "Los tanques ambhibios modernos siguen las mejoras de otros tanques para llevar las mejores capacidades de combate a las aguas".
+
+ basic_encryption_lar:1 "Cifrado - Cifrados polialfabéticos"
+ basic_encryption_lar_desc:0 "Con los nuevos métodos de comunicación surgen nuevos riesgos de interceptación. Se pueden utilizar máquinas de cifrado de rotor para permitir un cifrado rápido y complejo".
+ better_encryption_lar:1 "Cifrado - Permutaciones cíclicas"
+ better_encryption_lar_desc:0 "La limitación en la aleatorización de las máquinas de cifrado se puede aprovechar para romper los cifrados. Al mejorar la aleatoriedad de la mecánica del rotor, podemos hacer que este tipo de criptoanálisis sea más difícil".
+ advanced_encryption_lar:1 "Cifrado - Modulación de código de pulso"
+ advanced_encryption_lar_desc:0 "Las mejoras tecnológicas y la experiencia ganada con esfuerzo nos permiten implementar más medidas de seguridad del flujo de tráfico en nuestras comunicaciones".
+ basic_decryption_lar:1 "Descifrado - Análisis de frecuencia"
+ basic_decryption_lar_desc:0 "El criptoanálisis se está convirtiendo cada vez más en una ciencia matemática avanzada. Los sistemas como catálogos de tarjetas y dispositivos como ciclómetros pueden ayudar en el trabajo necesario".
+ better_decryption_lar:1 "Descifrado - Ataque de canal lateral"
+ better_decryption_lar_desc:0 "El desarrollo de computadoras más sofisticadas permite nuevas aplicaciones de métodos de criptoanálisis como la diferenciación, que se pueden utilizar para descifrar cifrados avanzados cuando se combinan con nuevos métodos de descifrado de códigos".
+ advanced_decryption_lar:1 "Descifrado - Deducción automatizada"
+ advanced_decryption_lar_desc:0 "El mayor poder de cálculo que mejoró nuestro criptoanálisis hasta ahora amenaza con crear cifrados casi irrompibles en el futuro. Para mantenernos a la vanguardia, debemos estar preparados para trabajar más agresivamente en obtener información privilegiada sobre la tecnología".

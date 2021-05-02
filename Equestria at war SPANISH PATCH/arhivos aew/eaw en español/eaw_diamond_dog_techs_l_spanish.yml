@@ -1,0 +1,52 @@
+﻿l_spanish:
+diamond_dog_folder:0 "Tecnologías Diamond Dog"
+diamond_dog_folder_desc:0 "Tecnologías militares e industriales específicas de la raza Diamond Dog y sus parientes".
+diamond_dog_race:0 "Carrera de perros de diamantes"
+TITLE_DIAMOND_DOGS_IRONPAWS_SUBTITLE:0 "IRONPAWS"
+TITLE_DIAMOND_DOG_INDUSTRY_SUBTITLE:0 "MINERÍA E INDUSTRIA"
+TITLE_DIAMOND_DOG_ARMY_SUBTITLE:0 "MILITAR"
+ Ironpaws:0 "Zarpas de hierro"
+ ironpaws_desc:0 "Guerreros perros fuertemente armados, similares a los caballeros grifos, estos soldados son particularmente hábiles para establecer fortificaciones y operar en territorio accidentado, como montañas y túneles subterráneos. Se les considera la élite militar y empuñan las mejores armas que se puede proporcionar ".
+ ironpaws_tech:0 "Tecnología Ironpaws"
+ tech_ironpaws:0 "División Ironpaws"
+ tech_ironpaws_desc:0 "Aunque los Perros Diamante son conocidos por su amor por las excavaciones y los tesoros, su progreso tecnológico se ha quedado a la zaga de otras razas, ya que tienen a los científicos en una consideración inferior. Para contrarrestar el armamento avanzado que despliegan sus enemigos, los perros han comenzado a entrenar con armaduras pesadas guerreros especializados en aprovechar el terreno accidentado en su beneficio ".
+ tech_ironpaws2:0 "División II de Ironpaws"
+ tech_ironpaws2_desc:0 "Someter a los reclutas de Ironpaw a un régimen de entrenamiento más severo mejorará su cohesión en la batalla, además de mejorar su precisión con los rifles".
+ tech_ironpaws3:0 "División de Zarpas de Hierro III"
+ tech_ironpaws3_desc:0 "Las continuas mejoras en la armadura y los brazos de nuestros Ironpaws garantizarán su supremacía en el campo de batalla".
+ tech_ironpaws_a:0 "División IV de Zarpas de Hierro"
+ tech_ironpaws_a_desc:0 "A medida que las guerras se vuelven cada vez más destructivas y mortales, nuestros soldados deben adaptarse a las condiciones cambiantes con nuevos ejercicios de entrenamiento".
+ tech_ironpaws_b:0 "División V de Zarpas de Hierro"
+ tech_ironpaws_b_desc:0 "Orgullo de los Diamond Dogs, Ironpaws tiene derecho a los mejores diseños que nuestros ingenieros pueden idear. Nuestro éxito se basa en su alto rendimiento continuo".
+ tech_ironpaws_c:0 "División VI de Zarpas de Hierro"
+ tech_ironpaws_c_desc:0 "Desde sus humildes orígenes como un batallón cuerpo a cuerpo de choque, Ironpaws se ha convertido en una fuerza incomparable, equipada con armas de fuego pesadas contemporáneas, capaz de enfrentarse a cualquier enemigo y salir victorioso."
+ tech_diamond_dog_misc:0 "Metalurgia Extractiva"
+ tech_diamond_dog_misc_desc:0 "Pocas especies pueden afirmar ser tan competentes y hábiles en la excavación y excavación de túneles como los perros de diamante. Desde una edad temprana, se sabe que los cachorros cavan sus propios túneles en busca de los bienes minerales escondidos debajo del suelo. Aunque son industriales la minería no se hace con las patas desnudas, sigue siendo una prioridad mejorar nuestro equipo y mejorar los estándares de seguridad, para que los perros puedan seguir beneficiándose de las riquezas de la tierra ".
+ tech_diamond_dog_misc2:0 "Construcción subterránea"
+ tech_diamond_dog_misc2_desc:0 "La mayoría de los perros prefieren vivir bajo tierra y pocos se aventuran a la superficie por elección propia. El entorno subterráneo engendra una especie resistente, y la necesidad de seguridad y protección de nuestras riquezas hace que sea necesario construir grandes ciudades y bóvedas debajo de la superficie. . "
+ tech_diamond_dog_misc3:0 "Construcción subterránea II"
+ tech_diamond_dog_misc3_desc:0 "La arquitectura y el diseño mejorados hacen que sea más factible expandir nuestras ciudades subterráneas, al tiempo que aseguran que no estén en peligro de colapsos. Nuestros enemigos encontrarán particularmente difícil interrumpir nuestra producción industrial, con casi todas las fábricas ubicadas de manera segura en el alcances más profundos ".
+ tech_diamond_dog_misc_a:0 "Maquinaria pesada en minería"
+ tech_diamond_dog_misc_a_desc:0 "No es suficiente confiar en la fuerza para excavar el mineral; se debe importar, construir y utilizar maquinaria pesada para expandir nuestras operaciones mineras, mientras que el mineral sin refinar se procesa y se convierte en un material útil mucho más rápido que antes".
+ tech_diamond_dog_misc_b:0 "Crecimiento industrial"
+ tech_diamond_dog_misc_b_desc:0 "Pocas cosas hacen más felices a los perros que un largo día en la fragua, creando bienes de consumo y equipamiento militar para su nación. Es vital modernizar nuestros centros de producción, para que el estado en su conjunto pueda beneficiarse y progresar más . "
+ tech_diamond_dog_misc_c:0 "Industria minera moderna"
+ tech_diamond_dog_misc_c_desc:0 "Incomparables tanto en la producción de recursos como en las tecnologías utilizadas en el proceso, los Diamond Dogs están a la vanguardia de cualquier proyecto de excavación importante en el mundo".
+ tech_diamond_dog_army:0 "Casa de montaña"
+ tech_diamond_dog_army_desc:0 "The dog biology makes them particularly adapt in crossing rough environment, such as hills and mountains. Training our soldiers how to be better handle the terrain while carrying heavy equipment would improve the speed of our operations."
+ME_MOUNTAIN_HOME_TOOLTIP:0 "    §YMountain§!: Movement: §G+10%§!\n    §YHill§!: Movement: §G+5%§!\n"
+tech_diamond_dog_army2:0 "Entrenamiento de montaña"
+tech_diamond_dog_army2_desc:0 "Se requieren tácticas y estrategias especializadas para desempeñarse de manera óptima en el terreno accidentado que los perros llaman hogar".
+
+tech_diamond_dog_army2_tt:0 "    §YMountain§!:\n     Attack: §G+15%§!\n     Defence: §G+5%§!\n§Y    Hill§!:\n     Attack: §G+7%§!\n     Defence: §G+3%§!\n"
+tech_diamond_dog_army_atk3:0 "Tunelización ofensiva"
+tech_diamond_dog_army_atk3_desc:0 "Pocas especies leen el suelo tan bien como los perros. Los zapadores entrenados evitarán las fortificaciones enemigas con múltiples túneles desde los que nuestras fuerzas pueden atacar, atrapando a los defensores de ambos lados".
+tech_diamond_dog_army_def3:0 "Túnel defensivo"
+tech_diamond_dog_army_def3_desc:0 "No hay trinchera más firme que una ubicada bajo tierra. El número de aviones y los aviones de nuestros enemigos importarán poco una vez que se vean obligados a atacarnos en nuestras fortificaciones subterráneas".
+tech_diamond_dog_army4:0 "Fortificaciones avanzadas"
+tech_diamond_dog_army4_desc:0 "La gran cantidad de recursos que poseen los perros hace que sea particularmente fácil para ellos establecer defensas donde sea que se necesiten, en un corto período de tiempo."
+tech_diamond_dog_army5:0 "Entrenamiento de montaña II"
+tech_diamond_dog_army5_desc:0 "Más mejoras en nuestras técnicas de lucha en la montaña harán que los perros sean una fuerza incomparable cuando se trata de batallas en nuestro terreno de elección".
+tech_diamond_dog_army5_tt:0 "    §YMountain§!:\n     Attack: §G+5%§!\n     Defence: §G+5%§!\n§Y    Hill§!:\n     Attack: §G+3%§!\n     Defence: §G+2%§!\n"
+tech_diamond_dog_army6:0 "Túneles avanzados"
+tech_diamond_dog_army6_desc:0 "Un túnel de Diamond Dog es quizás el lugar más seguro en el que uno puede estar durante un ataque aéreo. Simplemente es un desperdicio destruir el mismo suelo, incluso con explosivos modernos".

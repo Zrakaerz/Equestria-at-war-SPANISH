@@ -1,0 +1,159 @@
+l_spanish:
+ EQC_SOL.1.t:0 "Golpe solarista"
+ EQC_SOL.1.d:0 "Tras los recientes acontecimientos en Equestria, varios grupos dentro de nuestro ejército y la sociedad han comenzado a simpatizar con la nueva regla de" Daybreaker ". Nuestra inteligencia sugiere que un gran grupo de oficiales, liderados por el general Candy Garden, está planeando derrocar a nuestro gobierno en un golpe de estado. Parece que se nos está acabando el tiempo. El destino de New Mareland podría muy bien depender de nuestra elección de acción ".
+ EQC_SOL.1.a:0 "¡Los conspiradores se encuentran horas antes del golpe!"
+ EQC_SOL.1.b:0 "¡El ejército detiene al Congreso en un golpe de estado incruento!"
+ EQC_SOL.1.c:0 "Del lado de los solaristas".
+ EQC_SOL.1.e:0 "Del lado de los leales".
+ solarempire.35.t:0 "Solarismo en Nueva Mareland"
+ solarempire.35.d:0 "New Mareland ha prometido una vez más servirnos, bajo la Emperatriz. Si bien estas son buenas noticias para todos nosotros, algunos elementos de nuestro ejército y gobierno sospechan que el gobierno de New Mareland aún podría mantener en secreto fuertes lazos con nuestros viejos enemigos, como Luna. Como tales, han sugerido que "eliminemos" [solar_EQC.GetLeader] del poder e instalemos un pony más fiel y leal en su lugar.\n\nDeberíamos mantener al gobierno actual a cargo y dejar que continúen con su reinado relativamente exitoso, ¿o es hora de un cambio de régimen? "
+ solarempire.35.a:0 "[EQC.GetLeader] ha hecho un buen trabajo".
+ solarempire.35.b:0 "Envía a uno de nuestros leales ponis para garantizar el cumplimiento".
+ solarempire.36.t:0 "Apoyo imperial"
+ solarempire.36.d:0 "Tras los recientes acontecimientos dentro de nuestra nación, ha habido muchos rumores en torno a la" legitimidad "y" lealtad "de nuestro gobierno al Imperio. La propia Emperatriz se enteró de estas preocupaciones y sospechas, aunque no No parece haber nada que temer. Ella nos ha dejado en claro tanto a nosotros como a sus asesores que somos lo suficientemente fieles para nuestro trabajo, y que nuestro reinado de "éxito relativo" puede continuar. Si bien es solo un poco insultante, esto es una buena noticia, en general ".
+ solarempire.36.a:0 "Afortunadamente, podemos mantener la cabeza".
+ solarempire.37.t:0 "Intervención imperial"
+ solarempire.37.d:0 "Después de nuestra lucha por el poder y la sumisión al nuevo Imperio, ha habido muchas conversaciones y rumores tanto en New Mareland como en el Imperio en torno a la legitimidad y la" lealtad "de nuestro gobierno a la Emperatriz. La propia Emperatriz se ha enterado de esta intriga, y teme que no seamos tan leales como afirmamos, diciendo que todavía tenemos mucho sentimiento por los enemigos del Imperio. Su plan es sacar a nuestro gobierno actual del poder e instalar un poni leal del Imperio como nuestro nuevo gobernante. Esto no sería bien recibido por nadie más que los Imperiales al otro lado del mar, pero ¿tenemos siquiera algo que decir contra el gigante que es el Imperio? "
+ solarempire.37.a:0 "Si ese es su deseo ..."
+ solarempire.37.b:0 "¡Esto es demasiado, lo rechazamos!"
+
+EQC_junta_long:0 "Junta Militar Solarista"
+  EQC_junta_party:0 "Junta Solar"
+  EQC_SOL_fascism_party_long:0 "Reinado del Santo Sol"
+  EQC_SOL_fascism_party:0 "HSR"
+  EQC_imperial_exhibition:0 "Excursion Imperial"
+
+
+ #Reorganize Government Path
+ EQC_SOL_reorganise_the_government:0 "Reorganizar el gobierno"
+  EQC_SOL_reorganise_the_government_desc:0 "Un número creciente de diputados dentro del Congreso de New Mareland han criticado la alineación de nuestro gobierno con Empress Daybreaker.\n\nEn respuesta, el gobernador general [EQC.GetLeader] ha pedido nuevas elecciones, en una fecha no especificada en un futuro próximo. Hasta entonces, se ha creado un consejo de ministros temporal para dirigir el estado ".
+
+ EQC_SOL_university_exchanges:0 "Intercambios universitarios"
+ EQC_SOL_university_exchanges_desc:0 "Antes de la inestabilidad actual, nuestro gobierno y el gobierno de Equestria habían establecido un programa de intercambio bastante confiable para los profesores de nuestras instituciones postsecundarias. Esto ha sido especialmente beneficioso para nosotros ya que Equestria tiene algo de la mejor magia, programas de ciencias aplicadas, historia equina y matemáticas en el mundo ".
+
+ EQC_SOL_reassure_the_populace:0 "Tranquilizar a la población"
+ EQC_SOL_reassure_the_populace_desc:0 "El gobernador general [EQC.GetLeader] ha recurrido a la radio para reafirmar el compromiso de su gobierno con los ponis de New Mareland y también para confirmar la continua dedicación de Empress Daybreaker a la prosperidad, felicidad y seguridad de sus súbditos".
+
+ EQC_SOL_keep_calm_and_carry_on:0 "Mantenga la calma y continúe"
+ EQC_SOL_keep_calm_and_carry_on_desc:0 "De la noche a la mañana, se han colocado una serie de carteles en las calles de Sunset, New Manhattan y otros asentamientos en todo el país. Sobre ellos hay una imagen simplificada de una corona con el texto" Keep Calm and Carry On "impreso debajo . "
+
+ EQC_SOL_increase_transoceanic_trade:0 "Incrementar el comercio transoceánico"
+ EQC_SOL_increase_transoceanic_trade_desc:0 "Ha habido una ola reciente de inestabilidad en todo el mundo de los grifos con, lo que parece, dos de cada tres gobiernos cayendo en regímenes que nacionalizan activos extranjeros. Esto ha creado un deseo entre los capitalistas ecuestres de mover sus operaciones, en el continente Griffon, a algún lugar con un pelo de estabilidad ".
+
+ EQC_SOL_extend_working_hours:0 "Extender el horario laboral"
+ EQC_SOL_extend_working_hours_desc:0 "Estamos en medio de una crisis y depende de cada poni capacitado darlo todo si queremos capear esta tormenta. Puede que no nos guste vivir en una cultura de jornadas laborales de diez horas y obligatorias horas extras, pero es mejor que vivir bajo la bota de la tiranía ".
+
+ EQC_SOL_make_a_deal_with_the_opposition:0 "Hacer un trato con la oposición"
+ EQC_SOL_make_a_deal_with_the_opposition_desc:0 "Nuestra promesa de nuevas elecciones no se ha cumplido actualmente, lo que ha provocado una creciente indignación y desobediencia civil de nuestros partidos políticos.\n\n Para lograr la unidad, el gobernador general [EQC.GetLeader] ha pedido la inclusión de líderes de la oposición dentro de nuestro consejo de gobierno temporal ".
+
+ EQC_SOL_grand_imperial_exhibition:0 "Gran Exposición Imperial"
+ EQC_SOL_grand_imperial_exhibition_desc:0 "Desde la ascensión de Celestia a Emperatriz, el estado ecuestre ha realizado un tremendo progreso en términos de tierras ganadas, logros científicos obtenidos y riqueza generada. Para celebrarlos, la Emperatriz desea organizar una exposición itinerante para recorrer sus dominios y ha seleccionado New Manhattan como una de estas ciudades ".
+
+# Reorganizar / pacificar los enfoques compartidos
+ EQC_SOL_econ_1:0 "Inversiones en infraestructura"
+ EQC_SOL_econ_1_desc:0 "Las tierras de New Mareland son enormes, ricas y abundantes. Sin embargo, se nos niega el acceso a esta riqueza debido a una red de infraestructura deficiente que prohíbe el transporte de mercancías de manera efectiva.\n\n Para abordar esto, Necesitamos realizar importantes inversiones en la construcción y mejora de nuestras redes ferroviarias y viales ".
+
+ EQC_SOL_econ_2:0 "Intervención en el mercado de pezuñas pesadas"
+ EQC_SOL_econ_2_desc:0 "La Gran Depresión demostró que el casco invisible del capitalismo no está exento de defectos. Es un sistema en el que los precios de las materias primas fluctúan, los bancos fracasan y la mala suerte acaba con miles de puestos de trabajo.\n\n Se deben poner salvaguardias en su lugar para garantizar que las dificultades económicas nunca regresen ".
+
+#Pacificar los enfoques estatales
+ EQC_SOL_pacify_the_state:0 "Pacificar el estado"
+ EQC_SOL_pacify_the_state_desc:0 "Ha habido una creciente inestabilidad entre nuestra población desde la proclamación del Imperio Solar. Ya hay informes de huelgas y disturbios en Sunset y otros centros industriales.\n\n En respuesta, el Gobernador General [EQC.GetLeader] ha pidió que los militares ocupen y protejan la infraestructura civil clave ".
+
+ EQC_SOL_introduce_martial_law:0 "Introducir la ley marcial"
+ EQC_SOL_introduce_martial_law_desc:0 "La desobediencia civil solo ha aumentado en las últimas semanas. Esto ha dejado al gobernador general [EQC.GetLeader] sin otra opción que declarar la ley marcial.\n\n El gobierno civil ha sido disuelto y reemplazado por un consejo militar que ha puesto en vigor un toque de queda y limitaciones a los derechos de reunión pública ".
+
+ EQC_SOL_rapid_military_expansion:0 "Expansión militar rápida"
+ EQC_SOL_rapid_military_expansion_desc:0 "Recientemente, nuestro ejército ha estado plagado de desertores y amotinados que han abandonado nuestras filas con una lamentable falta de personal ante esta ley marcial continua. Para abordar esto, el consejo militar ha presentado el proyecto de ley de expansión militar rápida. en su lugar, una forma limitada de servicio militar obligatorio para aliviar los problemas de poder poni dentro de nuestras fuerzas armadas ".
+
+ EQC_SOL_begin_stabilization:0 "Iniciar estabilización"
+ EQC_SOL_begin_stabilization_desc:0 "Los disturbios han terminado, los manifestantes han regresado a casa y nuestra oposición ha sido encarcelada. Esta puede haber sido la crisis más grande desde 997, pero la hemos soportado.\n\n Mientras el consejo militar todavía está en su lugar, se espera que renuncien y permitan el regreso exitoso del gobierno civil ".
+
+ EQC_SOL_pardon_researchers:0 "Investigadores del perdón"
+ EQC_SOL_pardon_researchers_desc:0 "Muchos de los intelectuales más importantes de la colonia estaban entre la oposición a nuestro gobierno. Si bien estos radicales son intrínsecamente peligrosos, poseen un conjunto de habilidades que es difícil de replicar. Se espera que, al liberarlos, vean nuestra misericordia y regresen a una vida de ciencia en lugar de política ".
+
+ EQC_SOL_autarky:0 "Autarquía solar"
+ EQC_SOL_autarky_desc:0 "New Mareland es un reino expansivo con todo tipo de recursos naturales. Esto significa que, en caso de guerra, nuestro gobierno puede cambiar fácilmente a una política de autosuficiencia. Aún así, nunca está de más prepararse y desarrollar nuestros programas autosuficientes de antemano ".
+
+ EQC_SOL_press_censorship:0 "Censura de prensa"
+ EQC_SOL_press_censorship_desc:0 "El New Manehattan Times nos llama dictadores mientras que Sunset Gazette afirma que somos autócratas.\n\n Si estos periódicos desean avivar las brasas de la rebelión, con su difamación, entonces no tenemos más remedio que tratarlos como los enemigos que son ".
+
+ EQC_SOL_military_government:0 "Ley de gobierno militar"
+ EQC_SOL_military_government_desc:0 "¿Responsabilidad? ¡La oposición quiere hacernos responsables de lo que hemos hecho para abordar esta crisis!\n\n Aparentemente, ha quedado claro que todas las ramas del antiguo gobierno civil están enfermas de elementos rebeldes".
+
+ EQC_SOL_stability_prevails:0 "La estabilidad prevalece"
+ EQC_SOL_stability_prevails_desc:0 "Nuestros periódicos ya no imprimen difamación, nuestro gobierno civil ya no corrompe al estado y nuestra oposición está encarcelada o muerta.\n\n Todo lo que queda es el consejo, la colonia y la emperatriz".
+
+
+ #Joint Pacify/Embrace Focuses
+ EQC_SOL_purge_the_military:0 "Purgar el ejército"
+  EQC_SOL_purge_the_military_desc:0 "Muchos de nuestros oficiales son remanentes de los días previos a la crisis. Teniendo esto en cuenta, no debería sorprendernos que algunos tengan simpatías públicas o privadas hacia la independencia, Luna u otras facciones extremistas.\n\n Se ha hecho necesario eliminar estos radicales ".
+
+  EQC_SOL_solar_command_share_name:0 "Comando solar unificado"
+  EQC_SOL_unified_command:0 "Comando solar unificado"
+  EQC_SOL_unified_command_desc:0 "Actualmente, los altos mandos del Imperio Solar y New Mareland están fragmentados en dos entidades separadas. Esto significa que hay una burocracia que debe superarse al intentar coordinar nuestras fuerzas. Para reducir esto, el Imperio Solar ha solicitó que integremos nuestras fuerzas armadas en una cadena de mando unificada bajo su liderazgo ".
+
+#Embrace (Aka. Holy Fucking Shit Celestia calm down)
+ EQC_SOL_embrace_the_sun:0 "Abraza el sol"
+ EQC_SOL_embrace_the_sun_desc:0 "La Emperatriz nos da luz y con su luz se nos permite calor, comida y paz. Sin embargo, hay quienes dentro de nuestra colonia desean escupir en la cara de este regalo y desafiar la gracia de Su Majestad.\n\n Debemos hacerle saber a Celestia que estos radicales no hablan por la colonia y que nosotros, como ponis leales, estamos unidos detrás de ella ".
+ 
+ EQC_SOL_solar_reinforcements:0 "Refuerzos solares"
+ EQC_SOL_solar_reinforcements_desc:0 "" Veinticuatro mil soldados en Sunset Harbor. ¡Cuando rodeen a nuestras tropas! ¡Rodean a nuestras tropas! ¡Cuando rodeen a nuestras tropas! "\n" Como un potrillo en Celestia deseaba una guerra. Sabía que era pobre. Sabía que era la única forma de ... "\n -Palabras finales del poeta frenético, asesinado durante la liberación solar de Nueva Manehattan".
+ EQC_SOL_solar_reinforcements_tp:0 "¡Genera una división de élite §Yolar Guard§! Con Ponypower completo y 30% de equipo\n"
+ 
+ EQC_SOL_centralize_the_state:0 "Centralizar el estado"
+ EQC_SOL_centralize_the_state_desc:0 "El deslucido apoyo del Congreso de New Mareland a la Emperatriz, ya que nuestros parlamentarios continúan paralizando legislación clave.\n\n Si estos ponis no cumplen con su deber, entonces no tenemos más remedio que disolver el Congreso y centralizar el aparato de estado sobre la oficina del gobernador general. "
+
+ EQC_SOL_let_the_sun_judge_them:0 "¡Dejemos que el sol los juzgue!"
+ EQC_SOL_let_the_sun_judge_them_desc:0 "El Common Law ha sido suspendido, siendo reemplazado por un nuevo sistema de tribunales centrados en la devoción y la lealtad a la Emperatriz. Estos tribunales están destinados a eliminar a aquellos con una devoción menos que perfecta y se sabe que sus jueces tienen puntos de vista bastante medievales sobre cómo lidiar con los delincuentes ".
+
+ EQC_SOL_redemption_through_labour:0 "Redención a través del trabajo"
+ EQC_SOL_redemption_through_labour_desc:0 "Si bien muchos de los ponis más radicales que pasan por los Tribunales Solares terminan muertos, hay una parte significativa de los que son declarados culpables de delitos menores. En su misericordia, la Emperatriz Daybreaker consideró que estos ponis serían más adecuados para trabajos forzados en lugar de la horca ".
+ 
+ EQC_SOL_reward_loyal_researchers:0 "Recompensar a los investigadores leales"
+ EQC_SOL_reward_loyal_researchers_desc:0 "La gran mayoría de nuestros supuestos intelectuales se opusieron a la Emperatriz. Ahora muchos de estos ponis están muertos.\n\n Sin embargo, un grupo de ponis verdaderamente intelectuales se mantuvo leal a Daybreaker. Este grupo trabaja febrilmente y el A la emperatriz le gustaría verlos recompensados ​​".
+
+ EQC_SOL_one_harmony:0 "Una voz, una verdad, una armonía"
+ EQC_SOL_one_harmony_desc:0 "Sólo hay una voz, la de la Emperatriz.\n\n Sólo hay una verdad, la que dijo la Emperatriz.\n\n Sólo hay una armonía, la de la Emperatriz".
+
+ EQC_SOL_destroy_shadowbolts:0 "Destruye los Shadowbolts"
+ EQC_SOL_destroy_shadowbolts_desc:0 "La Sociedad Shadowbolt es tan antigua como la propia New Mareland. Una organización secreta que opera desde las sombras para manipular los asuntos de estado en beneficio de sus miembros. Se han opuesto firmemente al gobierno de la Emperatriz y ofrecen nuestra última espina de resistencia ".
+
+ EQC_SOL_solar_economy:0 "Industria de la Luz"
+ EQC_SOL_solar_economy_desc:0 "Somos súbditos leales a la Corona Ecuestre, ya que nuestras tierras ahora están libres de todos los traidores. No hay nadie que se atreva a enfrentarse a la Emperatriz y nuestra devoción por ella permanece inquebrantable. Nuestras vidas están comprometidas y sacrificadas en nombre de su justa causa y con mucho gusto hacemos este compromiso ".
+ #ideas
+ EQC_SOL_purge_the_military_tt:0 "\nIn §Y120§! days:\nGains "
+ EQC_SOL_keep_calm_and_carry_on_idea:0 "Mantenga la calma y continúe"
+ EQC_SOL_keep_calm_and_carry_on_idea_desc:0 "Tu coraje, tu alegría, tu resolución traerán la victoria a la Emperatriz".
+ EQC_SOL_increase_transoceanic_trade_idea:0 "Mayor comercio transoceánico"
+ EQC_SOL_increase_transoceanic_trade_idea_desc:0 "Con el aumento de la inestabilidad en Griffonia, hemos decidido centrar nuestros esfuerzos comerciales en el continente ecuestre".
+ EQC_SOL_extend_working_hours_idea:0 "Horas de trabajo extendidas"
+ EQC_SOL_extend_working_hours_idea_desc:0 "Aunque las horas de trabajo más largas no son las favoritas de nadie, sin duda están teniendo un buen resultado en nuestra producción".
+ EQC_SOL_introduce_martial_law_idea:0 "Ley marcial"
+ EQC_SOL_introduce_martial_law_idea_desc:0 "Las protestas y la evasión del servicio militar han hecho necesario implementar la ley marcial, aumentando el control militar sobre el estado de New Mareland".
+ EQC_SOL_rapid_military_expansion_idea:0 "Proyecto de ley de expansión militar rápida"
+ EQC_SOL_rapid_military_expansion_idea_desc:0 "Se está haciendo un esfuerzo intensivo para expandir el lamentablemente pequeño ejército colonial, con el fin de proteger los intereses de la Emperatriz".
+ EQC_SOL_autarky_idea:0 "Autarquía"
+ EQC_SOL_autarky_idea_desc:0 "Pase lo que pase, un estado debe ser autosuficiente en todos los medios, principalmente en términos de recursos".
+ EQC_SOL_military_government_idea:0 "Ley de gobierno militar"
+ EQC_SOL_military_government_idea_desc:0 "La administración militar está teniendo un efecto maravilloso en la reducción de la burocracia".
+ EQC_SOL_press_censorship_idea:0 "Censura de prensa"
+ EQC_SOL_press_censorship_idea_desc:0 "Los periódicos traidores ya no publican calumnias, solo escriben la palabra de la Emperatriz. Su palabra es la verdad y la ley incuestionable".
+ EQC_SOL_purge_the_military_debuff_idea:0 "Militar purgado"
+ EQC_SOL_purge_the_military_debuff_idea_desc:0 "El ejército está pasando por un período de reorganización ya que cualquier pony sospechoso de colaborar con el enemigo ha desaparecido misteriosamente".
+ EQC_SOL_unified_command_idea:0 "Comando solar unificado"
+ EQC_SOL_unified_command_idea_desc:0 "Las fuerzas armadas de New Mareland y el Imperio Solar están trabajando como una sola, mejorando enormemente la consecución de nuestros objetivos".
+ EQC_SOL_purge_the_military_buff_idea:0 "Un ejército leal"
+ EQC_SOL_purge_the_military_buff_idea_desc:0 "El ejército ahora cuenta con ponis exclusivamente leales a la Emperatriz. Marchan como uno, luchan como uno y mueren como uno".
+ EQC_SOL_solar_reinforcements_idea:0 "Oficiales imperiales"
+ EQC_SOL_solar_reinforcements_idea_desc:0 "Han llegado refuerzos del continente, en forma de oficiales experimentados para entrenar a nuestra nueva generación de tropas".
+ EQC_SOL_centralize_the_state_idea:0 "Centralización total"
+ EQC_SOL_centralize_the_state_idea_desc:0 "El desleal Congreso de New Mareland se ha disuelto, dejando solo la oficina del Gobernador General para manejar la toma de decisiones en New Mareland".
+ EQC_SOL_let_the_sun_judge_them_idea:0 "Sin piedad para los herejes"
+ EQC_SOL_let_the_sun_judge_them_idea_desc:0 "" Puedes redimirte a la Emperatriz o servir en la línea de fuego. ""
+ EQC_SOL_redemption_through_labour_idea:0 "Trabajo forzoso para traidores"
+ EQC_SOL_redemption_through_labour_idea_desc:0 "Penitencia por el trabajo".
+ EQC_SOL_one_harmony_idea:0 "One Harmony"
+ EQC_SOL_one_harmony_idea_desc:0 "Un estado, una armonía, una Emperatriz".
+ EQC_SOL_failed_coup_idea:0 "Golpe fallido"
+ EQC_SOL_failed_coup_idea_desc:0 "El intento fallido de los conspiradores de subvertir el orden en New Mareland está teniendo un efecto profundo en el estado. El gobernador general Jet Set está en proceso de eliminar a cualquier pony que haya estado trabajando con ellos".

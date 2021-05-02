@@ -1,0 +1,55 @@
+﻿l_spanish:
+#########################################
+### LOCALIZACIÓN DE ENFOQUE ###################
+#########################################
+
+EWI_Silence_Reigns:0 "Un secreto bien guardado"
+EWI_Silence_Reigns_desc:0 "Realmente no deberías estar leyendo esto. Por ejemplo, no etiquetes el cambio aquí, no lo pasarás bien. Este país es literalmente injugable".
+
+#########################################
+### LOCALIZACIÓN DE EVENTOS ###################
+#########################################
+
+windego.1.t:0 "La respuesta"
+windego.1.d:0 "No lea esto".
+windego.1.a:0 "Todos mueren".
+
+windego.2.t:0 "El fin"
+windego.2.d:0 "Está hecho. Volvemos a escondernos una vez más".
+windego.2.a:0 "Hasta luego".
+
+windego.3.t:0 "Después de la tormenta"
+windego.3.d:0 "El último invierno fue más frío de lo habitual. Los vientos helados del norte soplaron y las ventiscas eran comunes. Al principio pensamos que era natural, pero durante ese invierno las patrullas fronterizas de la Orden Arturiana, que alguna vez fueron custodiando celosamente la frontera, se habían ido. Nunca regresaron. \ n \ nAhora nos han llegado noticias de valientes que se atrevieron a aventurarse en las tierras heladas de la Orden. Dicen que la tierra ha sido completamente desierta. Los pueblos y aldeas están cáscaras vacías y cadáveres congelados cubrían el suelo. \ n \ nEs imposible decir con certeza qué sucedió, pero la Orden aparentemente ha dejado de existir. Ahora nadie controla las tierras que alguna vez tuvieron. Esto nos presenta una oportunidad para mudarnos y tomárnoslo para nosotros. Mientras el área esté despoblada, podemos aprovechar los recursos naturales locales. La pregunta es, ¿nos atrevemos a reclamar esas tierras malditas? "
+windego.3.a:0 "No veo por qué no".
+windego.3.b:0 "Deja que sea problema de otra persona".
+
+#########################################
+### POLÍTICA #############################
+#########################################
+
+POLITICS_Spectre_DESC:0 "§YBorn§!: Unknown\n\n§YBiography§!: No se sabe nada de la Reina de los Windigos. Todos los enviados diplomáticos que se le enviaron no han regresado, dejando claro que las negociaciones con ella serán imposibles. Ella es el odio encarnado. \ n \ n§YRetrato de§ !: bunnyshrubby "
+EWI_DESC_OLDSPEC:0 "Esto no es un Windigo. ¿Qué es? ¿De dónde vino? ¿Qué está haciendo aquí? ¿Está vivo?"
+EWI_DESC_WINDIGO:0 "Los Windigos se encuentran entre las criaturas más horribles del mundo. No tienen ni piedad ni piedad en sus almas, y se deleitan en convertir amigo contra amigo y romper los lazos de la comunión. Durante mucho tiempo se creyó que era un mito, pero está claro ahora que son demasiado reales ".
+
+windigo_queen:0 "Reina de los Windigos"
+
+#########################################
+### IDEAS ##############################################################################################################################################################################################################################################################################################
+#########################################
+
+EWI_last_stand:0 "La batalla final"
+EWI_last_stand_desc:0 "A pesar de todo nuestro cuidadoso trabajo, la Orden Arcturiana ha descubierto nuestro complot y se está moviendo para exponernos al mundo. No podemos dudar ni rendirnos; las naciones del mundo se unirían para matar a cada uno de nosotros sin dudarlo misericordia. Por lo tanto, lucharemos hasta el final ".
+EWI_windigo_land:0 "Regla de Windigo"
+EWI_windigo_land_desc:0 "Los Windigos han barrido esta tierra, trayendo nieve y muerte a donde quiera que vayan. Su gobierno es superficialmente similar al de la Liga del Pavor, pero no están atrapados en el letargo del pasado".
+EWI_storm:0 "Eterna ventisca"
+EWI_storm_desc:0 "La llegada de los Windigos ha hecho que la tierra sea tan fría que los ponis mueren de frío incluso durante el día."
+
+ewi_army_chief:0 "Reina espectro"
+ewi_navy_chief:0 "Mares tormentosos"
+ewi_air_chief:0 "Blizzard Hail"
+ewi_high_command1:0 "Viento aullante"
+ewi_high_command2:0 "Tormenta gritando"
+ewi_high_command3:0 "Frore Agony"
+ewi_political_1:0 "Beso frío"
+ewi_political_2:0 "Flash congelado"
+ewi_political_3:0 "Rebanada gélida"

@@ -1,0 +1,149 @@
+  l_spanish:
+
+Greater_equestria:0 "el árbol de enfoque de la mayor unión ecuestre"
+
+ ### Enfoque nacional ###
+ GEU_unite_nation:0 "Una voluntad"
+ GEU_unite_nation_desc:0 "Está claro que si queremos sobrevivir, no debe haber más libre albedrío, solo la voluntad de Dark Wing".
+ GEU_seize_factories:0 "Nacionalizar empresas ecuestres"
+ GEU_seize_factories_desc:0 "Los jinetes pudieron haber sido útiles alguna vez para darnos comida, pero ahora está claro que su capitalismo arruinado busca envenenar nuestra tierra y nuestra gente. Ahora les quitaremos todo. ¡Todos los bienes para el Comisariado del Pueblo!"
+ GEU_war_economy_f:0 "Guerra en el frente interno"
+ GEU_war_economy_f_desc:0 "Los obreros y campesinos deben darlo todo por el esfuerzo bélico. La nación no puede tolerar la cobardía en la fábrica mientras sus gloriosos soldados luchan y mueren en el frente".
+ GEU_war_plan:0 "Plan de guerra rojo"
+ GEU_war_plan_desc:0 "Si vamos a liberar a los jinetes de sí mismos antes de que sus enemigos los liberen de sus vidas, necesitamos un plan, un gran plan, el mejor plan que cualquier pony haya tenido. War Plan Red, el llamado 'año de la violencia ', es ese plan ".
+ GEU_mass_conscription:0 "Reclutar la nación"
+ GEU_mass_conscription_desc:0 "Sin excusas, sin excepciones, sin cuartel. Todos deben servir si queremos sobrevivir".
+ GEU_new_units:0 "Batallones Penales"
+ GEU_new_units_desc:0 "Los tontos jinetes llamaron criminales a estos ponis, pero nosotros los llamaremos héroes."
+ GEU_new_units_tt:0 "¡Genera §Y Doce Divisiones de Infantería§!\n"
+ GEU_wait_what:0 "Discurso del camarada secretario general"
+ GEU_wait_what_desc:0 "Ahora que las reformas de Dark Wing están en su lugar, nuestro glorioso líder está listo para pronunciar un discurso sobre el futuro de la nación".
+
+ GEU_authority:0 "Nuevas prioridades"
+ GEU_authority_desc:0 "Ahora que Equestria está fuera de escena, es hora de que el resto del mundo aprenda a temer a su nuevo maestro".
+ GEU_war_plan_black:0 "Plan de guerra negro"
+ GEU_war_plan_black_desc:0 "Los Cambiantes podrían haber sido una distracción conveniente, pero han sobrevivido a su utilidad. Ahora debemos prepararnos para el futuro".
+ GEU_fortification:0 "Prontitud de la fortificación"
+ GEU_fortification_desc:0 "Mientras se preparaba para lo inevitable, se ha determinado que las fortificaciones serían bastante útiles si los cambiantes atacaran primero. El estado mayor estima que debería llevar dos años terminar la construcción antes del próximo conflicto".
+ GEU_CHN_conflict:0 "Conflicto de Changeling"
+ GEU_CHN_conflict_desc:0 "Nuestra traición a nuestros viejos aliados puede parecer repentina, pero fue inevitable. Ha llegado el momento de implementar el Plan de Guerra Negro e integrar a los Cambiantes en la nación por la fuerza".
+ GEU_cores:0 "Hacer cumplir la voluntad"
+ GEU_cores_desc:0 "El resto de Equestria debe aprender su lugar. Sus princesas se han ido, su soberanía es una cosa del pasado, y solo viven ahora para servir en el glorioso estado de Dark Wing. Lo único que queda por hacer es aplastar su esperanza de Algo más."
+ GEU_capital:0 "Nuevas excavaciones"
+ GEU_capital_desc:0 "Con Equestria bajo el control de Dark Wing, ahora queda abierta la opción de elegir una nueva capital para su nueva nación si así lo desea".
+ GEU_crystal_cores:0 "Integración cristalina"
+ GEU_crystal_cores_desc:0 "Los Ponis de Cristal se niegan tontamente a inclinarse ante Dark Wing. Corregiremos este comportamiento."
+ GEU_ban_communism:0 "Elimina la vieja guardia"
+ GEU_ban_communism_desc:0 "Algunos degenerados desleales sobrevivieron a la purga inicial y están abogando por el regreso del politburó. Estos tontos necesitan una campaña prolongada de reeducación y liquidación para eliminar".
+ GEU_entrench:0 "Aficionados ecuestres"
+ GEU_entrench_desc:0 "Con una serie de discursos sinceros y verdaderamente genuinos sin agenda oculta alguna, nuestro Líder Imperioso ganará a esos pocos ecuestres tontos que aún no se han dado cuenta de lo maravilloso que es".
+ GEU_crush:0 "Fin de Equestria"
+ GEU_crush_desc:0 "Ha llegado el momento de acabar con el último de estos rebeldes y saboteadores que buscan socavar al GEU. Les hemos quitado la esperanza y ahora les quitaremos la vida".
+
+ GEU_army:0 "Vamos a ponernos peligrosos"
+ GEU_army_desc:0 "Somos el terror que ondea en la noche, somos las banderas que reducen tus fronteras, somos el bloqueo que sube el precio de tu marca de pan favorita, ¡somos la Gran Unión Ecuestre!"
+ GEU_navy:0 "Imperious Navy"
+ GEU_navy_desc:0 "Nuevas tierras esperan al otro lado de los mares para ser conquistadas. Solo necesitamos construir un barco para llegar allí".
+ GEU_carriers:0 "Aterrizajes acuáticos"
+ GEU_carriers_desc:0 "Los juegos de guerra para futuros conflictos marítimos muestran buques de guerra hundidos una y otra vez por aviones. Por lo tanto, está claro que los barcos que llevan aviones son el futuro del combate naval".
+ GEU_carrier_planes:0 "Despegues acuáticos"
+ GEU_carrier_planes_desc:0 "El funcionario a cargo del desarrollo de nuestros portaaviones se olvidó de diseñar aviones para que los llevaran. Ahora ha sido ejecutado por traición y su reemplazo está preparando varios diseños de aviones nuevos".
+ GEU_carriers_part_2:0 "¡Esta vez, definitivamente!"
+ GEU_carriers_part_2_desc:0 "Desde entonces hemos aprendido de nuestros errores anteriores uny desarrollará portaaviones en concierto con los aviones que van a transportar ".
+ GEU_escorts_focus:0 "Defensa de flota"
+ GEU_escorts_focus_desc:0 "Cualquiera que sea la composición de nuestra flota, necesitaremos destructores y cruceros ligeros para mantenerlos a salvo de submarinos y aviones".
+ GEU_battleships:0 "Potencia de fuego clásica"
+ GEU_battleships_desc:0 "La historia ha demostrado una y otra vez que lo único que puede derrotar a un gran barco es un barco aún más grande. Deberíamos aceptar esta lección".
+ GEU_cruisers:0 "Interceptores de alta mar"
+ GEU_cruisers_desc:0 "El único defecto de nuestra doctrina es que los acorazados tienden a ser lentos. Un nuevo diseño de crucero pesado o crucero de batalla debería solucionar el problema de los barcos que escapan".
+ GEU_better_ships:0 "Acorazados del futuro"
+ GEU_better_ships_desc:0 "El tiempo continúa fluyendo, pero también lo hacen nuestros diseños de acorazados. Nuestros poderosos buques de guerra continuarán aplastando a todos aquellos que se opongan a ellos durante los próximos años".
+ GEU_army_reform:0 "Gran ejército ecuestre"
+ GEU_army_reform_desc:0 "Los esfuerzos de nuestro ejército durante la guerra con los tontos del sur fueron encomiables, pero siempre se pueden hacer mejoras".
+ GEU_doctrine_mobile:0 "Tengo que ir rápido"
+ GEU_doctrine_mobile_desc:0 "Si había una lección que aprender de nuestra guerra con los potros descarriados del sur, era que los objetivos debían capturarse lo más rápido posible. Es hora de que apliquemos esas lecciones".
+ GEU_light_tanks:0 "Luces relámpago"
+ GEU_light_tanks_desc:0 "Los tanques ligeros son los más rápidos de todos los tanques y, por lo tanto, los más perfectos de todos los tanques para formar la mayor parte de nuestro ejército".
+ GEU_medium_tanks:0 "Medios poderosos"
+ GEU_medium_tanks_desc:0 "Si bien son lentos en comparación con la mayoría de nuestros blindados, los tanques medianos pueden proporcionar un golpe vital en situaciones en las que el enemigo se ha atrincherado. Solo sigue diciéndote a ti mismo:'Al menos no es pesado'".
+ GEU_cheap_tanks:0 "Tanques rojos"
+ GEU_cheap_tanks_desc:0 "¡Al implementar una política de pintar todos los tanques nuevos de rojo, no solo mostraremos nuestro fervor patriótico, sino que también aumentaremos la velocidad de nuestros vehículos en un diez por ciento estimado!"
+ GEU_complex:0 "Fábricas militares"
+ GEU_complex_desc:0 "Con todos los nuevos diseños que salen para el ejército y la expansión siempre ocurre, necesitaremos más fábricas para continuar la producción".
+ GEU_doctrine_mass:0 "Asalto gigantesco"
+ GEU_doctrine_mass_desc:0 "Si hay algo que aprendimos durante la guerra con nuestros antiguos amos, es que la guerra se libra en frentes verdaderamente masivos, y nuestra doctrina debe respaldar eso".
+ GEU_weapons:0 "Reclutas avanzados"
+ GEU_weapons_desc:0 "Si bien desplegar cantidades masivas de equipo barato a nuestras tropas puede funcionar a corto plazo. A largo plazo, tendremos que mejorar si no queremos que nuestros enemigos rompan nuestras líneas".
+ GEU_support:0 "Soporte a gran escala"
+ GEU_support_desc:0 "A medida que avanzamos en la tecnología de nuestra infantería, la tecnología de las decenas de miles de ponis que los apoyan también debe mejorarse".
+ GEU_more_troops:0 "Muere por Dark Wing"
+ GEU_more_troops_desc:0 "Con cada nueva conquista, las bajas siguen aumentando. Necesitamos más esbirros, y los necesitamos más rápido. ¡La población debe movilizarse!"
+ GEU_airforce:0 "Fuerza aérea ecuestre más grande"
+ GEU_airforce_desc:0 "Dondequiera que vayamos, la fuerza aérea no solo puede seguir, sino llegar primero. Por lo tanto, nuestra gloriosa fuerza del aire debe ser la más grande del mundo".
+ GEU_air_support:0 "Aeronave subsidiaria"
+ GEU_air_support_desc:0 "El ejército lidera la carga, el ejército toma tierra, por lo que la fuerza aérea debe apoyar al ejército".
+ GEU_cas:0 "Artesanía de apoyo precisa"
+ GEU_cas_desc:0 "Los bombarderos en picado y otras naves de apoyo aéreo cercano son el charlatán de nuestra doctrina, y necesitamos más de ellos".
+ GEU_tatical_b:0 "Diseño de soporte versátil"
+ GEU_tatical_b_desc:0 "Los bombarderos de nivel pueden parecer inútiles en comparación con los excepcionales bombarderos en picado, pero si alguna vez necesitamos romper un fuerte, podrían ser útiles".
+ GEU_airbase:0 "Adquisición de la base aérea"
+ GEU_airbase_desc:0 "Nuestros sujetos no estaban usando esos campos, realmente. Los necesitamos más, lo prometemos".
+ GEU_air_supremecy:0 "Muerte desde arriba"
+ GEU_air_supremecy_desc:0 "Los aviones son el futuro de la guerra, capaces de aniquilar naciones enteras sin siquiera ver a su enemigo. Nuestra doctrina debe reflejar esto con una devastadora campaña de bombardeo estratégico".
+ GEU_fighters:0 "Maestros del cielo"
+ GEU_fighters_desc:0 "Nuestros nuevos bombarderos necesitarán escoltas antes de que pueda comenzar su misión. No irán desprotegidos".
+ GEU_strategic_b:0 "Devastación"
+ GEU_strategic_b_desc:0 "La joya de la corona de nuestra nueva fuerza aérea será un nuevo bombardero pesado para aniquilar a nuestros enemigos".
+
+ GEU_nationalization:0 "Nacionalización total"
+ GEU_nationalization_desc:0 "Todo dentro del estado, nada fuera del estado, nada contra el estado".
+ GEU_red_oligarchs:0 "Delegado, Delegado, Delegado"
+ GEU_red_oligarchs_desc:0 "Por increíble que sea Dark Wing, no puede gobernar solo. Necesita secuaces para gobernar a sus secuaces mientras él hace cosas más importantes".
+ GEU_civ_factories:0 "Concreto y tostadoras"
+ GEU_civ_factories_desc:0 "No todas las fábricas pueden estar fabricando armas. Todavía necesitamos fábricas para hacer las cosas para hacer las fábricas de armas, sin mencionar las tostadoras para los secuaces de Dark Wing".
+ GEU_oil_barons:0 "Baronía petrolera de Lightway"
+ GEU_oil_barons_desc:0 "Algunos de los cascos de Dark Wing afirman que pueden extraer petróleo de la Granja Colectiva Lightway. Es indignante, pero Su Benevolencia les permitirá si también construyen una refinería sintética en la tierra".
+ GEU_battalions:0 "Gravámenes colectivos"
+ GEU_battalions_desc:0 "Los lacayos de Dark Wing afirman que necesitan fuerzas bajo su mando para evitar que los campesinos se rebelen. El Líder Imperioso lo permitirá, siempre que estas fuerzas respondan a su llamado".
+ GEU_equipment_making:0 "Fábrica de vasallos"
+ GEU_equipment_making_desc:0 "Algunos líderes importantes de la industria afirman que pueden fabricar armas para el líder imperioso con un 10% menos de esfuerzo. Eso es estadísticamente significativo a lo largo del tiempo".
+ GEU_international_arms:0 "Señores de la guerra"
+ GEU_international_arms_desc:0 "El mundo está en llamas, y todos los pony necesitan armas y recursos. Los compinches de Dark Wing proporcionarán al mundo los medios que necesitan para matarse entre sí y, a cambio, obtendremos la capacidad de matarlos".
+ GEU_cult_personality:0 "Fandom de Dark Wing"
+ GEU_cult_personality_desc:0 "Dark Wing es amor. Dark Wing es vida".
+ GEU_propaganda:0 "El espectáculo del ala oscura"
+ GEU_propaganda_desc:0 "Nuestro gloriosamente asombroso y asombroso Líder Imperious ha decidido comenzar su propio programa de televisión, dirigido por Dark Wing, producido por Dark Wing, escrito por Dark Wing, protagonizado por Dark Wing, y filmado frente a una audiencia en vivo de Dark Wing clones. Y un pato ".
+ GEU_state_economy:0 "Dark Wing es todo"
+ GEU_state_economy_desc:0 "Todo lo que existe en la Unión Ecuestre Mayor es solo una extensión de Dark Wing. Todos deben reconocer que él es más que su amado líder, es su cerebro".
+ GEU_army_facotires:0 "Brazos para el ala oscura"
+ GEU_army_facotires_desc:0 "El ejército es mi influencia en el resto del mundo, y debe estar bien armado si el mundo quiere aceptar mi voluntad".
+ GEU_police:0 "Defensores de Dark Wing"
+ GEU_police_desc:0 "Mi cuerpo necesita glóbulos blancos, así que debo crear un nuevo órgano que los entrene y destruya cualquier parásito o enfermedad que intente matarme".
+ GEU_resources:0 "Comida de Dark Wing"
+ GEU_resources_desc:0 "Mi cuerpo necesita sustento para seguir floreciendo, alimento para mi ejército".
+ GEU_support_farmers:0 "Pan de Dark Wing"
+ GEU_support_farmers_desc:0 "Así como mis manos necesitan sustento, también lo hacen las otras partes de mi cuerpo. Mis células no pueden funcionar sin comida. El grano debe fluir".
+ GEU_workers:0 "Neuronas de Dark Wing"
+ GEU_workers_desc:0 "Algunas células de mi cuerpo se han vuelto más hábiles en sus tareas. Esto es bueno, porque ellas son yo y yo soy ellas. Puedo sentir que me estoy volviendo más inteligente incluso ahora".
+ GEU_rebuilding:0 "El futuro de Equestria"
+ GEU_rebuilding_desc:0 "Ahora que las partes importantes del régimen de Dark Wing están fuera del camino, es hora de reconstruir la cáscara rota que ha conquistado con un solo casco".
+ GEU_science:0 "Gran Universidad Ecuestre"
+ GEU_science_desc:0 "Con más y más científicos ecuestres saliendo de los campos de reeducación, ha llegado el momento de ponerlos a trabajar creando armas para la Unión".
+ GEU_rockets:0 "Misiles ecuestres superiores"
+ GEU_rockets_desc:0 "Con mayores avances en propelente viene la habilidad de destruir ponis a gran distancia sin siquiera salir de tu casa."
+ GEU_electronics:0 "Radios ecuestres más grandes"
+ GEU_electronics_desc:0 "Las radios y las computadoras brindan muchos beneficios potenciales a nuestros ejércitos que no deben desperdiciarse".
+ GEU_more_industry:0 "Medios de producción"
+ GEU_more_industry_desc:0 "Con toda la nueva tecnología que está saliendo para matar ponis, vamos a necesitar mejores fábricas para producirlo todo".
+ GEU_nuclear:0 "El ala más oscura"
+ GEU_nuclear_desc:0 "¡Lo han logrado! ¡Los nerds finalmente lo han logrado! ¡Con esto, nada puede detener a la Gran Unión Ecuestre!"
+ GEU_nuclear_p:0 "Producción nuclear"
+ GEU_nuclear_p_desc:0 "¡Necesitamos más, más fábricas de bombas nucleares!"
+ GEU_stalliongrad_steel:0 "Acero de la Patria"
+ GEU_stalliongrad_steel_desc:0 "Si bien los intentos del sur de mantener la relevancia en la nueva nación son lindos, Stalliongrad siempre será el corazón de nuestra industria".
+ GEU_roads_1: ​​0 "Mayor infraestructura ecuestre"
+ GEU_roads_1_desc:0 "Las carreteras ecuestres son las peores, son simplemente terribles. Necesitamos arreglar esto".
+ GEU_roads_2:0 "La mejor infraestructura ecuestre"
+ GEU_roads_2_desc:0 "Equestria es un agujero negro para los ejércitos, como aprendimos durante nuestra invasión. Debemos arreglar esta situación ahora que la poseemos".
+ GEU_reconstruction_s:0 "Construcción ilimitada"
+ GEU_reconstruction_s_desc:0 "Incluso si la reconstrucción de Equestria ha terminado por ahora, nunca debemos dejar de construir. ¡El futuro no espera a ningún pony!"
