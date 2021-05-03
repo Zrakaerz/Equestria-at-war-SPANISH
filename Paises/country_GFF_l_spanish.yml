@@ -2,244 +2,244 @@
 ###########################################
 ### FOCUS LOCALISATION ####################
 ###########################################
-GFF_funds: 0 "Grovel for Funds"
-GFF_funds_desc: 0 "Es esa época del año otra vez, la época del año en la que rogamos a los grandes peludos de Weter que reciban más fondos para mejorar nuestro lamentable estado. Quién sabe, tal vez esta vez tengamos suerte y conseguiremos algo de dinero".
-GFF_got_funds: 0 "Financiamiento de Griffonian"
-GFF_got_funds_desc: 0 "Ahora que tenemos dinero, deberíamos buscar formas de mejorar nuestra situación".
-GFF_not_funds: 0 "Arriba de un arroyo sin remo"
-GFF_not_funds_desc: 0 "Sin financiación y sin apoyo de la capital estamos solos ... con todos los bandidos, caníbales y locos que viven en estas montañas ..."
-GFF_roads: 0 "Construir ferrocarriles"
-GFF_roads_desc: 0 "Necesitamos conectar los municipios dispersos de la Frontera con los ferrocarriles si pretendemos controlarla".
-GFF_industry: 0 "Manufacturies"
-GFF_industry_desc: 0 "Deberíamos abrir algunas fábricas en Frosthill para ayudarnos a mejorar la nación. Más industria equivale a una nación más fuerte".
-GFF_equipment: 0 "Importar rifles"
-GFF_equipment_desc: 0 "Nuestra industria de armas es deficiente ... es decir, realmente no existe, para solucionar temporalmente este problema deberíamos importar algunos rifles del otro lado de la frontera".
-GFF_bounty_hunters: 0 "Recluta cazarrecompensas"
-GFF_bounty_hunters_desc: 0 "Nuestra fuerza policial es, para decirlo a la ligera, ridículamente corrupta. Constantemente ignoran las redadas de bandidos y los secuestros, aceptan sobornos literalmente de todos y de su madre, y como tales, son más o menos inútiles. Deberíamos contratar alguna ayuda externa . "
-GFF_bounty_hunters_tt: 0 "¡Genera §YDos divisiones de cazadores inflables§! \ N"
-GFF_cannibal_hunt: 0 "Caza a los caníbales"
-GFF_cannibal_hunt_desc: 0 "El primer obstáculo para arreglar realmente la Frontera son los clanes caníbales en el norte. El hecho de que los caníbales comenzaron a formar clanes en primer lugar realmente dice mucho de la administración de la Frontera, pero sin embargo tenemos que deshacernos de ellos".
-GFF_mines: 0 "Minas de acero abiertas"
-GFF_mines_desc: 0 "Habiendo limpiado las montañas del norte de la mayoría de los caníbales infestantes, finalmente podemos extraer las riquezas minerales que se encuentran debajo de ellas".
-GFF_arsenal: 0 "Arsenales de la ciudad"
-GFF_arsenal_desc: 0 "El estado proporcionará equipos a los municipios para que puedan defenderse y ayudar a cazar a los bandidos que aún infestan el campo".
-GFF_hunt_bandits: 0 "Caza a Virgil"
-GFF_hunt_bandits_desc: 0 "El bandido conocido simplemente como Virgilio ha sido un dolor en nuestros flancos colectivos desde antes de la caída del Imperio, si pretendemos dispersar a los bandidos, debe ser encontrado y eliminado como el animal que es".
-GFF_hunt_redtail: 0 "Caza Redtail"
-GFF_hunt_redtail_desc: 0 "Heinrich Redtail y su banda de comunistas han sido una molestia tanto para Frosthill como para Weter. Ahora que tenemos los medios para hacer cumplir la ley, publicar recompensas en la cabeza de esos supuestos revolucionarios debería hacerse cargo de ellos".
-GFF_annexation: 0 "Solicitar la estadidad"
-GFF_annexation_desc: 0 "Con nuestra situación más o menos estabilizada, podemos solicitar formalmente convertirnos en una provincia de Griffonian".
-GFF_takeover: 0 "Adquisición de Virgil"
-GFF_takeover_desc: 0 "Con Muck escondido en Weter, y los pocos soldados que tenía manteniendo el orden en la Frontera se han ido, ha llegado el momento de que el jefe se haga cargo".
-GFF_bandit_troops: 0 "Por la montaña"
-GFF_bandit_troops_desc: 0 "Por fin logramos apoderarnos de la Frontera, o más bien Virgilia, como el jefe ha empezado a llamarlo, es mejor que dejemos de escondernos en las montañas".
-GFF_bandit_troops_tt: 0 "¡Genera §YFour Raider Mountaineer Divisions§! \ N"
-GFF_bandit_guns: 0 "Un montón de Boomsticks"
-GFF_bandit_guns_desc: 0 "Hay muchas posibilidades de que el patán de Teafeather intente volver a tomar Virgilia, y por mucho que tengamos que admitirlo, simplemente no estamos listos para enfrentarnos a los ejércitos grifones con las armas que tenemos. Afortunadamente lo sabemos un par de personas de Stalliongrad que pueden ayudar con ese pequeño problema ".
-GFF_bandit_arsenal: 0 "Mercado negro"
-GFF_bandit_arsenal_desc: 0 "Los diversos bandidos de Frosthill siempre han tenido un interés particular en la industria de armas del mercado negro, y como no queda policía para detenernos, ¡ni siquiera necesitamos ocultarlo más!"
-GFF_cannibal_negotiation: 0 "Sobre las propiedades del cerdo largo"
-GFF_cannibal_negotiation_desc: 0 "Los diversos clanes caníbales que viven lejos en las montañas sobre Frosthill han sido un dolor de cabeza para tratar durante décadas. Ya que tienden a comerse a los negociadores primero y hacer preguntas después, pero incluso ellos tienen que vernos a todos. están listos para colgar si Teafether nos pone las garras ".
-GFF_cannibal_negotiation_tt: 0 "¡Genera §YDos Brigadas de Caballeros Caníbales§! \ N"
-GFF_steel_production: 0 "Minas de hierro"
-GFF_steel_production_desc: 0 "Ahora que hemos logrado convencer a los caníbales de que no se coman a nuestros hombres, podemos usar las minas de hierro en su territorio para hacer algo más que utensilios para comer".
-GFF_v_roads: 0 "El ferrocarril de Frosthill"
-GFF_v_roads_desc: 0 "Con los caníbales más o menos ayudándonos, deberíamos aprovechar la oportunidad para conectar realmente el Extremo Norte con el resto de la nación".
-GFF_commie_alliance: 0"Una alianza con Redtail"
-GFF_commie_alliance_desc: 0 "Redtail podría ser un poco loco comunista, pero convencerlo a él ya sus rebeldes de luchar contra Teafeather y sus títeres no debería ser un gran problema para nosotros".
-GFF_commie_alliance_tt: 0 "¡Genera §YDos divisiones de montañistas asaltantes§! \ N"
-GFF_commie_volunteers: 0 "Importando la revolución"
-GFF_commie_volunteers_desc: 0 "Sorprendentemente, el apoyo de Redtail a nuestra causa ha comenzado a atraer a muchos jóvenes revolucionarios de Nova Griffonia y del extranjero, aunque no somos tan grandes en el comunismo, su apoyo será invaluable".
-GFF_smugglers: 0 "Contrabandistas de alcohol"
-GFF_smugglers_desc: 0 "Aunque Virgilia no es exactamente el centro industrial del mundo, tiene muchas cervecerías y mucha gente dispuesta a pasarlo de contrabando para ganar un poco. Deberíamos alentar a estos contrabandistas a que al menos alivien un poco nuestros problemas de dinero".
-GFF_air_base: 0 "El aeródromo de Amdral"
-GFF_air_base_desc: 0 "Una fuerza aérea es la clave para cualquier operación importante en el campo de batalla y puede hacer que el enemigo se arrodille con pérdidas mínimas. Es hora de invertir en una fuerza aérea mejor y más grande".
-GFF_air_support: 0 "Lloviendo fuego"
-GFF_air_support_desc: 0 "¡El apoyo en el campo de batalla es la clave para cualquier fuerza aérea moderna! Al apoyar directa y rápidamente a nuestras tropas terrestres, podemos asegurar un avance constante mientras destruimos gravemente las formaciones enemigas".
-GFF_cas: 0 "Apoyando a nuestras tropas"
-GFF_cas_desc: 0 "Para aprovechar al máximo nuestra doctrina y nuestros pilotos, necesitamos modelos de aviones nuevos y modernos. Afortunadamente, los científicos militares tienen la idea de cómo mejorar los actuales".
-GFF_tatical_b: 0 "Modelos de bombarderos"
-GFF_tatical_b_desc: 0 "Los bombarderos medios, o bombarderos tácticos, parecen ser muy adecuados para bombardeos rápidos 'dentro y fuera'. Son similares a nuestros bombarderos en picado actuales, aunque también pueden llevar una carga útil mucho más letal."
-GFF_air_supremecy: 0 "Domina los cielos"
-GFF_air_supremecy_desc: 0 "¿Qué se puede hacer con una fuerza aérea si ni siquiera dominan los cielos? Los cazas modernos y los pilotos bien entrenados cazarán y derribarán cualquier avión enemigo a la vista, permitiendo que nuestras tropas terrestres avancen bajo cielos despejados. "
-GFF_fighters: 0 "Modelos de luchadores de Stalliongradian"
-GFF_fighters_desc: 0 "Si bien no es muy numerosa, la fuerza aérea de Stalliongrad ciertamente posee cazas impresionantes. Tal vez deberíamos seguir su ejemplo y crear modelos más nuevos y mejorados nosotros mismos, para reclamar mejor y más fácilmente los cielos".
-GFF_strategic_b: 0 "Dejando caer las bombas"
-GFF_strategic_b_desc: 0 "¡Con los cielos a salvo dentro de nuestras garras, ahora podemos comenzar a cambiar nuestro enfoque en los bombarderos pesados, que saldrán y reducirán al enemigo a nada más que polvo!"
-GFF_victory: 0 "¡Victoria!"
-GFF_victory_desc: 0 "¡Hurra! ¡El gobierno corrupto y opresor de Weter no nos encadenará más! ¡Celebremos esta gran victoria!"
-GFF_steel: 0 "Expandir las redes mineras"
-GFF_steel_desc: 0 "Nuestra nueva nación independiente necesita resolver sus propios problemas y satisfacer sus propias necesidades. Debemos expandir nuestra red minera si queremos sostener nuestra creciente industria militar".
-GFF_industry_tech: 0 "Métodos industriales modernos"
-GFF_industry_tech_desc: 0 "Nuestra nación ha sufrido mucho por las cadenas en las que nos metió Griffonia. La industria está mal desarrollada y no puede seguir el ritmo de las demandas de nuestra nación. Debe ser una gran prioridad para nosotros solucionar este problema y sacar el máximo provecho de nuestras fábricas ".
-GFF_industry_2: 0 "Desarrollar la industria del alcohol"
-GFF_industry_2_desc: 0 "Es innegable que a nuestros ciudadanos les encanta el alcohol. ¿Por qué no los encontraríamos a mitad de camino y sacaríamos provecho de esta nueva fuente de ingresos?"
-GFF_crytals: 0 "Expandir operaciones mineras de cristal"
-GFF_crytals_desc: 0 "Aunque en gran parte ignorados y descartados entre la sociedad de los grifos como una pérdida de tiempo, los cristales y el poder que tienen han mostrado un gran potencial en los últimos meses. Sería prudente de nuestra parte invertir en este nuevo recurso".
-GFF_magic_weapons: 0 "Boomsticks mágicos"
-GFF_magic_weapons_desc: 0 "La energía almacenada dentro de los cristales no solo ha demostrado ser rentable, sino también bastante útil. Algunos científicos han señalado los usos de la magia en un escenario de combate, pidiendo nuestro apoyo para financiar su investigación. Ciertamente suena interesante. .. "
-GFF_arsenal_2: 0 "Arma la nación"
-GFF_arsenal_2_desc: 0 "Nuestra victoria sobre el Gobierno de Weter ha demostrado que somos fuertes, pero también ha atraído la atención de potencias extranjeras. No podemos bajar la guardia ahora y arriesgarnos a ser encadenados una vez más".
-GFF_research_a: 0 "Departamento de I + D militar"
-GFF_research_a_desc: 0 "Con un ejército y una fuerza aérea adecuados establecidos, estas dos ramas militares han atraído grandes mentes, que desempeñarán un papel importante en la promoción de nuestros avances tecnológicos".
-GFF_issues: 0 "Problemas en el frente interno"
-GFF_issues_desc: 0 "Las tensiones entre Virgil y Redtail, el líder del Partido Comunista, han aumentado rápidamente desde nuestra victoria sobre Weter. Hoy, Redtail ha tenido suficiente y ha pedido un levantamiento contra Virgil. Un conflicto sangriento parece inevitable. .. "
-GFF_virgil_power: 0 "El rey de Banpuntos "
-GFF_virgil_power_desc: 0 "Un rival jurado de sangre de Nova Griffonia, Virgil ha llegado a ser llamado el 'Rey de los bandidos' entre nuestra población. Él fue quien nos salvó del señor supremo de Nova Griffonia, y sería mejor tenerlo , este luchador feroz y de piel dura, permanezca como nuestro líder ".
-GFF_cannibal_money: 0 "Civilizar a los caníbales"
-GFF_cannibal_money_desc: 0 "Desde que Nova Griffonia asoló nuestra nación con el hambre, los caníbales han estado poniendo nerviosa a nuestra gente. Ya es hora de un acercamiento final con ellos, mostrándoles que todavía hay un lugar para ellos en la sociedad. Bueno, un lugar eso no implica comerse a otros, es decir ... "
-GFF_cannibal_industry: 0 "Caníbales con casinos"
-GFF_cannibal_industry_desc: 0 "Resulta que los caníbales trabajan el doble de duro que la mayoría de los grifos si les dices que obtendrán un trozo de carne si trabajan lo suficiente. ¡Quién lo hubiera sabido!"
-GFF_cannibal_war: 0 "Autonomía caníbal"
-GFF_cannibal_war_desc: 0 "El canibalismo se había convertido por primera vez en un problema durante los días del señorío de Nova Griffonian. Nuestro señor anterior robaría y acumularía la mayor parte de nuestro suministro de alimentos para alimentar a su propia gente, ignorando la ola masiva de hambre que causó. no tan escaso como en aquel entonces, muchos de los que recurrieron al canibalismo sienten que no podrán detenerse. Quizás podamos hacer un trato con ellos en su lugar ... "
-GFF_cannibal_war_industrial: 0 "Armando a los caníbales"
-GFF_cannibal_war_industrial_desc: 0 "Si bien preocupamos a algunos de nuestros ciudadanos, podemos decir con seguridad que armar caníbales no causará ningún problema. Con suerte ..."
-GFF_forts: 0 "Fortalecer la frontera Virgilia-Griffonian"
-GFF_forts_desc: 0 "Esos malditos pájaros en Weter no pueden quedarse de brazos cruzados ante la vista de nuestra nueva nación independiente ... ¡deben estar planeando un ataque, una invasión! Debemos prepararnos para lo que sea que puedan intentar y lanzarnos, y fortalecernos. nuestra frontera ".
-GFF_greater_virgillia: 0 "Podría hacer lo correcto"
-GFF_greater_virgillia_desc: 0 "Virgil ha tomado Nova Griffonia por derecho de conquista, esto lo convierte en el gobernante legítimo a la vista de dioses y grifos."
-GFF_expansion: 0 "Expansionismo virgiliano"
-GFF_expansion_desc: 0 "¡Nuestra nación ha demostrado su fuerza una vez más! Con los odiados grifonianos derrotados, ahora podemos poner nuestros ojos en lo que hay por ahí".
-GFF_virgillia_research: 0 "Academia de Ciencias Frosthill"
-GFF_virgillia_research_desc: 0 "Con un poco de delicadeza, encanto y mucho dinero, podríamos invitar fácilmente a algunos de los científicos de Weter, Stalliongrad y más a mudarse a nuestra capital y fundar una institución propia".
-GFF_new_economy: 0 "Una economía criminal"
-GFF_new_economy_desc: 0 "La gente puede decir lo que quiera, pero el crimen seguramente parece dar más frutos en nuestro caso".
-GFF_virgilian_railroads: 0 "Conectar la nación"
-GFF_virgilian_railroads_desc: 0 "Los nuevos ferrocarriles y carreteras son obligatorios para nuestra industria y nuestro ejército en constante crecimiento. Sin carreteras y rieles, no habría recursos para construir fábricas o armar soldados. Tan fácil como eso".
-GFF_virgilian_industry: 0 "La revolución industrial virgiliana"
-GFF_virgilian_industry_desc: 0 "Nuestra industria está desorganizada, dispersa y, en general, demasiado ineficaz e improductiva. Ha llegado el momento de la reforma, con nuevas leyes y reglamentos, así como con programas de construcción para una nueva industria".
-GFF_virgilian_research: 0 "Reformas educativas"
-GFF_virgilian_research_desc: 0 "El sistema educativo actual es, francamente, un desastre total. Debido a esto, es hora de reformar y modernizar las escuelas y universidades, y de iluminar nuestra nación. ¡Juntos, podemos hacer avanzar a nuestro país!"
-GFF_virgilian_army: 0 "Un ejército adecuado"
-GFF_virgilian_army_desc: 0 "Si bien derrotamos a los odiados grifonianos y obtuvimos nuestra independencia al hacerlo, no debemos bajar la guardia. Nuestro ejército no es más que una horda de voluntarios y milicias mal entrenados, en su mayoría formados por bandidos, campesinos sureños y quienquiera que piense no tiene un lugar en la sociedad. Una nación adecuada requiere un ejército adecuado, ¡y eso es lo que tendremos! "
-GFF_virgilian_resources: 0 "Operaciones de minería masiva"
-GFF_virgilian_resources_desc: 0 "Con vastos recursos escondidos debajo de nuestras propias garras, sería mejor que comenzáramos las principales operaciones mineras tan pronto como sea posible. Cualquier cosa que encontremos allí, nuestra nación seguramente puede hacer uso de ella.
-GFF_kill_redtail: 0 "Deshacerse de Redtail"
-GFF_kill_redtail_desc: 0 "Desafortunadamente, Redtail se ha escapado de nuestras garras al final de la guerra civil, ocultándose mientras seguimos organizando rebeldes y otros grupos de resistencia. ¡Es hora de que encontremos a ese bastardo y acabemos con él, de una vez por todas!"
+GFF_funds:0 "Grovel for Funds"
+GFF_funds_desc:0 "Es esa época del año otra vez, la época del año en la que rogamos a los grandes peludos de Weter que reciban más fondos para mejorar nuestro lamentable estado. Quién sabe, tal vez esta vez tengamos suerte y conseguiremos algo de dinero".
+GFF_got_funds:0 "Financiamiento de Griffonian"
+GFF_got_funds_desc:0 "Ahora que tenemos dinero, deberíamos buscar formas de mejorar nuestra situación".
+GFF_not_funds:0 "Arriba de un arroyo sin remo"
+GFF_not_funds_desc:0 "Sin financiación y sin apoyo de la capital estamos solos ... con todos los bandidos, caníbales y locos que viven en estas montañas ..."
+GFF_roads:0 "Construir ferrocarriles"
+GFF_roads_desc:0 "Necesitamos conectar los municipios dispersos de la Frontera con los ferrocarriles si pretendemos controlarla".
+GFF_industry:0 "Manufacturies"
+GFF_industry_desc:0 "Deberíamos abrir algunas fábricas en Frosthill para ayudarnos a mejorar la nación. Más industria equivale a una nación más fuerte".
+GFF_equipment:0 "Importar rifles"
+GFF_equipment_desc:0 "Nuestra industria de armas es deficiente ... es decir, realmente no existe, para solucionar temporalmente este problema deberíamos importar algunos rifles del otro lado de la frontera".
+GFF_bounty_hunters:0 "Recluta cazarrecompensas"
+GFF_bounty_hunters_desc:0 "Nuestra fuerza policial es, para decirlo a la ligera, ridículamente corrupta. Constantemente ignoran las redadas de bandidos y los secuestros, aceptan sobornos literalmente de todos y de su madre, y como tales, son más o menos inútiles. Deberíamos contratar alguna ayuda externa . "
+GFF_bounty_hunters_tt:0 "¡Genera §YDos divisiones de cazadores inflables§! \ N"
+GFF_cannibal_hunt:0 "Caza a los caníbales"
+GFF_cannibal_hunt_desc:0 "El primer obstáculo para arreglar realmente la Frontera son los clanes caníbales en el norte. El hecho de que los caníbales comenzaron a formar clanes en primer lugar realmente dice mucho de la administración de la Frontera, pero sin embargo tenemos que deshacernos de ellos".
+GFF_mines:0 "Minas de acero abiertas"
+GFF_mines_desc:0 "Habiendo limpiado las montañas del norte de la mayoría de los caníbales infestantes, finalmente podemos extraer las riquezas minerales que se encuentran debajo de ellas".
+GFF_arsenal:0 "Arsenales de la ciudad"
+GFF_arsenal_desc:0 "El estado proporcionará equipos a los municipios para que puedan defenderse y ayudar a cazar a los bandidos que aún infestan el campo".
+GFF_hunt_bandits:0 "Caza a Virgil"
+GFF_hunt_bandits_desc:0 "El bandido conocido simplemente como Virgilio ha sido un dolor en nuestros flancos colectivos desde antes de la caída del Imperio, si pretendemos dispersar a los bandidos, debe ser encontrado y eliminado como el animal que es".
+GFF_hunt_redtail:0 "Caza Redtail"
+GFF_hunt_redtail_desc:0 "Heinrich Redtail y su banda de comunistas han sido una molestia tanto para Frosthill como para Weter. Ahora que tenemos los medios para hacer cumplir la ley, publicar recompensas en la cabeza de esos supuestos revolucionarios debería hacerse cargo de ellos".
+GFF_annexation:0 "Solicitar la estadidad"
+GFF_annexation_desc:0 "Con nuestra situación más o menos estabilizada, podemos solicitar formalmente convertirnos en una provincia de Griffonian".
+GFF_takeover:0 "Adquisición de Virgil"
+GFF_takeover_desc:0 "Con Muck escondido en Weter, y los pocos soldados que tenía manteniendo el orden en la Frontera se han ido, ha llegado el momento de que el jefe se haga cargo".
+GFF_bandit_troops:0 "Por la montaña"
+GFF_bandit_troops_desc:0 "Por fin logramos apoderarnos de la Frontera, o más bien Virgilia, como el jefe ha empezado a llamarlo, es mejor que dejemos de escondernos en las montañas".
+GFF_bandit_troops_tt:0 "¡Genera §YFour Raider Mountaineer Divisions§! \ N"
+GFF_bandit_guns:0 "Un montón de Boomsticks"
+GFF_bandit_guns_desc:0 "Hay muchas posibilidades de que el patán de Teafeather intente volver a tomar Virgilia, y por mucho que tengamos que admitirlo, simplemente no estamos listos para enfrentarnos a los ejércitos grifones con las armas que tenemos. Afortunadamente lo sabemos un par de personas de Stalliongrad que pueden ayudar con ese pequeño problema ".
+GFF_bandit_arsenal:0 "Mercado negro"
+GFF_bandit_arsenal_desc:0 "Los diversos bandidos de Frosthill siempre han tenido un interés particular en la industria de armas del mercado negro, y como no queda policía para detenernos, ¡ni siquiera necesitamos ocultarlo más!"
+GFF_cannibal_negotiation:0 "Sobre las propiedades del cerdo largo"
+GFF_cannibal_negotiation_desc:0 "Los diversos clanes caníbales que viven lejos en las montañas sobre Frosthill han sido un dolor de cabeza para tratar durante décadas. Ya que tienden a comerse a los negociadores primero y hacer preguntas después, pero incluso ellos tienen que vernos a todos. están listos para colgar si Teafether nos pone las garras ".
+GFF_cannibal_negotiation_tt:0 "¡Genera §YDos Brigadas de Caballeros Caníbales§! \ N"
+GFF_steel_production:0 "Minas de hierro"
+GFF_steel_production_desc:0 "Ahora que hemos logrado convencer a los caníbales de que no se coman a nuestros hombres, podemos usar las minas de hierro en su territorio para hacer algo más que utensilios para comer".
+GFF_v_roads:0 "El ferrocarril de Frosthill"
+GFF_v_roads_desc:0 "Con los caníbales más o menos ayudándonos, deberíamos aprovechar la oportunidad para conectar realmente el Extremo Norte con el resto de la nación".
+GFF_commie_alliance:0"Una alianza con Redtail"
+GFF_commie_alliance_desc:0 "Redtail podría ser un poco loco comunista, pero convencerlo a él ya sus rebeldes de luchar contra Teafeather y sus títeres no debería ser un gran problema para nosotros".
+GFF_commie_alliance_tt:0 "¡Genera §YDos divisiones de montañistas asaltantes§! \ N"
+GFF_commie_volunteers:0 "Importando la revolución"
+GFF_commie_volunteers_desc:0 "Sorprendentemente, el apoyo de Redtail a nuestra causa ha comenzado a atraer a muchos jóvenes revolucionarios de Nova Griffonia y del extranjero, aunque no somos tan grandes en el comunismo, su apoyo será invaluable".
+GFF_smugglers:0 "Contrabandistas de alcohol"
+GFF_smugglers_desc:0 "Aunque Virgilia no es exactamente el centro industrial del mundo, tiene muchas cervecerías y mucha gente dispuesta a pasarlo de contrabando para ganar un poco. Deberíamos alentar a estos contrabandistas a que al menos alivien un poco nuestros problemas de dinero".
+GFF_air_base:0 "El aeródromo de Amdral"
+GFF_air_base_desc:0 "Una fuerza aérea es la clave para cualquier operación importante en el campo de batalla y puede hacer que el enemigo se arrodille con pérdidas mínimas. Es hora de invertir en una fuerza aérea mejor y más grande".
+GFF_air_support:0 "Lloviendo fuego"
+GFF_air_support_desc:0 "¡El apoyo en el campo de batalla es la clave para cualquier fuerza aérea moderna! Al apoyar directa y rápidamente a nuestras tropas terrestres, podemos asegurar un avance constante mientras destruimos gravemente las formaciones enemigas".
+GFF_cas:0 "Apoyando a nuestras tropas"
+GFF_cas_desc:0 "Para aprovechar al máximo nuestra doctrina y nuestros pilotos, necesitamos modelos de aviones nuevos y modernos. Afortunadamente, los científicos militares tienen la idea de cómo mejorar los actuales".
+GFF_tatical_b:0 "Modelos de bombarderos"
+GFF_tatical_b_desc:0 "Los bombarderos medios, o bombarderos tácticos, parecen ser muy adecuados para bombardeos rápidos 'dentro y fuera'. Son similares a nuestros bombarderos en picado actuales, aunque también pueden llevar una carga útil mucho más letal."
+GFF_air_supremecy:0 "Domina los cielos"
+GFF_air_supremecy_desc:0 "¿Qué se puede hacer con una fuerza aérea si ni siquiera dominan los cielos? Los cazas modernos y los pilotos bien entrenados cazarán y derribarán cualquier avión enemigo a la vista, permitiendo que nuestras tropas terrestres avancen bajo cielos despejados. "
+GFF_fighters:0 "Modelos de luchadores de Stalliongradian"
+GFF_fighters_desc:0 "Si bien no es muy numerosa, la fuerza aérea de Stalliongrad ciertamente posee cazas impresionantes. Tal vez deberíamos seguir su ejemplo y crear modelos más nuevos y mejorados nosotros mismos, para reclamar mejor y más fácilmente los cielos".
+GFF_strategic_b:0 "Dejando caer las bombas"
+GFF_strategic_b_desc:0 "¡Con los cielos a salvo dentro de nuestras garras, ahora podemos comenzar a cambiar nuestro enfoque en los bombarderos pesados, que saldrán y reducirán al enemigo a nada más que polvo!"
+GFF_victory:0 "¡Victoria!"
+GFF_victory_desc:0 "¡Hurra! ¡El gobierno corrupto y opresor de Weter no nos encadenará más! ¡Celebremos esta gran victoria!"
+GFF_steel:0 "Expandir las redes mineras"
+GFF_steel_desc:0 "Nuestra nueva nación independiente necesita resolver sus propios problemas y satisfacer sus propias necesidades. Debemos expandir nuestra red minera si queremos sostener nuestra creciente industria militar".
+GFF_industry_tech:0 "Métodos industriales modernos"
+GFF_industry_tech_desc:0 "Nuestra nación ha sufrido mucho por las cadenas en las que nos metió Griffonia. La industria está mal desarrollada y no puede seguir el ritmo de las demandas de nuestra nación. Debe ser una gran prioridad para nosotros solucionar este problema y sacar el máximo provecho de nuestras fábricas ".
+GFF_industry_2:0 "Desarrollar la industria del alcohol"
+GFF_industry_2_desc:0 "Es innegable que a nuestros ciudadanos les encanta el alcohol. ¿Por qué no los encontraríamos a mitad de camino y sacaríamos provecho de esta nueva fuente de ingresos?"
+GFF_crytals:0 "Expandir operaciones mineras de cristal"
+GFF_crytals_desc:0 "Aunque en gran parte ignorados y descartados entre la sociedad de los grifos como una pérdida de tiempo, los cristales y el poder que tienen han mostrado un gran potencial en los últimos meses. Sería prudente de nuestra parte invertir en este nuevo recurso".
+GFF_magic_weapons:0 "Boomsticks mágicos"
+GFF_magic_weapons_desc:0 "La energía almacenada dentro de los cristales no solo ha demostrado ser rentable, sino también bastante útil. Algunos científicos han señalado los usos de la magia en un escenario de combate, pidiendo nuestro apoyo para financiar su investigación. Ciertamente suena interesante. .. "
+GFF_arsenal_2:0 "Arma la nación"
+GFF_arsenal_2_desc:0 "Nuestra victoria sobre el Gobierno de Weter ha demostrado que somos fuertes, pero también ha atraído la atención de potencias extranjeras. No podemos bajar la guardia ahora y arriesgarnos a ser encadenados una vez más".
+GFF_research_a:0 "Departamento de I + D militar"
+GFF_research_a_desc:0 "Con un ejército y una fuerza aérea adecuados establecidos, estas dos ramas militares han atraído grandes mentes, que desempeñarán un papel importante en la promoción de nuestros avances tecnológicos".
+GFF_issues:0 "Problemas en el frente interno"
+GFF_issues_desc:0 "Las tensiones entre Virgil y Redtail, el líder del Partido Comunista, han aumentado rápidamente desde nuestra victoria sobre Weter. Hoy, Redtail ha tenido suficiente y ha pedido un levantamiento contra Virgil. Un conflicto sangriento parece inevitable. .. "
+GFF_virgil_power:0 "El rey de Banpuntos "
+GFF_virgil_power_desc:0 "Un rival jurado de sangre de Nova Griffonia, Virgil ha llegado a ser llamado el 'Rey de los bandidos' entre nuestra población. Él fue quien nos salvó del señor supremo de Nova Griffonia, y sería mejor tenerlo , este luchador feroz y de piel dura, permanezca como nuestro líder ".
+GFF_cannibal_money:0 "Civilizar a los caníbales"
+GFF_cannibal_money_desc:0 "Desde que Nova Griffonia asoló nuestra nación con el hambre, los caníbales han estado poniendo nerviosa a nuestra gente. Ya es hora de un acercamiento final con ellos, mostrándoles que todavía hay un lugar para ellos en la sociedad. Bueno, un lugar eso no implica comerse a otros, es decir ... "
+GFF_cannibal_industry:0 "Caníbales con casinos"
+GFF_cannibal_industry_desc:0 "Resulta que los caníbales trabajan el doble de duro que la mayoría de los grifos si les dices que obtendrán un trozo de carne si trabajan lo suficiente. ¡Quién lo hubiera sabido!"
+GFF_cannibal_war:0 "Autonomía caníbal"
+GFF_cannibal_war_desc:0 "El canibalismo se había convertido por primera vez en un problema durante los días del señorío de Nova Griffonian. Nuestro señor anterior robaría y acumularía la mayor parte de nuestro suministro de alimentos para alimentar a su propia gente, ignorando la ola masiva de hambre que causó. no tan escaso como en aquel entonces, muchos de los que recurrieron al canibalismo sienten que no podrán detenerse. Quizás podamos hacer un trato con ellos en su lugar ... "
+GFF_cannibal_war_industrial:0 "Armando a los caníbales"
+GFF_cannibal_war_industrial_desc:0 "Si bien preocupamos a algunos de nuestros ciudadanos, podemos decir con seguridad que armar caníbales no causará ningún problema. Con suerte ..."
+GFF_forts:0 "Fortalecer la frontera Virgilia-Griffonian"
+GFF_forts_desc:0 "Esos malditos pájaros en Weter no pueden quedarse de brazos cruzados ante la vista de nuestra nueva nación independiente ... ¡deben estar planeando un ataque, una invasión! Debemos prepararnos para lo que sea que puedan intentar y lanzarnos, y fortalecernos. nuestra frontera ".
+GFF_greater_virgillia:0 "Podría hacer lo correcto"
+GFF_greater_virgillia_desc:0 "Virgil ha tomado Nova Griffonia por derecho de conquista, esto lo convierte en el gobernante legítimo a la vista de dioses y grifos."
+GFF_expansion:0 "Expansionismo virgiliano"
+GFF_expansion_desc:0 "¡Nuestra nación ha demostrado su fuerza una vez más! Con los odiados grifonianos derrotados, ahora podemos poner nuestros ojos en lo que hay por ahí".
+GFF_virgillia_research:0 "Academia de Ciencias Frosthill"
+GFF_virgillia_research_desc:0 "Con un poco de delicadeza, encanto y mucho dinero, podríamos invitar fácilmente a algunos de los científicos de Weter, Stalliongrad y más a mudarse a nuestra capital y fundar una institución propia".
+GFF_new_economy:0 "Una economía criminal"
+GFF_new_economy_desc:0 "La gente puede decir lo que quiera, pero el crimen seguramente parece dar más frutos en nuestro caso".
+GFF_virgilian_railroads:0 "Conectar la nación"
+GFF_virgilian_railroads_desc:0 "Los nuevos ferrocarriles y carreteras son obligatorios para nuestra industria y nuestro ejército en constante crecimiento. Sin carreteras y rieles, no habría recursos para construir fábricas o armar soldados. Tan fácil como eso".
+GFF_virgilian_industry:0 "La revolución industrial virgiliana"
+GFF_virgilian_industry_desc:0 "Nuestra industria está desorganizada, dispersa y, en general, demasiado ineficaz e improductiva. Ha llegado el momento de la reforma, con nuevas leyes y reglamentos, así como con programas de construcción para una nueva industria".
+GFF_virgilian_research:0 "Reformas educativas"
+GFF_virgilian_research_desc:0 "El sistema educativo actual es, francamente, un desastre total. Debido a esto, es hora de reformar y modernizar las escuelas y universidades, y de iluminar nuestra nación. ¡Juntos, podemos hacer avanzar a nuestro país!"
+GFF_virgilian_army:0 "Un ejército adecuado"
+GFF_virgilian_army_desc:0 "Si bien derrotamos a los odiados grifonianos y obtuvimos nuestra independencia al hacerlo, no debemos bajar la guardia. Nuestro ejército no es más que una horda de voluntarios y milicias mal entrenados, en su mayoría formados por bandidos, campesinos sureños y quienquiera que piense no tiene un lugar en la sociedad. Una nación adecuada requiere un ejército adecuado, ¡y eso es lo que tendremos! "
+GFF_virgilian_resources:0 "Operaciones de minería masiva"
+GFF_virgilian_resources_desc:0 "Con vastos recursos escondidos debajo de nuestras propias garras, sería mejor que comenzáramos las principales operaciones mineras tan pronto como sea posible. Cualquier cosa que encontremos allí, nuestra nación seguramente puede hacer uso de ella.
+GFF_kill_redtail:0 "Deshacerse de Redtail"
+GFF_kill_redtail_desc:0 "Desafortunadamente, Redtail se ha escapado de nuestras garras al final de la guerra civil, ocultándose mientras seguimos organizando rebeldes y otros grupos de resistencia. ¡Es hora de que encontremos a ese bastardo y acabemos con él, de una vez por todas!"
 
 GFF_red_takover:0 "La Revolución II: Electric Boogaloo"
 
-GFF_red_takover_desc: 0 "Es esa época del año, de nuevo".
-GFF_join_union: 0 "Volver a unirse a Nova Griffonia"
-GFF_join_union_desc: 0 "¡Regocíjense, camaradas! Los trabajadores de Nova Griffonia se han levantado y se han liberado de sus líderes opresores y corruptos. ¡Es hora de encontrarnos a mitad de camino con nuestros nuevos camaradas y luchar como uno solo!"
-GFF_leap: 0 "Octubre rojo"
-GFF_leap_desc: 0 "Nuestra nación está rodeada de almas codiciosas y malvadas. Debemos proteger a nuestro pueblo ya la revolución, y prepararnos para la lucha que se avecina".
-GFF_rations: 0 "Racionamiento de nuestros recursos"
-GFF_rations_desc: 0 "Nuestra nueva sociedad no necesita formas de vida derrochadoras. De ahora en adelante, el racionamiento de la mayoría de los recursos será obligatorio, en un esfuerzo por redistribuir los recursos donde más se necesitan, para un bien mayor".
-GFF_militias: 0 "Expandir los rifles rojos"
-GFF_militias_desc: 0 "Los Rifles Rojos son nuestros mejores tiradores, defensores de la revolución y del grifo común. Dada su habilidad y éxito en el campo de batalla, sería una idea brillante crear formaciones nuevas y más grandes".
-GFF_militias_tt: 0 "¡Genera §YCinco Divisiones de Infantería§! \ N"
-GFF_industrial_2: 0 "Industrializar la nación"
-GFF_industrial_2_desc: 0 "Nuestra nación aún tiene que estar a la altura de su potencial industrial completo. En un esfuerzo por beneficiar tanto al trabajador común como a nuestra nación en su conjunto, debemos impulsar una mayor industrialización".
-GFF_railroads: 0 "Conectando la nación"
-GFF_railroads_desc: 0 "La construcción de nuevas vías férreas en todo el país reducirá drásticamente los tiempos de viaje, facilitando los futuros proyectos de construcción y asegurando las líneas de suministro de nuestro ejército".
-GFF_economy: 0 "Reactivación económica"
-GFF_economy_desc: 0 "Con los derechos del trabajador asegurados, nuevos complejos industriales construidos y nuestra nación unida detrás de la bandera roja de la revolución, por fin somos verdaderamente una nación soberana".
-GFF_kill_cannibals: 0 "Aniquila a los clanes caníbales"
-GFF_kill_cannibals_desc: 0 "Ya es hora de que eliminemos a estos repugnantes y peligrosos caníbales de nuestras tierras. ¡Buen viaje!"
-GFF_research: 0 "Asesores científicos de Stalliongradian"
-GFF_research_desc: 0 "Nuestros camaradas Stalliongradian han tenido la amabilidad de ayudar a nuestra causa enviándonos a algunos de sus mejores científicos. ¡Con su ayuda, estamos seguros de que haremos rápidos avances en tecnología!"
-GFF_industrial: 0 "La industria del vodka"
-GFF_industrial_desc: 0 "Algunos olvidan que los soldados también tienen conciencia cuando aprietan el gatillo. Matar nunca es fácil, pero hay formas de aliviar el dolor y aligerar el ánimo de nuestros regimientos".
-GFF_commine_manpower: 0 "Fortaleza de la Revolución"
-GFF_commine_manpower_desc: 0 "Las ideas de nuestro pueblo deben llevarse a cabo y defenderse. ¡Debemos proteger la revolución a toda costa!"
-GFF_red_guard_form: 0 "Organizar la Guardia Roja"
-GFF_red_guard_form_desc: 0 "Nuestros valientes y heroicos soldados han llevado la revolución a nuestros hogares y han asegurado la seguridad de nuestros trabajadores. Ahora es el momento de cambiarles el nombre de Guardia Roja, los guardianes de la revolución".
-GFF_kill_virgil: 0 "Caza a Virgil"
-GFF_kill_virgil_desc: 0 "¡Ese bandido devastador y su manada todavía están ahí fuera ... no podemos permitir que viva! ¡Debe morir, para que la revolución continúe!"
-GFF_go_east: 0 "La larga marcha hacia Weter"
-GFF_go_east_desc: 0 "Nuestro viejo enemigo y opresor, Nova Griffonia, se ha negado a corregir su camino. ¡Es hora, camaradas, de poner fin a este estado corrupto y de izar en alto la bandera de la revolución!"
-GFF_GRF_cores: 0 "Un nuevo amanecer"
-GFF_GRF_cores_desc: 0 "Se acabó, por fin, camaradas. Se acabó la lucha y se ganó la guerra. Con los tiranos derrotados, el trabajador común se alza victorioso en esta hora de gloria. Se acerca un nuevo amanecer, nuestro lugar en este mundo cruel está asegurado, por fin ".
-GFF_rebuild: 0 "Reconstruir la nación"
-GFF_rebuild_desc: 0 "El territorio Griffonian recién conquistado ciertamente nos otorga más fuerza, pero ha quedado en ruinas debido a los intensos combates. Los trabajadores de nuestras dos naciones están unidos detrás de una bandera. ¡Juntos, reconstruiremos esta tierra!"
-GFF_purge: 0 "Purgar la vieja burocracia"
-GFF_purge_desc: 0 "Si bien el estado de Griffonian ya no existe, aún quedan partes de su burocracia demasiado complicada y corrupta. Acercaremos nuestros dos estados, hacia un gobierno y una administración centralizados".
-GFF_communist_research: 0 "Reabrir la Universidad Weter"
-GFF_communist_research_desc: 0 "Nuestras dos personas combinadas tienen hambre de aprender más sobre este mundo y sus secretos. La Universidad de Weter será reparada y reabierta lo antes posible".
-GFF_world_revolution: 0 "Exportando la revolución"
-GFF_world_revolution_desc: 0 "Con la revolución firmemente asegurada en casa, ya es hora de que miremos más allá de nuestras propias fronteras. Con nuestra fuerza recién adquirida, debemos hacer todo lo posible para llevar la revolución a la puerta de cada trabajador extranjero. Todos se levantarán y ¡Libérate! ¡Libérate de sus grilletes! "
-GFF_join_STG: 0 "Únete a la Unión Socialista"
-GFF_join_STG_desc: 0 "Stalliongrad, naturalmente nuestro aliado más cercano, ha anunciado recientemente su deseo de formar un sindicato,o alianza, con quienes desean defender al trabajador y preservar la revolución. Una alianza así nos beneficiaría enormemente, y sería mejor enviarles un enviado de inmediato ".
-GFF_army: 0 "Un ejército propio"
-GFF_army_desc: 0 "Mientras estábamos bajo el gobierno de Griffon, nunca se nos permitió oficialmente desplegar un ejército. Con el tiempo, e inevitablemente, comenzamos a formar varios grupos más pequeños de milicias. Sin embargo, ya es hora de que tomemos el destino en nuestras propias garras y despleguemos un ¡nuevo ejército profesional propio! "
-GFF_officers: 0 "Un cuerpo de oficiales adecuado"
-GFF_officers_desc: 0 "Un ejército profesional adecuado requiere un liderazgo adecuado. Tal liderazgo solo puede lograrse y otorgarse con un cuerpo de oficiales nuevo y adecuado".
-GFF_arty: 0 "Artillería moderna"
-GFF_arty_desc: 0 "La artillería es rentable y posee la capacidad de aplastar cualquier formación de infantería o vehículos ligeros, sin mencionar edificios y fortificaciones. Un armamento tan poderoso ciertamente vale la pena una inversión".
-GFF_magic: 0 "Invierta en armamento mágico"
-GFF_magic_desc: 0 "Si bien nuestro estado mayor no está particularmente interesado o interesado en introducir tales armas en las fuerzas armadas, naciones como Equestria han demostrado claramente que las armas mágicas tienen un gran potencial. Potencial que debemos explotar".
-GFF_guns: 0 "Diseños de rifles modernos"
-GFF_guns_desc: 0 "Un ejército sin armas modernas puede que ni siquiera sea un ejército. Debemos asegurarnos de que nuestras tropas estén equipadas con las mejores y más modernas armas posibles".
-GFF_support: 0 "Equipos de apoyo dedicados"
-GFF_support_desc: 0 "Los escuadrones de apoyo son la clave para maximizar el rendimiento de combate de nuestras tropas y, al mismo tiempo, minimizar nuestras propias bajas. ¡Eso me parece una buena inversión!"
-GFF_army_doct: 0 "Nuestra propia doctrina"
-GFF_army_doct_desc: 0 "Nuestro ejército es joven, pequeño y, francamente, mal equipado. Sin embargo, podemos compensarlo con un buen liderazgo e incluso mejores tácticas, ¡y es hora de que forjemos una doctrina propia!"
-GFF_army_doct_2: 0 "Desarrolle nuestra doctrina"
-GFF_army_doct_2_desc: 0 "El estado mayor general ha llegado a una conclusión sobre cuál será nuestra nueva doctrina, y ahora es el momento de desarrollar esta nueva doctrina nuestra".
-GFF_army_doct_3: 0 "Entrenamiento de invierno"
-GFF_army_doct_3_desc: 0 "Debemos preparar a nuestras tropas para la amargura del invierno y seguir luchando, sin importar el frío que haga".
-GFF_navy: 0 "Una marina propia"
+GFF_red_takover_desc:0 "Es esa época del año, de nuevo".
+GFF_join_union:0 "Volver a unirse a Nova Griffonia"
+GFF_join_union_desc:0 "¡Regocíjense, camaradas! Los trabajadores de Nova Griffonia se han levantado y se han liberado de sus líderes opresores y corruptos. ¡Es hora de encontrarnos a mitad de camino con nuestros nuevos camaradas y luchar como uno solo!"
+GFF_leap:0 "Octubre rojo"
+GFF_leap_desc:0 "Nuestra nación está rodeada de almas codiciosas y malvadas. Debemos proteger a nuestro pueblo ya la revolución, y prepararnos para la lucha que se avecina".
+GFF_rations:0 "Racionamiento de nuestros recursos"
+GFF_rations_desc:0 "Nuestra nueva sociedad no necesita formas de vida derrochadoras. De ahora en adelante, el racionamiento de la mayoría de los recursos será obligatorio, en un esfuerzo por redistribuir los recursos donde más se necesitan, para un bien mayor".
+GFF_militias:0 "Expandir los rifles rojos"
+GFF_militias_desc:0 "Los Rifles Rojos son nuestros mejores tiradores, defensores de la revolución y del grifo común. Dada su habilidad y éxito en el campo de batalla, sería una idea brillante crear formaciones nuevas y más grandes".
+GFF_militias_tt:0 "¡Genera §YCinco Divisiones de Infantería§! \ N"
+GFF_industrial_2:0 "Industrializar la nación"
+GFF_industrial_2_desc:0 "Nuestra nación aún tiene que estar a la altura de su potencial industrial completo. En un esfuerzo por beneficiar tanto al trabajador común como a nuestra nación en su conjunto, debemos impulsar una mayor industrialización".
+GFF_railroads:0 "Conectando la nación"
+GFF_railroads_desc:0 "La construcción de nuevas vías férreas en todo el país reducirá drásticamente los tiempos de viaje, facilitando los futuros proyectos de construcción y asegurando las líneas de suministro de nuestro ejército".
+GFF_economy:0 "Reactivación económica"
+GFF_economy_desc:0 "Con los derechos del trabajador asegurados, nuevos complejos industriales construidos y nuestra nación unida detrás de la bandera roja de la revolución, por fin somos verdaderamente una nación soberana".
+GFF_kill_cannibals:0 "Aniquila a los clanes caníbales"
+GFF_kill_cannibals_desc:0 "Ya es hora de que eliminemos a estos repugnantes y peligrosos caníbales de nuestras tierras. ¡Buen viaje!"
+GFF_research:0 "Asesores científicos de Stalliongradian"
+GFF_research_desc:0 "Nuestros camaradas Stalliongradian han tenido la amabilidad de ayudar a nuestra causa enviándonos a algunos de sus mejores científicos. ¡Con su ayuda, estamos seguros de que haremos rápidos avances en tecnología!"
+GFF_industrial:0 "La industria del vodka"
+GFF_industrial_desc:0 "Algunos olvidan que los soldados también tienen conciencia cuando aprietan el gatillo. Matar nunca es fácil, pero hay formas de aliviar el dolor y aligerar el ánimo de nuestros regimientos".
+GFF_commine_manpower:0 "Fortaleza de la Revolución"
+GFF_commine_manpower_desc:0 "Las ideas de nuestro pueblo deben llevarse a cabo y defenderse. ¡Debemos proteger la revolución a toda costa!"
+GFF_red_guard_form:0 "Organizar la Guardia Roja"
+GFF_red_guard_form_desc:0 "Nuestros valientes y heroicos soldados han llevado la revolución a nuestros hogares y han asegurado la seguridad de nuestros trabajadores. Ahora es el momento de cambiarles el nombre de Guardia Roja, los guardianes de la revolución".
+GFF_kill_virgil:0 "Caza a Virgil"
+GFF_kill_virgil_desc:0 "¡Ese bandido devastador y su manada todavía están ahí fuera ... no podemos permitir que viva! ¡Debe morir, para que la revolución continúe!"
+GFF_go_east:0 "La larga marcha hacia Weter"
+GFF_go_east_desc:0 "Nuestro viejo enemigo y opresor, Nova Griffonia, se ha negado a corregir su camino. ¡Es hora, camaradas, de poner fin a este estado corrupto y de izar en alto la bandera de la revolución!"
+GFF_GRF_cores:0 "Un nuevo amanecer"
+GFF_GRF_cores_desc:0 "Se acabó, por fin, camaradas. Se acabó la lucha y se ganó la guerra. Con los tiranos derrotados, el trabajador común se alza victorioso en esta hora de gloria. Se acerca un nuevo amanecer, nuestro lugar en este mundo cruel está asegurado, por fin ".
+GFF_rebuild:0 "Reconstruir la nación"
+GFF_rebuild_desc:0 "El territorio Griffonian recién conquistado ciertamente nos otorga más fuerza, pero ha quedado en ruinas debido a los intensos combates. Los trabajadores de nuestras dos naciones están unidos detrás de una bandera. ¡Juntos, reconstruiremos esta tierra!"
+GFF_purge:0 "Purgar la vieja burocracia"
+GFF_purge_desc:0 "Si bien el estado de Griffonian ya no existe, aún quedan partes de su burocracia demasiado complicada y corrupta. Acercaremos nuestros dos estados, hacia un gobierno y una administración centralizados".
+GFF_communist_research:0 "Reabrir la Universidad Weter"
+GFF_communist_research_desc:0 "Nuestras dos personas combinadas tienen hambre de aprender más sobre este mundo y sus secretos. La Universidad de Weter será reparada y reabierta lo antes posible".
+GFF_world_revolution:0 "Exportando la revolución"
+GFF_world_revolution_desc:0 "Con la revolución firmemente asegurada en casa, ya es hora de que miremos más allá de nuestras propias fronteras. Con nuestra fuerza recién adquirida, debemos hacer todo lo posible para llevar la revolución a la puerta de cada trabajador extranjero. Todos se levantarán y ¡Libérate! ¡Libérate de sus grilletes! "
+GFF_join_STG:0 "Únete a la Unión Socialista"
+GFF_join_STG_desc:0 "Stalliongrad, naturalmente nuestro aliado más cercano, ha anunciado recientemente su deseo de formar un sindicato,o alianza, con quienes desean defender al trabajador y preservar la revolución. Una alianza así nos beneficiaría enormemente, y sería mejor enviarles un enviado de inmediato ".
+GFF_army:0 "Un ejército propio"
+GFF_army_desc:0 "Mientras estábamos bajo el gobierno de Griffon, nunca se nos permitió oficialmente desplegar un ejército. Con el tiempo, e inevitablemente, comenzamos a formar varios grupos más pequeños de milicias. Sin embargo, ya es hora de que tomemos el destino en nuestras propias garras y despleguemos un ¡nuevo ejército profesional propio! "
+GFF_officers:0 "Un cuerpo de oficiales adecuado"
+GFF_officers_desc:0 "Un ejército profesional adecuado requiere un liderazgo adecuado. Tal liderazgo solo puede lograrse y otorgarse con un cuerpo de oficiales nuevo y adecuado".
+GFF_arty:0 "Artillería moderna"
+GFF_arty_desc:0 "La artillería es rentable y posee la capacidad de aplastar cualquier formación de infantería o vehículos ligeros, sin mencionar edificios y fortificaciones. Un armamento tan poderoso ciertamente vale la pena una inversión".
+GFF_magic:0 "Invierta en armamento mágico"
+GFF_magic_desc:0 "Si bien nuestro estado mayor no está particularmente interesado o interesado en introducir tales armas en las fuerzas armadas, naciones como Equestria han demostrado claramente que las armas mágicas tienen un gran potencial. Potencial que debemos explotar".
+GFF_guns:0 "Diseños de rifles modernos"
+GFF_guns_desc:0 "Un ejército sin armas modernas puede que ni siquiera sea un ejército. Debemos asegurarnos de que nuestras tropas estén equipadas con las mejores y más modernas armas posibles".
+GFF_support:0 "Equipos de apoyo dedicados"
+GFF_support_desc:0 "Los escuadrones de apoyo son la clave para maximizar el rendimiento de combate de nuestras tropas y, al mismo tiempo, minimizar nuestras propias bajas. ¡Eso me parece una buena inversión!"
+GFF_army_doct:0 "Nuestra propia doctrina"
+GFF_army_doct_desc:0 "Nuestro ejército es joven, pequeño y, francamente, mal equipado. Sin embargo, podemos compensarlo con un buen liderazgo e incluso mejores tácticas, ¡y es hora de que forjemos una doctrina propia!"
+GFF_army_doct_2:0 "Desarrolle nuestra doctrina"
+GFF_army_doct_2_desc:0 "El estado mayor general ha llegado a una conclusión sobre cuál será nuestra nueva doctrina, y ahora es el momento de desarrollar esta nueva doctrina nuestra".
+GFF_army_doct_3:0 "Entrenamiento de invierno"
+GFF_army_doct_3_desc:0 "Debemos preparar a nuestras tropas para la amargura del invierno y seguir luchando, sin importar el frío que haga".
+GFF_navy:0 "Una marina propia"
 
 ###########################################
 GFF_navy_desc:0 "¡Sin litoral no más! Nuestra nación ahora finalmente se extiende hasta el mar, y una cosa está clara: Se necesita una flota."
 ###########################################
 
-GFF_b_navy: 0 "Ampliando nuestros astilleros"
-GFF_b_navy_desc: 0 "Para desplegar verdaderamente una poderosa armada, debemos expandir nuestros astilleros una vez más. Si lo hacemos, podremos construir embarcaciones mejor y más rápido que antes, y finalmente tomar el control total del mar".
-GFF_flexible_navy: 0 "Una marina adaptable"
-GFF_flexible_navy_desc: 0 "La versatilidad y adaptabilidad es la clave de la estrategia naval moderna, asegurando que todos nuestros buques se utilicen a su máximo potencial con la menor cantidad de bajas".
-GFF_battleships: 0 "Cuanto más grande, mejor"
-GFF_battleships_desc: 0 "¿Qué sería una Armada sin sus grandes y majestuosas naves capitales? ¡Nada, de verdad! Nuestra nueva y joven armada no será diferente. ¡El trueno de nuestros cañones sacudirá el espíritu de nuestro enemigo!"
-GFF_submarines: 0 "manadas de lobos"
-GFF_submarines_desc: 0 "Los submarinos, son el tipo de embarcación más nuevo y, sin embargo, más prometedor, ofrecen la posibilidad de asaltar, acosar y destruir convoyes y naves capitales por igual con pérdidas mínimas. ¡El enemigo no sabrá qué los golpeó!"
-GFF_destroyers: 0 "Protegiendo a nuestros contrabandistas"
-GFF_destroyers_desc: 0 "El comercio es vital para cualquier nación, y no somos una excepción. No podemos arriesgarnos a que el enemigo ataque y perturbe las líneas de suministro. ¡Se debe formar una flota de destructores, en un esfuerzo por combatir esta posibilidad!"
-GFF_escorts: 0 "Escoltas en alta mar"
-GFF_escorts_desc: 0 "Ya sea como escolta de combate o comercial, los cruceros se encuentran entre los buques más versátiles de cualquier flota. Descuidarlos sería descuidar la columna vertebral de nuestras fuerzas navales y, posteriormente, romperla".
-GFF_cruisers: 0 "Navegando por el mar"
-GFF_cruisers_desc: 0 "Los cruceros forman la columna vertebral de nuestras fuerzas, por lo que sería una idea brillante seguir invirtiendo en este tipo de embarcaciones, mejorando el blindaje y el armamento para aumentar aún más su efectividad en el combate".
-GFF_new_ships: 0 "Buques aún más grandes"
-GFF_new_ships_desc: 0 "A veces, solo necesitas armas aún más grandes".
-GFF_Crown_Virgil: 0 "Crown Virgil Imperator"
-GFF_Crown_Virgil_desc: 0 "Virgil se ha abierto camino hasta la cima de Nova Griffonia. Todos los que se opondrían a él están muertos o han huido del país. Esta es su tierra ahora".
-GFF_Virgil_Invasion: 0 "Burn Weter hasta el suelo"
-GFF_Virgil_Invasion_desc: 0 "Ha llegado el momento de vengarse de Nova Griffonia por sus numerosos insultos".
+GFF_b_navy:0 "Ampliando nuestros astilleros"
+GFF_b_navy_desc:0 "Para desplegar verdaderamente una poderosa armada, debemos expandir nuestros astilleros una vez más. Si lo hacemos, podremos construir embarcaciones mejor y más rápido que antes, y finalmente tomar el control total del mar".
+GFF_flexible_navy:0 "Una marina adaptable"
+GFF_flexible_navy_desc:0 "La versatilidad y adaptabilidad es la clave de la estrategia naval moderna, asegurando que todos nuestros buques se utilicen a su máximo potencial con la menor cantidad de bajas".
+GFF_battleships:0 "Cuanto más grande, mejor"
+GFF_battleships_desc:0 "¿Qué sería una Armada sin sus grandes y majestuosas naves capitales? ¡Nada, de verdad! Nuestra nueva y joven armada no será diferente. ¡El trueno de nuestros cañones sacudirá el espíritu de nuestro enemigo!"
+GFF_submarines:0 "manadas de lobos"
+GFF_submarines_desc:0 "Los submarinos, son el tipo de embarcación más nuevo y, sin embargo, más prometedor, ofrecen la posibilidad de asaltar, acosar y destruir convoyes y naves capitales por igual con pérdidas mínimas. ¡El enemigo no sabrá qué los golpeó!"
+GFF_destroyers:0 "Protegiendo a nuestros contrabandistas"
+GFF_destroyers_desc:0 "El comercio es vital para cualquier nación, y no somos una excepción. No podemos arriesgarnos a que el enemigo ataque y perturbe las líneas de suministro. ¡Se debe formar una flota de destructores, en un esfuerzo por combatir esta posibilidad!"
+GFF_escorts:0 "Escoltas en alta mar"
+GFF_escorts_desc:0 "Ya sea como escolta de combate o comercial, los cruceros se encuentran entre los buques más versátiles de cualquier flota. Descuidarlos sería descuidar la columna vertebral de nuestras fuerzas navales y, posteriormente, romperla".
+GFF_cruisers:0 "Navegando por el mar"
+GFF_cruisers_desc:0 "Los cruceros forman la columna vertebral de nuestras fuerzas, por lo que sería una idea brillante seguir invirtiendo en este tipo de embarcaciones, mejorando el blindaje y el armamento para aumentar aún más su efectividad en el combate".
+GFF_new_ships:0 "Buques aún más grandes"
+GFF_new_ships_desc:0 "A veces, solo necesitas armas aún más grandes".
+GFF_Crown_Virgil:0 "Crown Virgil Imperator"
+GFF_Crown_Virgil_desc:0 "Virgil se ha abierto camino hasta la cima de Nova Griffonia. Todos los que se opondrían a él están muertos o han huido del país. Esta es su tierra ahora".
+GFF_Virgil_Invasion:0 "Burn Weter hasta el suelo"
+GFF_Virgil_Invasion_desc:0 "Ha llegado el momento de vengarse de Nova Griffonia por sus numerosos insultos".
 #########################################
 ### IDEAS #####################################################################################################################################################################################################################################################################
 #########################################
-GFF_economic: 0 "Retraso económico"
- GFF_economic_desc: 0 "La frontera siempre ha sido un remanso económico, llena de bandidos, funcionarios corruptos y otras personas tan desagradables que han estado robando el capital que nos llega desde hace años".
- GFF_economic_better: 0 "Sumidero económico"
- GFF_frontier_help: 0 "Asistencia Griffonian"
- GFF_frontier_help_desc: 0 "De hecho, logramos convencer a Griffonia de que nos diera fondos. ¡Es un milagro!"
- GFF_bandits: 0 "Los asaltantes de Virgil"
- GFF_bandits_desc: 0 "Lo peor de lo peor cuando se trata de la población local de bandidos".
- GFF_cannibals: 0 "Clanes caníbales"
- GFF_cannibals_desc: 0 "No hay escasez de clanes caníbales en las montañas, oh alegría."
- GFF_bandits_win: 0 "Los asaltantes de Virgil"
- GFF_bandits_win_desc: 0 "Se apoderaron de un país, ¿no es grandioso?"
- GFF_cannibal_friends: 0 "Cannipals"
- GFF_cannibal_friends_desc: 0 "Todavía se comen a la gente, pero al menos no se comen a la nuestra".
- GFF_commies: 0 "Rebeldes de Redtail"
- GFF_commies_desc: 0 "Los últimos vestigios del intento de revolución de Heinrich Redtail en Nova Griffonia. Estos pobres desgraciados todavía hacen la guerra contra las autoridades de Griffon desde sus bastiones en las montañas".
- GFF_commie_friends: 0 "Rebeldes de Redtail"
- GFF_commie_friends_desc: 0 "A pesar de que Virgil no le gusta tanto, incluso Redtail ha decidido ayudarnos a lidiar con los títeres de Teafeather".
- GFF_winter_attrition: 0 "Entrenamiento de invierno"
- GFF_officer: 0 "Un núcleo de oficiales"
- GFF_red_guard: 0 "La Guardia Roja"
- GFF_training: 0 "Taladros grifones"
- GFF_education: 0 "Asesores científicos de Stalliongrader"
- GFF_preperations: 0 "Racionamiento"
- GFF_war_economy_f: 0 "Economía calibrada"
- GFF_purged: 0 "Burocracia depurada"
- GFF_bandit_army: 0 "Guardia Nacional Virgiliana"
- GFF_criminal_economy: 0 "Beneficios criminales"
- GFF_business_cannibals: 0 "Caníbales civilizados"
- GFF_business_cannibals_desc: 0 "Hemos logrado convencer a nuestros caníbales locales para que exploren nuevos sabores culinarios además del cerdo largo".
- GFF_war_cannibals: 0 "Auxiliares caníbales"
- GFF_war_cannibals_desc: 0 "A cambio de una paga adecuada y de la vista gorda a algunas de sus actividades, nuestros amigos caníbales del vecindario se han integrado en nuestro ejército como tropas de choque de élite".
- GFF_expansionism: 0 "Expansionismo virgilliano"
+GFF_economic:0 "Retraso económico"
+ GFF_economic_desc:0 "La frontera siempre ha sido un remanso económico, llena de bandidos, funcionarios corruptos y otras personas tan desagradables que han estado robando el capital que nos llega desde hace años".
+ GFF_economic_better:0 "Sumidero económico"
+ GFF_frontier_help:0 "Asistencia Griffonian"
+ GFF_frontier_help_desc:0 "De hecho, logramos convencer a Griffonia de que nos diera fondos. ¡Es un milagro!"
+ GFF_bandits:0 "Los asaltantes de Virgil"
+ GFF_bandits_desc:0 "Lo peor de lo peor cuando se trata de la población local de bandidos".
+ GFF_cannibals:0 "Clanes caníbales"
+ GFF_cannibals_desc:0 "No hay escasez de clanes caníbales en las montañas, oh alegría."
+ GFF_bandits_win:0 "Los asaltantes de Virgil"
+ GFF_bandits_win_desc:0 "Se apoderaron de un país, ¿no es grandioso?"
+ GFF_cannibal_friends:0 "Cannipals"
+ GFF_cannibal_friends_desc:0 "Todavía se comen a la gente, pero al menos no se comen a la nuestra".
+ GFF_commies:0 "Rebeldes de Redtail"
+ GFF_commies_desc:0 "Los últimos vestigios del intento de revolución de Heinrich Redtail en Nova Griffonia. Estos pobres desgraciados todavía hacen la guerra contra las autoridades de Griffon desde sus bastiones en las montañas".
+ GFF_commie_friends:0 "Rebeldes de Redtail"
+ GFF_commie_friends_desc:0 "A pesar de que Virgil no le gusta tanto, incluso Redtail ha decidido ayudarnos a lidiar con los títeres de Teafeather".
+ GFF_winter_attrition:0 "Entrenamiento de invierno"
+ GFF_officer:0 "Un núcleo de oficiales"
+ GFF_red_guard:0 "La Guardia Roja"
+ GFF_training:0 "Taladros grifones"
+ GFF_education:0 "Asesores científicos de Stalliongrader"
+ GFF_preperations:0 "Racionamiento"
+ GFF_war_economy_f:0 "Economía calibrada"
+ GFF_purged:0 "Burocracia depurada"
+ GFF_bandit_army:0 "Guardia Nacional Virgiliana"
+ GFF_criminal_economy:0 "Beneficios criminales"
+ GFF_business_cannibals:0 "Caníbales civilizados"
+ GFF_business_cannibals_desc:0 "Hemos logrado convencer a nuestros caníbales locales para que exploren nuevos sabores culinarios además del cerdo largo".
+ GFF_war_cannibals:0 "Auxiliares caníbales"
+ GFF_war_cannibals_desc:0 "A cambio de una paga adecuada y de la vista gorda a algunas de sus actividades, nuestros amigos caníbales del vecindario se han integrado en nuestro ejército como tropas de choque de élite".
+ GFF_expansionism:0 "Expansionismo virgilliano"
 
 
 ### Advisors ###
@@ -266,69 +266,69 @@ siegbert:0 "Siegbert Dreamspike"
 ###########################################
 ### EVENTS #################################
 ###########################################
- frontier.1.t: 0 "Grovel for Funds"
- frontier.1.d: 0 "La frontera ha tenido todo tipo de problemas desde que los primeros grifos decidieron establecerse en la ciudad de Frosthill, esos problemas han sido ignorados durante décadas por gobernadores incompetentes. Ha llegado al punto en que los bandidos son ¡En realidad amenazando con apoderarse del país! ¡Si no conseguimos fondos para al menos intentar abordar la situación, estamos condenados! "
- frontier.1.a: 0 "Ahora solo tenemos que convencer a Teafeather ..."
- frontier.2.t: 0 "Un milagro"
- frontier.2.d: 0 "A través de algún milagro logramos conseguir financiación de Weter ..."
- frontier.2.a: 0 "Una sorpresa, pero bienvenida".
- frontier.3.t: 0 "Resultado esperado"
- frontier.3.d: 0 "Como era de esperar, nuestra mendicidad cayó en oídos sordos ..."
- frontier.3.a: 0 "Bueno, estamos jodidos".
- frontier.4.t: 0 "La tormenta que se avecina"
- frontier.4.d: 0 "Se avecinan tiempos oscuros, los bandidos ya se están reuniendo ... por algo, y sin fondos lo más probable es que no podamos capear la tormenta".
- frontier.4.a: 0 "También podría hacer mis maletas".
- frontier.5.t: 0 "Solicitar la estadidad"
- frontier.5.d: 0 "Después de toda la confusión y las dificultades, finalmente logramos arreglar más o menos nuestra situación y, como tal, deberíamos hacer una solicitud formal para unirnos oficialmente a Nova Griffonia como una provincia adecuada".
- frontier.5.a: 0 "Aquí no pasa nada ..."
- frontier.6.t: 0 "Un envío"
- frontier.6.d: 0 "Todo lo que hemos logrado comprar con nuestros escasos fondos son algunos viejos rifles Stalliongrader de una fuente bastante dudosa. No es mucho, pero es algo".
- frontier.6.a: 0 "Al menos funcionan".
- frontier.7.t: 0 "Virgil hace un movimiento"
- frontier.7.d: 0 "En otro movimiento nada sorprendente, la debilidad del Incursor de Virgil descendió de las montañas y se apoderó de prácticamente todos los pueblos de la Frontera sin apenas resistencia, apoderándose del país. El gobernador Muck ya ha huido a Weter para informar a las autoridades de Nova Griffonian de este nuevo desarrollo ".
- frontier.7.a: 0 "Veamos cómo responde Teafeather ..."
- frontier.8.t: 0 "Nova Griffonia propone una tregua"
- frontier.8.d: 0 "Teafeather y sus compinches han estado tratando de derribarnos durante meses, pero sus tropas no se pueden comparar con nuestros asaltantes experimentados. Los hemos estado rechazando por un tiempo, y poco después un mensajero había llegado, pidiendo discutir los términos de la tregua. A primera vista, parece bastante bueno para nosotros: paz, independencia, reconocimiento y todo nuestro territorio, pero por otro lado, ¿por qué pedirían una tregua si no estaban cerca? ¿A perder? El jefe piensa que deberíamos tomar todo Nova Griffonia ahora mismo, pero los otros líderes bandidos creen que sería más prudente aceptar el trato para que podamos prepararnos para la próxima confrontación ".
- frontier.8.a: 0 "Puedes tener tu maldita paz, Teafeather".
- frontier.8.b: 0 "Sin paz, sin descanso - ¡lucha hasta el final!"
- frontier.9.t: 0 "El punto de ebullición"
- frontier.9.d: 0 "Cualquiera con dos ojos podría haberlo visto venir, después de meses de debate, desprecio mutuo y conflicto de intereses la situación entre Redtail y Virgil ha llegado a un punto de ebullición. Para empeorar las cosas, Redtail ya ha movilizado su Guardia Roja con la intención de marchar sobre Frosthill y tomar el control de nuestra nueva Nación ".
- frontier.9.a: 0 "La Guardia Roja es rechazada y Redtail huye a las montañas".
- frontier.9.b: 0 "Redtail y su Guardia Roja se apoderan de Frosthill y conducen a Virgil a las montañas".
- frontier.11.t: 0 "La propuesta de los grifos"
- frontier.11.d: 0 "Parece que los grifos han abrazado el socialismo, mejor aún han decidido enviar un embajador en un intento de unirse a la Unión Socialista, ¿qué hacemos?"
- frontier.11.a: 0 "Permitirles unirse".
- frontier.11.b: 0 "No confío en esas palomas ..."
- frontier.12.t: 0 "Stalliongrad Acepta"
- frontier.12.d: 0 "Parece que Stalliongrad ha aceptado nuestra petición para unirse a su sindicato".
- frontier.12.a: 0 "¡Trabajadores del mundo, uníos!"
- frontier.13.t: 0 "Stalliongrad se niega"
- frontier.13.d: 0 "Parece que Stalliongrad ha denegado nuestra petición de afiliarse a su sindicato".
- frontier.13.a: 0 "¡Pensé que estábamos más allá del sectarismo!"
- frontier.14.t: 0 "Long Pork"
- frontier.14.d: 0 "A decir verdad, Frontier nunca ha faltado en peligro. Sin embargo, se necesita un tipo especial de persona para despertar un día y decidir comerse a su conciudadano, y aunque muchos lugares tendrían que lidiar con el canibalismo de vez en cuando tenemos que lidiar con eso casi a diario ... aunque muchos de nuestros ciudadanos han aceptado este hecho en este momento, no hace falta decir que no ayuda exactamente a reflejar bien a nuestro gobierno ".
- frontier.14.a: 0 "Un día más en la frontera ..."
- frontier.15.t: 0 "¡El señor del crimen se convierte en imperador!"
- frontier.15.d: 0 "Tenemos que admitir para nosotros mismos, ninguno de nosotros vio al jefe llegar tan lejos. Primero convenció a grupos radicalmente diferentes de unir fuerzas con él, luchó contra Teafeather y sus compinches, evitó una rebelión y finalmente, nos dirigimos a Weter. La muerte de Teafeather arrojó al país en muchos problemas, sin duda, pero eso solo nos hizo más fácil cimentar nuestro gobierno a través delToda la Colonia Griffonian. \ n \ nAhora no me gustan mucho las ceremonias, pero fue una gran maravilla ver a Virgil declararse Imperator de todas las Tierras Griffonian Occidentales, mientras obligábamos a los civiles supervivientes y a los funcionarios del gobierno a presenciar este espectáculo. Quizás bombardeamos a Weter con demasiada fuerza, pero no hay problema, algún otro grifo lo arreglará. ¡Lo único que mejoraría esto sería si Teafeather estuviera aquí para presenciar esto! El bastardo habría muerto de nuevo solo por escuchar a nuestro jefe. \ N \ nLa juerga de borrachos continuó hasta altas horas de la noche, pero mañana por la mañana, el jefe hizo que empezáramos a trabajar de nuevo. Aseguraremos que nuestros logros sean permanentes. ¡Saluden al Emperador Virgilio! "
- frontier.15.a: 0 "¡La victoria es nuestra!"
- frontier.151.t: 0 "El nuevo imperador"
- frontier.151.d: 0 "[This.GetNewspaperHeader] Tras su reciente victoria sobre el gobierno de Nova Griffonian, el rey bandido Virgilio se ha declarado emperador de Griffonia Occidental, la coronación tuvo lugar dentro de las ruinas bombardeadas del edificio del parlamento de Weter. \ nLos habitantes de Weter que sobrevivieron a la toma de poder de Virgil fueron obligados a salir a punta de pistola para presenciar la coronación de su nuevo Imperator ".
- frontier.151.a: 0 "¿Ganó el bandido?"
- frontier.151.b: 0 "¡Saluden al Imperator!"
- frontier.16.t: 0 "El fin de Virgilio"
+ frontier.1.t:0 "Grovel for Funds"
+ frontier.1.d:0 "La frontera ha tenido todo tipo de problemas desde que los primeros grifos decidieron establecerse en la ciudad de Frosthill, esos problemas han sido ignorados durante décadas por gobernadores incompetentes. Ha llegado al punto en que los bandidos son ¡En realidad amenazando con apoderarse del país! ¡Si no conseguimos fondos para al menos intentar abordar la situación, estamos condenados! "
+ frontier.1.a:0 "Ahora solo tenemos que convencer a Teafeather ..."
+ frontier.2.t:0 "Un milagro"
+ frontier.2.d:0 "A través de algún milagro logramos conseguir financiación de Weter ..."
+ frontier.2.a:0 "Una sorpresa, pero bienvenida".
+ frontier.3.t:0 "Resultado esperado"
+ frontier.3.d:0 "Como era de esperar, nuestra mendicidad cayó en oídos sordos ..."
+ frontier.3.a:0 "Bueno, estamos jodidos".
+ frontier.4.t:0 "La tormenta que se avecina"
+ frontier.4.d:0 "Se avecinan tiempos oscuros, los bandidos ya se están reuniendo ... por algo, y sin fondos lo más probable es que no podamos capear la tormenta".
+ frontier.4.a:0 "También podría hacer mis maletas".
+ frontier.5.t:0 "Solicitar la estadidad"
+ frontier.5.d:0 "Después de toda la confusión y las dificultades, finalmente logramos arreglar más o menos nuestra situación y, como tal, deberíamos hacer una solicitud formal para unirnos oficialmente a Nova Griffonia como una provincia adecuada".
+ frontier.5.a:0 "Aquí no pasa nada ..."
+ frontier.6.t:0 "Un envío"
+ frontier.6.d:0 "Todo lo que hemos logrado comprar con nuestros escasos fondos son algunos viejos rifles Stalliongrader de una fuente bastante dudosa. No es mucho, pero es algo".
+ frontier.6.a:0 "Al menos funcionan".
+ frontier.7.t:0 "Virgil hace un movimiento"
+ frontier.7.d:0 "En otro movimiento nada sorprendente, la debilidad del Incursor de Virgil descendió de las montañas y se apoderó de prácticamente todos los pueblos de la Frontera sin apenas resistencia, apoderándose del país. El gobernador Muck ya ha huido a Weter para informar a las autoridades de Nova Griffonian de este nuevo desarrollo ".
+ frontier.7.a:0 "Veamos cómo responde Teafeather ..."
+ frontier.8.t:0 "Nova Griffonia propone una tregua"
+ frontier.8.d:0 "Teafeather y sus compinches han estado tratando de derribarnos durante meses, pero sus tropas no se pueden comparar con nuestros asaltantes experimentados. Los hemos estado rechazando por un tiempo, y poco después un mensajero había llegado, pidiendo discutir los términos de la tregua. A primera vista, parece bastante bueno para nosotros: paz, independencia, reconocimiento y todo nuestro territorio, pero por otro lado, ¿por qué pedirían una tregua si no estaban cerca? ¿A perder? El jefe piensa que deberíamos tomar todo Nova Griffonia ahora mismo, pero los otros líderes bandidos creen que sería más prudente aceptar el trato para que podamos prepararnos para la próxima confrontación ".
+ frontier.8.a:0 "Puedes tener tu maldita paz, Teafeather".
+ frontier.8.b:0 "Sin paz, sin descanso - ¡lucha hasta el final!"
+ frontier.9.t:0 "El punto de ebullición"
+ frontier.9.d:0 "Cualquiera con dos ojos podría haberlo visto venir, después de meses de debate, desprecio mutuo y conflicto de intereses la situación entre Redtail y Virgil ha llegado a un punto de ebullición. Para empeorar las cosas, Redtail ya ha movilizado su Guardia Roja con la intención de marchar sobre Frosthill y tomar el control de nuestra nueva Nación ".
+ frontier.9.a:0 "La Guardia Roja es rechazada y Redtail huye a las montañas".
+ frontier.9.b:0 "Redtail y su Guardia Roja se apoderan de Frosthill y conducen a Virgil a las montañas".
+ frontier.11.t:0 "La propuesta de los grifos"
+ frontier.11.d:0 "Parece que los grifos han abrazado el socialismo, mejor aún han decidido enviar un embajador en un intento de unirse a la Unión Socialista, ¿qué hacemos?"
+ frontier.11.a:0 "Permitirles unirse".
+ frontier.11.b:0 "No confío en esas palomas ..."
+ frontier.12.t:0 "Stalliongrad Acepta"
+ frontier.12.d:0 "Parece que Stalliongrad ha aceptado nuestra petición para unirse a su sindicato".
+ frontier.12.a:0 "¡Trabajadores del mundo, uníos!"
+ frontier.13.t:0 "Stalliongrad se niega"
+ frontier.13.d:0 "Parece que Stalliongrad ha denegado nuestra petición de afiliarse a su sindicato".
+ frontier.13.a:0 "¡Pensé que estábamos más allá del sectarismo!"
+ frontier.14.t:0 "Long Pork"
+ frontier.14.d:0 "A decir verdad, Frontier nunca ha faltado en peligro. Sin embargo, se necesita un tipo especial de persona para despertar un día y decidir comerse a su conciudadano, y aunque muchos lugares tendrían que lidiar con el canibalismo de vez en cuando tenemos que lidiar con eso casi a diario ... aunque muchos de nuestros ciudadanos han aceptado este hecho en este momento, no hace falta decir que no ayuda exactamente a reflejar bien a nuestro gobierno ".
+ frontier.14.a:0 "Un día más en la frontera ..."
+ frontier.15.t:0 "¡El señor del crimen se convierte en imperador!"
+ frontier.15.d:0 "Tenemos que admitir para nosotros mismos, ninguno de nosotros vio al jefe llegar tan lejos. Primero convenció a grupos radicalmente diferentes de unir fuerzas con él, luchó contra Teafeather y sus compinches, evitó una rebelión y finalmente, nos dirigimos a Weter. La muerte de Teafeather arrojó al país en muchos problemas, sin duda, pero eso solo nos hizo más fácil cimentar nuestro gobierno a través delToda la Colonia Griffonian. \ n \ nAhora no me gustan mucho las ceremonias, pero fue una gran maravilla ver a Virgil declararse Imperator de todas las Tierras Griffonian Occidentales, mientras obligábamos a los civiles supervivientes y a los funcionarios del gobierno a presenciar este espectáculo. Quizás bombardeamos a Weter con demasiada fuerza, pero no hay problema, algún otro grifo lo arreglará. ¡Lo único que mejoraría esto sería si Teafeather estuviera aquí para presenciar esto! El bastardo habría muerto de nuevo solo por escuchar a nuestro jefe. \ N \ nLa juerga de borrachos continuó hasta altas horas de la noche, pero mañana por la mañana, el jefe hizo que empezáramos a trabajar de nuevo. Aseguraremos que nuestros logros sean permanentes. ¡Saluden al Emperador Virgilio! "
+ frontier.15.a:0 "¡La victoria es nuestra!"
+ frontier.151.t:0 "El nuevo imperador"
+ frontier.151.d:0 "[This.GetNewspaperHeader] Tras su reciente victoria sobre el gobierno de Nova Griffonian, el rey bandido Virgilio se ha declarado emperador de Griffonia Occidental, la coronación tuvo lugar dentro de las ruinas bombardeadas del edificio del parlamento de Weter. \ nLos habitantes de Weter que sobrevivieron a la toma de poder de Virgil fueron obligados a salir a punta de pistola para presenciar la coronación de su nuevo Imperator ".
+ frontier.151.a:0 "¿Ganó el bandido?"
+ frontier.151.b:0 "¡Saluden al Imperator!"
+ frontier.16.t:0 "El fin de Virgilio"
 
  ###########################################
  frontier.16.d:0 "Llevamos semanas cazando a Virgil. El bastardo es resbaladizo, se lo daré, con muchos ayudantes y escondites, pero su tiempo ha llegado a su fin. Pasamos unos días sentados en tabernas sórdidas, hasta que arrinconamos a uno de sus subordinados cercanos. Se necesitaron algunos ... métodos persuasivos para hacer que chillara, pero obtuvimos nuestra información y él mantuvo su miserable vida. \ N \ nParecía que sería fácil: aCañón aislado encaramado entre las laderas de las montañas. Solo una salida, mis grifos tenían los cielos cubiertos para cualquier sorpresa, nuestras armas estaban cargadas y listas. Sin embargo, hace falta un recordatorio cruel de que nunca se relaje en este trabajo. \ N \ nLlevé a dos de mis mejores colegas para enfrentarme al líder de los bandidos. Cuando nos acercábamos al valle del cañón donde sabíamos que Virgil se escondía, se escucharon dos disparos. Casi podía ver las balas que pasaban zumbando a mi lado mientras golpeaban a los pobres diablos en las alas, lo que los hacía caer inmediatamente de dolor, lisiados. Maldiciendo a ese hijo de ramera, inmediatamente tomé vuelo y cerré la distancia, el bastardo presumido de pie con su revólver en alto. Noté lápidas sin marcar detrás de él, pero no me importó. Ahora, era personal. \ N \ nNo intercambiamos palabras entre nosotros. Tomando rápidamente mi pistola confiable con un agarre firme en garra, tenía la intención de cortarlo rápidamente, si no fuera por su agilidad antinatural. ¡Era casi como si bailara, esquivando mis golpes! Peor aún, su puntería era mucho mejor que la mía. La sensación de las balas rozando mi cuerpo realmente me dolió. Apretando los dientes, levanté mi arma y disparé desesperadamente. Para mi sorpresa, encontró la marca en su cuello. Casi pareció sorprendido, dejó caer su revólver y se desplomó en un montón. Después de cubrir mis heridas, volví a ver cómo estaban mis grifos, mientras nuestros exploradores aerotransportados se daban cuenta de los eventos que estaban ocurriendo. ¡Lo hemos logrado! \ N \ nSerá mejor que la recompensa del gobernador Muck valga la pena ..."
 ###########################################
 
-frontier.16.a: 0 "Se ha hecho justicia".
- frontier.17.t: 0 "Resistencia final de Redtail"
- frontier.17.d: 0 "La vida ha ido cambiando lenta pero drásticamente en la Frontera desde que recibimos fondos de Weter. Se ha restaurado una apariencia de ley y orden en nuestras ciudades y pueblos, aunque está siendo llevado a cabo por contrataron grifos en lugar de la incompetente fuerza policial. Sin embargo, grupos decididos a lanzar la Frontera a la anarquía han continuado operando, hasta que hoy uno de ellos fue aniquilado. \ n \ nVarios grupos de cazarrecompensas, impulsados ​​por la emoción de la caza y la promesa de pago, se han unido para capturar al infame comunista revolucionario Redtail. Después de varios ataques a fortalezas montañosas que se sabe que están alineadas con él, finalmente fue acorralado. Se produjo un asedio de una semana, y aunque los comunistas lucharon con gran desesperación, no pudieron 't evitar la captura de su líder. \ n \ nAtado y amordazado, las plumas arrancadas, Redtail fue arrastrado a las autoridades donde aguarda su destino. Mientras tanto, las tiendas y tabernas han estado reportando mucho aumento de ingresos ... "
- frontier.17.a: 0 "Me alegro de que el patán se haya ido".
- GFF_diplomacy: 0 "Diplomacia"
- GFF_take_back_cores: 0 "Recuperar nuestro territorio"
- GFF_actual_funds: 0 "Nova Griffonia nos envió fondos"
- GFF_no_funds: 0 "Nova Griffonia rechazó la financiación"
+frontier.16.a:0 "Se ha hecho justicia".
+ frontier.17.t:0 "Resistencia final de Redtail"
+ frontier.17.d:0 "La vida ha ido cambiando lenta pero drásticamente en la Frontera desde que recibimos fondos de Weter. Se ha restaurado una apariencia de ley y orden en nuestras ciudades y pueblos, aunque está siendo llevado a cabo por contrataron grifos en lugar de la incompetente fuerza policial. Sin embargo, grupos decididos a lanzar la Frontera a la anarquía han continuado operando, hasta que hoy uno de ellos fue aniquilado. \ n \ nVarios grupos de cazarrecompensas, impulsados ​​por la emoción de la caza y la promesa de pago, se han unido para capturar al infame comunista revolucionario Redtail. Después de varios ataques a fortalezas montañosas que se sabe que están alineadas con él, finalmente fue acorralado. Se produjo un asedio de una semana, y aunque los comunistas lucharon con gran desesperación, no pudieron 't evitar la captura de su líder. \ n \ nAtado y amordazado, las plumas arrancadas, Redtail fue arrastrado a las autoridades donde aguarda su destino. Mientras tanto, las tiendas y tabernas han estado reportando mucho aumento de ingresos ... "
+ frontier.17.a:0 "Me alegro de que el patán se haya ido".
+ GFF_diplomacy:0 "Diplomacia"
+ GFF_take_back_cores:0 "Recuperar nuestro territorio"
+ GFF_actual_funds:0 "Nova Griffonia nos envió fondos"
+ GFF_no_funds:0 "Nova Griffonia rechazó la financiación"
  
  ### Custom Effect Tooltips ###
  GFF_virgil_stats_tp:0 "§RAttack Skill§!: §Y2§!\n§YDefense Skill§!: §Y3§!\n§GPlanning Skill§!: §Y2§!\n§CLogistics Skill§!: §Y2§!\n\n"
